@@ -3,15 +3,6 @@ title: Hypertension
 author: "Prof (Med) Sampson Antwi"
 ---
 
-## Outline
-
--   Definition of hypertension in children
--   Methods for measuring blood pressure
--   Clinical conditions in which blood pressure measurements become imperative in children
--   Step-by-step evaluation of a child with hypertension
--   Commonly used anti-hypertensives in children
--   Hypertensive encephalopathy
-
 ## The Concept of Blood Pressure
 
 Blood pressure is the force exerted by the blood against any unit area of the vessel wall. That is:
@@ -28,46 +19,48 @@ Physiologically, $$BP = CO \times TPR$$ and $$BP = Stroke Volume \times HR \time
 
 1.  **Direct intra-arterial** measurements by placing a catheter into the vessel and measuring the
     pressure "in line" with the vessel (end-on-pressure). This method is used by physiologists and
-    Intensivists. The principle is employed in the measurements of central venous pressure &
+    Intensivists. The principle is employed in the measurements of central venous pressure and
     intracranial pressure in clinical practice.
-2.  **Auscultatory method** with the use of a sphygmomanometer (either mercury or aneroid) and a
-    stethoscope. This is the gold standard in clinical practice. K1 & K5 sounds are measured for
-    systolic & diastolic pressures respectively. Values obtained are generally lower than direct &
-    oscillometric measurements.
-3.  **Palpation method** (flush technique) with the use of a sphygmomanometer and palpating finger.
-    Largely unreliable. Only systolic blood pressure can be measured with this technique. The
-    palpated pulse is generally lower than K1 by 10mmHg.
+2.  **The auscultatory method** is done with the use of a sphygmomanometer (either mercury or
+    aneroid) and a stethoscope. This is the gold standard in clinical practice. Korotkoff sounds 1
+    and 5 sounds are measured for systolic and diastolic bleed pressures respectively. Values
+    obtained are generally lower than direct & oscillometric measurements.
+3.  **The palpation method** (flush technique) is performed with the use of a sphygmomanometer and
+    palpating finger. Largely unreliable. Only systolic blood pressure can be measured with this
+    technique. The palpated pulse is generally lower than Korotkoff sound 1 by 10mmHg.
 4.  **The oscillometric method** uses a sphygmomanometer and a monitor e.g. digital blood pressure
-    devices & data map. Here, pulsatile blood flow through arterial wall oscillations is transmitted
-    to the cuff encircling the extremity. K1 is recorded at the point of rapid increase in
-    oscillation amplitude. K5 is recorded as the point of a sudden decrease in oscillation
-    amplitude. Values obtained by oscillometric measurements are generally higher than auscultatory.
+    devices and Dynamap. Here, pulsatile blood flow through arterial wall oscillations is
+    transmitted to the cuff encircling the extremity. Korotkoff sound 1 is recorded at the point of
+    rapid increase in oscillation amplitude. Korotkoff sound 5 is recorded as the point of a sudden
+    decrease in oscillation amplitude. Values obtained by oscillometric measurements are generally
+    higher than auscultatory.
 5.  **Doppler ultrasound technique**: Here a Doppler ultrasound is held over the pulse to magnify
     the sound so that it is audible without a stethoscope. The sound detected may be 5mmHg higher
-    than K1.
+    than Korotkoff sound 1.
 6.  **Ambulatory blood pressure measurements**. Here, multiple measurements are recorded over time
     (e.g. 24 hours) with digital devices attached to the limb whilst the patient engages in normal
     activities outside the hospital. Results are analysed on a computer or paper tracer built into
     the device using the mean of the readings. It provides a truer picture of blood pressure trends
-    Useful in diagnosing "white coat hypertension" and nocturnal hypertension (absence of a normal
+    useful in diagnosing "white coat hypertension" and nocturnal hypertension (absence of a normal
     physiological drop in blood pressure during sleep).
 
 ## Definition of Hypertension in children
 
-1.  **In adults**: epidemiological definition based on the risk of adverse events (e.g. Stroke) is
-    \>140/90mmHg
-2.  **In children**: Hypertension is defined statistically based on normative data: ≥ 95th centile
-    for age, height, and gender (Refer to height centile chart and blood pressure levels). By this
-    statistical definition, 5% of children will be classified as hypertensives.
+**In adults**, the epidemiological definition is based on the risk of adverse events (e.g. Stroke)
+being\>140/90mmHg. **In children**, hypertension is defined statistically based on normative data: ≥
+95th centile for age, height, and gender (Refer to height centile chart and blood pressure levels).
+By this statistical definition, 5% of children will be classified as hypertensives. Other
+definitions include:
 
-## Other Definitions
+-   **Normal blood pressure**: \< 90th centile for age, height, and sex.
 
--   **Normal blood pressure**: \< 90th centile for age, height, and sex
 -   **Pre-Hypertension**: 90th -- \<95th centile for age, height, and sex
+
 -   **Stage 1 Hypertension**: 95th - 99th + 5 mmHg
+
 -   **Stage 2 Hypertension**: *\> 99th centile + 5mmHg*
 
-## Sample blood pressure centile chart
+    A sample of the blood pressure chart is shown below.
 
 [![Blood Pressure Centile
 Chart](bpchart.jpg){fig-align="center"}](https://www.bing.com/ck/a?!&&p=03173e8901eee155JmltdHM9MTcwODkwNTYwMCZpZ3VpZD0xMTM3ZDFjZC1mMmJmLTY1YzctMjQ4My1jMmI3ZjNkODY0NjUmaW5zaWQ9NTE5NA&ptn=3&ver=2&hsh=3&fclid=1137d1cd-f2bf-65c7-2483-c2b7f3d86465&psq=blood+pressure+pediatric+centile+charts+pdf&u=a1aHR0cHM6Ly93d3cubmhsYmkubmloLmdvdi9maWxlcy9kb2NzL2d1aWRlbGluZXMvY2hpbGRfdGJsLnBkZg&ntb=1)
@@ -86,8 +79,8 @@ This is an acutely elevated blood pressure with evidence of threatening end-orga
 the following organs:
 
 -   Brain (severe headache, visual changes, cranial nerve palsy, papilloedema)
--   Heart (acute chest pain & tigHypertensioness, shortness of breath)
--   Kidney (decreased urine output acutely, proteinuria & haematuria on dipstick)
+-   Heart (acute chest pain and tightness, shortness of breath)
+-   Kidney (decreased urine output acutely, proteinuria and haematuria on dipstick)
 
 It is thus a symptomatic, severe Hypertension.
 
@@ -96,7 +89,7 @@ It is thus a symptomatic, severe Hypertension.
 This is severe hypertension without evidence of end-organ damage or symptoms. The blood pressure
 should nevertheless be treated urgently but not aggressively like in a hypertensive emergency to
 prevent progression into a hypertensive emergency. If possible, the patient should be managed as
-in-patient
+in-patient.
 
 ## Rules of blood pressure measurement
 
@@ -104,11 +97,11 @@ in-patient
     -   The length of the inflation bladder should be at least 80% of the mid-arm circumference.
     -   The width of the inflation bladder is at least 40th of the mid-arm circumference.
 2.  The child should rest for at least 5 minutes in a comfortable environment and position.
-3.  Arm resting & supported at heart level (The reference level. Values outside this reference level
-    are higher). The lower edge of the cuff is 2cm above the cubital fossa.
+3.  Arm resting and supported at heart level (The reference level. Values outside this reference
+    level are higher). The lower edge of the cuff is 2cm above the cubital fossa.
 4.  Bladder tubings should lie over the brachial artery.
 5.  Bell of the stethoscope is used
-6.  K1 and k5 are used for systolic & diastolic respectively.
+6.  Korotkoff sounds 1 and 5 are used for systolic and diastolic respectively.
 7.  Multiple measurements are made (preferably at different settings) and the lowest reading is
     taken. For research purposes, 3 measurements are taken and an average of the last 2 used.
 
@@ -118,7 +111,7 @@ ductus arteriosus.
 
 ## When to suspect hypertension
 
-Suspect Hypertension in any child with any of the following conditions:
+Suspect hypertension in any child with any of the following conditions:
 
 -   Alteration in consciousness including aggressive behavior and convulsion
 -   Oedematous
@@ -152,14 +145,14 @@ Broadly, aetiology can be categorized into:
 
 However, since these are often age-specific categorizations are done by age as below:
 
-### Neonate to One-year
+### Neonate to one-year
 
 **Congenital**
 
--   Cong lesions of the vasculature
+-   Congenital lesions of the vasculature
     -   Renal Artery Stenosis
-    -   aortic coarctation
--   Cong lesions of renal parenchyma
+    -   Aortic coarctation
+-   Congenital lesions of renal parenchyma
     -   Polycystic Kidney disease
     -   Dysplastic kidneys
     -   Obstructive uropathy
@@ -169,7 +162,7 @@ However, since these are often age-specific categorizations are done by age as b
 
 **Acquired**
 
--   Renal artery/vein thrombosis 20 umbilical a/v catheterisation
+-   Renal artery or vein thrombosis secondary to umbilical artery or vein catheterisation
 -   Bronchopulmonary dysplasia
 -   Medications
     -   Theophylline/caffeine
@@ -177,11 +170,11 @@ However, since these are often age-specific categorizations are done by age as b
     -   Steroids
     -   Vitamin D intoxication
 -   Total Parental Nutrition (high Ca2+)
--   Maternal drug use: Cocaine/heroin
+-   Maternal drug use: Cocaine, heroin
 
-### One- to Five-year
+### One- to five years
 
--   Renal Artery Stenosis (RAS)
+-   Renal Artery Stenosis
 -   Glomerulonephritis
 -   Renal vein thrombosis
 -   Wilms tumour
@@ -190,36 +183,37 @@ However, since these are often age-specific categorizations are done by age as b
 -   Cystic kidney disease
 -   Monogenic Hypertension (e.g. Liddle's syndrome)
 
-### Five- to Ten-years
+### Five- to ten-years
 
 -   Glomerulonephritis
--   Renal scars from reflux nephropathies/Urinary Tract Infections
+-   Renal scars from reflux nephropathies or Urinary Tract Infections
 -   Renal Artery Stenosis
 -   Cystic renal disease
 -   Endocrine tumours
 -   Essential Hypertension
 -   Obesity
 
-### Ten- to Twenty-years
+### Ten- to twenty-years
 
 -   Obesity
 -   Essential hypertension
--   Reflux nephropathies with repeated Urinar Tract Infections
+-   Reflux nephropathies with repeated Urinary Tract Infections
 -   Glomerulonephritis
 -   Renal Artery Stenosis
 -   Endocrine tumours
 -   Hyperthyroidism
 -   Drugs (Oral Contraceptive Pill, illicit drugs)
 
-## Clinical Evaluation of the Hypertensive Child
+## Evaluation of the Hypertensive Child
 
 -   Patient's history
 -   Symptoms of renal disease (haematuria, oliguria, evidence of bodily swelling, polyuria,
     enuresis)
--   Symptoms of vasculitis/rheumatology ( Joint swelling & rash)
--   PMHx (umbilical artery/vein catheterisation, previous renal disease e.g. Previous swelling)
--   Drug History (steroids, OCP, amphetamines, other illicit drugs)
--   Birth History: LBW
+-   Symptoms of vasculitis or rheumatology ( Joint swelling & rash)
+-   Past medical history (umbilical artery/vein catheterisation, previous renal disease e.g.
+    Previous swelling)
+-   Drug History (steroids, Oral Contraceptive Pill, amphetamines, other illicit drugs)
+-   Birth History: Low Birth Weight
 -   Family History of Hypertension
 
 Clues on physical examination include:
@@ -230,12 +224,12 @@ Clues on physical examination include:
 -   Neurofibromatosis
     -   Cafѐ au lait spots
 -   RAS, Takayasu arteritis
-    -   Abdominal bruit →
--   CAH
+    -   Abdominal bruit
+-   Congenital adrenal hyperplasia
     -   Ambiguous genitalia
 -   Dysmorphism suggestive of Turner or William syndromes
--   Signs of CRF: growth failure (stunted), renal rickets, anaemia, oedema
--   Bedside urine dipstick positive for protein & blood ± edoedemalomerulonephritis
+-   Signs of Chronic Renal Failure: Growth failure (stunted), renal rickets, anaemia, oedema
+-   Bedside urine dipstick positive for protein and blood (± oedema)
 
 ## Investigations
 
@@ -264,9 +258,10 @@ Some of the investigations include:
 
 Uric acid is increasingly being implicated in the pathogenesis of Hypertension in both adults and
 children. It is believed to cause endothelial dysfunction leading to microvascular and inflammatory
-injury to the kidneys. There are also reduced levels of endothelial-derived nitric oxide (NO) and
-associated elevation of RAAS. Elevated uric acid levels in hypertensive individuals are associated
-with adverse outcomes like stroke. Allopurinol Rx is advocated in such individuals
+injury to the kidneys. There are also reduced levels of endothelial-derived nitric oxide and
+associated elevation of the Renin-Aldosterone-Angiotensin System. Elevated uric acid levels in
+hypertensive individuals are associated with adverse outcomes like stroke. Allopurinol treatment is
+advocated for such individuals.
 
 ## Complication of Hypertension
 
@@ -285,7 +280,7 @@ Some complications of Hypertension are listed below:
 
 -   Reducing salt intake
 -   Weight reduction for obesity-related hypertension
--   Intake of more vegetables on a/c of K-richness
+-   Intake of more vegetables on account of potassium richness
 
 ### Drug Treatment
 
@@ -321,16 +316,13 @@ precipitous drop in blood pressure so it is best avoided or should be used with 
 
 Treatment outline:
 
--   Use Ianti-hypertensive drugs
--   Blood pressure should be brought down slowly to a desirable level (?stage I)by 48hrs (though not
-    to normal levels) as follows:
+-   Use anti-hypertensive drugs
+-   Blood pressure should be brought down slowly to a desirable level (?stage I) by 48hrs (though
+    not to normal levels) as follows:
     -   1/3 of total blood pressure reduction in 1st 12-hrs
     -   Next one-third of the subsequent 12-hrs
     -   Final one-third over 24-hrs
 -   Alternatively, by a quarter within 6 hours, and the rest in the next 24-36hrs
 
-Common preferred drugs:\
-- Labetalol infusion\
-- Na nitroprusside infusion - IV hydrallazine infusion
-
-After achieving the desired blood pressure target, oral antihypertensives are then started
+Commonly preferred drugs include Labetalol infusion, Na nitroprusside infusion, and IV hydralazine
+infusion. After achieving the desired blood pressure target, oral antihypertensives are then started
