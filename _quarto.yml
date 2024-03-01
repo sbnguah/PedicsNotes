@@ -1,0 +1,95 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  cover-image: knust-logo.jpg
+  cover-image-alt: "KNUST Logo"
+  title: "Pediatrics Notes"
+  author: "Child Health Department, SMS, KNUST"
+  date: today
+  chapters:
+    - index.qmd
+    - part: history-and-examination.qmd
+      chapters: 
+        - child-hx-exam.qmd
+        - neonate-hx-exam.qmd
+    - growh-development.qmd
+    - anthropometry.qmd
+    - part: neonatology.qmd
+      chapters: 
+        - newborn-delivery-resus.qmd
+        - preterm-low-birth-weight.qmd
+        - neonatal-jaundice.qmd
+        - newborn-feeding.qmd
+        - neonatal-emergencies.qmd
+    - part: respiratory.qmd
+      chapters: 
+        - respiratory-one.qmd
+        - respiratory-two.qmd
+    - part: cardiovascular.qmd
+      chapters: 
+        - cvs-one.qmd
+        - cvs-two.qmd
+        - cvs-three.qmd
+    - part: infectious-dxs.qmd
+      chapters: 
+        - immunodeficiencies.qmd
+        - hiv.qmd
+        - sepsis-uti.qmd
+        - tuberculosis.qmd
+        - immunization.qmd
+        - viral-infections.qmd
+    - part: oncology.qmd
+      chapters: 
+        - cancer-one.qmd
+        - cancer-two.qmd
+    - part: nephrology.qmd
+      chapters: 
+        - hypertension.qmd
+        - renal-disorders.qmd
+        - nephrotic-nephritic.qmd
+    - part: neurology.qmd
+      chapters: 
+        - cerebral-palsy.qmd
+        - seizure-disorders.qmd
+        - cns-one.qmd
+        - neuromuscular.qmd 
+        - neurocutaneous-synd.qmd
+    - part: endocrine.qmd
+      chapters: 
+        - endocrine-one.qmd
+        - endocrine-two.qmd
+        - dm.qmd
+    - part: hematology.qmd
+      chapters:
+        - sickle-cell.qmd
+        - anemia.qmd
+        - bleeding-disorders.qmd
+    - part: gastroenterology.qmd
+      chapters: 
+        - nutrition.qmd
+        - malnutrition.qmd
+        - liver-disorders.qmd
+        - prolonged-jaundice.qmd
+        - diarrhoea.qmd
+    - malaria.qmd
+    - infections-infestations.qmd
+    - dermatology.qmd
+    - therapeutics.qmd
+    - congenital-malformations.qmd
+    - toxicology-animal-bites.qmd
+    - social-ethical-legal.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    mainfont: Roboto
+    theme: 
+        - zephr
+        - BookTheme.scss
+  pdf:
+    documentclass: scrreprt
+
