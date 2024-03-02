@@ -1,3 +1,4 @@
 ---
-title: "Cardiovascular Disorders III"
+title: "Acquired Heart Diseases"
+author: "Dr Samuel Blay Nguah"
 ---

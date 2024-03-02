@@ -29,8 +29,8 @@ book:
         - respiratory-two.qmd
     - part: cardiovascular.qmd
       chapters: 
-        - cvs-one.qmd
-        - cvs-two.qmd
+        - cvs-intro.qmd
+        - cvs-asd.qmd
         - cvs-three.qmd
     - part: infectious-dxs.qmd
       chapters: 
