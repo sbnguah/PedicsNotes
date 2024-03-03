@@ -1,4 +1,4 @@
 ---
-title: "Acquired Heart Diseases"
+title: "Tetralogy of Fallot"
 author: "Dr Samuel Blay Nguah"
 ---

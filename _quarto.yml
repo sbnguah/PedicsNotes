@@ -3,10 +3,10 @@ project:
   output-dir: docs
 
 book:
-  cover-image: knust-logo.jpg
-  cover-image-alt: "KNUST Logo"
+  cover-image: pedics-notes-cover.jpg
+  cover-image-alt: "Logo"
   title: "Pediatrics Notes"
-  author: "Child Health Department, SMS, KNUST"
+  author: "Department Child Health, SMS, KNUST"
   date: today
   chapters:
     - index.qmd
@@ -30,8 +30,17 @@ book:
     - part: cardiovascular.qmd
       chapters: 
         - cvs-intro.qmd
+        - cvs-evaluation.qmd
+        - cvs-heart-failure.qmd
         - cvs-asd.qmd
-        - cvs-three.qmd
+        - cvs-vsd.qmd
+        - cvs-pda.qmd
+        - cvs-coa.qmd
+        - cvs-tof.qmd
+        - cvs-rhd.qmd
+        - cvs-inf-endo.qmd
+        - cvs-emf.qmd
+        - cvs-miscellaneous.qmd
     - part: infectious-dxs.qmd
       chapters: 
         - immunodeficiencies.qmd
