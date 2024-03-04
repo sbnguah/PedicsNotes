@@ -4,30 +4,33 @@ project:
 
 book:
   cover-image: pedics-notes-cover.jpg
+  page-navigation: true
   cover-image-alt: "Logo"
   title: "Pediatrics Notes"
-  author: "Department Child Health, SMS, KNUST"
+  author: "Department of Child Health <br> School of Medical Sciences <br> KNUST"
   date: today
+  page-footer:
+    background: light
   chapters:
     - index.qmd
-    - part: history-and-examination.qmd
+    - part: "<span style='font-weight:bold'>History & Examination</span>"
       chapters: 
         - child-hx-exam.qmd
         - neonate-hx-exam.qmd
     - growh-development.qmd
     - anthropometry.qmd
-    - part: neonatology.qmd
+    - part: "<span style='font-weight:bold'>Neonatology</span>"
       chapters: 
         - newborn-delivery-resus.qmd
         - preterm-low-birth-weight.qmd
-        - neonatal-jaundice.qmd
+        - neo-neonatal-jaundice.qmd
         - newborn-feeding.qmd
-        - neonatal-emergencies.qmd
-    - part: respiratory.qmd
+        - neo-neonatal-emergencies.qmd
+    - part: "<span style='font-weight:bold'>Pulmonology</span>"
       chapters: 
         - respiratory-one.qmd
         - respiratory-two.qmd
-    - part: cardiovascular.qmd
+    - part: "<span style='font-weight:bold'>Cardiology</span>"
       chapters: 
         - cvs-intro.qmd
         - cvs-evaluation.qmd
@@ -41,7 +44,7 @@ book:
         - cvs-inf-endo.qmd
         - cvs-emf.qmd
         - cvs-miscellaneous.qmd
-    - part: infectious-dxs.qmd
+    - part: "<span style='font-weight:bold'>Infectious Diseases</span>"
       chapters: 
         - immunodeficiencies.qmd
         - hiv.qmd
@@ -49,33 +52,34 @@ book:
         - tuberculosis.qmd
         - immunization.qmd
         - viral-infections.qmd
-    - part: oncology.qmd
+    - part: "<span style='font-weight:bold'>Oncology</span>"
       chapters: 
         - cancer-one.qmd
         - cancer-two.qmd
-    - part: nephrology.qmd
+    - part: "<span style='font-weight:bold'>Nephrology</span>"
       chapters: 
-        - hypertension.qmd
-        - renal-disorders.qmd
-        - nephrotic-nephritic.qmd
-    - part: neurology.qmd
+        - nep-hypertension.qmd
+        - nep-renal-disorders.qmd
+        - nep-nephrotic-syndrome.qmd
+        - nep-nephritic-syndrome.qmd
+    - part: "<span style='font-weight:bold'>Neurology</span>"
       chapters: 
         - cerebral-palsy.qmd
         - seizure-disorders.qmd
         - cns-one.qmd
         - neuromuscular.qmd 
         - neurocutaneous-synd.qmd
-    - part: endocrine.qmd
+    - part: "<span style='font-weight:bold'>Endocrinology</span>"
       chapters: 
         - endocrine-one.qmd
         - endocrine-two.qmd
         - dm.qmd
-    - part: hematology.qmd
+    - part: "<span style='font-weight:bold'>Haematology</span>"
       chapters:
         - sickle-cell.qmd
         - anemia.qmd
         - bleeding-disorders.qmd
-    - part: gastroenterology.qmd
+    - part: "<span style='font-weight:bold'>Gastroenterology</span>"
       chapters: 
         - nutrition.qmd
         - malnutrition.qmd
