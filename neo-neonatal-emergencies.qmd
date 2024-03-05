@@ -1,3 +1,11 @@
 ---
 title: "Neonatal Emergencies"
 ---
+
+This is the first type of humeral fracture
+
+![Humeral Fracture (immobiised)](humeral-fracture-1.jpg)
+
+And this is another one
+
+![X-ray of a humeral fracture](humeral-fracture-2.jpg){fig-alt="humeral-fracture-2" fig-align="left"}
