@@ -5,50 +5,27 @@ author: "Dr Naana Ayiwa Wireko-Brobby"
 
 ## Introduction
 
-Jaundice is the yellowish discoloration of the skin, eyes and mucous membranes, caused by a pigment
-called bilirubin in the blood. Out of 10 term and 10 preterm infants, 6 and 8 of them will develop
-jaundice respectively, all in the 1st couple of weeks of life. Universally accepted as one of the
-commonest causes of admission and readmission in the first month of life. At KATH MBU, monthly
-admissions average between 300 and 400 and about 15 -- 25% of all these admissions are cases of
-neonatal jaundice. Whereas the developed world describes kernicterus as a rare condition,
-unfortunately, the same cannot be said for us in developing countries. On average, cases of severe
-NNJ have ranged from 2.2% -- 30.8% of all jaundice cases, with the monthly mortality from NNJ
-ranging from 2.8% - 15.2%. Remember, kernicterus is the only preventable cause of cerebral palsy!
+Jaundice is the yellowish discoloration of the skin, eyes and mucous membranes, caused by a pigment called bilirubin in the blood. Out of 10 term and 10 preterm infants, 6 and 8 of them will develop jaundice respectively, all in the 1st couple of weeks of life. Universally accepted as one of the commonest causes of admission and readmission in the first month of life. At KATH MBU, monthly admissions average between 300 and 400 and about 15 -- 25% of all these admissions are cases of
+neonatal jaundice. Whereas the developed world describes kernicterus as a rare condition, unfortunately, the same cannot be said for us in developing countries. On average, cases of severe NNJ have ranged from 2.2% -- 30.8% of all jaundice cases, with the monthly mortality from NNJ ranging from 2.8% - 15.2%. Remember, kernicterus is the only preventable cause of cerebral palsy!
 
 ## Bilirubin metabolism
 
-Humans continuously form bilirubin and the liver is the main organ responsible for the metabolism of
-bilirubin. For every gram of Hemoglobin, 35mg of bilirubin is produced.\
-The bilirubin is conjugated by the UGT enzyme, making it water-soluble, which is then released into
-the bile before being excreted in the stool (and urine). It can also be broken down in the intestine
-by bacterial enzymes like E. coli. However, at birth, the newborn has several challenges. The liver
-is immature, and the levels of UGT are low. Newborns have β-glucuronidase in the intestinal
-mucosa/brush border, which deconjugates the conjugated bilirubin found in the meconium. The
-unconjugated bilirubin can now be reabsorbed through the intestinal wall and recycled back into the
-circulation. This process is known as the "enterohepatic circulation of bilirubin". The gut is
-sterile and, subsequently, infants have far fewer bacteria in the gut, and so very little, if any,
-bilirubin is reduced to urobilin and stercobilin.
+Humans continuously form bilirubin and the liver is the main organ responsible for the metabolism of bilirubin. For every gram of Hemoglobin, 35mg of bilirubin is produced.\
+The bilirubin is conjugated by the UGT enzyme, making it water-soluble, which is then released into the bile before being excreted in the stool (and urine). It can also be broken down in the intestine by bacterial enzymes like E. coli. However, at birth, the newborn has several challenges. The liver is immature, and the levels of UGT are low. Newborns have β-glucuronidase in the intestinal mucosa/brush border, which deconjugates the conjugated bilirubin found in the meconium. The unconjugated bilirubin can now be reabsorbed through the intestinal wall and recycled back into the circulation. This process is known as the "enterohepatic circulation of bilirubin". The gut is sterile and, subsequently, infants have far fewer bacteria in the gut, and so very little, if any, bilirubin is reduced to urobilin and stercobilin.
 
-**Specifically to newborns**\
-More bilirubin is produced, on account of the short life span of Red Blood Cells and high Hemoglobin
-levels. The liver is immature. They also have fewer bacteria and low intestinal enzymatic activity
-in the intestine
+Specifically to newborns more bilirubin is produced, on account of the short life span of Red Blood Cells and high Hemoglobin levels. The liver is immature. They also have fewer bacteria and low intestinal enzymatic activity in the intestine
 
 ## Types of bilirubin
 
 There are two types:
 
-**Unconjugated (Indirect) Bilirubin**:\
+### Conjugated (Direct) Bilirubin
+This is water soluble, excreted in the urine and stool, and not toxic to the brain. However, high amounts could indicate underlying liver disease or injury.
+
+### Unconjugated (Indirect) Bilirubin
 This is lipid soluble, can cross the blood-brain barrier and is toxic in high amounts to the brain.
 
-**Conjugated (Direct) Bilirubin**:\
-This is water soluble, excreted in the urine and stool, and not toxic to the brain. However, high
-amounts could indicate underlying liver disease or injury.\
-
-In very high concentrations, unconjugated bilirubin, which is lipid soluble, is toxic to the
-developing brain. Once it crosses the blood-brain barrier and binds to brain tissue and deposits in
-the developing brain. Since this is an irreversible process, it leads to long-term neurological
-issues and even death.
+In very high concentrations, unconjugated bilirubin, which is lipid soluble, is toxic to the developing brain. Once it crosses the blood-brain barrier and binds to brain tissue and deposits in the developing brain. Since this is an irreversible process, it leads to long-term neurological issues and even death.
 
 ## Types of Jaundice
 
@@ -65,24 +42,18 @@ There are three main mechanisms for jaundice:\
 
 ### Physiological jaundice
 
-**Increased bilirubin production**:\
-in term newborn infants, bilirubin production is 2 -- 3x higher than in adults. This occurs because
-newborns have more RBCs and fetal RBCs have a shorter life span than those in adults. Unfortunately,
-the liver being immature, cannot conjugate and excrete all the bilirubin from the breakdown of all
-the excess RBCs, thereby resulting in spillover of bilirubin into the blood.\
+#### Increased bilirubin production
+in term newborn infants, bilirubin production is 2 -- 3x higher than in adults. This occurs because newborns have more RBCs and fetal RBCs have a shorter life span than those in adults. Unfortunately, the liver being immature, cannot conjugate and excrete all the bilirubin from the breakdown of all the excess RBCs, thereby resulting in spillover of bilirubin into the blood.
 
-**Bilirubin clearance or excretion**:\
-This is decreased in newborns, mainly due to the low levels of the UGT enzyme in the liver. UGT
-activity in term infants at day 7 of age is approximately 1% of that of the adult liver and does not
-reach adult levels until about 14 weeks of age.\
+#### Bilirubin clearance or excretion
+This is decreased in newborns, mainly due to the low levels of the UGT enzyme in the liver. UGT activity in term infants at day 7 of age is approximately 1% of that of the adult liver and does not reach adult levels until about 14 weeks of age.
 
-**Enterohepatic circulation**:\
-The presence of the ß-glucuronidase results in an increase in the enterohepatic circulation of
-bilirubin, further increasing the bilirubin load in the infant. This is a diagnosis of exclusion
+#### Enterohepatic circulation
+The presence of the ß-glucuronidase results in an increase in the enterohepatic circulation of bilirubin, further increasing the bilirubin load in the infant. This is a diagnosis of exclusion
 
 ### Pathological jaundice
 
-**Definition**\
+#### Definition
 Neonatal jaundice is said to be pathologic if:
 
 -   Jaundice in the 1st 24 - 48 hours of life.
@@ -93,11 +64,7 @@ Neonatal jaundice is said to be pathologic if:
 -   Jaundice in a term newborn after 2 weeks of age or in a preterm infant after 3 weeks of age
 -   Direct (conjugated) bilirubin concentration \> 20% of the total
 
-It can be caused by certain pathologic conditions or exaggeration of the mechanisms responsible for
-physiologic neonatal jaundice. Identification of what is causing the jaundice is useful in guiding
-management, including counselling of the parents and what to expect for the next pregnancy. Most
-common cause is increased bilirubin production due to haemolytic disease processes that include the
-following:\
+It can be caused by certain pathologic conditions or exaggeration of the mechanisms responsible for physiologic neonatal jaundice. Identification of what is causing the jaundice is useful in guiding management, including counselling of the parents and what to expect for the next pregnancy. Most common cause is increased bilirubin production due to haemolytic disease processes that include the following:
 
 -   Isoimmune-mediated haemolysis (e.g., ABO or Rhesus D incompatibility)
 -   Erythrocyte enzymatic defects, e.g. G6PD deficiency
@@ -106,29 +73,20 @@ following:\
 -   Birth Injuries resulting in sequestration of blood within a closed space, e.g. cephalohematoma,
     subgaleal bleed.
 
-**ABO incompatibility**\
-This is one of the most common causes of isoimmune hemolytic disease during the neonatal period.
-Infants with blood group A or B, carried by blood group O mother, will have a positive antibody
-because of maternal anti-A or anti-B transfer into the fetal circulation.\
+#### ABO incompatibility
+This is one of the most common causes of isoimmune hemolytic disease during the neonatal period. Infants with blood group A or B, carried by blood group O mother, will have a positive antibody because of maternal anti-A or anti-B transfer into the fetal circulation.
 
-**Rhesus Incompatibility**\
-Rh incompatibility can occur when an Rh-negative pregnant mother is exposed to Rh-positive fetal red
-blood cells secondary to feto-maternal haemorrhage during pregnancy/delivery. As a result, the
-mother's blood gets exposed to the fetal circulation and sensitization occurs leading to maternal
-antibody production against the foreign Rh antigen. Once produced, maternal Rh (IgG) antibodies may
-cross freely from the placenta to the fetal circulation, where they form antigen-antibody complexes
-with Rh- positive fetal RBCs and eventually are destroyed, resulting in a fetal alloimmune-induced
-hemolytic anaemia and jaundice. The first pregnancy is usually not affected, but more antibodies are
+#### Rhesus Incompatibility
+Rh incompatibility can occur when an Rh-negative pregnant mother is exposed to Rh-positive fetal red blood cells secondary to feto-maternal haemorrhage during pregnancy/delivery. As a result, the mother's blood gets exposed to the fetal circulation and sensitization occurs leading to maternal antibody production against the foreign Rh antigen. Once produced, maternal Rh (IgG) antibodies may
+cross freely from the placenta to the fetal circulation, where they form antigen-antibody complexes with Rh- positive fetal RBCs and eventually are destroyed, resulting in a fetal alloimmune-induced hemolytic anaemia and jaundice. The first pregnancy is usually not affected, but more antibodies are
 produced with each pregnancy making the jaundice worse with each pregnancy.
 
-**Decreased clearance or a reduction in the rate of excretion of bilirubin**:\
-Inherited defects in the gene that encodes the UGT liver enzyme (eg, Gilbert Syndrome), decrease
-bilirubin conjugation (eg Crigglar Najjar). In physiological jaundice, the levels are naturally low,
-but here, in addition to the low levels the UGT enzyme is either defective, absent or has a reduced
-function. This reduces hepatic bilirubin metabolism and its clearance thereby increasing the total
+#### Decreased clearance 
+Inherited defects in the gene that encodes the UGT liver enzyme (eg, Gilbert Syndrome), decrease bilirubin conjugation (eg Crigglar Najjar). In physiological jaundice, the levels are naturally low, but here, in addition to the low levels the UGT enzyme is either defective, absent or has a reduced function. This reduces hepatic bilirubin metabolism and its clearance thereby increasing the total
 serum unconjugated bilirubin levels.
 
-**Increased enterohepatic circulation**\
+#### Increased enterohepatic circulation
+
 The major causes are\
 
 -   Breastfeeding jaundice
@@ -140,13 +98,10 @@ The major causes are\
 ## Assessing for Neonatal Jaundice
 
 -   Baby should be assessed in natural daylight
--   Look for yellow eyes & skin, check the white part of the eyes only if the baby opens the eyes
-    voluntarily.
--   You may blanch the skin on the bridge of the nose or the palms/soles of the feet if they turn
-    yellow...
+-   Look for yellow eyes & skin, check the white part of the eyes only if the baby opens the eyes voluntarily.
+-   You may blanch the skin on the bridge of the nose or the palms/soles of the feet if they turn yellow...
 -   Remember that the yellowing spreads from head to toe...
--   Do not rely on visual inspection alone to estimate the bilirubin level in a baby with
-    jaundice!!! It can be very subjective!!
+-   Do not rely on visual inspection alone to estimate the bilirubin level in a baby with jaundice!!! It can be very subjective!!
 
 ## Clinical features
 
@@ -198,29 +153,24 @@ This should include but not be restricted to
 
 ### Phototherapy
 
-Phototherapy is the use of visible light to treat high levels of serum bilirubin in the newborn. The
-dose of phototherapy is a key factor in how quickly it works. The dose in turn is determined by:
+Phototherapy is the use of visible light to treat high levels of serum bilirubin in the newborn.
+
+![Phototherapy Unit](neo-phototherapy.jpg){fig-alt="Phototherapy Unit" fig-align="center"}
+
+The dose of phototherapy is a key factor in how quickly it works. The dose in turn is determined by:
 
 -   The wavelength of the light
 -   The intensity of the light (irradiance)
 -   The distance between the light and the baby
 -   The body's surface area is exposed to the light.
 
-Effective phototherapy lowers serum bilirubin levels by converting the lipid-soluble bilirubin into
-water-soluble forms that can easily be excreted in the stool and urine Phototherapy also prevents
-the need for an Exchange Blood Transfusion and prevents bilirubin from depositing in the brain. The
-breakdown of bilirubin begins almost instantaneously when the skin is exposed to light, hence,
+Effective phototherapy lowers serum bilirubin levels by converting the lipid-soluble bilirubin into water-soluble forms that can easily be excreted in the stool and urine Phototherapy also prevents the need for an Exchange Blood Transfusion and prevents bilirubin from depositing in the brain. The breakdown of bilirubin begins almost instantaneously when the skin is exposed to light, hence,
 phototherapy should be started as early as possible.
 
-**Initiating phototherapy** Always note the time the baby's SBR sample is being taken and estimate
-the age in hours up until that time. Interpret bilirubin levels according to the baby's postnatal
-age in hours and manage the bilirubin levels according to the threshold table Start phototherapy if
-the SBR plots on or above the line appropriate for age (in hours) and gestational age If the SBR
-plots just underneath the line, repeat the SBR after 6 hours or start phototherapy if a repeat is
-not feasible. Repeat the SBR at least 24 -- 48 hours after initiation of phototherapy. Discontinue
-phototherapy when the SBR plots below the line.
 
-**Side effects**\
+In initiating phototherapy, always note the time the baby's SBR sample is being taken and estimate the age in hours up until that time. Interpret bilirubin levels according to the baby's postnatal age in hours and manage the bilirubin levels according to the threshold table Start phototherapy if the SBR plots on or above the line appropriate for age (in hours) and gestational age If the SBR plots just underneath the line, repeat the SBR after 6 hours or start phototherapy if a repeat is not feasible. Repeat the SBR at least 24 to 48 hours after initiation of phototherapy. Discontinue phototherapy when the SBR plots below the line.
+
+The side effects of phototheratpy include:
 
 -   Increase insensible water loss
 -   Loose stools
@@ -229,36 +179,30 @@ phototherapy when the SBR plots below the line.
 -   Hypo- or Hyperthermia
 -   Interruption of mother-baby bonding
 
-##Sunlight Therapy Works for physiological jaundice, however, one can never tell by looking at a
-baby what kind of jaundice a baby has Err on the side of caution, at least always have the SBR
-checked first Remember prolonged exposure to UV rays can be harmful to the developing skin Baby
-cannot be put in the light for more than 30 minutes in a day Even most of the available literature
-and studies that recommend sunlight still advice that if the jaundice is severe, the baby must be
-managed in the hospital!! A serum bilirubin high enough to warrant treatment should be managed in
-the hospital.
+### Sunlight Therapy
+Works for physiological jaundice, however, one can never tell by looking at a baby what kind of jaundice a baby has Err on the side of caution, at least always have the SBR checked first Remember prolonged exposure to UV rays can be harmful to the developing skin Baby cannot be put in the light for more than 30 minutes in a day Even most of the available literature and studies that recommend sunlight still advice that if the jaundice is severe, the baby must be managed in the hospital!! A
+serum bilirubin high enough to warrant treatment should be managed in the hospital.
 
-##Exchange Blood Transfusion Provides a means of rapid reduction of circulating bilirubin in blood.
-Involves manual removal of the baby's blood and simultaneously replacing it with compatible donor blood. 
+### Exchange Blood Transfusion
+Provides a means of rapid reduction of circulating bilirubin in the blood. Involves manual removal of the baby's blood and simultaneously replacing it with compatible donor blood.
 
 ![Exchange Blood Transfusion](neo-ebt.jpg){fig-alt="Exchange blood transfusion" fig-align="center"}
 
-In addition to reducing bilirubin levels EBT removes partially hemolyzed RBCs, RBCs coated with
-antibodies and circulating immunoglobulins.
+In addition to reducing bilirubin levels, EBT removes partially hemolyzed RBCs, RBCs coated with antibodies and circulating immunoglobulins.
 
 ![Bilirubin Graph (\> 38 weeks)](ebt-chart.jpg){fig-alt="Bilirubin Graph" fig-align="center"}
 
-**Complications of Exchange Blood Transfusion**\
-- Cardiac & respiratory disorders - Shock due to bleeding or inadequate replacement of blood
-infection - Catheter-related complications - Changes in the composition of the blood (high or low
-potassium, low calcium, low glucose, changes of pH) - Thrombocytopenia\
-- And the rare but serious complications of air embolism, portal hypertension, and necrotizing
-enterocolitis.
+Complication of exchange blood transfusion include:
 
-**Intravenous Immunoglobins** Treatment with intravenous immunoglobulin (IVIG) has been suggested as
-an alternative therapy to Exchange Blood Transfusion for isoimmune hemolytic jaundice to reduce the
-need for Exchange Blood Transfusion and duration of phototherapy and hospitalization in isoimmune
-hemolytic disease of the newborn. It has been proposed that IVIG blocks the binding of the antibody
-to the antigen. With this blockade, hemolysis no longer occurs.
+-   Cardiac & respiratory disorders
+-   Shock due to bleeding or inadequate replacement of blood infection
+-   Catheter-related complications
+-   Changes in the composition of the blood (high or low potassium, low calcium, low glucose, changes in pH)
+-   Thrombocytopenia
+-   And the rare but serious complications of air embolism, portal hypertension, and necrotizing enterocolitis.
+
+### Intravenous Immunoglobins
+Treatment with intravenous immunoglobulin (IVIG) has been suggested as an alternative therapy to Exchange Blood Transfusion for isoimmune hemolytic jaundice to reduce the need for Exchange Blood Transfusion and duration of phototherapy and hospitalization in isoimmune hemolytic disease of the newborn. It has been proposed that IVIG blocks the binding of the antibody to the antigen. With this blockade, hemolysis no longer occurs.
 
 ## Long term complications
 
@@ -277,5 +221,4 @@ The effects of bilirubin toxicity include
 -   An SBR is always more objective
 -   Look out for danger signs
 -   As much breastmilk as possible by any means necessary
--   Sunlight therapy is not recommended, if the baby is yellow enough for you to want to put him/her
-    under the sun, then the baby needs to be brought to the hospital!
+-   Sunlight therapy is not recommended, if the baby is yellow enough for you to want to put him/her under the sun, then the baby needs to be brought to the hospital!
