@@ -1,5 +1,5 @@
 ---
-title: "Neonatal Delivery Conditions"
+title: "Neonatal Delivery Pathologies"
 ---
 
 ## The health newborn
@@ -104,11 +104,56 @@ information about the newborn's overall status and response to resuscitation
     & the severity of the encephalopathy
 -   Subsequent competent care and available facilities also influence the outcome
 
+## Birth Injuries
+
+A birth injury can simply be referred to as any form of damage incurred by the baby during the
+birthing process. Injury may occur as a result of inappropriate or deficient medical skill or
+attention or may occur despite skilled and competent obstetric care.
+
+Predisposing conditions include:
+
+-   Cephalopelvic disproportion (CPD) / Small maternal stature / Primiparity
+-   Macrosomia
+-   Shoulder Dystocia
+-   Prematurity
+-   Prolonged or precipitous labour
+-   Abnormal presentation
+-   Instrumentation
+-   Handling after delivery
+
+### Fracture
+
+Generally, the affected limb looks deformed or swollen, and the baby barely moves it on account of
+pain
+
+#### Clavicle 
+
+This is the most fractured bone during delivery; mostly during delivery of the shoulder in vertex
+and of the extended arms in the breech. Signs of a fracture may include no free arm movement on the
+affected side, crepitus and bony irregularity, and absent Moro reflex. It has an excellent
+prognosis, even though it is commonly missed. Treatment, if any, includes immobilization of the arm
+and shoulder as shown below.
+
 This is the first type of humeral fracture
 
 ![Humeral Fracture (immobilised)](humeral-fracture-1.jpg)
 
-And this is another one
+#### Humerus
+
+The x-ray below shows another commonly fractured bone, the humerus.
 
 ![X-ray of a humeral fracture](humeral-fracture-2.jpg){fig-alt="humeral-fracture-2"
-fig-align="left"}
+fig-align="center" width="245"}
+
+#### Femur
+
+Risk factors: big baby, breech presentation, incompetency. The affected thigh looks deformed,
+swollen and may be reddened. The main mode of management involves splinting the limb from the waist
+to below the knee.
+
+![Femoral Fracture](neo-femural-fracture.jpg){fig-alt="Femoral Fracture" fig-align="center"
+width="301"}
+
+![Femoral Fracture
+Splinting](neo-femuralfracture-splinting.jpg){fig-alt="Femoral Fracture Splinting"
+fig-align="center" width="300" height="250"}
