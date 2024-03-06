@@ -13,7 +13,7 @@ book:
   date: today
   page-footer:
     background: light
-    right: "Compiled by: Dr Samuel Blay Nguah"
+    center: "Compiled by: Dr Samuel Blay Nguah"
   chapters:
     - index.qmd
     - part: "<span style='font-weight:bold'>History & Examination</span>"
