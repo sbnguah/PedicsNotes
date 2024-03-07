@@ -126,7 +126,7 @@ Predisposing conditions include:
 Generally, the affected limb looks deformed or swollen, and the baby barely moves it on account of
 pain
 
-#### Clavicle 
+#### Clavicle
 
 This is the most fractured bone during delivery; mostly during delivery of the shoulder in vertex
 and of the extended arms in the breech. Signs of a fracture may include no free arm movement on the
@@ -136,7 +136,7 @@ and shoulder as shown below.
 
 This is the first type of humeral fracture
 
-![Humeral Fracture (immobilised)](humeral-fracture-1.jpg){width="257"}
+![Humeral Fracture (immobilised)](neo-humeral-fracture.jpg){fig-align="center"}
 
 #### Humerus
 
@@ -157,3 +157,40 @@ width="226"}
 ![Femoral Fracture
 Splinting](neo-femuralfracture-splinting.jpg){fig-alt="Femoral Fracture Splinting"
 fig-align="center" width="300" height="250"}
+
+## Nerve injuries
+
+### Brachial plexus injuries
+
+The nerves of the brachial plexus may be compressed, stretched or torn in a difficult delivery.
+Paralysis occurs as a result of nerve compression from either haemorrhage or oedema. Permanent
+paralysis can occur from the tearing of the nerve or avulsion of the nerve root from the spinal cord
+or oedema. Erb's palsy (C5-C6) is the most common type of BPI and is associated with a lack of
+shoulder motion. The involved extremity lies adducted, prone, and internally rotated. Grasp reflex
+is usually present and prognosis is generally good. Also described as the Waiter's tip position.
+
+![Erb's Palsy](neo-erbs-palsy.jpg){fig-alt="Erb's Palsy" fig-align="center"}
+
+Klumpke's paralysis...(lower trunk)
+
+## Scalp Injuries
+
+### Cephalhematoma
+
+Tearing or disruption of the superficial veins under the periosteum leads to haemorrhage and
+subsequent swelling. Suture lines confine the cephalhematoma and limit the extent of the bleeding.
+There could be an underlying linear skull fracture. Prognosis is good with most of them resolving
+between 2 weeks to 3 months.
+
+![Cephalhematoma](neo-cephalhematoma.jpg){fig-alt="Cephalhematoma" fig-align="center"}
+
+### Subgaleal Hemorrhage
+
+The subgaleal space is located between the galea aponeurotica & the periosteum. The space extends
+from the orbital ridges to the nape of the neck and laterally to the ears. Bleeding is caused by
+damage to the large emissary veins located in the subaponeurotic layer. The bleeding associated with
+subgaleal haemorrhages can be extensive. Clinically, the baby may present with pallor and lethargy,
+followed by tachycardia, tachypnea and hypotension. The scalp may appear tight and boggy and
+complications include anemia, hypovolemic shock and jaundice.
+
+![Subgaleal Bleed](neo-subgaleal-bleed.jpg){fig-alt="Subgaleal Bleed" fig-align="center"}
