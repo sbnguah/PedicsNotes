@@ -136,7 +136,7 @@ and shoulder as shown below.
 
 This is the first type of humeral fracture
 
-![Humeral Fracture (immobilised)](humeral-fracture-1.jpg)
+![Humeral Fracture (immobilised)](humeral-fracture-1.jpg){width="257"}
 
 #### Humerus
 
@@ -152,7 +152,7 @@ swollen and may be reddened. The main mode of management involves splinting the 
 to below the knee.
 
 ![Femoral Fracture](neo-femural-fracture.jpg){fig-alt="Femoral Fracture" fig-align="center"
-width="301"}
+width="226"}
 
 ![Femoral Fracture
 Splinting](neo-femuralfracture-splinting.jpg){fig-alt="Femoral Fracture Splinting"
