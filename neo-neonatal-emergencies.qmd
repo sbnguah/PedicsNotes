@@ -171,7 +171,13 @@ is usually present and prognosis is generally good. Also described as the Waiter
 
 ![Erb's Palsy](neo-erbs-palsy.jpg){fig-alt="Erb's Palsy" fig-align="center"}
 
-Klumpke's paralysis...(lower trunk)
+### Klumpke's paralysis
+
+### Facial nerve paralysis
+
+Loss of voluntary muscle movement in the face on account of pressure on the facial nerve during the
+delivery process. Risk factors include instrumental delivery, poor delivery skills, big baby etc.
+Usually resolves spontaneously after a few months
 
 ## Scalp Injuries
 
@@ -194,3 +200,35 @@ followed by tachycardia, tachypnea and hypotension. The scalp may appear tight a
 complications include anemia, hypovolemic shock and jaundice.
 
 ![Subgaleal Bleed](neo-subgaleal-bleed.jpg){fig-alt="Subgaleal Bleed" fig-align="center"}
+
+## Visceral injuries
+
+### Liver and spleen
+
+Usually results from pressure on the liver during delivery of the head in breech presentations. Risk
+factors include macrosomia, intrauterine asphyxia, extreme prematurity, and hepatomegaly
+
+## Respiratory Distress
+
+### Meconium aspiration syndrome
+
+Fetuses sometimes pass meconium whilst in utero as a result of some form of stress. If the stress
+has been going on for a while and the fetus has been passing meconium for a few days, the cord, skin
+and nails may be stained. Occurs when the fetus passes meconium into the surrounding liquor and then
+aspirates this into the lungs. Tends to happen in term and post-date babies. Distressed fetuses tend
+to pass meconium either just before or during the delivery process. The smaller the amniotic fluid
+volume, and the more meconium the baby passes, the thicker the fluid and the more dangerous it
+becomes if aspirated.
+
+History of Pregnancy and delivery looking for predisposing factors such as fetal distress,
+post-maturity, meconium-stained liquor etc. Physical examination looking for signs of
+meconium-staining on the baby, and evidence of respiratory distress (fast breathing, chest
+indrawing, cyanosis etc.). Investigations include FBC, Blood C&S, and sometimes a chest X-ray
+depending on the severity. Management is mainly supportive. Includes antibiotics, respiratory
+support, supportive treatment, IVFs and nutrition.
+
+### Transient tachypnoea of the newborn
+
+Caused by delay in clearance of fetal lung fluid. Typically resolves within 72 hours. Often
+associated with Caesarean Section Delivery. Severity varies but is often mild with just tachypnoea.
+Management involves supportive treatment of the respiratory with oxygen.

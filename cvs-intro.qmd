@@ -1,9 +1,9 @@
 ---
-title: "Anatomy, physiology & Pathology"
+title: "Anatomy, Physiology & Pathology"
 author: "Dr Samuel Blay Nguah"
 ---
 
-## Anatomy, physiology and Pathology
+## Anatomy
 
 The heart is located in the mediastinum of the chest, bounded anteriorly by the sternum, posteriorly
 by the spine and laterally by the lungs. Externally, the right ventricle is anterior. Most of the
@@ -30,7 +30,8 @@ The heart has an inherent electrical system that automatically depolarises it. T
     it further
 3.  His-purkinje fibre system. Responsible for the spread of electrical impulses to the ventricles
 
-**Heart as a pump**\
+## **Heart as a pump**
+
 There is a difference in the pumping action of the heart in utero and after birth.
 
 1.  Fetal
@@ -42,7 +43,7 @@ There is a difference in the pumping action of the heart in utero and after birt
     -   Gradual fall in pulmonary pressure (over 6 weeks)
     -   The left ventricle does most of the work and becomes thicker than the right
 
-**Systolic and diastolic functions**
+## **Systolic and diastolic functions**
 
 *Systole*: This is the contractile phase of the heart. It starts with the atrium so it empties into
 the ventricles before the ventricle's subsequent contract.
@@ -53,11 +54,11 @@ with the atrium and then the ventricles.
 *Compliance*: This describes how easily the heart chamber relaxes in response to the inflow of
 blood.
 
-**Cardiac Pressures**
+## **Cardiac Pressures**
 
 The pressures in the heart vary for different ages and individuals. Generally, the pressure in the
-atria are lower than that in the ventricles. Also, the pea systolic pressure in the left ventricle
-is higher than in the right. The diastolic pressure in the left ventricle is however lower than the
+atria is lower than that in the ventricles. Also, the pea systolic pressure in the left ventricle is
+higher than in the right. The diastolic pressure in the left ventricle is however lower than the
 right ventricle. In the typical adult heart, the following pressures are often observed. Also, both
 systolic and diastolic pressure in the aorta is higher than that in the pulmonary artery.
 

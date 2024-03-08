@@ -5,7 +5,7 @@ project:
 book:
   cover-image: pedics-notes-cover.jpg
   favicon: pedics-notes-cover.jpg
-  reader-mode: true
+  reader-mode: false
   page-navigation: true
   cover-image-alt: "Logo"
   title: "Pediatrics Notes"
