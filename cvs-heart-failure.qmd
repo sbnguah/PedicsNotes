@@ -38,7 +38,7 @@ cardiac malformations. There are 3 main groups of causes:
 
     -   Hypertension
     -   Aortic valve stenosis
-    -   Pulmonary  stenosis
+    -   Pulmonary stenosis
     -   Coarctation of the aorta
 
 In all these, the result is decreased cardiac output and pulmonary oedema.
@@ -50,22 +50,22 @@ presentations compared to older children. The classification of heart failure th
 The most well-known classification is the NYHA classification which is appropriate for older
 children. It is shown below:
 
-+-----------------------+--------------------------------------------------------------------------+
-| Class                 | Patient Symptoms                                                         |
-+=======================+==========================================================================+
-| Class I (Mild)        | No limitation on physical activity. Ordinary physical activity does not  |
-|                       | cause undue fatigue, palpitation or dyspnoea                             |
-+-----------------------+--------------------------------------------------------------------------+
-| Class II (Mild)       | Slight limitation of physical activity. Comfortable at rest but ordinary |
-|                       | physical activity results in fatigue, palpitation or dyspnoea            |
-+-----------------------+--------------------------------------------------------------------------+
-| Class III (Moderate)  | Marked limitation of physical activity. Comfortable at rest but less     |
-|                       | than ordinary physical activity causes fatigue, palpitation or dyspnoea  |
-+-----------------------+--------------------------------------------------------------------------+
-| Class IV (Severe)     | Unable to carry out any physical activity without discomfort. Symptoms   |
-|                       | of cardiac insufficiency at rest. If any physical activity is undertaken |
-|                       | discomfort is increased                                                  |
-+-----------------------+--------------------------------------------------------------------------+
++----------------------+---------------------------------------------------------------------------+
+| Class                | Patient Symptoms                                                          |
++======================+===========================================================================+
+| Class I (Mild)       | No limitation on physical activity. Ordinary physical activity does not   |
+|                      | cause undue fatigue, palpitation or dyspnoea                              |
++----------------------+---------------------------------------------------------------------------+
+| Class II (Mild)      | Slight limitation of physical activity. Comfortable at rest but ordinary  |
+|                      | physical activity results in fatigue, palpitation or dyspnoea             |
++----------------------+---------------------------------------------------------------------------+
+| Class III (Moderate) | Marked limitation of physical activity. Comfortable at rest but less than |
+|                      | ordinary physical activity causes fatigue, palpitation or dyspnoea        |
++----------------------+---------------------------------------------------------------------------+
+| Class IV (Severe)    | Unable to carry out any physical activity without discomfort. Symptoms of |
+|                      | cardiac insufficiency at rest. If any physical activity is undertaken     |
+|                      | discomfort is increased                                                   |
++----------------------+---------------------------------------------------------------------------+
 
 : NYHA Classification
 
@@ -92,3 +92,122 @@ children.
 +-----------------------+--------------------------------------------------------------------------+
 
 : Modified Ross Classification
+
+## Pathophysiology
+
+A schematic drawing of the various processes involved is shown below:
+
+```{mermaid}
+flowchart TD
+    A(Heart Failure: <br> - Low Cardiac Output <br> - Low blood pressure)-->B(Decreased organ perfusion <br> - Renal failure <br> - fatigue);
+    B-->C(Neurohemoral activation);
+    C-->D(Epinephrine <br> - Increased Heart Rate);
+    C-->E(Aldosterone: <br> - Sodium retention <br> - Water retention <br> - Oedema);
+    C-->F(Renin <br> - Increased afterload);
+    E-->G(Left Ventricular Remodeling);
+    F-->G;
+    A-->H(Lung Congestion: <br> - shortness of breath <br> - PND <br> - Orthopnea <br> - Cough)
+    A-->I(Liver Congestion: <br> - Liver failure)
+```
+
+## Signs and symptoms
+
+The symptoms of heart failure are variable and age-dependent. For infants, the symptoms include poor
+feeding, sweating with breastfeeding, prolonged feeding time, tachypnoea, poor weight gain and
+dyspnoea. For young children symptoms include recurrent respiratory tract infection, recurrent
+wheezing, fatigue, exercise intolerance, facial and recurrent cough. Older children have symptoms
+that more resemble those of adults. These include tachypnoea, tachycardia, recurrent wheezing, pedal
+swelling, palpitations, and vomiting.
+
+Signs of heart failure also vary with age. These include for infants, failure to thrive,
+tachycardia, tachypnoea, hepatomegaly, displaced apex (cardiomegaly), S3 gallop, oedema (pedal in
+older children and facial or abdominal distension in older children).
+
+## Investigation
+
+The investigations required are generally towards the likely underlying pathology. Some of them
+would include:
+
+**Chest x-ray**: This may show cardiomegaly, increased pulmonary lung markings, pulmonary oedema,
+pleural effusion and heart shape.
+
+**Electrocardiogram**: This helps to identify chamber enlargement and dysrhythmias that may be the
+cause or consequent to the heart failure
+
+**Echocardiogram**: This identifies and quantifies the function of the ventricle as well as the
+chamber sizes
+
+**Blood test**: The complete blood count helps to identify anaemia or polycethemia. The serum urea
+and creatinine identify possible renal dysfunction. Other tests include BNP (Brain Naturetic
+Peptide) and Troponin both of which are elevated in heart failure.
+
+Other investigatory modalities include Magnetic Resonance Imaging, Cardiac catheterization,
+
+## Treatment of Heart Failure
+
+This is done with some goals:
+
+1.  Improve the quality of life
+2.  Arrest and possibly reverse the heart failure
+3.  Sustain till other definitive therapeutic interventions are employed, including surgery.
+
+The treatment for heart failure is dependent on the pathophysiology, clinical features and stage of
+the disease.
+
+### Non-pharmacological treatment
+
+This includes Fluid restriction (in case of congestion) and fluid overload, intubation and/or
+mechanical ventilation to help support breathing and reduce the workload on the heart and patient.
+Heart transplantation is the last option in some cases of heart failure.
+
+### Pharmacological treatment
+
+Treatment depends on the clinical presentation and cause of the heart failure. There are 2 main
+groups to be considered:
+
+### Acute  decompensated heart failure
+
++-----------------------+--------------------------------------------------------------------------+
+| Drug                  | Action                                                                   |
++=======================+==========================================================================+
+| Diuretics             | Notable here is furosemide. The aim is to help decongest the lungs,      |
+|                       | reduce preload by vasodilatation and improve heart failure symptoms.     |
++-----------------------+--------------------------------------------------------------------------+
+| Inotropes             | These include adrenaline, noradrenaline, dopamine and dobutamine. They   |
+|                       | help improve the contractility of the heart, increase heart rate, and    |
+|                       | increase peripheral vascular resistance, thus maintaining the blood      |
+|                       | pressure and cardiac output. They are usually Intravenous medications.   |
++-----------------------+--------------------------------------------------------------------------+
+
+: Drugs used in acute decompensated heart failure
+
+### Chronic heart failure
+
+These are usually oral medications given to treat heart failure on an outpatient basis
+
++-----------------+----------------------------------------------------------------------+
+| Group           | Action                                                               |
++=================+======================================================================+
+| Diuretics       | These are given to decongest the lungs, liver and other edematous    |
+|                 | organs. The most commonly used is furosemide.                        |
++-----------------+----------------------------------------------------------------------+
+| Aldosterone     | These counteract the aldosterone effect of water and sodium          |
+| antagonists     | retention. They decrease afterload while helping in reversing        |
+|                 | cardiac remodelling.                                                 |
++-----------------+----------------------------------------------------------------------+
+| ACE-I/ARB       | Angiotensen converting enzyme inhibitors and Angiotensin II receptor |
+|                 | blockers counteract the renin effects of increasing afterload. They  |
+|                 | thus decrease the afterload and help reverse and prevent cardiac     |
+|                 | remodeling                                                           |
++-----------------+----------------------------------------------------------------------+
+| Digoxin         | This is probably the oldest anti-heart failure medication. It has    |
+|                 | negative chronotropic and positive inotropic effects. Thus           |
+|                 | increasing contractility and reducing heart rate.                    |
++-----------------+----------------------------------------------------------------------+
+
+: Drugs for chronic heart failure treatment
+
+## Complication
+
+Complications of heart failure include renal failure, hepatic failure, pulmonary hypertension,
+arrhythmia, and thromboembolic effects.
