@@ -130,28 +130,42 @@
     "href": "cvs-intro.html#anatomy",
     "title": "12  Anatomy, Physiology & Pathology",
     "section": "12.1 Anatomy",
-    "text": "12.1 Anatomy\nThe heart is located in the mediastinum of the chest, bounded anteriorly by the sternum, posteriorly by the spine and laterally by the lungs. Externally, the right ventricle is anterior. Most of the left ventricle, left atrium and right atrium are posterior. internally the right and left atria are separated by the tricuspid and mitral valves respectively. The arterial supply of the heart is through the coronary arteries while venous drainage is through the coronary sinus. The aorta and pulmonary arteries arise from the left and right ventricles. The heart has three layers:\n\nEndocardium: Inner epithelial layer of the heart\nMyocardium: Muscular part of the heart\nPericardium: Outer layers of the heart. Divided into the visceral and parietal pericardium.\n\nVenous blood enters the right atrium through the inferior and superior vena cavae. It empties in atrial systole into the right ventricle through the tricuspid valve. It then moves on through the pulmonary valve in ventricular systole, to the pulmonary artery and the the lungs. Blood returning from the lungs enters the right atrium through the four pulmonary veins. In atrial systole, it moves onto the left ventricle through the mitral valve. Finally, it empties into the aorta through the aortic valve.\nThe heart has an inherent electrical system that automatically depolarises it. The parts are:\n\nThe SinoAtrial (SA) node: This is the pacemaker of the heart and depolarises the two atria.\nAtrioVentricular (AV) node: Receives impulses from the SA node, delays a bit before propagating it further\nHis-purkinje fibre system. Responsible for the spread of electrical impulses to the ventricles"
+    "text": "12.1 Anatomy\nThe heart is located in the mediastinum of the chest, bounded anteriorly by the sternum, posteriorly by the spine and laterally by the lungs. Externally, the right ventricle is anterior. Most of the left ventricle, left atrium and right atrium are posterior. Internally, the right and left atria are separated by the tricuspid and mitral valves respectively. The arterial supply of the heart is through the coronary arteries while venous drainage is through the coronary sinus. The aorta and pulmonary arteries arise from the left and right ventricles. The heart has three layers:\n\nEndocardium: Inner epithelial layer of the heart\nMyocardium: Muscular part of the heart\nPericardium: Outer layers of the heart. Divided into the visceral and parietal pericardium.\n\nVenous blood enters the right atrium through the inferior and superior vena cavae. It empties in atrial systole into the right ventricle through the tricuspid valve. It then moves on through the pulmonary valve in ventricular systole, to the pulmonary artery and the the lungs. Blood returning from the lungs enters the right atrium through the four pulmonary veins. In atrial systole, it moves onto the left ventricle through the mitral valve. Finally, it empties into the aorta through the aortic valve."
+  },
+  {
+    "objectID": "cvs-intro.html#conduction-system",
+    "href": "cvs-intro.html#conduction-system",
+    "title": "12  Anatomy, Physiology & Pathology",
+    "section": "12.2 Conduction system",
+    "text": "12.2 Conduction system\nThe heart has an inherent electrical system that automatically depolarises it. The parts are:\n\nThe SinoAtrial (SA) node: This is the pacemaker of the heart and depolarises the two atria.\nAtrioVentricular (AV) node: Receives impulses from the SA node, delays a bit before propagating it further\nHis-purkinje fibre system. Responsible for the spread of electrical impulses to the ventricles"
   },
   {
     "objectID": "cvs-intro.html#heart-as-a-pump",
     "href": "cvs-intro.html#heart-as-a-pump",
     "title": "12  Anatomy, Physiology & Pathology",
-    "section": "12.2 Heart as a pump",
-    "text": "12.2 Heart as a pump\nThere is a difference in the pumping action of the heart in utero and after birth.\n\nFetal\n\nMost work is done by the Right ventricle\nThe right Ventricle is therefore relatively hypertrophic\nOnly 15% of the cardiac output is pumped into the lungs\n\nAfter birth\n\nGradual transition to Left ventricle dominance\nGradual fall in pulmonary pressure (over 6 weeks)\nThe left ventricle does most of the work and becomes thicker than the right"
+    "section": "12.3 Heart as a pump",
+    "text": "12.3 Heart as a pump\nThere is a difference in the pumping action of the heart in utero and after birth.\n\nFetal\n\nMost work is done by the Right ventricle\nThe right Ventricle is therefore relatively hypertrophic\nOnly 15% of the cardiac output is pumped into the lungs\n\nAfter birth\n\nGradual transition to Left ventricle dominance\nGradual fall in pulmonary pressure (over 6 weeks)\nThe left ventricle does most of the work and becomes thicker than the right"
   },
   {
     "objectID": "cvs-intro.html#systolic-and-diastolic-functions",
     "href": "cvs-intro.html#systolic-and-diastolic-functions",
     "title": "12  Anatomy, Physiology & Pathology",
-    "section": "12.3 Systolic and diastolic functions",
-    "text": "12.3 Systolic and diastolic functions\nSystole: This is the contractile phase of the heart. It starts with the atrium so it empties into the ventricles before the ventricle’s subsequent contract.\nDiastole: This is the relaxation phase where the heart relaxes and lets in blood. It also starts with the atrium and then the ventricles.\nCompliance: This describes how easily the heart chamber relaxes in response to the inflow of blood."
+    "section": "12.4 Systolic and diastolic functions",
+    "text": "12.4 Systolic and diastolic functions\nSystole: This is the contractile phase of the heart. It starts with the atrium so it empties into the ventricles before the ventricle’s subsequent contract.\nDiastole: This is the relaxation phase where the heart relaxes and lets in blood. It also starts with the atrium and then the ventricles.\nCompliance: This describes how easily the heart chamber relaxes in response to the inflow of blood."
   },
   {
-    "objectID": "cvs-intro.html#cardiac-pressures",
-    "href": "cvs-intro.html#cardiac-pressures",
+    "objectID": "cvs-intro.html#intracardiac-pressures",
+    "href": "cvs-intro.html#intracardiac-pressures",
     "title": "12  Anatomy, Physiology & Pathology",
-    "section": "12.4 Cardiac Pressures",
-    "text": "12.4 Cardiac Pressures\nThe pressures in the heart vary for different ages and individuals. Generally, the pressure in the atria is lower than that in the ventricles. Also, the pea systolic pressure in the left ventricle is higher than in the right. The diastolic pressure in the left ventricle is however lower than the right ventricle. In the typical adult heart, the following pressures are often observed. Also, both systolic and diastolic pressure in the aorta is higher than that in the pulmonary artery.\nSystolic pressure in general is generated by the ventricles. In conditions such as coarctation of the aorta, aortic stenosis and pulmonary hypertension, the ventricles end up increasing their workload to generate enough pressure. The diastolic pressure on the other hand is maintained by the closure of the aortic and pulmonary valves. Thus incompetent pulmonary or aortic valve leads to a decrease in diastolic pressure in the the tow vessels respectively."
+    "section": "12.5 Intracardiac Pressures",
+    "text": "12.5 Intracardiac Pressures\nThe pressures in the heart vary for different ages and individuals. Generally, the pressure in the atria is lower than that in the ventricles. Also, the peak systolic pressure in the left ventricle is higher than in the right. The diastolic pressure in the left ventricle is however lower than the right ventricle. In the typical adult heart, the following pressures are often observed. Also, both systolic and diastolic pressure in the aorta is higher than that in the pulmonary artery.\nSystolic pressure in general is generated by the ventricles. In conditions such as coarctation of the aorta, aortic stenosis and pulmonary hypertension, the ventricles increase their workload to generate enough pressure. The diastolic pressure on the other hand is maintained by the closure of the aortic and pulmonary valves. Thus incompetent pulmonary or aortic valve leads to a decrease in diastolic pressure in the the tow vessels respectively."
+  },
+  {
+    "objectID": "cvs-intro.html#fetal-circulation",
+    "href": "cvs-intro.html#fetal-circulation",
+    "title": "12  Anatomy, Physiology & Pathology",
+    "section": "12.6 Fetal circulation",
+    "text": "12.6 Fetal circulation\nThe heart begins developing in the fetus as the cardiogenic area and primitive blood vessels as early as 18 days old. By 20 days the paired endocardial tubes are formed. By day 35 the heart would have completed its looping with blood already flowing through.\nThree main shunts exist in the fetal circulation. These are adaptations to using the placenta rather than the lungs for oxygenation. These shunts are the ductus venosus, ductus arteriosus and patent foramen. At birth, these shunts regress, The ductus venosus regresses quickly to form the ligamentum arteriosus. The foramen ovale closes at birth physiologically but may take years to close anatomically. The patent ductus arteriosus closes soon after birth but can physiologically stay open for 72 hours. Beyond this period it is considered to be pathologic if it continues to stay open. Patent ductus arteriosus are quite common in preterm newborns."
   },
   {
     "objectID": "cvs-heart-failure.html#definition",
@@ -179,7 +193,7 @@
     "href": "cvs-heart-failure.html#pathophysiology",
     "title": "14  Heart Failure",
     "section": "14.4 Pathophysiology",
-    "text": "14.4 Pathophysiology\nA schematic drawing of the various processes involved is shown below:\n\n\n\n\nflowchart TD\n    A(Heart Failure: &lt;br&gt; - Low Cardiac Output &lt;br&gt; - Low blood pressure)--&gt;B(Decreased organ perfusion &lt;br&gt; - Renal failure &lt;br&gt; - fatigue);\n    B--&gt;C(Neurohemoral activation);\n    C--&gt;D(Epinephrine &lt;br&gt; - Increased Heart Rate);\n    C--&gt;E(Aldosterone: &lt;br&gt; - Sodium retention &lt;br&gt; - Water retention &lt;br&gt; - Oedema);\n    C--&gt;F(Renin &lt;br&gt; - Increased afterload);\n    E--&gt;G(Left Ventricular Remodeling);\n    F--&gt;G;\n    A--&gt;H(Lung Congestion: &lt;br&gt; - shortness of breath &lt;br&gt; - PND &lt;br&gt; - Orthopnea &lt;br&gt; - Cough)\n    A--&gt;I(Liver Congestion: &lt;br&gt; - Liver failure)"
+    "text": "14.4 Pathophysiology\nA schematic drawing of the various processes involved is shown below:\n\n\n\n\nflowchart TD\n    A(Heart Failure: &lt;br&gt; - Low Cardiac Output &lt;br&gt; - Low blood pressure)--&gt;B(Decreased organ perfusion &lt;br&gt; - Renal failure &lt;br&gt; - fatigue);\n    B--&gt;C(Neurohemoral activation);\n    C--&gt;D(Epinephrine &lt;br&gt; - Increased Heart Rate);\n    C--&gt;E(Aldosterone: &lt;br&gt; - Sodium retention &lt;br&gt; - Water retention &lt;br&gt; - Oedema);\n    C--&gt;F(Renin &lt;br&gt; - Increased afterload);\n    E--&gt;G(Left Ventricular Remodeling);\n    F--&gt;G;\n    A--&gt;H(Lung Congestion: &lt;br&gt; - shortness of breath &lt;br&gt; - PND &lt;br&gt; - Orthopnea &lt;br&gt; - Cough)\n    A--&gt;I(Liver Congestion: &lt;br&gt; - Liver failure);\n    G--&gt;A;\n    D--&gt;G"
   },
   {
     "objectID": "cvs-heart-failure.html#signs-and-symptoms",

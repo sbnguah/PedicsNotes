@@ -50,22 +50,22 @@ presentations compared to older children. The classification of heart failure th
 The most well-known classification is the NYHA classification which is appropriate for older
 children. It is shown below:
 
-+----------------------+---------------------------------------------------------------------------+
-| Class                | Patient Symptoms                                                          |
-+======================+===========================================================================+
-| Class I (Mild)       | No limitation on physical activity. Ordinary physical activity does not   |
-|                      | cause undue fatigue, palpitation or dyspnoea                              |
-+----------------------+---------------------------------------------------------------------------+
-| Class II (Mild)      | Slight limitation of physical activity. Comfortable at rest but ordinary  |
-|                      | physical activity results in fatigue, palpitation or dyspnoea             |
-+----------------------+---------------------------------------------------------------------------+
-| Class III (Moderate) | Marked limitation of physical activity. Comfortable at rest but less than |
-|                      | ordinary physical activity causes fatigue, palpitation or dyspnoea        |
-+----------------------+---------------------------------------------------------------------------+
-| Class IV (Severe)    | Unable to carry out any physical activity without discomfort. Symptoms of |
-|                      | cardiac insufficiency at rest. If any physical activity is undertaken     |
-|                      | discomfort is increased                                                   |
-+----------------------+---------------------------------------------------------------------------+
++-----------------------+--------------------------------------------------------------------------+
+| Class                 | Patient Symptoms                                                         |
++=======================+==========================================================================+
+| Class I (Mild)        | No limitation on physical activity. Ordinary physical activity does not  |
+|                       | cause undue fatigue, palpitation or dyspnoea                             |
++-----------------------+--------------------------------------------------------------------------+
+| Class II (Mild)       | Slight limitation of physical activity. Comfortable at rest but ordinary |
+|                       | physical activity results in fatigue, palpitation or dyspnoea            |
++-----------------------+--------------------------------------------------------------------------+
+| Class III (Moderate)  | Marked limitation of physical activity. Comfortable at rest but less     |
+|                       | than ordinary physical activity causes fatigue, palpitation or dyspnoea  |
++-----------------------+--------------------------------------------------------------------------+
+| Class IV (Severe)     | Unable to carry out any physical activity without discomfort. Symptoms   |
+|                       | of cardiac insufficiency at rest. If any physical activity is undertaken |
+|                       | discomfort is increased                                                  |
++-----------------------+--------------------------------------------------------------------------+
 
 : NYHA Classification
 
@@ -107,7 +107,9 @@ flowchart TD
     E-->G(Left Ventricular Remodeling);
     F-->G;
     A-->H(Lung Congestion: <br> - shortness of breath <br> - PND <br> - Orthopnea <br> - Cough)
-    A-->I(Liver Congestion: <br> - Liver failure)
+    A-->I(Liver Congestion: <br> - Liver failure);
+    G-->A;
+    D-->G
 ```
 
 ## Signs and symptoms
@@ -165,7 +167,7 @@ Heart transplantation is the last option in some cases of heart failure.
 Treatment depends on the clinical presentation and cause of the heart failure. There are 2 main
 groups to be considered:
 
-### Acute  decompensated heart failure
+### Acute decompensated heart failure
 
 +-----------------------+--------------------------------------------------------------------------+
 | Drug                  | Action                                                                   |
@@ -185,25 +187,23 @@ groups to be considered:
 
 These are usually oral medications given to treat heart failure on an outpatient basis
 
-+-----------------+----------------------------------------------------------------------+
-| Group           | Action                                                               |
-+=================+======================================================================+
-| Diuretics       | These are given to decongest the lungs, liver and other edematous    |
-|                 | organs. The most commonly used is furosemide.                        |
-+-----------------+----------------------------------------------------------------------+
-| Aldosterone     | These counteract the aldosterone effect of water and sodium          |
-| antagonists     | retention. They decrease afterload while helping in reversing        |
-|                 | cardiac remodelling.                                                 |
-+-----------------+----------------------------------------------------------------------+
-| ACE-I/ARB       | Angiotensen converting enzyme inhibitors and Angiotensin II receptor |
-|                 | blockers counteract the renin effects of increasing afterload. They  |
-|                 | thus decrease the afterload and help reverse and prevent cardiac     |
-|                 | remodeling                                                           |
-+-----------------+----------------------------------------------------------------------+
-| Digoxin         | This is probably the oldest anti-heart failure medication. It has    |
-|                 | negative chronotropic and positive inotropic effects. Thus           |
-|                 | increasing contractility and reducing heart rate.                    |
-+-----------------+----------------------------------------------------------------------+
++---------------------+----------------------------------------------------------------------------+
+| Group               | Action                                                                     |
++=====================+============================================================================+
+| Diuretics           | These are given to decongest the lungs, liver and other edematous organs.  |
+|                     | The most commonly used is furosemide.                                      |
++---------------------+----------------------------------------------------------------------------+
+| Aldosterone         | These counteract the aldosterone effect of water and sodium retention.     |
+| antagonists         | They decrease afterload while helping in reversing cardiac remodelling.    |
++---------------------+----------------------------------------------------------------------------+
+| ACE-I/ARB           | Angiotensen converting enzyme inhibitors and Angiotensin II receptor       |
+|                     | blockers counteract the renin effects of increasing afterload. They thus   |
+|                     | decrease the afterload and help reverse and prevent cardiac remodeling     |
++---------------------+----------------------------------------------------------------------------+
+| Digoxin             | This is probably the oldest anti-heart failure medication. It has negative |
+|                     | chronotropic and positive inotropic effects. Thus increasing contractility |
+|                     | and reducing heart rate.                                                   |
++---------------------+----------------------------------------------------------------------------+
 
 : Drugs for chronic heart failure treatment
 
