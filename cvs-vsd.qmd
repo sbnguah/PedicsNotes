@@ -2,3 +2,62 @@
 title: "Ventricular Septal Defect"
 author: "Dr Samuel Blay Nguah"
 ---
+
+## Introduction
+
+This is the most common Congenital Heart Disease (CHD), being seen in about 15-20% of all CHDs. They
+occur in different anatomical locations. The most common is the peri-membranous. Others are inlet,
+outlet and infundibular. They also occur in different shapes and sizes.
+
+## Pathophysiology
+
+Typically a VSD without the presence of another congenital malformation results in a left to right
+ventricle shutning lesion because of the pressure difference. Thus, a VSD is usually an acyanotic
+congenital heart lesion. This leads to a volume overload of the pulmonary artery, lungs, left atrium
+and left ventricle. These chambers subsequently dilated. Pulmonary edema develops from lung
+congestion leading to signs of heart failure.
+
+Secondly, depending on the size of the defect the pressure in the left ventricle will get
+transmitted to the right. How much pressure is transmitted depends on the size of the defect with
+bigger defects transmitting more than smaller ones. This can result in increased right ventricular
+pressure, and hypertrophy. It also worsens the pulmonary oedema already mentioned above.
+
+Persistent pressure and volume overload cause remodelling of the pulmonary vasculature, resulting in
+permanent changes and pulmonary hypertension. When the pulmonary pressure rises significantly higher
+than the systemic pressure, a reversal of the shunt results, leading to decreased oxygen saturation.
+
+## Clinical presentation
+
+The clinical presentation of VSDs is variable depending on the size and position.
+
+### Position
+
+A perimenbranous VSD for instance will of comparable size to a muscular VSD and may exhibit more
+signs of heart failure compared to one that is mid-muscular or apical.
+
+### Size
+
+Generally, the sizes of VSDs determine the extent of the volume and pressure overload of the right
+heart and lungs. Larger ones result in relatively higher pressure and volume.
+
+**Small**
+
+Small VSDs are usually asymptomatic with no volume or pressure overload of the lung, pulmonary
+artery and right heart.
+
+**Moderate**
+
+Moderate-sized VSDs are usually accompanied by some volume and pressure overload. They are thus
+often accompanied by some heart failure and recurrent lower respiratory infections.
+
+**Large**
+
+Large defects are accompanied by severe volume and pressure overload. They present with persistent
+heart failure and failure to thrive, exercise intolerance. when longstanding, they often end up with
+significant pulmonary hypertension.
+
+## Investigations
+
+## Management
+
+## Prognosis
