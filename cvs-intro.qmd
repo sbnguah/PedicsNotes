@@ -8,9 +8,10 @@ author: "Dr Samuel Blay Nguah"
 The heart is located in the mediastinum of the chest, bounded anteriorly by the sternum, posteriorly
 by the spine and laterally by the lungs. Externally, the right ventricle is anterior. Most of the
 left ventricle, left atrium and right atrium are posterior. Internally, the right and left atria are
-separated by the tricuspid and mitral valves respectively. The arterial supply of the heart is
-through the coronary arteries while venous drainage is through the coronary sinus. The aorta and
-pulmonary arteries arise from the left and right ventricles. The heart has three layers:
+separated by the tricuspid and mitral valves from the right and left ventricles respectively. The
+arterial supply of the heart is through the coronary arteries while venous drainage is through the
+coronary sinus. The aorta and pulmonary arteries arise from the left and right ventricles. The heart
+has three layers:
 
 1.  Endocardium: Inner epithelial layer of the heart
 2.  Myocardium: Muscular part of the heart
@@ -18,37 +19,40 @@ pulmonary arteries arise from the left and right ventricles. The heart has three
 
 Venous blood enters the right atrium through the inferior and superior vena cavae. It empties in
 atrial systole into the right ventricle through the tricuspid valve. It then moves on through the
-pulmonary valve in ventricular systole, to the pulmonary artery and the the lungs. Blood returning
-from the lungs enters the right atrium through the four pulmonary veins. In atrial systole, it moves
-onto the left ventricle through the mitral valve. Finally, it empties into the aorta through the
+pulmonary valve in ventricular systole, to the pulmonary artery and then the lungs. Blood returning
+from the lungs enters the left atrium through the four pulmonary veins. In atrial systole, it moves
+into the left ventricle through the mitral valve. Finally, it empties into the aorta through the
 aortic valve.
 
 ## Conduction system
 
-The heart has an inherent electrical system that automatically depolarises it. The parts are:
+The heart has an inherent electrical system that automatically paces and conducts depolarization
+throughout it. The parts are:
 
-1.  The SinoAtrial (SA) node: This is the pacemaker of the heart and depolarises the two atria.
-2.  AtrioVentricular (AV) node: Receives impulses from the SA node, delays a bit before propagating
-    it further
-3.  His-purkinje fibre system. Responsible for the spread of electrical impulses to the ventricles
+1.  *Sinoatrial (SA) node*: This is the pacemaker of the heart and depolarizes the two atria.
+2.  *Atrioventricular (AV) node*: Receives impulses from the SA node, and delays a bit before
+    propagating it further.
+3.  *His-purkinje fibre* system: Responsible for the spread of electrical impulses to the ventricles
 
 ## **Heart as a pump**
 
 There is a difference in the pumping action of the heart in utero and after birth.
 
 1.  Fetal
-    -   Most work is done by the Right ventricle
+    -   Most work is done by the right ventricle
     -   The right Ventricle is therefore relatively hypertrophic
     -   Only 15% of the cardiac output is pumped into the lungs
 2.  After birth
     -   Gradual transition to Left ventricle dominance
     -   Gradual fall in pulmonary pressure (over 6 weeks)
-    -   The left ventricle does most of the work and becomes thicker than the right
+    -   The left ventricle does most of the work and becomes more hypertrophic than the right
 
 ## **Systolic and diastolic functions**
 
-*Systole*: This is the contractile phase of the heart. It starts with the atrium so it empties into
-the ventricles before the ventricle's subsequent contract.
+*Systole*: This is the contractile phase of the heart. It starts after the atria is filled with
+blood. The atria then contract, emptying its content into the ventricles. At this stage, the
+ventricle also undergoes systole, which further empties the blood into the aorta and pulmonary
+arteries.
 
 *Diastole*: This is the relaxation phase where the heart relaxes and lets in blood. It also starts
 with the atrium and then the ventricles.
@@ -58,17 +62,17 @@ blood.
 
 ## **Intracardiac Pressures**
 
-The pressures in the heart vary for different ages and individuals. Generally, the pressure in the
-atria is lower than that in the ventricles. Also, the peak systolic pressure in the left ventricle
-is higher than in the right. The diastolic pressure in the left ventricle is however lower than the
-right ventricle. In the typical adult heart, the following pressures are often observed. Also, both
-systolic and diastolic pressure in the aorta is higher than that in the pulmonary artery.
+The pressures in the heart vary for different ages and individuals. Generally, the pressures in the
+atria are lower than the ventricles. Also, the peak systolic pressure in the left ventricle is
+higher than in the right. The diastolic pressure in the left ventricle is however lower than the
+right ventricle. Also, both systolic and diastolic pressures in the aorta are higher than that in
+the pulmonary artery.
 
 Systolic pressure in general is generated by the ventricles. In conditions such as coarctation of
 the aorta, aortic stenosis and pulmonary hypertension, the ventricles increase their workload to
 generate enough pressure. The diastolic pressure on the other hand is maintained by the closure of
-the aortic and pulmonary valves. Thus incompetent pulmonary or aortic valve leads to a decrease in
-diastolic pressure in the the tow vessels respectively.
+the aortic and pulmonary valves. Thus, an incompetent pulmonary or aortic valve leads to a decrease
+in diastolic pressure in the two vessels respectively.
 
 ## Fetal circulation
 
@@ -78,8 +82,35 @@ have completed its looping with blood already flowing through.
 
 Three main shunts exist in the fetal circulation. These are adaptations to using the placenta rather
 than the lungs for oxygenation. These shunts are the ductus venosus, ductus arteriosus and patent
-foramen. At birth, these shunts regress, The ductus venosus regresses quickly to form the ligamentum
+foramen. At birth, these shunts regress. The ductus venosus regresses quickly to form the ligamentum
 arteriosus. The foramen ovale closes at birth physiologically but may take years to close
 anatomically. The patent ductus arteriosus closes soon after birth but can physiologically stay open
 for 72 hours. Beyond this period it is considered to be pathologic if it continues to stay open.
 Patent ductus arteriosus are quite common in preterm newborns.
+
+## Pathologic classification
+
+The pathology of pediatric cardiac disorders varies. Broadly, they can be divided into these:
+
+1.  ***Congenital heart disorders***: These are cardiac conditions that a child is born with. Thus
+    they are present at birth. They form about 85% of all pediatric heart diseases seen in the Komfo
+    Anokye Teaching Hospital (KATH). It is further divided into:
+
+    -   *Acyanotic*: These are congenital heart diseases that are traditionally not known to be
+        associated with cyanosis. Examples include ventricular septal defect (VSD), Atrial Septal
+        Defect (ASD) and Patent Ductus Arteriosus (PDA)
+
+    -   *Cyanotic*: These on the other hand are associated with cyanosis and include Tetralogy of
+        Fallot (ToF), Truncus Arteriosus and Tricuspid Atresia.
+
+2.  ***Acquired heart disorders***: These are heart conditions that are not present at birth but
+    develop afterwards. They include Infective Endocarditis (IE), Rheumatic Heart Disease (RHD) and
+    Endomyocardial Fibrosis (EMF)
+
+3.  ***Rhythm disorders***: This set of disorders can present as either congenital or acquired. They
+    affect the electrical system of the heart leading to an increase in heart rate
+    (tachyarrhythmia), decrease in heart rate (bradyarrhythmia) or even normal heart rate.
+
+4.  ***Secondary cardiac disorders***: Some pathologies tend to affect the heart as a complication.
+    Such conditions include some glycogen storage disorders resulting in cardiomyopathy and
+    Rheumatoid arthritis resulting in pericardial effusion.

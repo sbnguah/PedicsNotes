@@ -5,17 +5,17 @@ author: "Dr Samuel Blay Nguah"
 
 ## Introduction
 
-This is the most common Congenital Heart Disease (CHD), being seen in about 15-20% of all CHDs. They
-occur in different anatomical locations. The most common is the peri-membranous. Others are inlet,
-outlet and infundibular. They also occur in different shapes and sizes.
+This is the most common Congenital Heart Disease (CHD), being seen in about 15-20% of all CHDs. VSD
+occurs in different anatomical locations. The most common is the peri-membranous. Others are inlet,
+outlet, muscular and infundibular. They also occur in different shapes and sizes as well.
 
 ## Pathophysiology
 
-Typically a VSD without the presence of another congenital malformation results in a left to right
-ventricle shutning lesion because of the pressure difference. Thus, a VSD is usually an acyanotic
-congenital heart lesion. This leads to a volume overload of the pulmonary artery, lungs, left atrium
-and left ventricle. These chambers subsequently dilated. Pulmonary edema develops from lung
-congestion leading to signs of heart failure.
+Typically VSD without the presence of another congenital heart malformation results in a left to
+right ventricle shunting lesion because of the pressure difference. Thus, a VSD is usually an
+acyanotic congenital heart lesion. This leads to a volume overload of the pulmonary artery, lungs,
+left atrium and left ventricle. These chambers subsequently dilated. Pulmonary edema develops from
+lung congestion leading to signs of heart failure.
 
 Secondly, depending on the size of the defect the pressure in the left ventricle will get
 transmitted to the right. How much pressure is transmitted depends on the size of the defect with
@@ -28,12 +28,12 @@ than the systemic pressure, a reversal of the shunt results, leading to decrease
 
 ## Clinical presentation
 
-The clinical presentation of VSDs is variable depending on the size and position.
+The clinical presentation of VSDs is variable and depends on the size and position.
 
 ### Position
 
-A perimenbranous VSD for instance will of comparable size to a muscular VSD and may exhibit more
-signs of heart failure compared to one that is mid-muscular or apical.
+A perimembranous VSD of comparable size may exhibit more signs of heart failure compared to one that
+is mid-muscular or apical.
 
 ### Size
 
@@ -47,8 +47,8 @@ artery and right heart.
 
 **Moderate**
 
-Moderate-sized VSDs are usually accompanied by some volume and pressure overload. They are thus
-often accompanied by some heart failure and recurrent lower respiratory infections.
+Some volume and pressure overload usually accompanies moderate-sized VSDs. They are thus often
+accompanied by some heart failure and recurrent lower respiratory infections.
 
 **Large**
 

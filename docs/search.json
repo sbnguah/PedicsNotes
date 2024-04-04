@@ -130,42 +130,70 @@
     "href": "cvs-intro.html#anatomy",
     "title": "12  Anatomy, Physiology & Pathology",
     "section": "12.1 Anatomy",
-    "text": "12.1 Anatomy\nThe heart is located in the mediastinum of the chest, bounded anteriorly by the sternum, posteriorly by the spine and laterally by the lungs. Externally, the right ventricle is anterior. Most of the left ventricle, left atrium and right atrium are posterior. Internally, the right and left atria are separated by the tricuspid and mitral valves respectively. The arterial supply of the heart is through the coronary arteries while venous drainage is through the coronary sinus. The aorta and pulmonary arteries arise from the left and right ventricles. The heart has three layers:\n\nEndocardium: Inner epithelial layer of the heart\nMyocardium: Muscular part of the heart\nPericardium: Outer layers of the heart. Divided into the visceral and parietal pericardium.\n\nVenous blood enters the right atrium through the inferior and superior vena cavae. It empties in atrial systole into the right ventricle through the tricuspid valve. It then moves on through the pulmonary valve in ventricular systole, to the pulmonary artery and the the lungs. Blood returning from the lungs enters the right atrium through the four pulmonary veins. In atrial systole, it moves onto the left ventricle through the mitral valve. Finally, it empties into the aorta through the aortic valve."
+    "text": "12.1 Anatomy\nThe heart is located in the mediastinum of the chest, bounded anteriorly by the sternum, posteriorly by the spine and laterally by the lungs. Externally, the right ventricle is anterior. Most of the left ventricle, left atrium and right atrium are posterior. Internally, the right and left atria are separated by the tricuspid and mitral valves from the right and left ventricles respectively. The arterial supply of the heart is through the coronary arteries while venous drainage is through the coronary sinus. The aorta and pulmonary arteries arise from the left and right ventricles. The heart has three layers:\n\nEndocardium: Inner epithelial layer of the heart\nMyocardium: Muscular part of the heart\nPericardium: Outer layers of the heart. Divided into the visceral and parietal pericardium.\n\nVenous blood enters the right atrium through the inferior and superior vena cavae. It empties in atrial systole into the right ventricle through the tricuspid valve. It then moves on through the pulmonary valve in ventricular systole, to the pulmonary artery and then the lungs. Blood returning from the lungs enters the left atrium through the four pulmonary veins. In atrial systole, it moves into the left ventricle through the mitral valve. Finally, it empties into the aorta through the aortic valve."
   },
   {
     "objectID": "cvs-intro.html#conduction-system",
     "href": "cvs-intro.html#conduction-system",
     "title": "12  Anatomy, Physiology & Pathology",
     "section": "12.2 Conduction system",
-    "text": "12.2 Conduction system\nThe heart has an inherent electrical system that automatically depolarises it. The parts are:\n\nThe SinoAtrial (SA) node: This is the pacemaker of the heart and depolarises the two atria.\nAtrioVentricular (AV) node: Receives impulses from the SA node, delays a bit before propagating it further\nHis-purkinje fibre system. Responsible for the spread of electrical impulses to the ventricles"
+    "text": "12.2 Conduction system\nThe heart has an inherent electrical system that automatically paces and conducts depolarization throughout it. The parts are:\n\nSinoatrial (SA) node: This is the pacemaker of the heart and depolarizes the two atria.\nAtrioventricular (AV) node: Receives impulses from the SA node, and delays a bit before propagating it further.\nHis-purkinje fibre system: Responsible for the spread of electrical impulses to the ventricles"
   },
   {
     "objectID": "cvs-intro.html#heart-as-a-pump",
     "href": "cvs-intro.html#heart-as-a-pump",
     "title": "12  Anatomy, Physiology & Pathology",
     "section": "12.3 Heart as a pump",
-    "text": "12.3 Heart as a pump\nThere is a difference in the pumping action of the heart in utero and after birth.\n\nFetal\n\nMost work is done by the Right ventricle\nThe right Ventricle is therefore relatively hypertrophic\nOnly 15% of the cardiac output is pumped into the lungs\n\nAfter birth\n\nGradual transition to Left ventricle dominance\nGradual fall in pulmonary pressure (over 6 weeks)\nThe left ventricle does most of the work and becomes thicker than the right"
+    "text": "12.3 Heart as a pump\nThere is a difference in the pumping action of the heart in utero and after birth.\n\nFetal\n\nMost work is done by the right ventricle\nThe right Ventricle is therefore relatively hypertrophic\nOnly 15% of the cardiac output is pumped into the lungs\n\nAfter birth\n\nGradual transition to Left ventricle dominance\nGradual fall in pulmonary pressure (over 6 weeks)\nThe left ventricle does most of the work and becomes more hypertrophic than the right"
   },
   {
     "objectID": "cvs-intro.html#systolic-and-diastolic-functions",
     "href": "cvs-intro.html#systolic-and-diastolic-functions",
     "title": "12  Anatomy, Physiology & Pathology",
     "section": "12.4 Systolic and diastolic functions",
-    "text": "12.4 Systolic and diastolic functions\nSystole: This is the contractile phase of the heart. It starts with the atrium so it empties into the ventricles before the ventricle’s subsequent contract.\nDiastole: This is the relaxation phase where the heart relaxes and lets in blood. It also starts with the atrium and then the ventricles.\nCompliance: This describes how easily the heart chamber relaxes in response to the inflow of blood."
+    "text": "12.4 Systolic and diastolic functions\nSystole: This is the contractile phase of the heart. It starts after the atria is filled with blood. The atria then contract, emptying its content into the ventricles. At this stage, the ventricle also undergoes systole, which further empties the blood into the aorta and pulmonary arteries.\nDiastole: This is the relaxation phase where the heart relaxes and lets in blood. It also starts with the atrium and then the ventricles.\nCompliance: This describes how easily the heart chamber relaxes in response to the inflow of blood."
   },
   {
     "objectID": "cvs-intro.html#intracardiac-pressures",
     "href": "cvs-intro.html#intracardiac-pressures",
     "title": "12  Anatomy, Physiology & Pathology",
     "section": "12.5 Intracardiac Pressures",
-    "text": "12.5 Intracardiac Pressures\nThe pressures in the heart vary for different ages and individuals. Generally, the pressure in the atria is lower than that in the ventricles. Also, the peak systolic pressure in the left ventricle is higher than in the right. The diastolic pressure in the left ventricle is however lower than the right ventricle. In the typical adult heart, the following pressures are often observed. Also, both systolic and diastolic pressure in the aorta is higher than that in the pulmonary artery.\nSystolic pressure in general is generated by the ventricles. In conditions such as coarctation of the aorta, aortic stenosis and pulmonary hypertension, the ventricles increase their workload to generate enough pressure. The diastolic pressure on the other hand is maintained by the closure of the aortic and pulmonary valves. Thus incompetent pulmonary or aortic valve leads to a decrease in diastolic pressure in the the tow vessels respectively."
+    "text": "12.5 Intracardiac Pressures\nThe pressures in the heart vary for different ages and individuals. Generally, the pressures in the atria are lower than the ventricles. Also, the peak systolic pressure in the left ventricle is higher than in the right. The diastolic pressure in the left ventricle is however lower than the right ventricle. Also, both systolic and diastolic pressures in the aorta are higher than that in the pulmonary artery.\nSystolic pressure in general is generated by the ventricles. In conditions such as coarctation of the aorta, aortic stenosis and pulmonary hypertension, the ventricles increase their workload to generate enough pressure. The diastolic pressure on the other hand is maintained by the closure of the aortic and pulmonary valves. Thus, an incompetent pulmonary or aortic valve leads to a decrease in diastolic pressure in the two vessels respectively."
   },
   {
     "objectID": "cvs-intro.html#fetal-circulation",
     "href": "cvs-intro.html#fetal-circulation",
     "title": "12  Anatomy, Physiology & Pathology",
     "section": "12.6 Fetal circulation",
-    "text": "12.6 Fetal circulation\nThe heart begins developing in the fetus as the cardiogenic area and primitive blood vessels as early as 18 days old. By 20 days the paired endocardial tubes are formed. By day 35 the heart would have completed its looping with blood already flowing through.\nThree main shunts exist in the fetal circulation. These are adaptations to using the placenta rather than the lungs for oxygenation. These shunts are the ductus venosus, ductus arteriosus and patent foramen. At birth, these shunts regress, The ductus venosus regresses quickly to form the ligamentum arteriosus. The foramen ovale closes at birth physiologically but may take years to close anatomically. The patent ductus arteriosus closes soon after birth but can physiologically stay open for 72 hours. Beyond this period it is considered to be pathologic if it continues to stay open. Patent ductus arteriosus are quite common in preterm newborns."
+    "text": "12.6 Fetal circulation\nThe heart begins developing in the fetus as the cardiogenic area and primitive blood vessels as early as 18 days old. By 20 days the paired endocardial tubes are formed. By day 35 the heart would have completed its looping with blood already flowing through.\nThree main shunts exist in the fetal circulation. These are adaptations to using the placenta rather than the lungs for oxygenation. These shunts are the ductus venosus, ductus arteriosus and patent foramen. At birth, these shunts regress. The ductus venosus regresses quickly to form the ligamentum arteriosus. The foramen ovale closes at birth physiologically but may take years to close anatomically. The patent ductus arteriosus closes soon after birth but can physiologically stay open for 72 hours. Beyond this period it is considered to be pathologic if it continues to stay open. Patent ductus arteriosus are quite common in preterm newborns."
+  },
+  {
+    "objectID": "cvs-intro.html#pathologic-classification",
+    "href": "cvs-intro.html#pathologic-classification",
+    "title": "12  Anatomy, Physiology & Pathology",
+    "section": "12.7 Pathologic classification",
+    "text": "12.7 Pathologic classification\nThe pathology of pediatric cardiac disorders varies. Broadly, they can be divided into these:\n\nCongenital heart disorders: These are cardiac conditions that a child is born with. Thus they are present at birth. They form about 85% of all pediatric heart diseases seen in the Komfo Anokye Teaching Hospital (KATH). It is further divided into:\n\nAcyanotic: These are congenital heart diseases that are traditionally not known to be associated with cyanosis. Examples include ventricular septal defect (VSD), Atrial Septal Defect (ASD) and Patent Ductus Arteriosus (PDA)\nCyanotic: These on the other hand are associated with cyanosis and include Tetralogy of Fallot (ToF), Truncus Arteriosus and Tricuspid Atresia.\n\nAcquired heart disorders: These are heart conditions that are not present at birth but develop afterwards. They include Infective Endocarditis (IE), Rheumatic Heart Disease (RHD) and Endomyocardial Fibrosis (EMF)\nRhythm disorders: This set of disorders can present as either congenital or acquired. They affect the electrical system of the heart leading to an increase in heart rate (tachyarrhythmia), decrease in heart rate (bradyarrhythmia) or even normal heart rate.\nSecondary cardiac disorders: Some pathologies tend to affect the heart as a complication. Such conditions include some glycogen storage disorders resulting in cardiomyopathy and Rheumatoid arthritis resulting in pericardial effusion."
+  },
+  {
+    "objectID": "cvs-evaluation.html#history",
+    "href": "cvs-evaluation.html#history",
+    "title": "13  Evaluating Heart Diseases",
+    "section": "13.1 History",
+    "text": "13.1 History\nThe history is traditionally divided into:\n\n13.1.1 Prenatal\nPrenatally, the history should delve into but not be limited to the following:\n\nInfections: Some infections are the well-known TORCHES. They include Toxoplasmosis, HIV, syphilis, parvovirus B19 (fifth disease), varicella (chickenpox) and (Zika), Rubella, Cytomegalovirus, and Herpes simplex virus. Rubella when acquired in the first trimester of pregnancy is very well known to be associated with PDAs.\nMedications: The use of some medications, including herbs predisposes to heart disease in newborns. Anticonvulsant such as phenytoin, carbamazepine, and valproic acid are highly teratogenic.(Kalisch-Smith, Ved, and Sparrow 2019)\nRecreational drugs: Excessive smoking, cocaine, and alcohol use in early pregnancy are all associated with teratogenic effects on the heart.\nMaternal illnesses: Maternal medical conditions during pregnancy may be associated with heart diseases in their fetuses. Diabetes mellitus is particularly well known, predisposing to hypertrophic cardiomyopathy, d-TGA, etc. Autoimmune conditions such as Systemic Lupus Erythematosus may also predispose to rhythm disturbances in the fetus and child, even when the mother is not symptomatic.\nFamily history of CHD: The recurrence of CHD in first-degree relatives varies but is almost always higher than the rest of the population. For instance, having a first-degree relation with a cornoventricular defect was associated with a recurrence risk ratio of 24.3 (95% CI,12.2 to 48.7), 7.1 (95% CI, 4.5 to 11.1) for isolated ASD, and 3.4 (95% CI, 2.2 to 5.3) for isolated VSD.(Øyen et al. 2009)\n\n\n\n13.1.2 Perinatal\nPerinatal history associated with heart disease may include the following:\n\nBirth weight: A high birth weight, often associated with a child of a diabetic mother is also associated with an increased incidence of CHDs. Conversely, a low birth weight may also be associated with fetal alcohol syndrome or congenital rubella syndrome, both of which are associated with CHDs.\nNewborn resuscitation: Some critical CHDs can be similar to neonatal asphyxia in a newborn, thus requiring resuscitation.\n\n\n\n13.1.3 After birth\nAscertaining history after birth is the most extensive. Many of these are directed to the features of heart failure. These include:\n\nGrowth failure: Poor weight gain is a very prominent feature of CHDs in children. Many clinically significant CHDs result in poor feeding, chronic metabolic demand on the patient and poor oxygenation in cyanotic CHDs. All these results in increased caloric demand, resulting in poor growth.\nCyanotic spells: Some cyanotic CHDs are associated with recurrent periods where the child has increasing cyanosis, sometimes associated with weakness, fast breathing and even unconsciousness. The presence of these spells may be pointed to a CHD.\nSquatting and exercise intolerance: A common presentation of heart diseases in children is exercise intolerance. However, for some cyanotic congenital heart diseases, most notably ToF, the added feature is frequent squatting when the child becomes fatigued.\nDelayed milestones: Growth failure, easy fatiguability and the presence of other genetic syndromes may result in delayed motor milestones in the child.\nOthers: Fast and sometimes difficulty breathing are also common presentations of CHDs. Some children develop oedema. This is predominantly seen in the faces of younger children and the feet of older children. Frequent lower respiratory infection is also seen in children with heart diseases, especially those associated with heart failure.\nUncommon symptoms: Uncommon presentation of heart disease in children include:\n\nChest pain is a rather feared symptom in adults but usually portends another diagnosis rather than heart disease in children.\nSyncope can be observed in children with an arrhythmia, or left or right ventricular obstruction. However, this is still not a common presentation in pediatric heart diseases.\nOlder children report palpitations.\nJoint swelling does occur in Rheumatic Heart Disease but again not a common presentation in children with a heart pathology."
+  },
+  {
+    "objectID": "cvs-evaluation.html#clinical-examination",
+    "href": "cvs-evaluation.html#clinical-examination",
+    "title": "13  Evaluating Heart Diseases",
+    "section": "13.2 Clinical examination",
+    "text": "13.2 Clinical examination\nClinical examination for a child with a suspected heart disease should always start as a general. One should first look out for life-threatening signs and intervene quickly. Subsequent steps could include:\n\nNutritional status is very important as many children with chronic heart conditions with significant heart failure present with malnutrition. The growth pattern of the patient should always be evaluated.\nDysmorphism is very critical in pediatric heart diseases. As much as 23% of all children with CHD will have a chromosomal abnormality.(Wang et al. 2023) There are many genetic syndromes with well-documented recognisable heart defects. Below are just a few adapted from Ko (2015):\n\nCommon genetic syndromes associated with congenital heart diseases\n\n\n\n\n\n\n\nGenetic syndrome\n% with CHD\nCardiac anomalies\n\n\n\n\nDown Syndrome\n40 to 50\nAtrial Septal Defect, Ventricular Septal Defect, Atrioventricular Canal Defect, Patent Ductus Arteriosus, Tetralogy of Fallot\n\n\nTurner syndrome\n25 to 45\nCoarctation of the Aorta. Bicuspid Aortic Valve, Aortic Stenosis, Hypoplastic left heart syndrome\n\n\nDiGeorge syndrome\n70 to 75\nAortic arch anomalies, Truncus arteriosus, Tetralogy of Fallot\n\n\nWilliams syndrome\n75 to 80\nSupravalvar Aortic Stenosis, Peripheral Pulmonary Stenosis\n\n\nNoonan syndrome\n70 to 80\nPulmonary Stenosis, Hypertrophic Cardiomyopathy, Atrial Septal Defect\n\n\nKabuki syndrome\n31 to 55\nCoarctation of the Aorta, Atrial Septal Defect, Aortic Stenosis, Mitral Stenosis, Hypoplastic left heart syndrome\n\n\nAlagille syndrome\n90\nPeripheral Pulmonary Stenosis, Pulmonary Stenosis, Tetralogy of Fallot\n\n\n\nColour: The skin colour of a child with a CHD could hold signs of its presence. Cyanosis, the blueish duskiness of the skin and mucous membranes can be seen in children with a cyanotic congenital heart disease. In black skin, this may be difficult and can only be observed in the mouth and tongue (Figure 13.1). Mild cyanosis is often not visible and may require the use of pulse oximetry. Pallor can be observed in patients with CHDs. or in other AHDs such as infective endocarditis. Jaundice can be observed in patients with Infective Endocarditis or those with hepatic injury secondary to chronic heart failure.\n\n\n\n\nFigure 13.1: Cyanosis in the tongue of a child\n\n\n\nClubbing: All four stages of digital clubbing are seen in children with cyanotic CHD or Infective endocarditis. Note that some cases of finger clubbing may be familial.\n\n\n\n\nFigure 13.2: Finger clubbing\n\n\n\nRespiratory: Respiratory signs commonly associated with heart diseases in children are tachypnoea, dyspnoea, chest recessions and increased work of breathing. These are especially when there is associated heart failure and worsens with exercise or breastfeeding the the breastfeeding infant."
+  },
+  {
+    "objectID": "cvs-evaluation.html#investigation",
+    "href": "cvs-evaluation.html#investigation",
+    "title": "13  Evaluating Heart Diseases",
+    "section": "13.3 Investigation",
+    "text": "13.3 Investigation\n\n\n\n\nKalisch-Smith, Jacinta Isabelle, Nikita Ved, and Duncan Burnaby Sparrow. 2019. “Environmental Risk Factors for Congenital Heart Disease.” Cold Spring Harbor Perspectives in Biology 12 (3): a037234. https://doi.org/10.1101/cshperspect.a037234.\n\n\nKo, Jung Min. 2015. “Genetic Syndromes Associated with Congenital Heart Disease.” Korean Circulation Journal 45 (5): 357. https://doi.org/10.4070/kcj.2015.45.5.357.\n\n\nØyen, Nina, Gry Poulsen, Heather A. Boyd, Jan Wohlfahrt, Peter K. A. Jensen, and Mads Melbye. 2009. “Recurrence of Congenital Heart Defects in Families.” Circulation 120 (4): 295–301. https://doi.org/10.1161/circulationaha.109.857987.\n\n\nWang, Huaming, Xi Lin, Guorong Lyu, Shaozheng He, Bingtian Dong, and Yiru Yang. 2023. “Chromosomal Abnormalities in Fetuses with Congenital Heart Disease: A Meta-Analysis.” Archives of Gynecology and Obstetrics 308 (3): 797–811. https://doi.org/10.1007/s00404-023-06910-3."
   },
   {
     "objectID": "cvs-heart-failure.html#definition",
@@ -280,6 +308,48 @@
     "text": "15.8 Prognosis\nPrognosis is generally good with many living into adulthood even without corrective surgery. Post-surgical mortality i currently less the 0.5%. The patient will need very little long-term follow-up after the corrective surgery."
   },
   {
+    "objectID": "cvs-vsd.html#introduction",
+    "href": "cvs-vsd.html#introduction",
+    "title": "16  Ventricular Septal Defect",
+    "section": "16.1 Introduction",
+    "text": "16.1 Introduction\nThis is the most common Congenital Heart Disease (CHD), being seen in about 15-20% of all CHDs. VSD occurs in different anatomical locations. The most common is the peri-membranous. Others are inlet, outlet, muscular and infundibular. They also occur in different shapes and sizes as well."
+  },
+  {
+    "objectID": "cvs-vsd.html#pathophysiology",
+    "href": "cvs-vsd.html#pathophysiology",
+    "title": "16  Ventricular Septal Defect",
+    "section": "16.2 Pathophysiology",
+    "text": "16.2 Pathophysiology\nTypically VSD without the presence of another congenital heart malformation results in a left to right ventricle shunting lesion because of the pressure difference. Thus, a VSD is usually an acyanotic congenital heart lesion. This leads to a volume overload of the pulmonary artery, lungs, left atrium and left ventricle. These chambers subsequently dilated. Pulmonary edema develops from lung congestion leading to signs of heart failure.\nSecondly, depending on the size of the defect the pressure in the left ventricle will get transmitted to the right. How much pressure is transmitted depends on the size of the defect with bigger defects transmitting more than smaller ones. This can result in increased right ventricular pressure, and hypertrophy. It also worsens the pulmonary oedema already mentioned above.\nPersistent pressure and volume overload cause remodelling of the pulmonary vasculature, resulting in permanent changes and pulmonary hypertension. When the pulmonary pressure rises significantly higher than the systemic pressure, a reversal of the shunt results, leading to decreased oxygen saturation."
+  },
+  {
+    "objectID": "cvs-vsd.html#clinical-presentation",
+    "href": "cvs-vsd.html#clinical-presentation",
+    "title": "16  Ventricular Septal Defect",
+    "section": "16.3 Clinical presentation",
+    "text": "16.3 Clinical presentation\nThe clinical presentation of VSDs is variable and depends on the size and position.\n\n16.3.1 Position\nA perimembranous VSD of comparable size may exhibit more signs of heart failure compared to one that is mid-muscular or apical.\n\n\n16.3.2 Size\nGenerally, the sizes of VSDs determine the extent of the volume and pressure overload of the right heart and lungs. Larger ones result in relatively higher pressure and volume.\nSmall\nSmall VSDs are usually asymptomatic with no volume or pressure overload of the lung, pulmonary artery and right heart.\nModerate\nSome volume and pressure overload usually accompanies moderate-sized VSDs. They are thus often accompanied by some heart failure and recurrent lower respiratory infections.\nLarge\nLarge defects are accompanied by severe volume and pressure overload. They present with persistent heart failure and failure to thrive, exercise intolerance. when longstanding, they often end up with significant pulmonary hypertension."
+  },
+  {
+    "objectID": "cvs-vsd.html#investigations",
+    "href": "cvs-vsd.html#investigations",
+    "title": "16  Ventricular Septal Defect",
+    "section": "16.4 Investigations",
+    "text": "16.4 Investigations"
+  },
+  {
+    "objectID": "cvs-vsd.html#management",
+    "href": "cvs-vsd.html#management",
+    "title": "16  Ventricular Septal Defect",
+    "section": "16.5 Management",
+    "text": "16.5 Management"
+  },
+  {
+    "objectID": "cvs-vsd.html#prognosis",
+    "href": "cvs-vsd.html#prognosis",
+    "title": "16  Ventricular Septal Defect",
+    "section": "16.6 Prognosis",
+    "text": "16.6 Prognosis"
+  },
+  {
     "objectID": "nep-hypertension.html#the-concept-of-blood-pressure",
     "href": "nep-hypertension.html#the-concept-of-blood-pressure",
     "title": "32  Hypertension",
@@ -385,52 +455,10 @@
     "text": "32.15 Hypertensive encephalopathy\nHypertension with changes in mental status and/or seizures. Other manifestations are:\n\nFacial palsy\nVisual changes→blindness\nComa\n\nPathophysiology: Disruption of the normal autoregulatory mechanisms of cerebral blood flow. The inability of cerebral vasculature to constrict appropriately in response to the abrupt increase in cerebral blood flow leads to cerebral hyperperfusion. Generally, short-acting antihypertensives are preferred in the initial instance of treatment so that any potentially harmful drop in blood pressure (which could lead to Posterior Reversible Encephalopathy Syndrome {PRES}) could be reversed. Subsequently, long-acting agents could be used Sublingual nifedipine could cause a precipitous drop in blood pressure so it is best avoided or should be used with extreme caution\nTreatment outline:\n\nUse anti-hypertensive drugs\nBlood pressure should be brought down slowly to a desirable level (?stage I) by 48hrs (though not to normal levels) as follows:\n\n1/3 of total blood pressure reduction in 1st 12-hrs\nNext one-third of the subsequent 12-hrs\nFinal one-third over 24-hrs\n\nAlternatively, by a quarter within 6 hours, and the rest in the next 24-36hrs\n\nCommonly preferred drugs include Labetalol infusion, Na nitroprusside infusion, and IV hydralazine infusion. After achieving the desired blood pressure target, oral antihypertensives are then started"
   },
   {
-    "objectID": "cvs-vsd.html",
-    "href": "cvs-vsd.html",
-    "title": "16  Ventricular Septal Defect",
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
     "section": "",
-    "text": "This is the most common Congenital Heart Disease (CHD), being seen in about 15-20% of all CHDs. They occur in different anatomical locations. The most common is the peri-membranous. Others are inlet, outlet and infundibular. They also occur in different shapes and sizes."
-  },
-  {
-    "objectID": "cvs-vsd.html#introduction",
-    "href": "cvs-vsd.html#introduction",
-    "title": "16  Ventricular Septal Defect",
-    "section": "16.1 Introduction",
-    "text": "16.1 Introduction\nThis is the most common Congenital Heart Disease (CHD), being seen in about 15-20% of all CHDs. They occur in different anatomical locations. The most common is the peri-membranous. Others are inlet, outlet and infundibular. They also occur in different shapes and sizes."
-  },
-  {
-    "objectID": "cvs-vsd.html#pathophysiology",
-    "href": "cvs-vsd.html#pathophysiology",
-    "title": "16  Ventricular Septal Defect",
-    "section": "16.2 Pathophysiology",
-    "text": "16.2 Pathophysiology\nTypically a VSD without the presence of another congenital malformation results in a left to right ventricle shutning lesion because of the pressure difference. Thus, a VSD is usually an acyanotic congenital heart lesion. This leads to a volume overload of the pulmonary artery, lungs, left atrium and left ventricle. These chambers subsequently dilated. Pulmonary edema develops from lung congestion leading to signs of heart failure.\nSecondly, depending on the size of the defect the pressure in the left ventricle will get transmitted to the right. How much pressure is transmitted depends on the size of the defect with bigger defects transmitting more than smaller ones. This can result in increased right ventricular pressure, and hypertrophy. It also worsens the pulmonary oedema already mentioned above.\nPersistent pressure and volume overload cause remodelling of the pulmonary vasculature, resulting in permanent changes and pulmonary hypertension. When the pulmonary pressure rises significantly higher than the systemic pressure, a reversal of the shunt results, leading to decreased oxygen saturation."
-  },
-  {
-    "objectID": "cvs-vsd.html#clinical-presentation",
-    "href": "cvs-vsd.html#clinical-presentation",
-    "title": "16  Ventricular Septal Defect",
-    "section": "16.3 Clinical presentation",
-    "text": "16.3 Clinical presentation\nThe clinical presentation of VSDs is variable depending on the size and position.\n\n16.3.1 Position\nA perimenbranous VSD for instance will of comparable size to a muscular VSD and may exhibit more signs of heart failure compared to one that is mid-muscular or apical.\n\n\n16.3.2 Size\nGenerally, the sizes of VSDs determine the extent of the volume and pressure overload of the right heart and lungs. Larger ones result in relatively higher pressure and volume.\nSmall\nSmall VSDs are usually asymptomatic with no volume or pressure overload of the lung, pulmonary artery and right heart.\nModerate\nModerate-sized VSDs are usually accompanied by some volume and pressure overload. They are thus often accompanied by some heart failure and recurrent lower respiratory infections.\nLarge\nLarge defects are accompanied by severe volume and pressure overload. They present with persistent heart failure and failure to thrive, exercise intolerance. when longstanding, they often end up with significant pulmonary hypertension."
-  },
-  {
-    "objectID": "cvs-vsd.html#investigations",
-    "href": "cvs-vsd.html#investigations",
-    "title": "16  Ventricular Septal Defect",
-    "section": "16.4 Investigations",
-    "text": "16.4 Investigations"
-  },
-  {
-    "objectID": "cvs-vsd.html#management",
-    "href": "cvs-vsd.html#management",
-    "title": "16  Ventricular Septal Defect",
-    "section": "16.5 Management",
-    "text": "16.5 Management"
-  },
-  {
-    "objectID": "cvs-vsd.html#prognosis",
-    "href": "cvs-vsd.html#prognosis",
-    "title": "16  Ventricular Septal Defect",
-    "section": "16.6 Prognosis",
-    "text": "16.6 Prognosis"
+    "text": "Kalisch-Smith, Jacinta Isabelle, Nikita Ved, and Duncan Burnaby Sparrow.\n2019. “Environmental Risk Factors for Congenital Heart\nDisease.” Cold Spring Harbor Perspectives in Biology 12\n(3): a037234. https://doi.org/10.1101/cshperspect.a037234.\n\n\nKo, Jung Min. 2015. “Genetic Syndromes Associated with Congenital\nHeart Disease.” Korean Circulation Journal 45 (5): 357.\nhttps://doi.org/10.4070/kcj.2015.45.5.357.\n\n\nØyen, Nina, Gry Poulsen, Heather A. Boyd, Jan Wohlfahrt, Peter K. A.\nJensen, and Mads Melbye. 2009. “Recurrence of Congenital Heart\nDefects in Families.” Circulation 120 (4): 295–301. https://doi.org/10.1161/circulationaha.109.857987.\n\n\nWang, Huaming, Xi Lin, Guorong Lyu, Shaozheng He, Bingtian Dong, and\nYiru Yang. 2023. “Chromosomal Abnormalities in Fetuses with\nCongenital Heart Disease: A Meta-Analysis.” Archives of\nGynecology and Obstetrics 308 (3): 797–811. https://doi.org/10.1007/s00404-023-06910-3."
   }
 ]
