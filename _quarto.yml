@@ -3,8 +3,8 @@ project:
   output-dir: docs
 
 book:
-  cover-image: pedics-notes-cover.jpg
-  favicon: pedics-notes-cover.jpg
+  cover-image: images/pedics-notes-cover.jpg
+  favicon: images/pedics-notes-cover.jpg
   reader-mode: false
   page-navigation: true
   cover-image-alt: "Logo"
@@ -16,19 +16,18 @@ book:
     center: "Compiled by: Dr Samuel Blay Nguah"
   chapters:
     - index.qmd
-    - part: "<span style='font-weight:bold'>History & Examination</span>"
-      chapters: 
-        - child-hx-exam.qmd
-        - neonate-hx-exam.qmd
+    - child-hx-exam.qmd
     - growh-development.qmd
     - anthropometry.qmd
     - part: "<span style='font-weight:bold'>Neonatology</span>"
       chapters: 
-        - newborn-delivery-resus.qmd
-        - preterm-low-birth-weight.qmd
-        - neo-neonatal-jaundice.qmd
-        - newborn-feeding.qmd
+        - neo-neonate-hx-exam.qmd
+        - neo-neonatal-delivery-pathologies.qmd
         - neo-neonatal-emergencies.qmd
+        - neo-neonatal-jaundice.qmd
+        - neo-newborn-delivery-resus.qmd
+        - neo-preterm-low-birth-weight.qmd
+        - neo-newborn-feeding.qmd
     - part: "<span style='font-weight:bold'>Pulmonology</span>"
       chapters: 
         - respiratory-one.qmd

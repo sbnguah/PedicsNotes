@@ -1,20 +1,22 @@
-# Preface {.unnumbered}
+## Preface {.unnumbered}
 
-This clinical note was put together by the Professors, Senior Lecturers and Lecturers in the Department of Child Health, School of Medical Sciences, Kwame Nkrumah University of Science and Technology. Members of the Child Health Department include:
+The Professors, Senior Lecturers and Lecturers in the Department of Child Health, School of Medical
+Sciences, Kwame Nkrumah University of Science and Technology put together these clinical notes.
+Members of the Child Health Department include:
 
-Prof Sampson Antwi  
-Prof Daniel Ansong  
-Prof Alex Osei-Akoto  
-Prof Emmanuel O. A. Addo-Yobo  
-Prof Joslin Alexei Dogbe  
-Prof (Mrs) Gyikua Plange-Rhule  
-Dr Samuel Blay Nguah  
-Dr Emmanuel Ameyaw  
-Dr Anthony Enimil  
-Dr (Mrs) Vivian Paintsil  
-Dr Serwaa Asafo-Agyei  
-Dr Charles Hammond  
-Dr (Mrs) Sandra Kwarteng Owusu  
-Dr Adwoa Pokua Boakye Yiadom  
-Dr Naana Ayiwa Wireko Brobby  
+Prof Sampson Antwi\
+Prof Daniel Ansong\
+Prof Alex Osei-Akoto\
+Prof Emmanuel O. A. Addo-Yobo\
+Prof Joslin Alexei Dogbe\
+Prof (Mrs) Gyikua Plange-Rhule\
+Dr Samuel Blay Nguah\
+Dr Emmanuel Ameyaw\
+Dr Anthony Enimil\
+Dr (Mrs) Vivian Paintsil\
+Dr Serwaa Asafo-Agyei\
+Dr Charles Hammond\
+Dr (Mrs) Sandra Kwarteng Owusu\
+Dr Adwoa Pokua Boakye Yiadom\
+Dr Naana Ayiwa Wireko Brobby\
 Dr (Mrs) Akua Afriyie Ocran

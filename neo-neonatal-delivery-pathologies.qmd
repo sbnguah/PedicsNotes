@@ -1,0 +1,233 @@
+---
+title: "Neonatal Delivery Pathologies"
+---
+
+## The health newborn
+
+-   Cries / Breathes normally
+-   Pink all over
+-   Well-flexed & moves all limbs spontaneously
+-   Suckles well at the breast
+-   Birth weight 2.5 -- 4.0kg
+-   Normal vitals signs
+
+## Occurrences at birth
+
+-   The fluid in the alveoli is absorbed and replaced by air. If the transition is not smooth, it
+    results in insufficient oxygen delivery to the vital organs...
+-   Poor muscle tone
+-   Respiratory distress or depression
+-   Slow heart rate
+-   Low BP
+-   Cyanosis
+
+## Birth Asphyxia
+
+### Definition
+
+::: callout-important
+### World Health Organisation definition
+
+Birth Asphyxia is the medical condition resulting from deprivation of oxygen in the newborn that
+lasts long enough during the birth process to cause harm, usually to the brain.
+:::
+
+### Risk factors
+
+Any condition that will lead to impairment of oxygenation or blood flow to the newborn's brain in
+the perinatal period. These include:
+
+-   Prolonged labour (CPD)
+-   Placental failure
+-   Cord around the neck
+-   Problems with oxygenation of maternal blood / maternal disease
+-   Anaemia and bleeding in the baby
+-   Congenital heart disease
+-   Infections
+-   Deficient medical skills and or knowledge
+
+### Presentation
+
+The asphyxiated baby may have any of the following:
+
+-   Poor Apgar Scores
+-   May not cry at birth
+-   Floppy/spastic
+-   Breathing problems
+-   Unresponsive
+-   Seizures
+-   Irritable
+
+### The APGAR Score
+
+It is an objective method of quantifying the newborn's condition. And is useful for conveying
+information about the newborn's overall status and response to resuscitation
+
+|                 | 0            | 1                         | 2                                       |
+|-----------------|--------------|---------------------------|-----------------------------------------|
+| **Heart Rate**  | 0            | \<100                     | \>=100                                  |
+| **Respiration** | 0            | Weak or Irregular         | Good Cry                                |
+| **Reaction**    | None         | Slight                    | Good                                    |
+| **Colour**      | Blue or Pale | Pink body <br> limbs blue | All pink                                |
+| **Tone**        | Limp         | Some movement             | Active movement, <br> limbs well flexed |
+
+: The APGAR Score
+
+8-10 = No Asphyxia\
+5-7 = Mild Asphyxia\
+3-4 = Moderate Asphyxia\
+0-2 = Severe Asphyxia\
+
+### Management
+
+-   Largely supportive
+-   Newborn resuscitation/oxygenation
+-   Correction of fluid & electrolyte imbalances including shock
+-   Control of seizures
+-   Treatment of any underlying infection
+-   Look out for birth injuries
+-   Active cooling found to improve neurological outcome
+-   Temperature maintenance
+-   Full Blood Count, Culture & Sensitivity, Blood glucose etc
+-   Serum electrolytes: Na, K, Ca & Mg
+-   Start empiric 1st line antibiotics according to protocol: / X'pen & Gentamycin
+-   Start IV Fluids at 50ml/kg (Plain 10% Dextrose).
+-   Pass a urethral catheter and monitor the baby's urine output.
+-   The target temperature of the baby is 36.50C -- 37.50C
+
+### Hypoxemic Ischaemic Encephalopathy
+
+-   The most important consequence of birth asphyxia is
+-   The outcome ranges from complete recovery to death
+-   25 - 30% end up with permanent damage like Cerebral palsy & Mental retardation
+-   Prognosis dependent on gestational age, management of metabolic & cardiopulmonary complications
+    & the severity of the encephalopathy
+-   Subsequent competent care and available facilities also influence the outcome
+
+## Birth Injuries
+
+A birth injury can simply be referred to as any form of damage incurred by the baby during the
+birthing process. Injury may occur as a result of inappropriate or deficient medical skill or
+attention or may occur despite skilled and competent obstetric care.
+
+Predisposing conditions include:
+
+-   Cephalopelvic disproportion (CPD) / Small maternal stature / Primiparity
+-   Macrosomia
+-   Shoulder Dystocia
+-   Prematurity
+-   Prolonged or precipitous labour
+-   Abnormal presentation
+-   Instrumentation
+-   Handling after delivery
+
+### Fracture
+
+Generally, the affected limb looks deformed or swollen, and the baby barely moves it on account of
+pain
+
+#### Clavicle
+
+This is the most fractured bone during delivery; mostly during delivery of the shoulder in vertex
+and of the extended arms in the breech. Signs of a fracture may include no free arm movement on the
+affected side, crepitus and bony irregularity, and absent Moro reflex. It has an excellent
+prognosis, even though it is commonly missed. Treatment, if any, includes immobilization of the arm
+and shoulder as shown below.
+
+This is the first type of humeral fracture
+
+![Humeral Fracture (immobilised)](images/neo-humeral-fracture.jpg){fig-align="center"}
+
+#### Humerus
+
+The x-ray below shows another commonly fractured bone, the humerus.
+
+![X-ray of a humeral fracture](images/humeral-fracture-2.jpg){fig-alt="humeral-fracture-2"
+fig-align="center"}
+
+#### Femur
+
+Risk factors: big baby, breech presentation, incompetency. The affected thigh looks deformed,
+swollen and may be reddened. The main mode of management involves splinting the limb from the waist
+to below the knee.
+
+![Femoral Fracture](images/neo-femural-fracture.jpg){fig-alt="Femoral Fracture" fig-align="center"}
+
+![Femoral Fracture
+Splinting](images/neo-femuralfracture-splinting.jpg){fig-alt="Femoral Fracture Splinting"
+fig-align="center" width="280" height="280"}
+
+## Nerve injuries
+
+### Brachial plexus injuries
+
+The nerves of the brachial plexus may be compressed, stretched or torn in a difficult delivery.
+Paralysis occurs as a result of nerve compression from either haemorrhage or oedema. Permanent
+paralysis can occur from the tearing of the nerve or avulsion of the nerve root from the spinal cord
+or oedema. Erb's palsy (C5-C6) is the most common type of BPI and is associated with a lack of
+shoulder motion. The involved extremity lies adducted, prone, and internally rotated. Grasp reflex
+is usually present and prognosis is generally good. Also described as the Waiter's tip position.
+
+![Erb's Palsy](images/neo-erbs-palsy.jpg){fig-alt="Erb's Palsy" fig-align="center"}
+
+### Klumpke's paralysis
+
+### Facial nerve paralysis
+
+Loss of voluntary muscle movement in the face on account of pressure on the facial nerve during the
+delivery process. Risk factors include instrumental delivery, poor delivery skills, big baby etc.
+Usually resolves spontaneously after a few months
+
+## Scalp Injuries
+
+### Cephalhematoma
+
+Tearing or disruption of the superficial veins under the periosteum leads to haemorrhage and
+subsequent swelling. Suture lines confine the cephalhematoma and limit the extent of the bleeding.
+There could be an underlying linear skull fracture. Prognosis is good with most of them resolving
+between 2 weeks to 3 months.
+
+![Cephalhematoma](images/neo-cephalhematoma.jpg){fig-alt="Cephalhematoma" fig-align="center"}
+
+### Subgaleal Hemorrhage
+
+The subgaleal space is located between the galea aponeurotica & the periosteum. The space extends
+from the orbital ridges to the nape of the neck and laterally to the ears. Bleeding is caused by
+damage to the large emissary veins located in the subaponeurotic layer. The bleeding associated with
+subgaleal haemorrhages can be extensive. Clinically, the baby may present with pallor and lethargy,
+followed by tachycardia, tachypnea and hypotension. The scalp may appear tight and boggy and
+complications include anemia, hypovolemic shock and jaundice.
+
+![Subgaleal Bleed](images/neo-subgaleal-bleed.jpg){fig-alt="Subgaleal Bleed" fig-align="center"}
+
+## Visceral injuries
+
+### Liver and spleen
+
+Usually results from pressure on the liver during delivery of the head in breech presentations. Risk
+factors include macrosomia, intrauterine asphyxia, extreme prematurity, and hepatomegaly
+
+## Respiratory Distress
+
+### Meconium aspiration syndrome
+
+Fetuses sometimes pass meconium whilst in utero as a result of some form of stress. If the stress
+has been going on for a while and the fetus has been passing meconium for a few days, the cord, skin
+and nails may be stained. Occurs when the fetus passes meconium into the surrounding liquor and then
+aspirates this into the lungs. Tends to happen in term and post-date babies. Distressed fetuses tend
+to pass meconium either just before or during the delivery process. The smaller the amniotic fluid
+volume, and the more meconium the baby passes, the thicker the fluid and the more dangerous it
+becomes if aspirated.
+
+History of Pregnancy and delivery looking for predisposing factors such as fetal distress,
+post-maturity, meconium-stained liquor etc. Physical examination looking for signs of
+meconium-staining on the baby, and evidence of respiratory distress (fast breathing, chest
+indrawing, cyanosis etc.). Investigations include FBC, Blood C&S, and sometimes a chest X-ray
+depending on the severity. Management is mainly supportive. Includes antibiotics, respiratory
+support, supportive treatment, IVFs and nutrition.
+
+### Transient tachypnoea of the newborn
+
+Caused by delay in clearance of fetal lung fluid. Typically resolves within 72 hours. Often
+associated with Caesarean Section Delivery. Severity varies but is often mild with just tachypnoea.
+Management involves supportive treatment of the respiratory with oxygen.

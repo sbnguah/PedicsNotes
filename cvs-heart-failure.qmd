@@ -50,46 +50,35 @@ presentations compared to older children. The classification of heart failure th
 The most well-known classification is the NYHA classification which is appropriate for older
 children. It is shown below:
 
-+-----------------------+--------------------------------------------------------------------------+
-| Class                 | Patient Symptoms                                                         |
-+=======================+==========================================================================+
-| Class I (Mild)        | No limitation on physical activity. Ordinary physical activity does not  |
-|                       | cause undue fatigue, palpitation or dyspnoea                             |
-+-----------------------+--------------------------------------------------------------------------+
-| Class II (Mild)       | Slight limitation of physical activity. Comfortable at rest but ordinary |
-|                       | physical activity results in fatigue, palpitation or dyspnoea            |
-+-----------------------+--------------------------------------------------------------------------+
-| Class III (Moderate)  | Marked limitation of physical activity. Comfortable at rest but less     |
-|                       | than ordinary physical activity causes fatigue, palpitation or dyspnoea  |
-+-----------------------+--------------------------------------------------------------------------+
-| Class IV (Severe)     | Unable to carry out any physical activity without discomfort. Symptoms   |
-|                       | of cardiac insufficiency at rest. If any physical activity is undertaken |
-|                       | discomfort is increased                                                  |
-+-----------------------+--------------------------------------------------------------------------+
+| Class                | Patient Symptoms                                                                                                                                                        |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Class I (Mild)       | No limitation on physical activity. Ordinary physical activity does not cause undue fatigue, palpitation or dyspnoea                                                    |
+| Class II (Mild)      | Slight limitation of physical activity. Comfortable at rest but ordinary physical activity results in fatigue, palpitation or dyspnoea                                  |
+| Class III (Moderate) | Marked limitation of physical activity. Comfortable at rest but less than ordinary physical activity causes fatigue, palpitation or dyspnoea                            |
+| Class IV (Severe)    | Unable to carry out any physical activity without discomfort. Symptoms of cardiac insufficiency at rest. If any physical activity is undertaken discomfort is increased |
 
 : NYHA Classification
 
 On the other hand, the Ross classification shown below is more suited for infants and young
 children.
 
-+-----------------------+--------------------------------------------------------------------------+
-| Class                 | Symptoms                                                                 |
-+=======================+==========================================================================+
-| Class I               | Asymptomatic                                                             |
-+-----------------------+--------------------------------------------------------------------------+
-| Class II              | Mild tachypnoea or diaphoresis in feeding in infants                     |
-|                       |                                                                          |
-|                       | Dyspnoea on exertion in older children                                   |
-+-----------------------+--------------------------------------------------------------------------+
-| Class III             | Marked tachypnoea or sweating with feeding in infants                    |
-|                       |                                                                          |
-|                       | Marked dyspnoea on exertion                                              |
-|                       |                                                                          |
-|                       | Prolonged feeding times with growth failure                              |
-+-----------------------+--------------------------------------------------------------------------+
-| Class IV              | Symptoms such as tachycardia, retraction, grunting, or diaphoresis at    |
-|                       | rest                                                                     |
-+-----------------------+--------------------------------------------------------------------------+
++-----------+----------------------------------------------------------------------------+
+| Class     | Symptoms                                                                   |
++===========+============================================================================+
+| Class I   | Asymptomatic                                                               |
++-----------+----------------------------------------------------------------------------+
+| Class II  | Mild tachypnoea or diaphoresis in feeding in infants                       |
+|           |                                                                            |
+|           | Dyspnoea on exertion in older children                                     |
++-----------+----------------------------------------------------------------------------+
+| Class III | Marked tachypnoea or sweating with feeding in infants                      |
+|           |                                                                            |
+|           | Marked dyspnoea on exertion                                                |
+|           |                                                                            |
+|           | Prolonged feeding times with growth failure                                |
++-----------+----------------------------------------------------------------------------+
+| Class IV  | Symptoms such as tachycardia, retraction, grunting, or diaphoresis at rest |
++-----------+----------------------------------------------------------------------------+
 
 : Modified Ross Classification
 
@@ -98,9 +87,11 @@ children.
 A schematic drawing of the various processes involved is shown below:
 
 ```{mermaid}
+%%| label: fig-HeartFailure
+%%| fig-cap: "Pathophysiology of heart failure"
 flowchart TD
     A(Heart Failure: <br> - Low Cardiac Output <br> - Low blood pressure)-->B(Decreased organ perfusion <br> - Renal failure <br> - fatigue);
-    B-->C(Neurohemoral activation);
+    B-->C(Neurohumoral activation);
     C-->D(Epinephrine <br> - Increased Heart Rate);
     C-->E(Aldosterone: <br> - Sodium retention <br> - Water retention <br> - Oedema);
     C-->F(Renin <br> - Increased afterload);
@@ -169,17 +160,10 @@ groups to be considered:
 
 ### Acute decompensated heart failure
 
-+-----------------------+--------------------------------------------------------------------------+
-| Drug                  | Action                                                                   |
-+=======================+==========================================================================+
-| Diuretics             | Notable here is furosemide. The aim is to help decongest the lungs,      |
-|                       | reduce preload by vasodilatation and improve heart failure symptoms.     |
-+-----------------------+--------------------------------------------------------------------------+
-| Inotropes             | These include adrenaline, noradrenaline, dopamine and dobutamine. They   |
-|                       | help improve the contractility of the heart, increase heart rate, and    |
-|                       | increase peripheral vascular resistance, thus maintaining the blood      |
-|                       | pressure and cardiac output. They are usually Intravenous medications.   |
-+-----------------------+--------------------------------------------------------------------------+
+| Drug      | Action                                                                                                                                                                                                                                                                                  |
+|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Diuretics | Notable here is furosemide. The aim is to help decongest the lungs, reduce preload by vasodilatation and improve heart failure symptoms.                                                                                                                                                |
+| Inotropes | These include adrenaline, noradrenaline, dopamine and dobutamine. They help improve the contractility of the heart, increase heart rate, and increase peripheral vascular resistance, thus maintaining the blood pressure and cardiac output. They are usually Intravenous medications. |
 
 : Drugs used in acute decompensated heart failure
 
@@ -187,27 +171,16 @@ groups to be considered:
 
 These are usually oral medications given to treat heart failure on an outpatient basis
 
-+---------------------+----------------------------------------------------------------------------+
-| Group               | Action                                                                     |
-+=====================+============================================================================+
-| Diuretics           | These are given to decongest the lungs, liver and other edematous organs.  |
-|                     | The most commonly used is furosemide.                                      |
-+---------------------+----------------------------------------------------------------------------+
-| Aldosterone         | These counteract the aldosterone effect of water and sodium retention.     |
-| antagonists         | They decrease afterload while helping in reversing cardiac remodelling.    |
-+---------------------+----------------------------------------------------------------------------+
-| ACE-I/ARB           | Angiotensen converting enzyme inhibitors and Angiotensin II receptor       |
-|                     | blockers counteract the renin effects of increasing afterload. They thus   |
-|                     | decrease the afterload and help reverse and prevent cardiac remodeling     |
-+---------------------+----------------------------------------------------------------------------+
-| Digoxin             | This is probably the oldest anti-heart failure medication. It has negative |
-|                     | chronotropic and positive inotropic effects. Thus increasing contractility |
-|                     | and reducing heart rate.                                                   |
-+---------------------+----------------------------------------------------------------------------+
+| Group                   | Action                                                                                                                                                                                                                |
+|-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Diuretics               | These are given to decongest the lungs, liver and other edematous organs. The most commonly used is furosemide.                                                                                                       |
+| Aldosterone antagonists | These counteract the aldosterone effect of water and sodium retention. They decrease afterload while helping in reversing cardiac remodelling.                                                                        |
+| ACE-I/ARB               | Angiotensin-converting enzyme inhibitors and Angiotensin II receptor blockers counteract the renin effects of increasing afterload. They thus decrease the afterload and help reverse and prevent cardiac remodelling |
+| Digoxin                 | This is probably the oldest anti-heart failure medication. It has negative chronotropic and positive inotropic effects. Thus increasing contractility and reducing heart rate.                                        |
 
 : Drugs for chronic heart failure treatment
 
-## Complication
+## Complications
 
 Complications of heart failure include renal failure, hepatic failure, pulmonary hypertension,
 arrhythmia, and thromboembolic effects.

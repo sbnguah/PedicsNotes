@@ -90,7 +90,7 @@ include:
     well-documented recognisable heart defects. Below are just a few adapted from @ko2015:
 
     | Genetic syndrome  | \% with CHD | Cardiac anomalies                                                                                                             |
-    |-------------------------|-------------------------|---------------------------------------------------|
+    |-------------------------|-------------------------|--------------------------------------------------|
     | Down Syndrome     | 40 to 50    | Atrial Septal Defect, Ventricular Septal Defect, Atrioventricular Canal Defect, Patent Ductus Arteriosus, Tetralogy of Fallot |
     | Turner syndrome   | 25 to 45    | Coarctation of the Aorta. Bicuspid Aortic Valve, Aortic Stenosis, Hypoplastic left heart syndrome                             |
     | DiGeorge syndrome | 70 to 75    | Aortic arch anomalies, Truncus arteriosus, Tetralogy of Fallot                                                                |
@@ -109,16 +109,17 @@ include:
     other AHDs such as infective endocarditis. *Jaundice* can be observed in patients with Infective
     Endocarditis or those with hepatic injury secondary to chronic heart failure.
 
-![Cyanosis in the tongue of a child](cvs-cyanosis-mouth.jpg){#fig-cvsCyanosisMouth
+![Cyanosis in the tongue of a child](images/cvs-cyanosis-mouth.jpg){#fig-cvsCyanosisMouth
 fig-align="center"}
 
 4.  ***Clubbing***: All four stages of digital clubbing are seen in children with cyanotic CHD or
-    Infective endocarditis. Note that some cases of finger clubbing may be familial.
+    Infective endocarditis. (@fig-cvsFingerClubbing) Note that some cases of finger clubbing may be
+    familial.
 
-![Finger clubbing](cvs_finger_clubbing.jpg){#fig-cvsFingerClubbing fig-align="center"}
+![Finger clubbing](images/cvs_finger_clubbing.jpg){#fig-cvsFingerClubbing fig-align="center"}
 
-5.  ***Respiratory***: Respiratory signs commonly associated with heart diseases in children are
-    tachypnoea, dyspnoea, chest recessions and increased work of breathing. These are especially
+5.  ***Respiratory signs***: Respiratory signs commonly associated with heart diseases in children
+    are tachypnoea, dyspnoea, chest recessions and increased work of breathing. These are especially
     when there is associated heart failure and worsens with exercise or breastfeeding the the
     breastfeeding infant.
 

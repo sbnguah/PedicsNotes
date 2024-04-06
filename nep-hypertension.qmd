@@ -62,7 +62,7 @@ definitions include:
     A sample of the blood pressure chart is shown below.
 
 [![Blood Pressure Centile
-Chart](bpchart.jpg){fig-align="center"}](https://www.bing.com/ck/a?!&&p=03173e8901eee155JmltdHM9MTcwODkwNTYwMCZpZ3VpZD0xMTM3ZDFjZC1mMmJmLTY1YzctMjQ4My1jMmI3ZjNkODY0NjUmaW5zaWQ9NTE5NA&ptn=3&ver=2&hsh=3&fclid=1137d1cd-f2bf-65c7-2483-c2b7f3d86465&psq=blood+pressure+pediatric+centile+charts+pdf&u=a1aHR0cHM6Ly93d3cubmhsYmkubmloLmdvdi9maWxlcy9kb2NzL2d1aWRlbGluZXMvY2hpbGRfdGJsLnBkZg&ntb=1)
+Chart](images/bpchart.jpg){fig-align="center"}](https://www.bing.com/ck/a?!&&p=03173e8901eee155JmltdHM9MTcwODkwNTYwMCZpZ3VpZD0xMTM3ZDFjZC1mMmJmLTY1YzctMjQ4My1jMmI3ZjNkODY0NjUmaW5zaWQ9NTE5NA&ptn=3&ver=2&hsh=3&fclid=1137d1cd-f2bf-65c7-2483-c2b7f3d86465&psq=blood+pressure+pediatric+centile+charts+pdf&u=a1aHR0cHM6Ly93d3cubmhsYmkubmloLmdvdi9maWxlcy9kb2NzL2d1aWRlbGluZXMvY2hpbGRfdGJsLnBkZg&ntb=1)
 
 ## Plotting the blood pressure centile
 
