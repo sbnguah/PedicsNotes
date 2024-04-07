@@ -6,28 +6,30 @@ author: "Dr Naana Ayiwa Wireko-Brobby"
 ## Introduction {#sec-nnj-intro}
 
 Jaundice is the yellowish discoloration of the skin, eyes and mucous membranes, caused by a pigment
-called bilirubin in the blood. Out of 10 term and 10 preterm infants, 6 and 8 of them will develop
-jaundice respectively, all in the 1st couple of weeks of life. Universally accepted as one of the
-commonest causes of admission and readmission in the first month of life. At KATH MBU, monthly
-admissions average between 300 and 400 and about 15 -- 25% of all these admissions are cases of
-neonatal jaundice. Whereas the developed world describes kernicterus as a rare condition,
-unfortunately, the same cannot be said for us in developing countries. On average, cases of severe
-NNJ have ranged from 2.2% -- 30.8% of all jaundice cases, with the monthly mortality from NNJ
-ranging from 2.8% - to 15.2%. Remember, kernicterus is the only preventable cause of cerebral palsy!
+called bilirubin in the blood. Out of 10 term and 10 preterm newborns, 6 and 8 will develop jaundice
+respectively, all in the 1st couple of weeks of life. Universally accepted as one of the commonest
+causes of admission and readmission in the first month of life. At Komfo Anokye Teaching Hospital
+Mother Baby Unit, monthly admissions average between 300 and 400 and about 15 to 25% of all these
+admissions are cases of neonatal jaundice. Whereas the developed world describes kernicterus as a
+rare condition, unfortunately, the same cannot be said for us in developing countries. On average,
+cases of severe Neonatal Jaundice have ranged from 2.2% to 30.8% of all jaundice cases, with the
+monthly mortality ranging from 2.8% to 15.2%(REFERENCE). Remember, kernicterus is the only
+preventable cause of cerebral palsy!
 
 ## Bilirubin metabolism
 
 Humans continuously form bilirubin and the liver is the main organ responsible for the metabolism of
-bilirubin. For every gram of Hemoglobin, 35mg of bilirubin is produced.\
-The bilirubin is conjugated by the UGT enzyme, making it water-soluble, which is then released into
-the bile before being excreted in the stool (and urine). It can also be broken down in the intestine
-by bacterial enzymes like E. coli. However, at birth, the newborn has several challenges. The liver
-is immature, and the levels of UGT are low. Newborns have β-glucuronidase in the intestinal
-mucosa/brush border, which deconjugates the conjugated bilirubin found in the meconium. The
-unconjugated bilirubin can now be reabsorbed through the intestinal wall and recycled back into the
-circulation. This process is known as the "enterohepatic circulation of bilirubin". The gut is
-sterile and, subsequently, infants have far fewer bacteria in the gut, and so very little, if any,
-bilirubin is reduced to urobilin and stercobilin.
+bilirubin. For every gram of haemoglobin, 35mg of bilirubin is produced. The bilirubin is conjugated
+by the UGT enzyme, making it water-soluble, which is then released into the bile before being
+excreted in the stool (and urine). It can also be broken down in the intestine by bacterial enzymes
+like E. coli. However, at birth, the newborn has several challenges. The liver is immature, and the
+levels of bilirubin uridine diphosphate glucuronosyltransferase (bilirubin-UGT) enzyme are low.
+Newborns have β-glucuronidase in the intestinal mucosa/brush border, which deconjugates the
+conjugated bilirubin found in the meconium. The unconjugated bilirubin can now be reabsorbed through
+the intestinal wall and recycled back into the circulation. This process is known as the
+"enterohepatic circulation of bilirubin". The gut is sterile and, subsequently, infants have far
+fewer bacteria in the gut, and so very little, if any, bilirubin is reduced to urobilin and
+stercobilin.
 
 Specifically in newborns, more bilirubin is produced, on account of the short life span of Red Blood
 Cells and high Hemoglobin levels. The liver is immature. They also have fewer bacteria and low
@@ -68,10 +70,10 @@ There are three main mechanisms for jaundice:\
 
 #### Increased bilirubin production
 
-in term newborn infants, bilirubin production is 2 -- 3x higher than in adults. This occurs because
-newborns have more RBCs and fetal RBCs have a shorter life span than those in adults. Unfortunately,
-the liver being immature, cannot conjugate and excrete all the bilirubin from the breakdown of all
-the excess RBCs, thereby resulting in spillover of bilirubin into the blood.
+in term newborn infants, bilirubin production is 2 to 3 times higher than in adults. This occurs
+because newborns have more RBCs and fetal RBCs have a shorter life span than those in adults.
+Unfortunately, the liver being immature, cannot conjugate and excrete all the bilirubin from the
+breakdown of all the excess RBCs, thereby resulting in spillover of bilirubin into the blood.
 
 #### Bilirubin clearance or excretion
 

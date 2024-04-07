@@ -95,6 +95,7 @@ book:
     - congenital-malformations.qmd
     - toxicology-animal-bites.qmd
     - social-ethical-legal.qmd
+    - gen-clinical-research.qmd
     - references.qmd
 
 bibliography: references.bib
