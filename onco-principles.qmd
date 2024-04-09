@@ -1,0 +1,5 @@
+---
+title: "General Principles"
+author: "Dr (Mrs) Vivian Paintsil"
+author-meta: "Senior lecturer, <br> Dept of Child Health,KNUST <br> Pediatric Oncologist"
+---

@@ -2,3 +2,6 @@
 title: "Endomyocardial Fibrosis"
 author: "Dr Samuel Blay Nguah"
 ---
+
+![Endomyocardial Fibrosis showing classical Egg-on-Stick appearance](images/cvs-emf.jpg){#fig-emf
+fig-align="center"}

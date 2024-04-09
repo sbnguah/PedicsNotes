@@ -90,7 +90,7 @@ include:
     well-documented recognisable heart defects. Below are just a few adapted from @ko2015:
 
     | Genetic syndrome  | \% with CHD | Cardiac anomalies                                                                                                             |
-    |-------------------------|-------------------------|--------------------------------------------------|
+    |-------------------|-------------|-------------------------------------------------------------------------------------------------------------------------------|
     | Down Syndrome     | 40 to 50    | Atrial Septal Defect, Ventricular Septal Defect, Atrioventricular Canal Defect, Patent Ductus Arteriosus, Tetralogy of Fallot |
     | Turner syndrome   | 25 to 45    | Coarctation of the Aorta. Bicuspid Aortic Valve, Aortic Stenosis, Hypoplastic left heart syndrome                             |
     | DiGeorge syndrome | 70 to 75    | Aortic arch anomalies, Truncus arteriosus, Tetralogy of Fallot                                                                |
@@ -120,7 +120,18 @@ fig-align="center"}
 
 5.  ***Respiratory signs***: Respiratory signs commonly associated with heart diseases in children
     are tachypnoea, dyspnoea, chest recessions and increased work of breathing. These are especially
-    when there is associated heart failure and worsens with exercise or breastfeeding the the
+    true when there is associated heart failure and worsens with exercise or breastfeeding the the
     breastfeeding infant.
 
 ## Investigation
+
+![Chest x-ray showing cardiomegaly and lung
+shadowing](images/cvs-globular-heart.jpg){#fig-cxrCardiomegaly fig-align="center"}
+
+Chest x-ray showing a globular heart
+
+![Chest x-ray showing a globular heart](images/cvs-GlobularHeart.jpg){#fig-GlobularHeart
+fig-align="center"}
+
+![Chest bulge and Harrison's sulcus in child](images/cvs-ChestBulge.jpg){#fig-ChestBulge
+fig-align="center"}

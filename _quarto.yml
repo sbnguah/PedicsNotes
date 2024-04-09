@@ -16,6 +16,7 @@ book:
     center: "Compiled by: Dr Samuel Blay Nguah"
   chapters:
     - index.qmd
+    - contributors.qmd
     - child-hx-exam.qmd
     - growh-development.qmd
     - anthropometry.qmd
@@ -56,8 +57,12 @@ book:
         - viral-infections.qmd
     - part: "<span style='font-weight:bold'>Oncology</span>"
       chapters: 
-        - cancer-one.qmd
-        - cancer-two.qmd
+        - onco-principles.qmd
+        - onco-oncological-emergencies.qmd
+        - onco-leukemia.qmd
+        - onco-lymphoma.qmd
+        - onco-retinoblastoma.qmd
+        - onco-wilms-tumor.qmd
     - part: "<span style='font-weight:bold'>Nephrology</span>"
       chapters: 
         - nep-hypertension.qmd
@@ -66,11 +71,10 @@ book:
         - nep-nephritic-syndrome.qmd
     - part: "<span style='font-weight:bold'>Neurology</span>"
       chapters: 
-        - cerebral-palsy.qmd
-        - seizure-disorders.qmd
-        - cns-one.qmd
-        - neuromuscular.qmd 
-        - neurocutaneous-synd.qmd
+        - neuro-cerebral-palsy.qmd
+        - neuro-seizure-disorders.qmd
+        - neuro-neuromuscular.qmd 
+        - neuro-neurocutaneous-synd.qmd
     - part: "<span style='font-weight:bold'>Endocrinology</span>"
       chapters: 
         - endocrine-one.qmd
@@ -78,9 +82,9 @@ book:
         - dm.qmd
     - part: "<span style='font-weight:bold'>Haematology</span>"
       chapters:
-        - sickle-cell.qmd
-        - anemia.qmd
-        - bleeding-disorders.qmd
+        - hema-sickle-cell.qmd
+        - hema-anemia.qmd
+        - hema-bleeding-disorders.qmd
     - part: "<span style='font-weight:bold'>Gastroenterology</span>"
       chapters: 
         - nutrition.qmd
@@ -88,12 +92,27 @@ book:
         - liver-disorders.qmd
         - prolonged-jaundice.qmd
         - diarrhoea.qmd
+    - part: "<span style='font-weight:bold'>Dermatology</span>"
+      chapters: 
+        - derm-impetigo.qmd
+        - derm-fungal.qmd
+        - derm-alopecia.qmd
+        - derm-eczema.qmd
+        - derm-dermatitis.qmd
+        - derm-scabies.qmd
+    - part: "<span style='font-weight:bold'>Toxins & Poisons</span>"
+      chapters: 
+        - tox-snake-bites.qmd
+        - tox-dog-bites.qmd
+        - tox-iron-poisoning.qmd
+        - tox-paracetamol.qmd
+        - tox-insecticides.qmd
+        - tox-caustic-soda.qmd
+        - tox-hydrocarbons.qmd
     - malaria.qmd
     - infections-infestations.qmd
-    - dermatology.qmd
     - therapeutics.qmd
     - congenital-malformations.qmd
-    - toxicology-animal-bites.qmd
     - social-ethical-legal.qmd
     - gen-clinical-research.qmd
     - references.qmd

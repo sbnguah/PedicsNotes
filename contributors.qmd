@@ -1,0 +1,33 @@
+---
+title: "List of Contributors"
+---
+
+The following are the contributors to this book:
+
+---
+
+:::: columns
+::: {.column width="25%"}
+![](images/prof-sampson-antwi.jpg) **Prof. Sampson Antwi** <br>
+<p style="font-size:10px; "> MB ChB, FWACP, FGCPS </p>
+:::
+
+::: {.column width="75%"}
+<p style="font-size:15px; ">Prof Sampson Antwi is a Professor of Pediatric Nephrology at the Department of Child Health, School of Medical Sciences, Kwame Nkrumah University of Science and Technology in Ghana. He is currently the Head of Department. He also has vast experience in pediatric HIV care and is a fellow of the International Pediatric Nephrology Association.</p>
+:::
+::::
+
+-----
+
+:::: columns
+::: {.column width="25%"}
+![](images/prof-daniel-ansong.jpg)
+
+**Prof. Daniel Ansong** <br>
+<p style="font-size:10px; ">MB ChB, FWACP, FGCPS</p>
+:::
+
+::: {.column width="75%"}
+<p style="font-size:15px; ">Prof Sampson Antwi is a Professor of Pediatric Nephrology at the Department of Child Health, School of Medical Sciences, Kwame Nkrumah University of Science and Technology in Ghana. He is currently the Head of Department. He also has vast experience in pediatric HIV care and is a fellow of the International Pediatric Nephrology Association.</p>
+:::
+::::
