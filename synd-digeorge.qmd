@@ -1,4 +1,4 @@
 ---
-title: "Digeorge Syndrome"
+title: "DiGeorge Syndrome"
 author: "xxx"
 ---

@@ -9,7 +9,7 @@ book:
   page-navigation: true
   cover-image-alt: "Logo"
   title: "Pediatrics Notes"
-  author: "Department of Child Health <br> School of Medical Sciences <br> KNUST"
+  author: "Department of Child Health <br> KATH <br> KNUST"
   date: today
   page-footer:
     background: light
