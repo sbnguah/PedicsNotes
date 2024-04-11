@@ -16,7 +16,7 @@ This book was written by the untiring effort of the following persons
 :::
 :::
 
-----------------------------------------------------------------------------------------------------
+----------------
 
 ::: columns
 ::: {.column width="30%"}
@@ -30,7 +30,7 @@ This book was written by the untiring effort of the following persons
 :::
 :::
 
-----------------------------------------------------------------------------------------------------
+-------
 
 ::: columns
 ::: {.column width="30%"}
@@ -236,5 +236,19 @@ This book was written by the untiring effort of the following persons
 **Dr. Justice Sylverken**
 <p style="font-size:10px; ">MB ChB, FWACP, FGCPS</p>
 <p style="font-size:15px; ">Dr. Sylverken is a Senior Specialist at the Directorate of Child Health of the Komfo Anokye Teaching Hospital. He has a special interest in Pediatric Emergency</p>
+:::
+:::
+
+------
+
+::: columns
+::: {.column width="30%"}
+![](images/dr-John-adabie-appiah.jpg) <br>
+:::
+
+::: {.column width="70%"}
+**Dr. John Adabie Appiah**
+<p style="font-size:10px; ">MB ChB, FWACP, FGCPS</p>
+<p style="font-size:15px; ">Dr. Appiah is a Senior Specialist in Pediatrics at the Department of Child Health, Komfo Anokye Teaching Hospital. He is also a Pediatric Critical Care Specialist.</p>
 :::
 :::

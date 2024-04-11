@@ -1,3 +1,30 @@
 ---
 title: "Seizure Disorders"
+author: "Dr Charles Hammond"
 ---
+
+## Definitions
+### Seizures
+### Convulsive vs. non-convulsive seizures
+### Prolonged seizures vs. status epilepticus
+### Epilepsy
+### Epileptic syndromes
+## Classification of seizures
+## Causes of seizures in children
+## Febrile seizures
+### Definition
+### Classification of febrile seizures
+### Common causes of febrile seizures
+## Prolonged seizures & status epilepticus
+### Definitions
+### General principles of management
+## Epilepsy
+### Definition
+### Classification
+### Causes of epilepsy
+### Approach to the child with epilepsy
+## Neonatal seizures
+### Common presentations
+### Causes and differential diagnosis
+### Management 
+### Seizure mimics in children

@@ -9,7 +9,7 @@ book:
   page-navigation: true
   cover-image-alt: "Logo"
   title: "Pediatrics Notes"
-  author: "Department of Child Health <br> KATH <br> KNUST"
+  author: "Department of Child Health <br> SMS, KNUST <br> KATH"
   date: today
   page-footer:
     background: light
@@ -17,9 +17,11 @@ book:
   chapters:
     - index.qmd
     - contributors.qmd
-    - child-hx-exam.qmd
-    - growh-development.qmd
-    - anthropometry.qmd
+    - gen-child-hx-exam.qmd
+    - gen-growh-development.qmd
+    - gen-anthropometry.qmd
+    - gen-acid-base.qmd
+    - gen-basic-critical-care.qmd
     - part: "<span style='font-weight:bold; color: black;'>Neonatology</span>"
       chapters: 
         - neo-neonate-hx-exam.qmd
@@ -31,8 +33,7 @@ book:
         - neo-newborn-feeding.qmd
     - part: "<span style='font-weight:bold; color: black;'>Pulmonology</span>"
       chapters: 
-        - respiratory-one.qmd
-        - respiratory-two.qmd
+        - resp-asthma.qmd
     - part: "<span style='font-weight:bold; color: black;'>Cardiology</span>"
       chapters: 
         - cvs-intro.qmd
@@ -49,12 +50,12 @@ book:
         - cvs-miscellaneous.qmd
     - part: "<span style='font-weight:bold; color: black;'>Infectious Diseases</span>"
       chapters: 
-        - immunodeficiencies.qmd
-        - hiv.qmd
-        - sepsis-uti.qmd
-        - tuberculosis.qmd
-        - immunization.qmd
-        - viral-infections.qmd
+        - id-immunodeficiencies.qmd
+        - id-hiv.qmd
+        - id-sepsis.qmd
+        - id-tuberculosis.qmd
+        - id-immunization.qmd
+        - id-viral-infections.qmd
     - part: "<span style='font-weight:bold; color: black;'>Oncology</span>"
       chapters: 
         - onco-principles.qmd
@@ -65,21 +66,25 @@ book:
         - onco-wilms-tumor.qmd
     - part: "<span style='font-weight:bold; color: black;'>Nephrology</span>"
       chapters: 
-        - nep-hypertension.qmd
         - nep-renal-disorders.qmd
+        - nep-hypertension.qmd
+        - nep-uti.qmd
+        - nep-hematuria.qmd
         - nep-nephrotic-syndrome.qmd
         - nep-nephritic-syndrome.qmd
+        - nep-kidney-failure.qmd
     - part: "<span style='font-weight:bold; color: black;'>Neurology</span>"
       chapters: 
+        - neuro-spectrum.qmd
+        - neuro-cns-infections.qmd
         - neuro-cerebral-palsy.qmd
         - neuro-seizure-disorders.qmd
         - neuro-neuromuscular.qmd 
         - neuro-neurocutaneous-synd.qmd
+        - neuro-stroke.qmd
     - part: "<span style='font-weight:bold; color: black;'>Endocrinology</span>"
       chapters: 
-        - endocrine-one.qmd
-        - endocrine-two.qmd
-        - dm.qmd
+        - endo-dm.qmd
     - part: "<span style='font-weight:bold; color: black;'>Haematology</span>"
       chapters:
         - hema-sickle-cell.qmd
@@ -87,11 +92,11 @@ book:
         - hema-bleeding-disorders.qmd
     - part: "<span style='font-weight:bold; color: black;'>Gastroenterology</span>"
       chapters: 
-        - nutrition.qmd
-        - malnutrition.qmd
-        - liver-disorders.qmd
-        - prolonged-jaundice.qmd
-        - diarrhoea.qmd
+        - gast-nutrition.qmd
+        - gast-malnutrition.qmd
+        - gast-liver-disorders.qmd
+        - gast-prolonged-jaundice.qmd
+        - gast-diarrhoea.qmd
     - part: "<span style='font-weight:bold; color: black;'>Dermatology</span>"
       chapters: 
         - derm-impetigo.qmd
@@ -122,11 +127,13 @@ book:
         - synd-turners.qmd
         - synd-noonan.qmd
         - synd-digeorge.qmd
-    - malaria.qmd
-    - infections-infestations.qmd
-    - therapeutics.qmd
-    - congenital-malformations.qmd
-    - social-ethical-legal.qmd
+    - gen-malaria.qmd
+    - gen-infections-infestations.qmd
+    - gen-therapeutics.qmd
+    - gen-congenital-malformations.qmd
+    - gen-social-ethical-legal.qmd
+    - gen-lab-investigations.qmd
+    - gen-bedside-tests.qmd
     - gen-clinical-research.qmd
     - references.qmd
 

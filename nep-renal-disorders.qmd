@@ -1,3 +1,4 @@
 ---
-title: "Renal Disorders"
+title: "Spectrum of Kidney Diseases"
+author: "Prof. Sampson Antwi"
 ---

@@ -1,3 +1,4 @@
 ---
-title: "Nephrotic and Nephritic Syndrome"
+title: "Nephritic Syndrome"
+author: "Prof. Sampson Antwi"
 ---

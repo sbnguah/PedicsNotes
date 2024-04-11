@@ -1,0 +1,15 @@
+---
+title: "Basic Critical Care"
+author: "Dr John Adabie Appiah"
+---
+
+## Introduction
+## Acute organ/system failure
+### Neurological
+### Respiratory
+### Cardiovascular
+## Fluid, electrolytes and feeding management
+## Organ/system protective measures and supportive care
+## Patient monitoring
+## Medical patient transport
+

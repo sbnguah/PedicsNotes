@@ -1,3 +1,23 @@
 ---
 title: "Neuromuscular Disorders"
+author: "Charles Hammond"
 ---
+
+## Common terminologies
+## Common presentations
+## The floppy infant syndrome
+## Site of lesion
+## Specific neuromuscular disorders
+### Spinal muscular atrophy
+### Poliomyelitis 
+### Guillain-Barre syndrome
+### Charcot-Marie-Tooth disease
+### Myasthenia gravis
+### Duchenne muscular dystrophy
+### Congenital myopathies
+### Metabolic myopathies
+### Dermatomyositis 
+## Acute flaccid paralysis
+### Case definition
+### Differential diagnosis
+### Public health importance 
