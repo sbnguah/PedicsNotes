@@ -20,7 +20,7 @@ book:
     - child-hx-exam.qmd
     - growh-development.qmd
     - anthropometry.qmd
-    - part: "<span style='font-weight:bold'>Neonatology</span>"
+    - part: "<span style='font-weight:bold; color: black;'>Neonatology</span>"
       chapters: 
         - neo-neonate-hx-exam.qmd
         - neo-neonatal-delivery-pathologies.qmd
@@ -29,11 +29,11 @@ book:
         - neo-newborn-delivery-resus.qmd
         - neo-preterm-low-birth-weight.qmd
         - neo-newborn-feeding.qmd
-    - part: "<span style='font-weight:bold'>Pulmonology</span>"
+    - part: "<span style='font-weight:bold; color: black;'>Pulmonology</span>"
       chapters: 
         - respiratory-one.qmd
         - respiratory-two.qmd
-    - part: "<span style='font-weight:bold'>Cardiology</span>"
+    - part: "<span style='font-weight:bold; color: black;'>Cardiology</span>"
       chapters: 
         - cvs-intro.qmd
         - cvs-evaluation.qmd
@@ -47,7 +47,7 @@ book:
         - cvs-inf-endo.qmd
         - cvs-emf.qmd
         - cvs-miscellaneous.qmd
-    - part: "<span style='font-weight:bold'>Infectious Diseases</span>"
+    - part: "<span style='font-weight:bold; color: black;'>Infectious Diseases</span>"
       chapters: 
         - immunodeficiencies.qmd
         - hiv.qmd
@@ -55,7 +55,7 @@ book:
         - tuberculosis.qmd
         - immunization.qmd
         - viral-infections.qmd
-    - part: "<span style='font-weight:bold'>Oncology</span>"
+    - part: "<span style='font-weight:bold; color: black;'>Oncology</span>"
       chapters: 
         - onco-principles.qmd
         - onco-oncological-emergencies.qmd
@@ -63,36 +63,36 @@ book:
         - onco-lymphoma.qmd
         - onco-retinoblastoma.qmd
         - onco-wilms-tumor.qmd
-    - part: "<span style='font-weight:bold'>Nephrology</span>"
+    - part: "<span style='font-weight:bold; color: black;'>Nephrology</span>"
       chapters: 
         - nep-hypertension.qmd
         - nep-renal-disorders.qmd
         - nep-nephrotic-syndrome.qmd
         - nep-nephritic-syndrome.qmd
-    - part: "<span style='font-weight:bold'>Neurology</span>"
+    - part: "<span style='font-weight:bold; color: black;'>Neurology</span>"
       chapters: 
         - neuro-cerebral-palsy.qmd
         - neuro-seizure-disorders.qmd
         - neuro-neuromuscular.qmd 
         - neuro-neurocutaneous-synd.qmd
-    - part: "<span style='font-weight:bold'>Endocrinology</span>"
+    - part: "<span style='font-weight:bold; color: black;'>Endocrinology</span>"
       chapters: 
         - endocrine-one.qmd
         - endocrine-two.qmd
         - dm.qmd
-    - part: "<span style='font-weight:bold'>Haematology</span>"
+    - part: "<span style='font-weight:bold; color: black;'>Haematology</span>"
       chapters:
         - hema-sickle-cell.qmd
         - hema-anemia.qmd
         - hema-bleeding-disorders.qmd
-    - part: "<span style='font-weight:bold'>Gastroenterology</span>"
+    - part: "<span style='font-weight:bold; color: black;'>Gastroenterology</span>"
       chapters: 
         - nutrition.qmd
         - malnutrition.qmd
         - liver-disorders.qmd
         - prolonged-jaundice.qmd
         - diarrhoea.qmd
-    - part: "<span style='font-weight:bold'>Dermatology</span>"
+    - part: "<span style='font-weight:bold; color: black;'>Dermatology</span>"
       chapters: 
         - derm-impetigo.qmd
         - derm-fungal.qmd
@@ -100,15 +100,28 @@ book:
         - derm-eczema.qmd
         - derm-dermatitis.qmd
         - derm-scabies.qmd
-    - part: "<span style='font-weight:bold'>Toxins & Poisons</span>"
+    - part: "<span style='font-weight:bold; color: black;'>Home Accidents</span>"
       chapters: 
-        - tox-snake-bites.qmd
-        - tox-dog-bites.qmd
-        - tox-iron-poisoning.qmd
-        - tox-paracetamol.qmd
-        - tox-insecticides.qmd
-        - tox-caustic-soda.qmd
-        - tox-hydrocarbons.qmd
+        - home-iron-poisoning.qmd
+        - home-paracetamol.qmd
+        - home-insecticides.qmd
+        - home-caustic-soda.qmd
+        - home-hydrocarbons.qmd
+        - home-electrical.qmd
+        - home-drowning.qmd
+    - part: "<span style='font-weight:bold; color: black;'>Animal Bites</span>"
+      chapters: 
+        - bite-snake.qmd
+        - bite-dog.qmd
+        - bite-scorpion.qmd
+    - part: "<span style='font-weight:bold; color: black;'>Common Syndrome</span>"
+      chapters: 
+        - synd-down.qmd
+        - synd-edwards.qmd
+        - synd-patau.qmd
+        - synd-turners.qmd
+        - synd-noonan.qmd
+        - synd-digeorge.qmd
     - malaria.qmd
     - infections-infestations.qmd
     - therapeutics.qmd
