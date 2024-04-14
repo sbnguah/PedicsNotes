@@ -77,6 +77,8 @@ of heart failure. These include:
 
 ## Clinical examination
 
+### General 
+
 Clinical examination for a child with a suspected heart disease should always start as a general.
 One should first look out for life-threatening signs and intervene quickly. Subsequent steps could
 include:
@@ -90,7 +92,7 @@ include:
     well-documented recognisable heart defects. Below are just a few adapted from @ko2015:
 
     | Genetic syndrome  | \% with CHD | Cardiac anomalies                                                                                                             |
-    |-------------------|-------------|-------------------------------------------------------------------------------------------------------------------------------|
+    |----------------|----------------|---------------------------------------------------------------------|
     | Down Syndrome     | 40 to 50    | Atrial Septal Defect, Ventricular Septal Defect, Atrioventricular Canal Defect, Patent Ductus Arteriosus, Tetralogy of Fallot |
     | Turner syndrome   | 25 to 45    | Coarctation of the Aorta. Bicuspid Aortic Valve, Aortic Stenosis, Hypoplastic left heart syndrome                             |
     | DiGeorge syndrome | 70 to 75    | Aortic arch anomalies, Truncus arteriosus, Tetralogy of Fallot                                                                |
@@ -105,8 +107,8 @@ include:
     *Cyanosis*, the blueish duskiness of the skin and mucous membranes can be seen in children with
     a cyanotic congenital heart disease. In black skin, this may be difficult and can only be
     observed in the mouth and tongue (@fig-cvsCyanosisMouth). Mild cyanosis is often not visible and
-    may require the use of pulse oximetry. *Pallor* can be observed in patients with CHDs. or in
-    other AHDs such as infective endocarditis. *Jaundice* can be observed in patients with Infective
+    may require the use of pulse oximetry. *Pallor* can be observed in patients with heart diseases.
+    such as infective endocarditis. *Jaundice* can be observed in patients with Infective
     Endocarditis or those with hepatic injury secondary to chronic heart failure.
 
 ![Cyanosis in the tongue of a child](images/cvs-cyanosis-mouth.jpg){#fig-cvsCyanosisMouth
@@ -119,9 +121,66 @@ fig-align="center"}
 ![Finger clubbing](images/cvs_finger_clubbing.jpg){#fig-cvsFingerClubbing fig-align="center"}
 
 5.  ***Respiratory signs***: Respiratory signs commonly associated with heart diseases in children
-    are tachypnoea, dyspnoea, chest recessions and increased work of breathing. These are especially
-    true when there is associated heart failure and worsens with exercise or breastfeeding the the
-    breastfeeding infant.
+    are *tachypnoea*, *dyspnoea*, *chest recessions* and *increased work of breathing*. These are
+    especially true when there is associated heart failure and worsens with exercise or
+    breastfeeding an infants.
+6.  ***Circulation***: The circulation in a child with a suspected heart disease is critical.
+    Reduced circulation can be assessed with the warmth of the extremities, capillary refill time,
+    and blood pressure.
+7.  ***Blood pressure***: Low blood pressure is a late sign of circulatory failure and cardiogenic
+    shock. Conversely, weak pulse may be associated with hypertensive heart disease as well. Wide
+    pulse pressure, an abnormally wide difference between the systolic and diastolic blood pressures
+    may indicate a patent ductus arteriosus, aortic insufficiency or an aorticopulmonary window.
+    Blood pressure should be checked in the upper and lower limbs as a higher BP in the upper limbs
+    compared to the lower may indicate the presence of a coarctation of the aorta.
+8.  ***Pulses***: The radial pulse is the most routinely examined in cardiovascular examination. It
+    should be checked for the rate, rhythm, volume and character. If they are difficult to examine,
+    especially in young infants, the brachial pulsus can be used. Other pulses should be examined
+    and they include the brachial pulses, femoral and dorsalis pedis. Next, synchronization of the
+    radio-femoral pulse should be determined for a delay. This happens in the coarctation of the
+    aorta. Pulses difficult to palpate or inconsistent could be caused by large artery arteritis
+    such as Taksyasu arteritis.
+
+### Precordial 
+
+1.  ***Inspection***: Inspection of the precordium yields a wealth of information in a child with a
+    suspected heart disease. A midline bulge or left-sided bulge will often indicate a right or
+    left-sided heart chamber dilatation. Visible precordial pulsation should be noted. Scars,
+    especially from previous surgeries are useful. Scarification, the usually small "medicinal"
+    scars done on the chest as a means of treatment should also be noted. A Harrison sulcus,
+    depression of the lower part of the chest is common in children with chronic heart failure and
+    thus dyspnoea. @fig-ChestBulge
+
+2.  ***Palpation***: Palpation should be directed toward determining the presence of a thrill (a
+    palpable murmur), heave at the apex or middle of the precordium. Also, a palpable heart sound,
+    especially the second at the upper left sternal edge may indicate pulmonary hypertension.
+
+3.  ***Percussion***: This is of very little relevance in the examination of the heart in children.
+
+4.  ***Auscultation***: Auscultation of the heart can yield a wealth of information. It should be
+    done in a quiet environment, with the child as calm as possible. Auscultating can with both bell
+    and diaphragm. All four auscultatory areas need to be auscultated. It is always prudent to
+    auscultate the back (between the scapullae) and over the carotids. First, the regular two hear
+    sounds are determined. If muffled, they could indicate a pericardial effusion or sometimes occur
+    in obesity. Pulmonary hypertension and an atrial septal defect for instance could result in a
+    loud or split second heart sound. The presence of a third heart sound (S3) is not always
+    pathologic in children but an S4 is. Murmurs and their accurate characterization are crucial for
+    making a clinical diagnosis in children. The murmur needs to be determined if it is systolic or
+    diastolic. It needs to be graded (I to VI). Any radiation of the murmur should be determined.
+
+    ```{r}
+    #| echo: false
+    #| message: false
+    #| tbl-cap: "Grades of murmurs"
+    #| label: tbl-murmur-grades
+
+    library(tidyverse)
+    tibble(
+        Grade = c("Grade I", "Grade II", "Grade III", "Grade IV", "Grade V", "Grade VI"),
+        Description = c("Barely perceptible", "Soft, but easily audible", "Moderately loud but has not thrill", "Loud and associted with a thrill", "Audible with stethoscope partially of the chest", "Audible with stethoscope off the chest")
+    ) %>% 
+        gt::gt()
+    ```
 
 ## Investigation
 
