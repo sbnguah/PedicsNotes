@@ -77,7 +77,7 @@ of heart failure. These include:
 
 ## Clinical examination
 
-### General 
+### General
 
 Clinical examination for a child with a suspected heart disease should always start as a general.
 One should first look out for life-threatening signs and intervene quickly. Subsequent steps could
@@ -92,7 +92,7 @@ include:
     well-documented recognisable heart defects. Below are just a few adapted from @ko2015:
 
     | Genetic syndrome  | \% with CHD | Cardiac anomalies                                                                                                             |
-    |----------------|----------------|---------------------------------------------------------------------|
+    |-------------------|-------------|-------------------------------------------------------------------------------------------------------------------------------|
     | Down Syndrome     | 40 to 50    | Atrial Septal Defect, Ventricular Septal Defect, Atrioventricular Canal Defect, Patent Ductus Arteriosus, Tetralogy of Fallot |
     | Turner syndrome   | 25 to 45    | Coarctation of the Aorta. Bicuspid Aortic Valve, Aortic Stenosis, Hypoplastic left heart syndrome                             |
     | DiGeorge syndrome | 70 to 75    | Aortic arch anomalies, Truncus arteriosus, Tetralogy of Fallot                                                                |
@@ -141,7 +141,7 @@ fig-align="center"}
     aorta. Pulses difficult to palpate or inconsistent could be caused by large artery arteritis
     such as Taksyasu arteritis.
 
-### Precordial 
+### Precordial
 
 1.  ***Inspection***: Inspection of the precordium yields a wealth of information in a child with a
     suspected heart disease. A midline bulge or left-sided bulge will often indicate a right or
@@ -158,15 +158,15 @@ fig-align="center"}
 3.  ***Percussion***: This is of very little relevance in the examination of the heart in children.
 
 4.  ***Auscultation***: Auscultation of the heart can yield a wealth of information. It should be
-    done in a quiet environment, with the child as calm as possible. Auscultating can with both bell
-    and diaphragm. All four auscultatory areas need to be auscultated. It is always prudent to
-    auscultate the back (between the scapullae) and over the carotids. First, the regular two hear
-    sounds are determined. If muffled, they could indicate a pericardial effusion or sometimes occur
-    in obesity. Pulmonary hypertension and an atrial septal defect for instance could result in a
-    loud or split second heart sound. The presence of a third heart sound (S3) is not always
-    pathologic in children but an S4 is. Murmurs and their accurate characterization are crucial for
-    making a clinical diagnosis in children. The murmur needs to be determined if it is systolic or
-    diastolic. It needs to be graded (I to VI). Any radiation of the murmur should be determined.
+    done in a quiet environment, with the child as calm as possible. Auscultating can be performed
+    with both bell and diaphragm. All four auscultatory areas need to be auscultated. It is always
+    prudent to auscultate the back (between the scapullae) and over the carotids. First, the regular
+    two heart sounds should be determined. If muffled, they could indicate a pericardial effusion or
+    sometimes obesity. Pulmonary hypertension and an atrial septal defect for instance could result
+    in a loud or split second heart sound. The presence of a third heart sound (S3) is not always
+    pathologic in children but an S4 is. The murmur needs to be determined if it is systolic or
+    diastolic. It needs to be graded (@tbl-murmur-grades). Any radiation of the murmur should be
+    determined.
 
     ```{r}
     #| echo: false

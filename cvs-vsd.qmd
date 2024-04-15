@@ -9,6 +9,8 @@ This is the most common Congenital Heart Disease (CHD), being seen in about 15-2
 occurs in different anatomical locations. The most common is the peri-membranous. Others are inlet,
 outlet, muscular and infundibular. They also occur in different shapes and sizes as well.
 
+![Ventricular Septal Defect](images/cvs-vsd.jpg){#fig-cvs-vsd fig-align="center"}
+
 ## Pathophysiology
 
 Typically VSD without the presence of another congenital heart malformation results in a left to

@@ -15,6 +15,8 @@ author: "Dr Samuel Blay Nguah"
     -   Sinus venosus ASD
     -   Coronary sinus ASD
 
+![Atrial Septal Defect](images/cvs-asd.jpg){#fig-csv-asd fig-align="center"}
+
 ## Pathophysiology
 
 -   Left to right shunting and thus acyanotic
