@@ -92,7 +92,7 @@ include:
     well-documented recognisable heart defects. Below are just a few adapted from @ko2015:
 
     | Genetic syndrome  | \% with CHD | Cardiac anomalies                                                                                                             |
-    |-------------------|-------------|-------------------------------------------------------------------------------------------------------------------------------|
+    |--------------------|--------------------|-------------------------------------------------------------|
     | Down Syndrome     | 40 to 50    | Atrial Septal Defect, Ventricular Septal Defect, Atrioventricular Canal Defect, Patent Ductus Arteriosus, Tetralogy of Fallot |
     | Turner syndrome   | 25 to 45    | Coarctation of the Aorta. Bicuspid Aortic Valve, Aortic Stenosis, Hypoplastic left heart syndrome                             |
     | DiGeorge syndrome | 70 to 75    | Aortic arch anomalies, Truncus arteriosus, Tetralogy of Fallot                                                                |
@@ -123,7 +123,7 @@ fig-align="center"}
 5.  ***Respiratory signs***: Respiratory signs commonly associated with heart diseases in children
     are *tachypnoea*, *dyspnoea*, *chest recessions* and *increased work of breathing*. These are
     especially true when there is associated heart failure and worsens with exercise or
-    breastfeeding an infants.
+    breastfeeding infants.
 6.  ***Circulation***: The circulation in a child with a suspected heart disease is critical.
     Reduced circulation can be assessed with the warmth of the extremities, capillary refill time,
     and blood pressure.
@@ -160,7 +160,7 @@ fig-align="center"}
 4.  ***Auscultation***: Auscultation of the heart can yield a wealth of information. It should be
     done in a quiet environment, with the child as calm as possible. Auscultating can be performed
     with both bell and diaphragm. All four auscultatory areas need to be auscultated. It is always
-    prudent to auscultate the back (between the scapullae) and over the carotids. First, the regular
+    prudent to auscultate the back (between the scapulae) and over the carotids. First, the regular
     two heart sounds should be determined. If muffled, they could indicate a pericardial effusion or
     sometimes obesity. Pulmonary hypertension and an atrial septal defect for instance could result
     in a loud or split second heart sound. The presence of a third heart sound (S3) is not always

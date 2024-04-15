@@ -132,6 +132,10 @@ book:
         - synd-turners.qmd
         - synd-noonan.qmd
         - synd-digeorge.qmd
+        - synd-williams.qmd
+        - synd-fetal-alcohol.qmd
+        - synd-fragilex.qmd
+        - synd-prader-willi.qmd
     - gen-malaria.qmd
     - gen-infections-infestations.qmd
     - gen-therapeutics.qmd
