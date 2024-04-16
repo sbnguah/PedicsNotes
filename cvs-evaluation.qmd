@@ -29,7 +29,7 @@ Prenatally, the history should delve into but not be limited to the following:
     Erythematosus may also predispose to rhythm disturbances in the fetus and child, even when the
     mother is not symptomatic.
 5.  ***Family history of CHD***: The recurrence of CHD in first-degree relatives varies but is
-    almost always higher than the rest of the population. For instance, having a first-degree
+    almost always higher than in the rest of the population. For instance, having a first-degree
     relation with a cornoventricular defect was associated with a recurrence risk ratio of 24.3 (95%
     CI,12.2 to 48.7), 7.1 (95% CI, 4.5 to 11.1) for isolated ASD, and 3.4 (95% CI, 2.2 to 5.3) for
     isolated VSD.[@øyen2009]
@@ -73,7 +73,7 @@ of heart failure. These include:
         obstruction. However, this is still not a common presentation in pediatric heart diseases.
     -   Older children report *palpitations*.
     -   *Joint swelling* does occur in Rheumatic Heart Disease but again not a common presentation
-        in children with a heart pathology.
+        in children with heart pathology.
 
 ## Clinical examination
 
@@ -92,7 +92,7 @@ include:
     well-documented recognisable heart defects. Below are just a few adapted from @ko2015:
 
     | Genetic syndrome  | \% with CHD | Cardiac anomalies                                                                                                             |
-    |--------------------|--------------------|-------------------------------------------------------------|
+    |-------------------------|-------------------------|--------------------------------------------------|
     | Down Syndrome     | 40 to 50    | Atrial Septal Defect, Ventricular Septal Defect, Atrioventricular Canal Defect, Patent Ductus Arteriosus, Tetralogy of Fallot |
     | Turner syndrome   | 25 to 45    | Coarctation of the Aorta. Bicuspid Aortic Valve, Aortic Stenosis, Hypoplastic left heart syndrome                             |
     | DiGeorge syndrome | 70 to 75    | Aortic arch anomalies, Truncus arteriosus, Tetralogy of Fallot                                                                |
@@ -151,6 +151,9 @@ fig-align="center"}
     depression of the lower part of the chest is common in children with chronic heart failure and
     thus dyspnoea. @fig-ChestBulge
 
+![Chest bulge and Harrison's sulcus in child](images/cvs-ChestBulge.jpg){#fig-ChestBulge
+fig-align="center"}
+
 2.  ***Palpation***: Palpation should be directed toward determining the presence of a thrill (a
     palpable murmur), heave at the apex or middle of the precordium. Also, a palpable heart sound,
     especially the second at the upper left sternal edge may indicate pulmonary hypertension.
@@ -164,9 +167,19 @@ fig-align="center"}
     two heart sounds should be determined. If muffled, they could indicate a pericardial effusion or
     sometimes obesity. Pulmonary hypertension and an atrial septal defect for instance could result
     in a loud or split second heart sound. The presence of a third heart sound (S3) is not always
-    pathologic in children but an S4 is. The murmur needs to be determined if it is systolic or
-    diastolic. It needs to be graded (@tbl-murmur-grades). Any radiation of the murmur should be
-    determined.
+    pathologic in children but an S4 is. The presence of a murmur needs to be determined. If
+    present, it should be determined if it is systolic or diastolic, and the point of maximal
+    intensity. It needs to be graded (@tbl-murmur-grades) and the presence of radiation ascertained.
+    @tbl-murmur-location indicates types of murmurs, their location and likely heart diseases.
+    Diastolic murmurs are difficult to appreciate for the average medical student but may be present
+    in aortic regurgitation, pulmonary regurgitation, and at the cardiac apex in cases of heart
+    failure secondary to a large left-to-right shunt. It is of note that approximately 80% of
+    murmurs in children can be categorised as "innocent murmurs" as they are not associated with
+    cardiac pathology.
+
+    Other sounds need to be evaluated as well. These may include a pericardial rub which occurs in
+    pericarditis, an ejection click heart in early systole and cases of aortic or pulmonary
+    stenosis.
 
     ```{r}
     #| echo: false
@@ -176,21 +189,90 @@ fig-align="center"}
 
     library(tidyverse)
     tibble(
-        Grade = c("Grade I", "Grade II", "Grade III", "Grade IV", "Grade V", "Grade VI"),
-        Description = c("Barely perceptible", "Soft, but easily audible", "Moderately loud but has not thrill", "Loud and associted with a thrill", "Audible with stethoscope partially of the chest", "Audible with stethoscope off the chest")
+        Grade = c(
+            "Grade I", "Grade II", "Grade III", "Grade IV", 
+            "Grade V", "Grade VI"),
+        Description = c(
+            "Barely perceptible", "Soft, but easily audible", 
+            "Moderately loud but has not thrill", 
+            "Loud and associated with a thrill", 
+            "Audible with stethoscope partially of the chest", 
+            "Audible with stethoscope off the chest")
     ) %>% 
-        gt::gt()
+        gt::gt()%>% 
+        gt::opt_stylize(1)
     ```
 
+```{r}
+#| echo: false
+#| message: false
+#| tbl-cap: "Grades of murmurs"
+#| label: tbl-murmur-location
+
+tibble(
+    Murmur = c(
+        "Pansystolic", "Pansystolic", "Ejection systolic", 
+        "Ejection systolic", "Continuous"),
+    Location = c(
+        "LLSB", "Apex", "URSB", "ULSB", "2nd left ICS"
+        ),
+    Condition = c(
+        "VSD, Tricuspid regurgitation", 
+        "Rheumatic Heart Disease, Mitral valve prolapse",
+        "Aortic stenosis",
+        "ASD, Pulmonary stenosis, Tetralogy of Fallot, 
+        Coarctation of the aorta",
+        "Patent Dutus Arteriosus"
+        )
+    ) %>% 
+    gt::gt() %>% 
+    gt::opt_stylize(1)
+```
+
 ## Investigation
+
+Various investigations used in the diagnosis and management of heart diseases are:
+
+1.  ***Pulse Oximetry***: The usefulness of pulse oximetry is in determining the heart rate and
+    oxygen saturation. An oxygen saturation that is lower than expected (\<95% outside the early
+    neonatal period) is considered abnormal, and a strong indication of a cyanotic heart disease in
+    the presence of a non-pathologic lung.
+
+2.  ***Electrocardiogram***: The electrocardiogram is a common modality for the bedside
+    investigation of heart diseases in all age groups. It gives indications of the heart rate,
+    rhythm, chamber dilatation, wall thickness, laterality of the chambers, electrolyte
+    abnormalities and even the presence of a head injury. It is often not conclusive in many heart
+    conditions but serves as a good auxiliary test in children, especially post-surgery. There are
+    various types: The routine ECG takes just a few minutes to perform on a resting patient usually
+    lying supine. The stress ECG on the other hand is usually done with the heart under stress, as
+    may happen during an aerobic exercise. The Holter ECG on the other hand is attached to the
+    patient and continuously monitors the heart for 24 to 48 hours. This usually gives a better
+    reflection of the electrical activity of the heart over a prolonged period, instead of just a
+    brief period.
+
+3.  ***X-ray***: A chest x-ray is very useful in diagnosing and managing heart diseases in children.
+    Fortunately, it is readily available in many parts of Ghana. Both postero-anterior and lateral
+    chest X-rays can be useful in assessing the individual chamber and overall heart sizes.
+    Cardiomegaly, assessed with a cardiothoracic ratio \> 60% in children is seen in many cases of
+    heart disease. Chest X-rays also indicate ling pathologies, often showing as opacification or
+    silhouetting. Increased lung markings for instance can be found in patients with VSD and ASD
+    while decreased lung markings are often seen in Tetralogy of Fallot and pulmonary stenosis. The
+    shape of the heart is often an indicator of the underlying cardiac pathology. A Boot-shaped
+    heart may indicate a Tetralofy of Fallot (@fig-cvs-x-ray-boot-shaped) while a globular-shaped
+    heart points to dilated cardiomyopathy or pericardial effusion. @fig-cvs-globular-heart
 
 ![Chest x-ray showing cardiomegaly and lung
 shadowing](images/cvs-globular-heart.jpg){#fig-cxrCardiomegaly fig-align="center"}
 
-Chest x-ray showing a globular heart
-
-![Chest x-ray showing a globular heart](images/cvs-GlobularHeart.jpg){#fig-GlobularHeart
+![Chest x-ray showing a globular heart](images/cvs-GlobularHeart.jpg){#fig-cvs-globular-heart
 fig-align="center"}
 
-![Chest bulge and Harrison's sulcus in child](images/cvs-ChestBulge.jpg){#fig-ChestBulge
+![Boot-shaped heart of Chest X-X-ray](images/cvs-x-ray-boot-shaped.jpg){#fig-cvs-x-ray-boot-shaped
 fig-align="center"}
+
+4.  ***Echocardiogram***: This is is rather old but new investigatory modality. It Ultrasound of the
+    heart and great vessels Visualizes the heart in action Assesses Systolic and diastolic functions
+    Chamber sizes Wall thickness Wall Defects Valvular stenosis and regurgitation Prenatal diagnosis
+    of CHD (foetal echocardiogram) Stress echo
+
+    {{< video https://www.youtube.com/watch?v=WpJuARIoR6s&t=39s >}}

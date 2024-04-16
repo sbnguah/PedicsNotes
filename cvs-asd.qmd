@@ -3,9 +3,7 @@ title: "Atrial Septal Defect"
 author: "Dr Samuel Blay Nguah"
 ---
 
-## 
-
-## Introducion
+## Introduction
 
 1.  Defect in the inter-atrial septum
 2.  5-10% of all CHD
@@ -20,14 +18,15 @@ author: "Dr Samuel Blay Nguah"
 ## Pathophysiology
 
 -   Left to right shunting and thus acyanotic
--   leads to volume overload of the right atrium, ventricle, pulmonary artery and pulmonary oedema
+-   This leads to volume overload of the right atrium, ventricle, pulmonary artery and pulmonary
+    oedema
 -   Consequent dilatation of the right atrium and ventricles
 -   Minimal pressure transmitted so no significant pressure overload
 -   Consequently, pulmonary oedema is usually insignificant
 -   Rarely have overt heart failure
 -   However, long-standing liaison or a very big lesion with a pulmonary-to-systemic flow ratio of 2
-    or more will lead to heart failure and pulmonary hypertension after about 15 to 20 years No
-    Reversal of shunt
+    or more will lead to heart failure and pulmonary hypertension after about 15 to 20 years no
+    reversal of the shunt
 
 ## Clinical presentatoin
 
@@ -61,7 +60,7 @@ author: "Dr Samuel Blay Nguah"
 -   Arrhythmias may arise because of the dilated right atrium.
 -   Though there are reported cases of paradoxical strokes in patients with ASDs, it remains an
     uncommon occurrence.
--   Infective endocarditis is also rare in ASDs.
+-   Infective endocarditis is rare in ASDs.
 
 ## Treatment
 
