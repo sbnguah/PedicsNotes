@@ -270,9 +270,24 @@ fig-align="center"}
 ![Boot-shaped heart of Chest X-X-ray](images/cvs-x-ray-boot-shaped.jpg){#fig-cvs-x-ray-boot-shaped
 fig-align="center"}
 
-4.  ***Echocardiogram***: This is is rather old but new investigatory modality. It Ultrasound of the
-    heart and great vessels Visualizes the heart in action Assesses Systolic and diastolic functions
-    Chamber sizes Wall thickness Wall Defects Valvular stenosis and regurgitation Prenatal diagnosis
-    of CHD (foetal echocardiogram) Stress echo
+4.  ***Echocardiogram***: This is is rather old but new investigatory modality. Olb because it has
+    been around since the 1960s, and new because it is relatively new in Ghana. It is however s very
+    useful modality of investigation. An echocardiogram is essentially an ultrasound of the heart
+    and great vessels. Its biggest advantage is its ability to visualise the heart in real-time,
+    assess systolic and diastolic functions, measure chamber sizes and wall thickness, detect
+    defects such as ventricular septal defect, determine valvular abnormalities such as stenosis and
+    regurgitation, and even assess all these under stressful situation (stress echocardiogram). The
+    video below illustrates the various echocardiographic views used in children. Unfortunately,
+    since it is very user dependent it is not commonly available in Ghana with pediatric
+    echocardiography only currently available in Accra, Kumasi, Cape Coast and Tamale.
 
     {{< video https://www.youtube.com/watch?v=WpJuARIoR6s&t=39s >}}
+
+5.  ***Computerized tomography (CT) scan and Magnetic resonance Imaging (MRI)***: These are more
+    advanced modalities available for use, especially when an echocardiogram is inconclusive or
+    further study of the patient is necessary. A CT scan uses a series of X-rays taken at different
+    angles to generate the image and does not the complication of significant X-ray radiation
+    exposure. Both modalities can employ the use of contrast to delineate vessels.
+
+6.  ***Others***: Other specialised investigatory modalities are used as required. These include
+    cardiac catheterization in a specialised catheter laboratory.
