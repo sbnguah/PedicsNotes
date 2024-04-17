@@ -399,6 +399,76 @@
     "text": "21.7 Prognosis\nPrognosis is generally good with many living into adulthood even without corrective surgery. Post-surgical mortality i currently less the 0.5%. The patient will need very little long-term follow-up after the corrective surgery."
   },
   {
+    "objectID": "cvs-asd.html#definition",
+    "href": "cvs-asd.html#definition",
+    "title": "21  Atrial Septal Defect",
+    "section": "21.8 Definition",
+    "text": "21.8 Definition"
+  },
+  {
+    "objectID": "cvs-asd.html#incidenceprevalence",
+    "href": "cvs-asd.html#incidenceprevalence",
+    "title": "21  Atrial Septal Defect",
+    "section": "21.9 Incidence/prevalence",
+    "text": "21.9 Incidence/prevalence"
+  },
+  {
+    "objectID": "cvs-asd.html#aetiology",
+    "href": "cvs-asd.html#aetiology",
+    "title": "21  Atrial Septal Defect",
+    "section": "21.10 Aetiology",
+    "text": "21.10 Aetiology"
+  },
+  {
+    "objectID": "cvs-asd.html#pathophysiology-1",
+    "href": "cvs-asd.html#pathophysiology-1",
+    "title": "21  Atrial Septal Defect",
+    "section": "21.11 Pathophysiology",
+    "text": "21.11 Pathophysiology"
+  },
+  {
+    "objectID": "cvs-asd.html#signs-and-symptoms",
+    "href": "cvs-asd.html#signs-and-symptoms",
+    "title": "21  Atrial Septal Defect",
+    "section": "21.12 Signs and symptoms",
+    "text": "21.12 Signs and symptoms"
+  },
+  {
+    "objectID": "cvs-asd.html#investigations-1",
+    "href": "cvs-asd.html#investigations-1",
+    "title": "21  Atrial Septal Defect",
+    "section": "21.13 Investigations",
+    "text": "21.13 Investigations"
+  },
+  {
+    "objectID": "cvs-asd.html#treatment-1",
+    "href": "cvs-asd.html#treatment-1",
+    "title": "21  Atrial Septal Defect",
+    "section": "21.14 Treatment",
+    "text": "21.14 Treatment"
+  },
+  {
+    "objectID": "cvs-asd.html#complications",
+    "href": "cvs-asd.html#complications",
+    "title": "21  Atrial Septal Defect",
+    "section": "21.15 Complications",
+    "text": "21.15 Complications"
+  },
+  {
+    "objectID": "cvs-asd.html#prognosis-1",
+    "href": "cvs-asd.html#prognosis-1",
+    "title": "21  Atrial Septal Defect",
+    "section": "21.16 Prognosis",
+    "text": "21.16 Prognosis"
+  },
+  {
+    "objectID": "cvs-asd.html#differential-diagnosis",
+    "href": "cvs-asd.html#differential-diagnosis",
+    "title": "21  Atrial Septal Defect",
+    "section": "21.17 Differential diagnosis",
+    "text": "21.17 Differential diagnosis"
+  },
+  {
     "objectID": "cvs-vsd.html#introduction",
     "href": "cvs-vsd.html#introduction",
     "title": "22  Ventricular Septal Defect",
@@ -441,6 +511,216 @@
     "text": "22.6 Prognosis"
   },
   {
+    "objectID": "cvs-vsd.html#definition",
+    "href": "cvs-vsd.html#definition",
+    "title": "22  Ventricular Septal Defect",
+    "section": "22.7 Definition",
+    "text": "22.7 Definition"
+  },
+  {
+    "objectID": "cvs-vsd.html#incidenceprevalence",
+    "href": "cvs-vsd.html#incidenceprevalence",
+    "title": "22  Ventricular Septal Defect",
+    "section": "22.8 Incidence/prevalence",
+    "text": "22.8 Incidence/prevalence"
+  },
+  {
+    "objectID": "cvs-vsd.html#aetiology",
+    "href": "cvs-vsd.html#aetiology",
+    "title": "22  Ventricular Septal Defect",
+    "section": "22.9 Aetiology",
+    "text": "22.9 Aetiology"
+  },
+  {
+    "objectID": "cvs-vsd.html#pathophysiology-1",
+    "href": "cvs-vsd.html#pathophysiology-1",
+    "title": "22  Ventricular Septal Defect",
+    "section": "22.10 Pathophysiology",
+    "text": "22.10 Pathophysiology"
+  },
+  {
+    "objectID": "cvs-vsd.html#signs-and-symptoms",
+    "href": "cvs-vsd.html#signs-and-symptoms",
+    "title": "22  Ventricular Septal Defect",
+    "section": "22.11 Signs and symptoms",
+    "text": "22.11 Signs and symptoms"
+  },
+  {
+    "objectID": "cvs-vsd.html#investigations-1",
+    "href": "cvs-vsd.html#investigations-1",
+    "title": "22  Ventricular Septal Defect",
+    "section": "22.12 Investigations",
+    "text": "22.12 Investigations"
+  },
+  {
+    "objectID": "cvs-vsd.html#treatment",
+    "href": "cvs-vsd.html#treatment",
+    "title": "22  Ventricular Septal Defect",
+    "section": "22.13 Treatment",
+    "text": "22.13 Treatment"
+  },
+  {
+    "objectID": "cvs-vsd.html#complications",
+    "href": "cvs-vsd.html#complications",
+    "title": "22  Ventricular Septal Defect",
+    "section": "22.14 Complications",
+    "text": "22.14 Complications"
+  },
+  {
+    "objectID": "cvs-vsd.html#prognosis-1",
+    "href": "cvs-vsd.html#prognosis-1",
+    "title": "22  Ventricular Septal Defect",
+    "section": "22.15 Prognosis",
+    "text": "22.15 Prognosis"
+  },
+  {
+    "objectID": "cvs-vsd.html#differential-diagnosis",
+    "href": "cvs-vsd.html#differential-diagnosis",
+    "title": "22  Ventricular Septal Defect",
+    "section": "22.16 Differential diagnosis",
+    "text": "22.16 Differential diagnosis"
+  },
+  {
+    "objectID": "cvs-pda.html#definition",
+    "href": "cvs-pda.html#definition",
+    "title": "23  Patent Ductus Arteriosus",
+    "section": "23.1 Definition",
+    "text": "23.1 Definition"
+  },
+  {
+    "objectID": "cvs-pda.html#incidenceprevalence",
+    "href": "cvs-pda.html#incidenceprevalence",
+    "title": "23  Patent Ductus Arteriosus",
+    "section": "23.2 Incidence/prevalence",
+    "text": "23.2 Incidence/prevalence"
+  },
+  {
+    "objectID": "cvs-pda.html#aetiology",
+    "href": "cvs-pda.html#aetiology",
+    "title": "23  Patent Ductus Arteriosus",
+    "section": "23.3 Aetiology",
+    "text": "23.3 Aetiology"
+  },
+  {
+    "objectID": "cvs-pda.html#pathophysiology",
+    "href": "cvs-pda.html#pathophysiology",
+    "title": "23  Patent Ductus Arteriosus",
+    "section": "23.4 Pathophysiology",
+    "text": "23.4 Pathophysiology"
+  },
+  {
+    "objectID": "cvs-pda.html#signs-and-symptoms",
+    "href": "cvs-pda.html#signs-and-symptoms",
+    "title": "23  Patent Ductus Arteriosus",
+    "section": "23.5 Signs and symptoms",
+    "text": "23.5 Signs and symptoms"
+  },
+  {
+    "objectID": "cvs-pda.html#investigations",
+    "href": "cvs-pda.html#investigations",
+    "title": "23  Patent Ductus Arteriosus",
+    "section": "23.6 Investigations",
+    "text": "23.6 Investigations"
+  },
+  {
+    "objectID": "cvs-pda.html#treatment",
+    "href": "cvs-pda.html#treatment",
+    "title": "23  Patent Ductus Arteriosus",
+    "section": "23.7 Treatment",
+    "text": "23.7 Treatment"
+  },
+  {
+    "objectID": "cvs-pda.html#complications",
+    "href": "cvs-pda.html#complications",
+    "title": "23  Patent Ductus Arteriosus",
+    "section": "23.8 Complications",
+    "text": "23.8 Complications"
+  },
+  {
+    "objectID": "cvs-pda.html#prognosis",
+    "href": "cvs-pda.html#prognosis",
+    "title": "23  Patent Ductus Arteriosus",
+    "section": "23.9 Prognosis",
+    "text": "23.9 Prognosis"
+  },
+  {
+    "objectID": "cvs-pda.html#differential-diagnosis",
+    "href": "cvs-pda.html#differential-diagnosis",
+    "title": "23  Patent Ductus Arteriosus",
+    "section": "23.10 Differential diagnosis",
+    "text": "23.10 Differential diagnosis"
+  },
+  {
+    "objectID": "cvs-coa.html#definition",
+    "href": "cvs-coa.html#definition",
+    "title": "24  Coarctation of the Aorta",
+    "section": "24.1 Definition",
+    "text": "24.1 Definition"
+  },
+  {
+    "objectID": "cvs-coa.html#incidenceprevalence",
+    "href": "cvs-coa.html#incidenceprevalence",
+    "title": "24  Coarctation of the Aorta",
+    "section": "24.2 Incidence/prevalence",
+    "text": "24.2 Incidence/prevalence"
+  },
+  {
+    "objectID": "cvs-coa.html#aetiology",
+    "href": "cvs-coa.html#aetiology",
+    "title": "24  Coarctation of the Aorta",
+    "section": "24.3 Aetiology",
+    "text": "24.3 Aetiology"
+  },
+  {
+    "objectID": "cvs-coa.html#pathophysiology",
+    "href": "cvs-coa.html#pathophysiology",
+    "title": "24  Coarctation of the Aorta",
+    "section": "24.4 Pathophysiology",
+    "text": "24.4 Pathophysiology"
+  },
+  {
+    "objectID": "cvs-coa.html#signs-and-symptoms",
+    "href": "cvs-coa.html#signs-and-symptoms",
+    "title": "24  Coarctation of the Aorta",
+    "section": "24.5 Signs and symptoms",
+    "text": "24.5 Signs and symptoms"
+  },
+  {
+    "objectID": "cvs-coa.html#investigations",
+    "href": "cvs-coa.html#investigations",
+    "title": "24  Coarctation of the Aorta",
+    "section": "24.6 Investigations",
+    "text": "24.6 Investigations"
+  },
+  {
+    "objectID": "cvs-coa.html#treatment",
+    "href": "cvs-coa.html#treatment",
+    "title": "24  Coarctation of the Aorta",
+    "section": "24.7 Treatment",
+    "text": "24.7 Treatment"
+  },
+  {
+    "objectID": "cvs-coa.html#complications",
+    "href": "cvs-coa.html#complications",
+    "title": "24  Coarctation of the Aorta",
+    "section": "24.8 Complications",
+    "text": "24.8 Complications"
+  },
+  {
+    "objectID": "cvs-coa.html#prognosis",
+    "href": "cvs-coa.html#prognosis",
+    "title": "24  Coarctation of the Aorta",
+    "section": "24.9 Prognosis",
+    "text": "24.9 Prognosis"
+  },
+  {
+    "objectID": "cvs-coa.html#differential-diagnosis",
+    "href": "cvs-coa.html#differential-diagnosis",
+    "title": "24  Coarctation of the Aorta",
+    "section": "24.10 Differential diagnosis",
+    "text": "24.10 Differential diagnosis"
+  },
+  {
     "objectID": "cvs-tof.html#definition",
     "href": "cvs-tof.html#definition",
     "title": "25  Tetralogy of Fallot",
@@ -462,11 +742,11 @@
     "text": "25.3 Aetiology"
   },
   {
-    "objectID": "cvs-tof.html#pathogenesis",
-    "href": "cvs-tof.html#pathogenesis",
+    "objectID": "cvs-tof.html#pathophysiology",
+    "href": "cvs-tof.html#pathophysiology",
     "title": "25  Tetralogy of Fallot",
-    "section": "25.4 Pathogenesis",
-    "text": "25.4 Pathogenesis"
+    "section": "25.4 Pathophysiology",
+    "text": "25.4 Pathophysiology"
   },
   {
     "objectID": "cvs-tof.html#signs-and-symptoms",
@@ -518,11 +798,214 @@
     "text": "25.11 Prevention\n\n\n\n\nFigure 25.1: Boot shaped heart of Tetralogy of Fallot"
   },
   {
-    "objectID": "cvs-emf.html",
-    "href": "cvs-emf.html",
+    "objectID": "cvs-rhd.html#definition",
+    "href": "cvs-rhd.html#definition",
+    "title": "26  Rheumatic Heart Disease",
+    "section": "26.1 Definition",
+    "text": "26.1 Definition"
+  },
+  {
+    "objectID": "cvs-rhd.html#incidenceprevalence",
+    "href": "cvs-rhd.html#incidenceprevalence",
+    "title": "26  Rheumatic Heart Disease",
+    "section": "26.2 Incidence/prevalence",
+    "text": "26.2 Incidence/prevalence"
+  },
+  {
+    "objectID": "cvs-rhd.html#aetiology",
+    "href": "cvs-rhd.html#aetiology",
+    "title": "26  Rheumatic Heart Disease",
+    "section": "26.3 Aetiology",
+    "text": "26.3 Aetiology"
+  },
+  {
+    "objectID": "cvs-rhd.html#pathophysiology",
+    "href": "cvs-rhd.html#pathophysiology",
+    "title": "26  Rheumatic Heart Disease",
+    "section": "26.4 Pathophysiology",
+    "text": "26.4 Pathophysiology"
+  },
+  {
+    "objectID": "cvs-rhd.html#signs-and-symptoms",
+    "href": "cvs-rhd.html#signs-and-symptoms",
+    "title": "26  Rheumatic Heart Disease",
+    "section": "26.5 Signs and symptoms",
+    "text": "26.5 Signs and symptoms"
+  },
+  {
+    "objectID": "cvs-rhd.html#investigations",
+    "href": "cvs-rhd.html#investigations",
+    "title": "26  Rheumatic Heart Disease",
+    "section": "26.6 Investigations",
+    "text": "26.6 Investigations"
+  },
+  {
+    "objectID": "cvs-rhd.html#treatment",
+    "href": "cvs-rhd.html#treatment",
+    "title": "26  Rheumatic Heart Disease",
+    "section": "26.7 Treatment",
+    "text": "26.7 Treatment"
+  },
+  {
+    "objectID": "cvs-rhd.html#complications",
+    "href": "cvs-rhd.html#complications",
+    "title": "26  Rheumatic Heart Disease",
+    "section": "26.8 Complications",
+    "text": "26.8 Complications"
+  },
+  {
+    "objectID": "cvs-rhd.html#prognosis",
+    "href": "cvs-rhd.html#prognosis",
+    "title": "26  Rheumatic Heart Disease",
+    "section": "26.9 Prognosis",
+    "text": "26.9 Prognosis"
+  },
+  {
+    "objectID": "cvs-rhd.html#differential-diagnosis",
+    "href": "cvs-rhd.html#differential-diagnosis",
+    "title": "26  Rheumatic Heart Disease",
+    "section": "26.10 Differential diagnosis",
+    "text": "26.10 Differential diagnosis"
+  },
+  {
+    "objectID": "cvs-inf-endo.html#definition",
+    "href": "cvs-inf-endo.html#definition",
+    "title": "27  Infective Endocarditis",
+    "section": "27.1 Definition",
+    "text": "27.1 Definition"
+  },
+  {
+    "objectID": "cvs-inf-endo.html#incidenceprevalence",
+    "href": "cvs-inf-endo.html#incidenceprevalence",
+    "title": "27  Infective Endocarditis",
+    "section": "27.2 Incidence/prevalence",
+    "text": "27.2 Incidence/prevalence"
+  },
+  {
+    "objectID": "cvs-inf-endo.html#aetiology",
+    "href": "cvs-inf-endo.html#aetiology",
+    "title": "27  Infective Endocarditis",
+    "section": "27.3 Aetiology",
+    "text": "27.3 Aetiology"
+  },
+  {
+    "objectID": "cvs-inf-endo.html#pathophysiology",
+    "href": "cvs-inf-endo.html#pathophysiology",
+    "title": "27  Infective Endocarditis",
+    "section": "27.4 Pathophysiology",
+    "text": "27.4 Pathophysiology"
+  },
+  {
+    "objectID": "cvs-inf-endo.html#signs-and-symptoms",
+    "href": "cvs-inf-endo.html#signs-and-symptoms",
+    "title": "27  Infective Endocarditis",
+    "section": "27.5 Signs and symptoms",
+    "text": "27.5 Signs and symptoms"
+  },
+  {
+    "objectID": "cvs-inf-endo.html#investigations",
+    "href": "cvs-inf-endo.html#investigations",
+    "title": "27  Infective Endocarditis",
+    "section": "27.6 Investigations",
+    "text": "27.6 Investigations"
+  },
+  {
+    "objectID": "cvs-inf-endo.html#treatment",
+    "href": "cvs-inf-endo.html#treatment",
+    "title": "27  Infective Endocarditis",
+    "section": "27.7 Treatment",
+    "text": "27.7 Treatment"
+  },
+  {
+    "objectID": "cvs-inf-endo.html#complications",
+    "href": "cvs-inf-endo.html#complications",
+    "title": "27  Infective Endocarditis",
+    "section": "27.8 Complications",
+    "text": "27.8 Complications"
+  },
+  {
+    "objectID": "cvs-inf-endo.html#prognosis",
+    "href": "cvs-inf-endo.html#prognosis",
+    "title": "27  Infective Endocarditis",
+    "section": "27.9 Prognosis",
+    "text": "27.9 Prognosis"
+  },
+  {
+    "objectID": "cvs-inf-endo.html#differential-diagnosis",
+    "href": "cvs-inf-endo.html#differential-diagnosis",
+    "title": "27  Infective Endocarditis",
+    "section": "27.10 Differential diagnosis",
+    "text": "27.10 Differential diagnosis"
+  },
+  {
+    "objectID": "cvs-emf.html#definition",
+    "href": "cvs-emf.html#definition",
     "title": "28  Endomyocardial Fibrosis",
-    "section": "",
-    "text": "Figure 28.1: Endomyocardial Fibrosis showing classical Egg-on-Stick appearance"
+    "section": "28.1 Definition",
+    "text": "28.1 Definition"
+  },
+  {
+    "objectID": "cvs-emf.html#incidenceprevalence",
+    "href": "cvs-emf.html#incidenceprevalence",
+    "title": "28  Endomyocardial Fibrosis",
+    "section": "28.2 Incidence/prevalence",
+    "text": "28.2 Incidence/prevalence"
+  },
+  {
+    "objectID": "cvs-emf.html#aetiology",
+    "href": "cvs-emf.html#aetiology",
+    "title": "28  Endomyocardial Fibrosis",
+    "section": "28.3 Aetiology",
+    "text": "28.3 Aetiology"
+  },
+  {
+    "objectID": "cvs-emf.html#pathophysiology",
+    "href": "cvs-emf.html#pathophysiology",
+    "title": "28  Endomyocardial Fibrosis",
+    "section": "28.4 Pathophysiology",
+    "text": "28.4 Pathophysiology"
+  },
+  {
+    "objectID": "cvs-emf.html#signs-and-symptoms",
+    "href": "cvs-emf.html#signs-and-symptoms",
+    "title": "28  Endomyocardial Fibrosis",
+    "section": "28.5 Signs and symptoms",
+    "text": "28.5 Signs and symptoms"
+  },
+  {
+    "objectID": "cvs-emf.html#investigations",
+    "href": "cvs-emf.html#investigations",
+    "title": "28  Endomyocardial Fibrosis",
+    "section": "28.6 Investigations",
+    "text": "28.6 Investigations"
+  },
+  {
+    "objectID": "cvs-emf.html#treatment",
+    "href": "cvs-emf.html#treatment",
+    "title": "28  Endomyocardial Fibrosis",
+    "section": "28.7 Treatment",
+    "text": "28.7 Treatment"
+  },
+  {
+    "objectID": "cvs-emf.html#complications",
+    "href": "cvs-emf.html#complications",
+    "title": "28  Endomyocardial Fibrosis",
+    "section": "28.8 Complications",
+    "text": "28.8 Complications"
+  },
+  {
+    "objectID": "cvs-emf.html#prognosis",
+    "href": "cvs-emf.html#prognosis",
+    "title": "28  Endomyocardial Fibrosis",
+    "section": "28.9 Prognosis",
+    "text": "28.9 Prognosis"
+  },
+  {
+    "objectID": "cvs-emf.html#differential-diagnosis",
+    "href": "cvs-emf.html#differential-diagnosis",
+    "title": "28  Endomyocardial Fibrosis",
+    "section": "28.10 ## Differential diagnosis",
+    "text": "28.10 ## Differential diagnosis\n\n\n\nFigure 28.1: Endomyocardial Fibrosis showing classical Egg-on-Stick appearance"
   },
   {
     "objectID": "nep-hypertension.html#the-concept-of-blood-pressure",
