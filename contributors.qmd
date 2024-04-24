@@ -216,6 +216,7 @@ This book was written by the untiring effort of the following persons
 
 ::: columns
 ::: {.column width="30%"}
+![](images/female-silhouette.jpg) <br>
 :::
 
 ::: {.column width="70%"}
@@ -230,6 +231,7 @@ This book was written by the untiring effort of the following persons
 
 ::: columns
 ::: {.column width="30%"}
+![](images/male-silhouette.jpg) <br>
 :::
 
 ::: {.column width="70%"}
@@ -250,5 +252,19 @@ This book was written by the untiring effort of the following persons
 **Dr. John Adabie Appiah**
 <p style="font-size:10px; ">MB ChB, FWACP, FGCPS</p>
 <p style="font-size:15px; ">Dr. Appiah is a Senior Specialist in Pediatrics at the Department of Child Health, Komfo Anokye Teaching Hospital. He is also a Pediatric Critical Care Specialist.</p>
+:::
+:::
+
+------
+
+::: columns
+::: {.column width="30%"}
+![](images/female-silhouette.jpg) <br>
+:::
+
+::: {.column width="70%"}
+**Dr. Akua Adzie Quainoo**
+<p style="font-size:10px; ">MB ChB, MWACP, MGCPS</p>
+<p style="font-size:15px; ">Dr. Andzie Quainoo is a Specialist in Pediatrics at the Department of Child Health, Komfo Anokye Teaching Hospital. She is has special interest in Paediatric Cardiology.</p>
 :::
 :::

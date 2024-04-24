@@ -52,7 +52,7 @@ of heart failure. These include:
 
 1.  ***Growth failure***: Poor weight gain is a very prominent feature of CHDs in children. Many
     clinically significant CHDs result in poor feeding, chronic metabolic demand on the patient and
-    poor oxygenation in cyanotic CHDs. All these results in increased caloric demand, resulting in
+    poor oxygenation in cyanotic CHDs. All these result in increased caloric demand, resulting in
     poor growth.
 2.  ***Cyanotic spells***: Some cyanotic CHDs are associated with recurrent periods where the child
     has increasing cyanosis, sometimes associated with weakness, fast breathing and even
@@ -149,9 +149,9 @@ fig-align="center"}
     especially from previous surgeries are useful. Scarification, the usually small "medicinal"
     scars done on the chest as a means of treatment should also be noted. A Harrison sulcus,
     depression of the lower part of the chest is common in children with chronic heart failure and
-    thus dyspnoea. @fig-ChestBulge
+    thus dyspnoea. @fig-chest-bulge
 
-![Chest bulge and Harrison's sulcus in child](images/cvs-ChestBulge.jpg){#fig-ChestBulge
+![Chest bulge and Harrison's sulcus in child](images/cvs-chest-bulge.jpg){#fig-chest-bulge
 fig-align="center"}
 
 2.  ***Palpation***: Palpation should be directed toward determining the presence of a thrill (a
@@ -251,7 +251,7 @@ Various investigations used in the diagnosis and management of heart diseases ar
     brief period.
 
 3.  ***X-ray***: A chest x-ray is very useful in diagnosing and managing heart diseases in children.
-    Fortunately, it is readily available in many parts of Ghana. Both postero-anterior and lateral
+    Fortunately, it is readily available in many parts of Ghana. Both posteroanterior and lateral
     chest X-rays can be useful in assessing the individual chamber and overall heart sizes.
     Cardiomegaly, assessed with a cardiothoracic ratio \> 60% in children is seen in many cases of
     heart disease. Chest X-rays also indicate ling pathologies, often showing as opacification or
