@@ -5,56 +5,68 @@ author: "Dr. Akua Andzie Qainoo"
 
 ## Definition
 
-PDA is an acyanotic congenital heart disease. It is the persistence into post-natal life of the
-normal fetal vascular conduit between the Pulmonary and systemic arterial systems. Normally, the
-ductus arteriosus functionally closes within the first 1-3 days after birth. Structural closure is
-usually completed by the 3^rd^ week of birth.
+Patent Ductus Arteriosus (PDA) is an acyanotic congenital heart disease. that results from the
+persistence into the post-natal life of the normal fetal vascular conduit between the pulmonary and
+systemic arterial systems. @fig-cvs-pda Normally, the ductus arteriosus functionally closes within
+the first 1-3 days after birth. Structural closure is usually completed by the 3^rd^ week of birth.
+
+![Patent Ductus Arteriosus](images/cvs-pda.jpg){#fig-cvs-pda fig-align="center"}
 
 ## Incidence/prevalence
 
-Represents 5% of all Congenital Heart Defects, with a male-to-female ratio of 1:2
+PDAs represent about 5-10% of all congenital heart defects, with an equal male-to-female
+ratio.[@borges-lujan2022] It made up 23% of all electrocardiograph diagnoses of heart diseases seen
+in Kumasi, with a male-female-ratio of 1:0.9. This high proportion of PDAs in this cohort could be
+because a significant proportion of the children scanned were preterm infants.
 
 ## Aetiology
 
-1.  Prematurity
+Although there are no recognized etiological factors, PDAs are associated with a few recognisable
+conditions. These include:
 
-2.  Teratogenic agents such as Congenital Rubella, fetal alcohol syndrome, fetal hydantoin syndrome
-    and maternal phenylketonuria
-
-3.  Genetic or familial factors such as Trisomy 21, Trisomy 18, Trisomy 13, Noonan syndrome, CHARGE
-    association, VATER association, Holt-Oram syndrome, Treacher Collins syndrome, PHACE Syndrome,
-    Smith-Lemli-Opitz syndrome, Cri du chat syndrome
-
-4.  Living at high altitudes
-
-5.  Idiopathic
+1.  **Prematurity** - The more premature a baby is the higher the incidence of PDA. it is seen in as
+    much as 80% of babies born from 24 to 28 weeks.
+2.  **Teratogenic agents** such as Congenital Rubella, fetal alcohol syndrome, fetal hydantoin
+    syndrome and maternal phenylketonuria
+3.  **Genetic or familial** factors such as Trisomy 21, Trisomy 18, Trisomy 13, Noonan syndrome,
+    CHARGE association, VATER association, Holt-Oram syndrome, Treacher Collins syndrome, PHACE
+    Syndrome, Smith-Lemli-Opitz syndrome, Cri du chat syndrome
+4.  **Living at high altitudes** has long been associated with a higher incidence of PDAs
+5.  **Idiopathic** - Many patients with a PDA have no identifiable risk factors.
 
 ## Pathophysiology
 
 Ductus arteriosus in fetal circulation is indispensable to allow right-to-left shunting of
 nutrient-rich oxygenated blood from the placenta to the fetal systemic circulation, bypassing the
-fetal pulmonary circuit. At birth, the rise in PaO2 and decline in prostaglandin concentration cause
-closure of the ductus arteriosus, typically beginning within the first 10 to 15 hours of life. If
-this normal process does not occur, the ductus arteriosus will remain patent.
+fetal pulmonary circuit. At birth, the rise in PaO~2~ and decline in prostaglandin concentration
+cause closure of the ductus arteriosus, typically beginning within the first 10 to 15 hours of life.
+If this normal process does not occur, the ductus arteriosus will remain patent. The PDA then
+results in excess blood shunting from the aorta, across the duct and into the pulmonary artery. This
+shunting causes volume overload. There is therefore a circuit of excess blood volume in the
+pulmonary arteries, lungs, left atrium, left ventricle, and aorta. This subsequently leads to
+dilatation of the left pulmonary artery, left atrium and left ventricle as well as pulmonary edema
+and heart failure.
 
 ## Signs and symptoms
 
 Symptoms vary based on the volume of additional blood flow to the lungs.
 
 1.  The degree of the shunt depends on:
-    -   the size of the PDA (including diameter, length, and tortuosity)
-
-    -   pulmonary vascular resistance
-2.  Patients with small PDAs are asymptomatic.
-3.  Moderate to larger shunts produce the symptoms of CHF as the pulmonary vascular resistance
-    decreases over the first 6 to 8 weeks of life.
-4.  The physical examination depends on the size of the shunt.
+    -   The size of the PDA (including diameter, length, and tortuosity). Bigger ducts with shorter
+        lengths often result in worse symptoms. Conversely, patients with small PDAs are often
+        asymptomatic.
+    -   Pulmonary vascular resistance when high does not encourage shunting across the duct.
+        However, as the resistance drops the shunt gets worse, with worsening symptoms.
+    -   Moderate to larger shunts produce the symptoms of congestive heart failure as the pulmonary
+        vascular resistance decreases over the first 6 to 8 weeks of life.
+2.  The physical examination depends on the size of the shunt, and to a lesser extent the age and
+    maturity of the patient.
     -   Premature infants may present with:
 
         -   Tachypnoea, crackles, tachycardia
         -   Hyperdynamic precordium and bounding pulses with wide pulse pressure
-        -   Pansystolic murmur loudest at the left upper or mid-sternal border.
-        -   With a large PDA and equalization of pressure between the Main Pulmonary Artery and the
+        -   ***Pansystolic*** murmur loudest at the left upper or mid-sternal border.
+        -   With a large PDA and equalization of pressure between the main pulmonary artery and the
             aorta, no murmur may be heard.
         -   Soft tender hepatomegaly
 
@@ -66,55 +78,67 @@ Symptoms vary based on the volume of additional blood flow to the lungs.
 
     -   Infants and older children with moderate to large PDA may present with:
 
-        -   Louder murmur with a harsh quality and acquires a machine-like quality often being heard
-            posteriorly. A systolic thrill may be felt at the LUSB.
+        -   Louder murmur with a harsh quality and acquires a ***machine-like*** quality often being
+            heard posteriorly. A systolic thrill may be felt at the left upper sternal border.
         -   Tachycardia, bounding pulses with a wide pulse pressure, and a mid-diastolic
             low-frequency rumbling murmur may be audible at the apex with a large PDA
         -   With severe left ventricular failure the classic PDA signs may disappear, but there will
-            be findings consistent with CHF (tachycardia, S3 gallop at the apex, tachypnoea, soft
-            tender hepatomegaly, bibasal crackles)
+            be findings consistent with congestive heart failure (tachycardia, S3 gallop at the
+            apex, tachypnoea, soft tender hepatomegaly, bi-basal crackles)
         -   Pulmonary hypertension may occur in long-standing cases. In advanced cases of
-            irreversible pulmonary vascular disease, cyanosis begins to occur with the reversal of
-            shunting.
+            irreversible pulmonary vascular disease, cyanosis occurs with the reversal of shunting.
 
 ## Investigations
 
-1.  **Chest x-ray:** varies from normal (small PDAs) to prominence of main and peripheral pulmonary
-    arteries. Findings are more pronounced with moderate to large PDAs (cardiomegaly, increased
-    pulmonary vascular markings proportional to the left-to-right shunt. Pulmonary oedema can be
-    seen with CHF.
-2.  **ECG:** findings vary from normal (small PDAs) to evidence of left atrial dilatation and left
-    ventricular hypertrophy with moderate to large PDA. Evidence of biventricular hypertrophy in
-    long-standing cases. If pulmonary hypertension is present, evidence of right ventricular
-    hypertrophy.
-3.  **Echocardiogram:** Delineates the PDA and assesses the size of the left atrium and left
-    ventricle. Useful for assessing pulmonary hypertension. Doppler for assessing the flow pattern.
+1.  **Chest X-ray:** Varies from normal (small PDAs) to prominence of main and peripheral pulmonary
+    arteries and vasculature. Findings are more pronounced with moderate to large PDAs and may show
+    cardiomegaly, and increased pulmonary vascular markings proportional to the left-to-right shunt.
+    A dilated pulmonary artery may be seen on the chest x-ray in long-standing cases.
+    @fig-cvs-cxr-pda Pulmonary oedema can be seen with congestive heart failure.
+2.  **Electrocardiogram:** Findings vary from normal (small PDAs) to evidence of left atrial
+    dilatation and left ventricular hypertrophy with moderate to large PDA. Evidence of
+    bi-ventricular hypertrophy in long-standing cases. If pulmonary hypertension is present,
+    evidence of right ventricular hypertrophy may be seen.
+
+![Chest X-ray showing dilated pulmonary artery in a child with
+PDA](images/cvs-cxr-pda.jpg){#fig-cvs-cxr-pda fig-align="center"}
+
+3.  **Echocardiogram:** This delineates the PDA and assesses the size of the left atrium and
+    ventricle. Useful for evaluating pulmonary hypertension. Doppler for determining the flow
+    pattern.
 4.  **Cardiac catheterisation:** most often not essential for diagnosis. Can be performed for
     treatment using transcatheter closure techniques
 
 ## Treatment
 
-1.  Supportive treatment (careful use of oxygen and respiratory assistance)
+1.  Supportive treatment including careful use of oxygen and respiratory assistance
 2.  Management of CHF with diuretics commonly furosemide and spironolactone, digoxin and afterload
     reduction on a case-by-case basis
-3.  Pharmacologic closure of PDA: NSAIDs such as indomethacin or ibuprofen; are not usually
-    effective in infants or older children
-4.  contraindications to pharmacologic closure include co-existing congenital heart defects that-
-    are ductal dependant, renal impairment, thrombocytopenia and associated conditions such as NEC
-    and IVH.
-5.  Surgical closure is indicated in symptomatic or haemodynamically significant PDA. Surgical
+3.  Pharmacologic closure of PDA: Nonsteroidal Anti-Inflammatory Drugs (NSAIDs) such as indomethacin
+    or ibuprofen; are not usually effective in infants or older children but are in the early
+    neonatal period. Contraindications to pharmacologic closure include co-existing congenital heart
+    defects that are duct-dependent, renal impairment, thrombocytopenia and associated conditions
+    such as NEC and IVH.
+4.  Surgical closure is indicated in symptomatic or haemodynamically significant PDA. Surgical
     closure is achieved by open surgical ligation and division, video-assisted thoracoscopic
     ligation or transcatheter occlusion with coils or other devices.
 
 ## Complications
 
+The recognised complication of PDA includes infectious endocarditis, pulmonary hypertension and
+heart failure.
+
 ## Prognosis
 
-1.  The chance of spontaneous closure in a preterm baby is about 90% by age 1, while the likelihood
-    of spontaneous closure in a term baby is about 50% by age 1. This is because PDA in term infants
-    results from a structural abnormality of the ductal smooth muscles rather than a decrease in
-    responsiveness of the ductal smooth muscles to oxygen.
+1.  The chance of spontaneous closure in a preterm baby is about 95%, while the likelihood of
+    spontaneous closure in a term baby is more than 90% by age 1.[@yuan2021] This is because PDA in
+    term infants results from a structural abnormality of the ductal smooth muscles rather than a
+    decrease in responsiveness of the ductal smooth muscles to oxygen.
 2.  Heart failure and risk of recurrent chest infections develop for large shunts
 3.  Large shunts are also a risk for the development of pulmonary hypertension
+4.  Surgical treatment now has an almost 100% success rate in many centres.
 
 ## Differential diagnosis
+
+Other acyanotic congenital heart diseases are possible differentials. These include a large atrial
+septal defect and a coarctation of the aorta.
