@@ -263,7 +263,7 @@ This book was written by the untiring effort of the following persons
 :::
 
 ::: {.column width="70%"}
-**Dr. Akua Adzie Quainoo**
+**Dr. Ekua Andzie-Quainoo**
 <p style="font-size:10px; ">MB ChB, MWACP, MGCPS</p>
 <p style="font-size:15px; ">Dr. Andzie Quainoo is a Specialist in Pediatrics at the Department of Child Health, Komfo Anokye Teaching Hospital. She is has special interest in Paediatric Cardiology.</p>
 :::
