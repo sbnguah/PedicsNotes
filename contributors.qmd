@@ -268,3 +268,17 @@ This book was written by the untiring effort of the following persons
 <p style="font-size:15px; ">Dr. Andzie Quainoo is a Specialist in Pediatrics at the Department of Child Health, Komfo Anokye Teaching Hospital. She is has special interest in Paediatric Cardiology.</p>
 :::
 :::
+
+------
+
+::: columns
+::: {.column width="30%"}
+![](images/female-silhouette.jpg) <br>
+:::
+
+::: {.column width="70%"}
+**Dr. Betty Nkansah Osei Mensah**
+<p style="font-size:10px; ">MB ChB BSc</p>
+<p style="font-size:15px; ">Dr. Betty Nkansah Osei Mensah is a resident pediatriocian at the Department of Child Health, Komfo Anokye Teaching.</p>
+:::
+:::

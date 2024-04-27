@@ -1,4 +1,60 @@
 ---
 title: "Turner's Syndrome"
-author: "xxx"
+author: "Dr. Betty Nkansah Osei Mensah"
+editor: 
+  markdown: 
+    wrap: sentence
 ---
+
+## Definition
+
+It is defined as a combination of peculiar phenotypic features with either a complete or partial absence of the second X chromosome.
+It is one the most common chromosomal abnormalities, occurring in approximately 1 in 1,500 to 2,500 live-birth females.
+
+## Genetics
+
+About half the patients with Turner syndrome have 45,X chromosomal complement.
+The single X chromosome is of maternal origin in 80%, thus the missing X is usually of paternal origin.
+A similar clinical feature is seen in 46,XXiq karyotype and mosaicism (45,X/ 46, XX).
+Deletion of the SHOX gene (a gene thought to be important in controlling growth in children) is a consistent finding in Turner syndrome.
+A similar skeletal phenotype is seen in Leri-Weill dyschondrosteosis.
+
+## Clinical Features
+
+-   **At birth**: Low birthweight Decreased birth length, Lymphedema of hands and feet, Loose skinfolds at the nape.
+-   **During childhood into early adolescence**: Short stature, webbed neck, low posterior hairline, epicanthal folds, posteriorly rotated ears, high arched palate, micrognathia, shield chest, cubitus valgus, short 4th metacarpal bone, and hyperconvex fingernails, normal mental intelligence (except in mathematics).
+-   **Late adolescence into adulthood**: Delayed puberty. Adrenarche occurs at a normal age and delayed breast development but will completely be absent if ovarian failure occurs before puberty. Primary or secondary amenorrhoea occurs with ovarian failure.
+
+## Associations 
+
+-   **Ovarian dysgenesis**: The normal fetal ovary contains about Seven million oocytes. However, these begin to disappear rapidly after the 5th month of gestation. At birth, there are only 2 million and by age 2 almost all oocytes are depleted.
+-   **Cardiac defects**: Bicuspid aortic valve (33-50%), [Coarctation of the Aorta](cvs-coa.qmd) (20%), Aortic stenosis, Mitral valve prolapse, Partial anomalous pulmonary venous drainage.
+-   **Renal malformation**: Seen in 25-50%. They include horseshoe kidneys, double collecting systems Pelvic kidneys, and the Complete absence of one kidney.
+-   **Others**: Autoimmune thyroid disease (10-30%). Inflammatory Bowel Disease and Celiac disease (screening is recommended because the risk of celiac disease is increased in Turner syndrome (4-6%). Recurrent otitis media (75%), resulting in sensorineural hearing deficits. Increased risk of Gonadoblastoma, therefore prophylactic gonadectomy is recommended even in the presence of MRI or CT scan evidence.
+
+## Investigation
+
+-    Genetic testing in all females with short stature and other related clinical features.
+-   Echocardiogram to screen for cardiac defects.
+-   Abdominopelvic ultrasound scan to assess the kidneys and the ovaries. -
+-   Plasma levels of follicle-stimulating hormone (FSH) are markedly raised while the are low levels of estradiol.
+-   Transglutaminase immunoglobulin A antibodies to rule in or out Celiac disease.
+-   Thyroid peroxidase and thyroglobulin antibodies should be checked periodically to detect autoimmune.
+
+## Treatment
+
+-    Recombinant human growth hormone helps with height velocity.
+-   Estrogen replacement therapy for the development of sexual characteristics.
+-   Psychological support is very crucial for the management of patients; to help them accept diagnosis and treatment modalities.
+
+## Complications
+
+-   Hypertension
+-   Abnormal glucose tolerance and insulin resistance
+-   Infertility
+-   Sensorineural hearing loss from recurrent bilateral otitis media
+
+## Counselling
+
+-    There should be genetic screening for couples or individuals with Turner syndrome.
+-   There is currently no cure and treatment options are focused on symptomatic management, in a multidisciplinary team approach.
