@@ -271,7 +271,7 @@ This book was written by the untiring effort of the following persons
 
 ------
 
-::: columns
+:::: {columns}
 ::: {.column width="30%"}
 ![](images/female-silhouette.jpg) <br>
 :::
@@ -279,6 +279,36 @@ This book was written by the untiring effort of the following persons
 ::: {.column width="70%"}
 **Dr. Betty Nkansah Osei Mensah**
 <p style="font-size:10px; ">MB ChB BSc</p>
-<p style="font-size:15px; ">Dr. Betty Nkansah Osei Mensah is a resident pediatriocian at the Department of Child Health, Komfo Anokye Teaching.</p>
+<p style="font-size:15px; ">Dr. Betty Nkansah Osei Mensah is a resident pediatrician at the Department of Child Health, Komfo Anokye Teaching.</p>
+:::
+::::
+
+------
+
+::: columns
+::: {.column width="30%"}
+![](images/male-silhouette.jpg) <br>
+:::
+
+::: {.column width="70%"}
+**Dr. Joshua Sarkodie-Addo**
+<p style="font-size:10px; ">MB ChB BSc</p>
+<p style="font-size:15px; ">Dr. Sarkodie-Addo is a resident pediatrician at the Department of Child Health, Komfo Anokye Teaching.</p>
 :::
 :::
+
+------
+
+::: columns
+::: {.column width="30%"}
+![](images/male-silhouette.jpg) <br>
+:::
+
+::: {.column width="70%"}
+**Dr. Theodora-Ann Ellis**
+<p style="font-size:10px; ">MB ChB BSc</p>
+<p style="font-size:15px; ">Dr. Ellis is a resident pediatrician at the Department of Child Health, Komfo Anokye Teaching.</p>
+:::
+:::
+
+

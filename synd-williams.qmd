@@ -1,4 +1,56 @@
 ---
 title: "Williams Syndrome"
-author: "xxx"
+author: "Dr. Theodora-Ann Ellis"
 ---
+
+## Definition
+Williams Syndrome also known as Williams-Beuren Syndrome is a rare genetic disorder that is characterized by pre and postnatal growth delays, developmental delays, cardiovascular diseases, endocrine abnormalities, connective tissue abnormalities, intellectual disabilities, feeding difficulties and distinctive facies. 
+
+## Genetics
+It has an autosomal dominant pattern of inheritance. This disorder results from the deletion of the genetic material 7q11.23 and has been designated “Williams-Beuren Syndrome Chromosome Region 1” (WBSCR1). It codes for numerous genes which include ELN (elastin) gene, the LIMK1 (or LIM Kinase -1) gene and the RFC2 (replication factor, C subunit 2) gene. Penetrance is 100%. 
+
+## Clinical features
+Williams Syndrome is a multisystem disorder characterized by the following features:
+
+### Neurodevelopmental & Neurobehavioural
+Autism, ADHD, Developmental Delay, Sleep disorders, Intellectual Disability, Overfriendliness
+
+### Cardiovascular
+Chest pain, fatigue, dizziness, murmurs and [hypertension](nep-hypertension.qmd)
+
+### Gastrointestinal
+Constipation, Vomiting, Irritability, Muscle cramps and pain, Loss of appetite, Abdominal pain and Confusion
+
+### Endocrine
+Short stature, Polyuria, Daytime wetting, hoarse voice, short stature
+
+### Craniofacial & Musculoskeletal
+Median flare of the eyebrows, Perioral and periorbital fullness, Depressed nasal bridge, wide mouth, long philtrum, small jaw, ataxia, dysmetria, and tremor, and hypotonia
+
+### Urinary
+Increased Urinary frequency, and Enuresis
+
+### Ocular, Auditory & Dental
+Hyperacusis, star-like (stellate) pattern in the iris of the eye. Blue iris. Strabismus, Hearing loss
+
+## Investigation
+that may be used in the diagnosis of William Syndrome include Body Mass Index (BMI), Complete Blood count (CBC), Complete Metabolic Panel (CMP), Serum calcium for hypercalcemia, Thyroid stimulating hormone including Free T3 and Free T4, Vision and Hearing Assessment, Echocardiogram for associated structural anomalies, Electrocardiogram, Fluorescent in Situ Hybridization (FISH)
+
+## Treatment
+Effective treatment and management of children with Williams Syndrome require a multidisciplinary approach including:
+
+- Genetic counselling after the diagnosis of Williams Syndrome is made.
+- Cardiology & Cardiothoracic Surgery - The use of antihypertensives to control hypertension. Open heart surgeries for surgical correction of anomalies such as supra-valvular aortic stenosis
+- Endocrinology – Dietary modifications, exercise, the use of growth hormones, thyroid hormone replacement therapy, the use of oral corticosteroids or IV pamidronate
+- Nephrology – Lithotripsy for the management of renal calculi
+- Gastroenterology – The placement of a permanent feeding tube for patients with feeding difficulties
+- Ophthalmology, ENT – Corrective lenses for hyperopia, Ear protection for hyperacusis
+- Psychiatry – Medical or psychotherapy for management of conditions like Attention-Deficit/Hyperactivity Disorder, Obsessive Compulsory Disorder.
+- Ancillary Services – Occupational therapy, speech therapy, physical therapy
+
+## Complications
+Some compliations associated with Williams Syndrome are malnutrition, Left Ventricular Hypertrophy, [Heart Failure](cvs-heart-failure.qmd), Myocardial Infarction, Dysrhythmias, Acute Pancreatitis, Cholelithiasis, Peptic Ulcer Disease, Renal Artery Stenosis, Cataract, Chronic Otitis Media, Sudden death.
+
+## Notes on counselling
+The individual and the families/caretakers will be counselled on the fact that the disorder is a genetic disorder with an autosomal dominant inheritance thus there is at least a 50% chance of the offspring of the affected individual having the disorder. There is however no available cure for the underlying disorder, some associated disorders can be treated or managed. Affected individuals will also be advised to have preconception counselling with the Obstetrician and Gynecologist if he/she wishes to have children. 
+

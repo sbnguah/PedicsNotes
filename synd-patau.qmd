@@ -2,3 +2,59 @@
 title: "Patau Syndrome"
 author: "xxx"
 ---
+
+## Definition
+
+Patau syndrome is a rare genetic disorder with the patient having an extra copy of chromosome 13
+(Trisomy 13).
+
+## Genetics
+
+Patau Syndrome is due most commonly to non-disjunction in meiosis, occurring more frequently in
+mothers of advanced age (greater than 35). Also, an unbalanced Robertsian translocation which
+results in 2 normal copies of chromosome 13 and an additional long arm of chromosome 13 can cause
+Edward's syndrome. A less common cause is mosaicism which results in 3 copies of chromosome 13 in
+some cells and two copies in the others. Mosaics are the outcome of a mitotic non-disjunction error
+and are unrelated to maternal age. The prognosis is better in patients with mosaicism and patients
+with unbalanced translocations.
+
+## Clinical features
+
+This extra copy of chromosome 13 disrupts normal embryonic development and leads to multiple
+defects. Some of these are:
+
+-   *CNS*: Alobar holoprosencephaly, Anophthalmia, Microphthalmia, Coloboma, Intellectual
+    disability, Hypotonia, Microcephaly, Seizures
+-   *Gastrointestinal*: Exomphalos, Hernia, Meckel diverticulum, Omphalocele
+-   *Genitourinary*: Polycystic kidneys, Cryptorchidism, Hypospadias, Labia Minora Hypoplasia
+-   *Cardiovascular*: [Ventricular Septal Defect](cvs-vsd.qmd), [Atrial Septal Defect](cvs-asd.qmd),
+    Atrioventricualr Canal Defect, [Tetralogy of Fallot](cvs-tof.qmd)
+-   *Skeletal*: Polydactyly, Congenital talipes
+-   *Craniofacial*: Cleft lip /cleft palate, Micrognathia
+-   *Others*: Intrauterine Growth Restriction, Rocker bottom feet, Psychomotor disorders, Capillary
+    hemangioma, Pre-auricular tags
+
+## Investigation
+
+-   Prenatally with chorionic villi sampling, amniocentesis or fetal free DNA analysis.
+-   Tissue microarray (especially in fetal death)
+-   FISH(fluorescent in-situ hybridization)
+
+## Treatment
+
+There is no definitive treatment for Patau syndrome. A multidisciplinary approach is required. Some
+of these include:
+
+-   Counselling
+-   Rehabilitation team/ palliative team\
+-   Occupational therapy
+-   Psychology
+-   Cardiology
+
+## Counselling
+
+There should be genetic counselling offered to the parents. Genetic testing for parents The
+recurrence risk for Trisomy is approximately 0.5% above the mother’s age-related risk for autosomal
+trisomy. Consult a genetic counsellor or medical geneticist regarding recurrence risks for
+structural rearrangements that involve chromosome 13. Prognosis is generally poor (82% die within 1
+month, 95% die within 6 months)
