@@ -51,7 +51,7 @@ as well. These properties lead to many undiagnosed ASD that are subsequently see
 
 ## Investigations
 
--   At the bedside pulse oximetry would likely reveal a normal SpO2 as this is an acyanotic
+-   At the bedside pulse oximetry would likely reveal a normal SpO~2~ as this is an acyanotic
     congenital heart disease.
 -   A chest X-ray could show cardiomegaly with dilatation of the right side of the heart. Prominence
     of the pulmonary artery and an increase in vascular markings may also be present.
@@ -60,7 +60,7 @@ as well. These properties lead to many undiagnosed ASD that are subsequently see
 -   An echocardiogram is diagnostic as it visualises the defect, quantifies the shunt and other
     chamber sizes, and identifies possible complications.
 -   Cardiac catheterisation is often done in long-standing cases to detect complications possibly
-    pulmonary hypertension and quantifiy the shunt volume.
+    pulmonary hypertension and quantify the shunt volume.
 
 ## Treatment
 

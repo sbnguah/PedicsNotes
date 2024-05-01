@@ -1,4 +1,55 @@
 ---
 title: "Fetal Alcohol Syndrome"
-author: "xxx"
+author: "Dr. Akorfa Ama Wotordzor"
 ---
+
+## Definition
+Fetal Alcohol Spectrum Disorder (FASD) is a continuum of adverse outcomes described as preventable central nervous system dysfunction and birth defects that result from prenatal alcohol exposure. The term has been used to describe 4 main entities namely:
+
+- Fetal alcohol syndrome (FAS)
+- Partial fetal alcohol syndrome (PFAS)
+- Alcohol-related neurodevelopmental disorder (ARND) and 
+- Alcohol-related birth defects (ARBDs) 
+
+FAS is considered the most severe and distinct subset of FASD. The diagnosis is based on findings in three fundamental areas: characteristic facial dysmorphology, growth retardation and CNS involvement. In addition to these three primary features, prenatal alcohol exposure impairs cardiogenesis and subsequently results in congenital heart disease occurring in about 40 to 54% of children diagnosed with FAS. The estimated global prevalence of FASD among the general population is 7.7 cases per 1,000 individuals. In Africa, studies have been done in South Africa, where prevalence is among the highest reported in the world. 
+
+## Pathogenesis
+Alcohol is considered a teratogen that causes irreversible damage when taken during pregnancy. Although its effect can affect every stage of pregnancy, the risk of facial anomalies and major structural anomalies occurs with exposure during the first trimester, with irreversible damage. The possible teratogenic effects depend on the timing, frequency, duration, amount of alcohol exposure as well as genetic susceptibility. Ethanol and its metabolite acetaldehyde can alter fetal development by disrupting cellular differentiation and growth, disrupting DNA and protein synthesis and inhibiting cell migration resulting in the various anomalies that can occur. The pathogenesis of congenital heart disease in FAS is not well known but it is hypothesised that fetal alcohol exposure has deleterious effects on the composition of the cardiac extracellular matrix or cardiac fibroblasts based on studies performed in animals (mice). 
+
+Additionally, prenatal alcohol exposure has been shown to impair cardiac development through numerous cellular mechanisms, including reduction of retinoic acid levels, apoptosis of neural crest cells, suppression of histone acetylation, and altered gene expression. Animal studies have shown that prenatal alcohol exposure can induce a range of abnormalities in heart structure and function, including thinning of the ventricular walls, decreased ejection fraction (EF), reduced heart weight, and left ventricular hypertrophy. Overt congenital heart defect phenotypes such as [ventricular septal defect](cvs-vsd.qmd), atrioventricular canal malformation, cardiac chamber malformations, great vessel defects, and double outlet right ventricle have also been identified in animals. 
+
+
+## Clinical Features
+The clinical features of FAS require a history of prenatal alcohol exposure and 
+1. At least 2 characteristic facial features (characteristical short palpebral fissures, thin vermillion border, and smooth philtrum). Other facial featues are microcephaly, small palpebral fissures, low nasal bridge, flat midface, epicanthal folds and railroad track ears,
+2. Prenatal and postnatal growth retardation (height and//or weight <10th centile); 
+3. Deficient brain growth, abnormal morphogenesis, or abnormal neurophysiology, including at least one of the following: 
+    - Head circumference ≤10th percentile
+    - Structural brain anomalies; 
+    - Recurrent non-febrile seizures (other causes of seizures having been ruled out) and
+    - Neurobehavioral impairment. 
+4. Associated CHDs may include [atrial septal defect](cvs-asd.qmd), [ventricular septal defect](cvs-vsd.qmd), d-transposition of great arteries, [patent ductus arteriosus](cvs-pda.qmd), endocardial cushion defects and conotruncal heart defects (eg, aberrant great vessels, [Tetralogy of Fallot](cvs-tof.qmd)) 
+
+## Associations
+The associations of FAS include other disorders of the FASD that require a longitudinal study that assesses growth, neurodevelopment features and facial dysmorphology to identify these children up to the ages of 9-18 months. Other associations of prenatal alcohol exposure include miscarriage, still birth, [preterm birth and low birth weight](neo-preterm-low-birth-weight.qmd), and developmental delays. 
+
+## Investigation
+### Prenatal
+
+1. Optical coherence tomography (OCT) – Can be used to identify embryonic structure and cardiac anomalies. 
+
+### Post-natal.
+
+-	MRI and CT scan for structural brain abnormalities. 
+-	Echocardiogram 
+-	Neurodevelopmental evaluation
+
+## Treatment
+FAS has a varied presentation of congenital anomalies with attendant CNS effects; therefore, management must be individualised based on the strengths and needs of the patient and their families. Typically, these children require a multidisciplinary approach to their management. Management is typically lifelong long and interventions may change over time based on the needs identified. Treatment modalities may include referral to infant developmental services, vision and hearing screening, preschool speech and language therapy, school-based support for learning disorders, occupational and physical therapy, behavioural and psychological interventions, pharmacotherapy, vocational support, and support for independent living in adolescence and adulthood. Specialized medical or surgical interventions may be required for congenital anomalies and accompanying comorbidities.
+
+## Complications
+Children with FASD, with neurological impairment, may lead to lifelong “secondary disabilities” which include academic failure, inappropriate sexual behaviour, disrupted school experience, trouble with the law and incarceration, homelessness, unemployment, substance use, chronic mental health problems, premature death (most likely from impulsivity and poor judgment, such as car accidents or human immunodeficiency virus (HIV) infection, or from comorbidities such as substance use, unhealthy lifestyle, suicide, or homicide)
+
+## Counselling
+In counselling the relatives of a child with FAS, it is important to eliminate the stigmatization of the mother. Counselling should emphasise the importance of an individualised lifelong treatment plan for the child. For subsequent pregnancies, mothers must be counselled on the abstinence from drinking alcohol before conception and during pregnancy as there are no safe levels of alcohol in pregnancy.
+

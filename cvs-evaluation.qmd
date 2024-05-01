@@ -25,14 +25,14 @@ Prenatally, the history should delve into but not be limited to the following:
     associated with teratogenic effects on the heart.
 4.  ***Maternal illnesses:*** Maternal medical conditions during pregnancy may be associated with
     heart diseases in their fetuses. Diabetes mellitus is particularly well known, predisposing to
-    hypertrophic cardiomyopathy, d-TGA, etc. Autoimmune conditions such as Systemic Lupus
-    Erythematosus may also predispose to rhythm disturbances in the fetus and child, even when the
-    mother is not symptomatic.
+    hypertrophic cardiomyopathy, d-Transposition of the Great Arteries, etc. Autoimmune conditions
+    such as Systemic Lupus Erythematosus may also predispose to rhythm disturbances in the fetus and
+    child, even when the mother is not symptomatic.
 5.  ***Family history of CHD***: The recurrence of CHD in first-degree relatives varies but is
     almost always higher than in the rest of the population. For instance, having a first-degree
-    relation with a cornoventricular defect was associated with a recurrence risk ratio of 24.3 (95%
-    CI,12.2 to 48.7), 7.1 (95% CI, 4.5 to 11.1) for isolated ASD, and 3.4 (95% CI, 2.2 to 5.3) for
-    isolated VSD.[@øyen2009]
+    relation with a cornoventricular defect is associated with a recurrence risk ratio of 24.3 (95%
+    CI,12.2 to 48.7), 7.1 (95% CI, 4.5 to 11.1) for isolated [Atrial Septal Defect](cvs-asd.qmd),
+    and 3.4 (95% CI, 2.2 to 5.3) for isolated [Ventricular Septal Defect](cvs-vsd.qmd).[@øyen2009]
 
 ### Perinatal
 
@@ -56,16 +56,17 @@ of heart failure. These include:
     poor growth.
 2.  ***Cyanotic spells***: Some cyanotic CHDs are associated with recurrent periods where the child
     has increasing cyanosis, sometimes associated with weakness, fast breathing and even
-    unconsciousness. The presence of these spells may be pointed to a CHD.
+    unconsciousness. The presence of these spells may be a pointer to a CHD.
 3.  ***Squatting and exercise intolerance***: A common presentation of heart diseases in children is
-    exercise intolerance. However, for some cyanotic congenital heart diseases, most notably ToF,
-    the added feature is frequent squatting when the child becomes fatigued.
+    exercise intolerance. However, for some cyanotic congenital heart diseases, most notably
+    [Tetralogy of Fallot](cvs-tof.qmd), the added feature is frequent squatting when the child
+    becomes fatigued.
 4.  ***Delayed milestones***: Growth failure, easy fatiguability and the presence of other genetic
     syndromes may result in delayed motor milestones in the child.
 5.  ***Others***: *Fast* and sometimes *difficulty breathing* are also common presentations of CHDs.
     Some children develop *oedema*. This is predominantly seen in the faces of younger children and
     the feet of older children. Frequent *lower respiratory infection* is also seen in children with
-    heart diseases, especially those associated with heart failure.
+    heart diseases, especially those associated with [heart failure](cvs-heart-failure.qmd).
 6.  ***Uncommon symptoms***: Uncommon presentation of heart disease in children include:
     -   *Chest pain* is a rather feared symptom in adults but usually portends another diagnosis
         rather than heart disease in children.
@@ -79,8 +80,8 @@ of heart failure. These include:
 
 ### General
 
-Clinical examination for a child with a suspected heart disease should always start as a general.
-One should first look out for life-threatening signs and intervene quickly. Subsequent steps could
+Clinical examination for a child with a suspected heart disease should always start as general. One
+should first look out for life-threatening signs and intervene quickly. Subsequent steps could
 include:
 
 1.  ***Nutritional status*** is very important as many children with chronic heart conditions with
@@ -92,7 +93,7 @@ include:
     well-documented recognisable heart defects. Below are just a few adapted from @ko2015:
 
     | Genetic syndrome                        | \% with CHD | Cardiac anomalies                                                                                                             |
-    |-------------------------|-------------------------|--------------------------------------------------|
+    |-----------------------------------------|-------------|-------------------------------------------------------------------------------------------------------------------------------|
     | [Down Syndrome](synd-down.qmd)          | 40 to 50    | Atrial Septal Defect, Ventricular Septal Defect, Atrioventricular Canal Defect, Patent Ductus Arteriosus, Tetralogy of Fallot |
     | [Turner's syndrome](synd-turners.qmd)   | 25 to 45    | Coarctation of the Aorta. Bicuspid Aortic Valve, Aortic Stenosis, Hypoplastic left heart syndrome                             |
     | [DiGeorge syndrome](synd-digeorge.qmd)  | 70 to 75    | Aortic arch anomalies, Truncus arteriosus, Tetralogy of Fallot                                                                |
@@ -116,31 +117,32 @@ include:
 fig-align="center"}
 
 4.  ***Clubbing***: All four stages of digital clubbing are seen in children with cyanotic CHD or
-    Infective endocarditis. (@fig-cvsFingerClubbing) Note that some cases of finger clubbing may be
-    familial.
+    [Infective Endocarditis](cvs-inf-endo.qmd). (@fig-cvsFingerClubbing) Note that some cases of
+    finger clubbing may be familial.
 
 ![Finger clubbing](images/cvs_finger_clubbing.jpg){#fig-cvsFingerClubbing fig-align="center"}
 
 5.  ***Respiratory signs***: Respiratory signs commonly associated with heart diseases in children
     are *tachypnoea*, *dyspnoea*, *chest recessions* and *increased work of breathing*. These are
-    especially true when there is associated heart failure and worsens with exercise or
-    breastfeeding infants.
+    especially true when there is associated [heart failure](cvs-heart-failure.qmd) and worsens with
+    exercise or breastfeeding infants.
 6.  ***Circulation***: The circulation in a child with a suspected heart disease is critical.
     Reduced circulation can be assessed with the warmth of the extremities, capillary refill time,
     and blood pressure.
 7.  ***Blood pressure***: Low blood pressure is a late sign of circulatory failure and cardiogenic
     shock. Conversely, weak pulse may be associated with hypertensive heart disease as well. Wide
     pulse pressure, an abnormally wide difference between the systolic and diastolic blood pressures
-    may indicate a patent ductus arteriosus, aortic insufficiency or an aorticopulmonary window.
-    Blood pressure should be checked in the upper and lower limbs as a higher BP in the upper limbs
-    compared to the lower may indicate the presence of a [Coarctation of the Aorta](cvs-coa.qmd).
+    may indicate a [patent ductus arteriosus](cvs-pda.qmd), aortic insufficiency or an
+    aorticopulmonary window. Blood pressure should be checked in the upper and lower limbs as a
+    higher BP in the upper limbs compared to the lower may indicate the presence of a [Coarctation
+    of the Aorta](cvs-coa.qmd).
 8.  ***Pulses***: The radial pulse is the most routinely examined in cardiovascular examination. It
     should be checked for the rate, rhythm, volume and character. If they are difficult to examine,
     especially in young infants, the brachial pulsus can be used. Other pulses should be examined
     and they include the brachial pulses, femoral and dorsalis pedis. Next, synchronization of the
     radio-femoral pulse should be determined for a delay. This happens in the coarctation of the
     aorta. Pulses difficult to palpate or inconsistent could be caused by large artery arteritis
-    such as Taksyasu arteritis.
+    such as Taksyasu's arteritis.
 
 ### Precordial
 
@@ -179,7 +181,8 @@ fig-align="center"}
     are not associated with cardiac pathology.
 
     Other sounds need to be evaluated as well. These may include a pericardial rub which occurs in
-    pericarditis, an ejection click heart in early systole and cases of aortic or pulmonary stenosis.
+    pericarditis, an ejection click heart in early systole and cases of aortic or pulmonary
+    stenosis.
 
 ```{r}
 #| echo: false
@@ -256,10 +259,10 @@ Various investigations used in the diagnosis and management of heart diseases ar
     Cardiomegaly, assessed with a cardiothoracic ratio \> 60% in children is seen in many cases of
     heart disease. Chest X-rays also indicate ling pathologies, often showing as opacification or
     silhouetting. Increased lung markings for instance can be found in patients with VSD and ASD
-    while decreased lung markings are often seen in Tetralogy of Fallot and pulmonary stenosis. The
-    shape of the heart is often an indicator of the underlying cardiac pathology. A Boot-shaped
-    heart may indicate a [Tetralofy of Fallot](cvs-tof.qmd) (@fig-cvs-x-ray-boot-shaped) while a
-    globular-shaped heart points to dilated cardiomyopathy or pericardial effusion.
+    while decreased lung markings are often seen in [Tetralogy of Fallot](cvs-tof.qmd) and pulmonary
+    stenosis. The shape of the heart is often an indicator of the underlying cardiac pathology. A
+    Boot-shaped heart may indicate a [Tetralofy of Fallot](cvs-tof.qmd) (@fig-cvs-x-ray-boot-shaped)
+    while a globular-shaped heart points to dilated cardiomyopathy or pericardial effusion.
     @fig-cvs-globular-heart
 
 ![Chest x-ray showing cardiomegaly and lung
@@ -272,7 +275,7 @@ fig-align="center"}
 fig-align="center"}
 
 4.  ***Echocardiogram***: This is is rather old but new investigatory modality. Old because it has
-    been around since the 1960s, and new because it is relatively new in Ghana. It is however s very
+    been around since the 1960s, and new because it is relatively new in Ghana. It is however a very
     useful modality of investigation. An echocardiogram is essentially an ultrasound of the heart
     and great vessels. Its biggest advantage is its ability to visualise the heart in real-time,
     assess systolic and diastolic functions, measure chamber sizes and wall thickness, detect

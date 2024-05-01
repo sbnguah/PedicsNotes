@@ -7,7 +7,7 @@ author: "Dr Samuel Blay Nguah"
 
 This is the most common Congenital Heart Disease (CHD), being seen in about 15-20% of all CHDs. VSD
 occurs in different anatomical locations. The most common is the peri-membranous. Others are inlet,
-outlet, muscular and infundibular. They also occur in different shapes and sizes as well.
+outlet, muscular and infundibular. They also appear in different shapes and sizes as well.
 
 ![Ventricular Septal Defect](images/cvs-vsd.jpg){#fig-cvs-vsd fig-align="center"}
 
@@ -32,54 +32,65 @@ than the systemic pressure, a reversal of the shunt results, leading to decrease
 
 The clinical presentation of VSDs is variable and depends on the size and position.
 
-### Position
+**Position**: A perimembranous VSD of comparable size may exhibit more signs of heart failure than
+one that is mid-muscular or apical.
 
-A perimembranous VSD of comparable size may exhibit more signs of heart failure compared to one that
-is mid-muscular or apical.
+**Size**: Generally, the sizes of VSDs determine the extent of the volume and pressure overload of
+the right heart and lungs. Larger ones result in relatively higher pressure and volume. Small VSDs
+are usually asymptomatic with no volume or pressure overload of the lung, pulmonary artery and right
+heart. Some volume and pressure overload usually accompanies moderate-sized VSDs. They are thus
+often accompanied by some [heart failure](cvs-heart-failure.qmd) and recurrent lower respiratory
+infections. Large defects are accompanied by severe volume and pressure overload. They present with
+persistent [heart failure](cvs-heart-failure.qmd) and failure to thrive, exercise intolerance. When
+longstanding, they often end up with significant pulmonary hypertension.
 
-### Size
-
-Generally, the sizes of VSDs determine the extent of the volume and pressure overload of the right
-heart and lungs. Larger ones result in relatively higher pressure and volume.
-
-**Small**
-
-Small VSDs are usually asymptomatic with no volume or pressure overload of the lung, pulmonary
-artery and right heart.
-
-**Moderate**
-
-Some volume and pressure overload usually accompanies moderate-sized VSDs. They are thus often
-accompanied by some heart failure and recurrent lower respiratory infections.
-
-**Large**
-
-Large defects are accompanied by severe volume and pressure overload. They present with persistent
-heart failure and failure to thrive, exercise intolerance. when longstanding, they often end up with
-significant pulmonary hypertension.
+Newborns with VSD may not have a murmur at birth. This is due to relatively high pulmonary pressure
+in the first weeks of life. The intensity of the murmur may increase as the pulmonary pressure
+decreases, usually over 4 weeks. The patient then becomes more symptomatic with a louder pansystolic
+murmur loudest at the lower left sternal border. Patients with a large defect may present with an
+apical diastolic rumble. Cyanosis may present in a long-standing large VSD with pulmonary
+hypertension.
 
 ## Investigations
 
-## Management
-
-## Prognosis
-
-## Definition
-
-## Incidence/prevalence
-
-## Aetiology
-
-## Pathophysiology
-
-## Signs and symptoms
-
-## Investigations
+-   At the bedside pulse oximetry would likely reveal a normal SpO~2~ as this is an acyanotic
+    congenital heart disease.
+-   A chest X-ray could show cardiomegaly with dilatation of the left side of the heart. Increased
+    vascular markings may also be present.
+-   The electrocardiogram will likely show features of left ventricular dilatation and left atrial
+    enlargement.
+-   An echocardiogram is diagnostic as it visualises the defect, quantifies the shunt and other
+    chamber sizes, and identifies possible complications.
+-   Cardiac catheterisation is often done in cases of moderate to large defects. to detect
+    complications such as possibly pulmonary hypertension, and quantify the shunt volume.
 
 ## Treatment
 
-## Complications
+Treatment modalities depend on the patient's age, defect size and location, associated symptoms and
+complications. Small defects in the very young, without signs of heart failure, can be treated by
+watchful waiting as some may close spontaneously. Defects accompanied by heart failure symptoms
+should be treated for heart failure while planning for possible surgical ligation is being done.
+Large defects are treated the same but with more aggressive heart failure management and urgent
+surgical therapy. This is because these are often accompanied by a failure to thrive, poor feeding
+and generally poor health.
+
+Current surgical treatment involves device closure, but some centers such as Ghana still close the
+defects with an open heart surgery. Also, there are certain circumstances where a device closure
+cannot be done, thus open heart surgery becomes the only option.
 
 ## Prognosis
 
+In many developed countries, the prognosis of VSDs has become excellent with surgical and device
+treatment. [@jortveit2016] However, in Ghana, most patients do not realistically have the chance of
+early surgical correction. Thus the prognosis of VSDs with significant symptoms tends to be poor.
+
 ## Differential diagnosis
+
+Differential diagnosis of a ventricular septal defect is mitral regurgitation and tricuspid
+regurgitation.
+
+## Complications
+
+Notable complications of VSDs include [infectious endocarditis](cvs-inf-endo.qmd), aortic
+regurgitation, pulmonary hypertension, left ventricular outflow tract obstruction and growth
+failure.

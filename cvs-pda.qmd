@@ -125,7 +125,7 @@ PDA](images/cvs-cxr-pda.jpg){#fig-cvs-cxr-pda fig-align="center"}
 
 ## Complications
 
-The recognised complication of PDA includes infectious endocarditis, pulmonary hypertension and
+The recognised complication of PDA includes [infectious endocarditis](cvs-inf-endo.qmd), pulmonary hypertension and
 heart failure.
 
 ## Prognosis
@@ -140,5 +140,5 @@ heart failure.
 
 ## Differential diagnosis
 
-Other acyanotic congenital heart diseases are possible differentials. These include a large atrial
-septal defect and a coarctation of the aorta.
+Other acyanotic congenital heart diseases are possible differentials. These include a large [atrial
+septal defect](cvs-asd.qmd) and a [coarctation of the aorta](cvs-coa.qmd).
