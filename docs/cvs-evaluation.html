@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.4.553">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -25,6 +25,7 @@ ul.task-list li input[type="checkbox"] {
 div.csl-bib-body { }
 div.csl-entry {
   clear: both;
+  margin-bottom: 0em;
 }
 .hanging-indent div.csl-entry {
   margin-left:2em;
@@ -68,7 +69,13 @@ div.csl-indent {
   "collapse-after": 3,
   "panel-placement": "start",
   "type": "textbox",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -77,6 +84,7 @@ div.csl-indent {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -92,12 +100,12 @@ div.csl-indent {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./cvs-intro.html"><span style="font-weight:bold; color: black;">Cardiology</span></a></li><li class="breadcrumb-item"><a href="./cvs-evaluation.html"><span class="chapter-number">19</span>&nbsp; <span class="chapter-title">Evaluating Heart Diseases</span></a></li></ol></nav>
-      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-      </a>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./cvs-intro.html"><span style="font-weight:bold; color: black;">Cardiology</span></a></li><li class="breadcrumb-item"><a href="./cvs-evaluation.html"><span class="chapter-number">19</span>&nbsp; <span class="chapter-title">Evaluating Heart Diseases</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
       </button>
@@ -107,7 +115,7 @@ div.csl-indent {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
       <a href="./">Pediatrics Notes</a> 
@@ -889,7 +897,7 @@ div.csl-indent {
     </ul>
     </div>
 </nav>
-<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
@@ -914,7 +922,7 @@ div.csl-indent {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./cvs-intro.html"><span style="font-weight:bold; color: black;">Cardiology</span></a></li><li class="breadcrumb-item"><a href="./cvs-evaluation.html"><span class="chapter-number">19</span>&nbsp; <span class="chapter-title">Evaluating Heart Diseases</span></a></li></ol></nav>
 <div class="quarto-title">
 <h1 class="title"><span class="chapter-number">19</span>&nbsp; <span class="chapter-title">Evaluating Heart Diseases</span></h1>
 </div>
@@ -935,7 +943,9 @@ div.csl-indent {
   </div>
   
 
+
 </header>
+
 
 <p>To fully evaluate a child with a suspected cardiac condition, one needs to go through the regular steps applicable in medicine. These are outlined below:</p>
 <section id="history" class="level2" data-number="19.1">
@@ -968,7 +978,7 @@ div.csl-indent {
 <li><strong><em>Cyanotic spells</em></strong>: Some cyanotic CHDs are associated with recurrent periods where the child has increasing cyanosis, sometimes associated with weakness, fast breathing and even unconsciousness. The presence of these spells may be a pointer to a CHD.</li>
 <li><strong><em>Squatting and exercise intolerance</em></strong>: A common presentation of heart diseases in children is exercise intolerance. However, for some cyanotic congenital heart diseases, most notably <a href="./cvs-tof.html">Tetralogy of Fallot</a>, the added feature is frequent squatting when the child becomes fatigued.</li>
 <li><strong><em>Delayed milestones</em></strong>: Growth failure, easy fatiguability and the presence of other genetic syndromes may result in delayed motor milestones in the child.</li>
-<li><strong><em>Others</em></strong>: <em>Fast</em> and sometimes <em>difficulty breathing</em> are also common presentations of CHDs. Some children develop <em>oedema</em>. This is predominantly seen in the faces of younger children and the feet of older children. Frequent <em>lower respiratory infection</em> is also seen in children with heart diseases, especially those associated with <a href="./cvs-heart-failure.html">heart failure</a>.</li>
+<li><strong><em>Others</em></strong>: <em>Fast</em> and sometimes <em>difficulty breathing</em> are also common presentations of CHDs. Some children develop <em>oedema</em>.(<a href="#fig-cvs-pedal-edema" class="quarto-xref">Figure&nbsp;<span>19.1</span></a>) This is predominantly seen in the faces of younger children and the feet of older children. Frequent <em>lower respiratory infection</em> is also seen in children with heart diseases, especially those associated with <a href="./cvs-heart-failure.html">heart failure</a>.</li>
 <li><strong><em>Uncommon symptoms</em></strong>: Uncommon presentation of heart disease in children include:
 <ul>
 <li><em>Chest pain</em> is a rather feared symptom in adults but usually portends another diagnosis rather than heart disease in children.</li>
@@ -977,6 +987,16 @@ div.csl-indent {
 <li><em>Joint swelling</em> does occur in Rheumatic Heart Disease but again not a common presentation in children with heart pathology.</li>
 </ul></li>
 </ol>
+<div id="fig-cvs-pedal-edema" class="quarto-figure quarto-figure-center quarto-float anchored" data-fig-align="center">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-cvs-pedal-edema-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/cvs-pedal-edema.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-cvs-pedal-edema-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;19.1: Pedal edema in a child with heart failure
+</figcaption>
+</figure>
+</div>
 </section>
 </section>
 <section id="clinical-examination" class="level2" data-number="19.2">
@@ -1034,21 +1054,29 @@ div.csl-indent {
 </tr>
 </tbody>
 </table></li>
-<li><p><strong><em>Colour</em></strong>: The skin colour of a child with a CHD could hold signs of its presence. <em>Cyanosis</em>, the blueish duskiness of the skin and mucous membranes can be seen in children with a cyanotic congenital heart disease. In black skin, this may be difficult and can only be observed in the mouth and tongue (<a href="#fig-cvsCyanosisMouth">Figure&nbsp;<span>19.1</span></a>). Mild cyanosis is often not visible and may require the use of pulse oximetry. <em>Pallor</em> can be observed in patients with heart diseases, such as <a href="./cvs-inf-endo.html">Infective Endocarditis</a>. <em>Jaundice</em> can be observed in patients with <a href="./cvs-inf-endo.html">Infective Endocarditis</a> or those with hepatic injury secondary to chronic <a href="./cvs-heart-failure.html">heart failure</a>.</p></li>
+<li><p><strong><em>Colour</em></strong>: The skin colour of a child with a CHD could hold signs of its presence. <em>Cyanosis</em>, the blueish duskiness of the skin and mucous membranes can be seen in children with a cyanotic congenital heart disease. In black skin, this may be difficult and can only be observed in the mouth and tongue (<a href="#fig-cvsCyanosisMouth" class="quarto-xref">Figure&nbsp;<span>19.2</span></a>). Mild cyanosis is often not visible and may require the use of pulse oximetry. <em>Pallor</em> can be observed in patients with heart diseases, such as <a href="./cvs-inf-endo.html">Infective Endocarditis</a>. <em>Jaundice</em> can be observed in patients with <a href="./cvs-inf-endo.html">Infective Endocarditis</a> or those with hepatic injury secondary to chronic <a href="./cvs-heart-failure.html">heart failure</a>.</p></li>
 </ol>
-<div id="fig-cvsCyanosisMouth" class="quarto-figure quarto-figure-center anchored">
-<figure class="figure">
-<p><img src="images/cvs-cyanosis-mouth.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Figure&nbsp;19.1: Cyanosis in the tongue of a child</figcaption>
+<div id="fig-cvsCyanosisMouth" class="quarto-figure quarto-figure-center quarto-float anchored" data-fig-align="center">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-cvsCyanosisMouth-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/cvs-cyanosis-mouth.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-cvsCyanosisMouth-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;19.2: Cyanosis in the tongue of a child
+</figcaption>
 </figure>
 </div>
 <ol start="4" type="1">
-<li><strong><em>Clubbing</em></strong>: All four stages of digital clubbing are seen in children with cyanotic CHD or <a href="./cvs-inf-endo.html">Infective Endocarditis</a>. (<a href="#fig-cvsFingerClubbing">Figure&nbsp;<span>19.2</span></a>) Note that some cases of finger clubbing may be familial.</li>
+<li><strong><em>Clubbing</em></strong>: All four stages of digital clubbing are seen in children with cyanotic CHD or <a href="./cvs-inf-endo.html">Infective Endocarditis</a>. (<a href="#fig-cvsFingerClubbing" class="quarto-xref">Figure&nbsp;<span>19.3</span></a>) Note that some cases of finger clubbing may be familial.</li>
 </ol>
-<div id="fig-cvsFingerClubbing" class="quarto-figure quarto-figure-center anchored">
-<figure class="figure">
-<p><img src="images/cvs_finger_clubbing.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Figure&nbsp;19.2: Finger clubbing</figcaption>
+<div id="fig-cvsFingerClubbing" class="quarto-figure quarto-figure-center quarto-float anchored" data-fig-align="center">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-cvsFingerClubbing-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/cvs_finger_clubbing.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-cvsFingerClubbing-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;19.3: Finger clubbing
+</figcaption>
 </figure>
 </div>
 <ol start="5" type="1">
@@ -1061,41 +1089,50 @@ div.csl-indent {
 <section id="precordial" class="level3" data-number="19.2.2">
 <h3 data-number="19.2.2" class="anchored" data-anchor-id="precordial"><span class="header-section-number">19.2.2</span> Precordial</h3>
 <ol type="1">
-<li><strong><em>Inspection</em></strong>: Inspection of the precordium yields a wealth of information in a child with a suspected heart disease. A midline bulge or left-sided bulge will often indicate a right or left-sided heart chamber dilatation. Visible precordial pulsation should be noted. Scars, especially from previous surgeries are useful. Scarification, the usually small “medicinal” scars done on the chest as a means of treatment should also be noted. A Harrison sulcus, depression of the lower part of the chest is common in children with chronic heart failure and thus dyspnoea. <a href="#fig-chest-bulge">Figure&nbsp;<span>19.3</span></a></li>
+<li><strong><em>Inspection</em></strong>: Inspection of the precordium yields a wealth of information in a child with a suspected heart disease. A midline bulge or left-sided bulge will often indicate a right or left-sided heart chamber dilatation. Visible precordial pulsation should be noted. Scars, especially from previous surgeries are useful. Scarification, the usually small “medicinal” scars done on the chest as a means of treatment should also be noted. A Harrison sulcus, depression of the lower part of the chest is common in children with chronic heart failure and thus dyspnoea. <a href="#fig-chest-bulge" class="quarto-xref">Figure&nbsp;<span>19.4</span></a></li>
 </ol>
-<div id="fig-chest-bulge" class="quarto-figure quarto-figure-center anchored">
-<figure class="figure">
-<p><img src="images/cvs-chest-bulge.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Figure&nbsp;19.3: Chest bulge and Harrison’s sulcus in child</figcaption>
+<div id="fig-chest-bulge" class="quarto-figure quarto-figure-center quarto-float anchored" data-fig-align="center">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-chest-bulge-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/cvs-chest-bulge.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-chest-bulge-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;19.4: Chest bulge and Harrison’s sulcus in child
+</figcaption>
 </figure>
 </div>
 <ol start="2" type="1">
 <li><p><strong><em>Palpation</em></strong>: Palpation should be directed toward determining the presence of a thrill (a palpable murmur), heave at the apex or middle of the precordium. Also, a palpable heart sound, especially the second at the upper left sternal edge may indicate pulmonary hypertension.</p></li>
 <li><p><strong><em>Percussion</em></strong>: This is of very little relevance in the examination of the heart in children.</p></li>
-<li><p><strong><em>Auscultation</em></strong>: Auscultation of the heart can yield a wealth of information. It should be done in a quiet environment, with the child as calm as possible. Auscultating can be performed with both bell and diaphragm. All four auscultatory areas need to be auscultated. It is always prudent to auscultate the back (between the scapulae) and over the carotids. First, the regular two heart sounds should be determined. If muffled, they could indicate a pericardial effusion or sometimes obesity. Pulmonary hypertension and an <a href="./cvs-asd.html">Atrial Septal Defect</a> for instance could result in a loud or split second heart sound. The presence of a third heart sound (S3) is not always pathologic in children but an S4 is. The presence of a murmur needs to be determined. If present, it should be determined if it is systolic or diastolic, and the point of maximal intensity. It needs to be graded (<a href="#tbl-murmur-grades">Table&nbsp;<span>19.1</span></a>) and the presence of radiation ascertained. <a href="#tbl-murmur-location">Table&nbsp;<span>19.2</span></a> indicates types of murmurs, their location and likely heart diseases. Diastolic murmurs are difficult to appreciate for the average medical student but may be present in aortic regurgitation, pulmonary regurgitation, and at the cardiac apex in cases of <a href="./cvs-heart-failure.html">heart failure</a> secondary to a large left-to-right shunt. It is of note that approximately 80% of murmurs in children can be categorised as “innocent murmurs” as they are not associated with cardiac pathology.</p>
+<li><p><strong><em>Auscultation</em></strong>: Auscultation of the heart can yield a wealth of information. It should be done in a quiet environment, with the child as calm as possible. Auscultating can be performed with both bell and diaphragm. All four auscultatory areas need to be auscultated. It is always prudent to auscultate the back (between the scapulae) and over the carotids. First, the regular two heart sounds should be determined. If muffled, they could indicate a pericardial effusion or sometimes obesity. Pulmonary hypertension and an <a href="./cvs-asd.html">Atrial Septal Defect</a> for instance could result in a loud or split second heart sound. The presence of a third heart sound (S3) is not always pathologic in children but an S4 is. The presence of a murmur needs to be determined. If present, it should be determined if it is systolic or diastolic, and the point of maximal intensity. It needs to be graded (<a href="#tbl-murmur-grades" class="quarto-xref">Table&nbsp;<span>19.1</span></a>) and the presence of radiation ascertained. <a href="#tbl-murmur-location" class="quarto-xref">Table&nbsp;<span>19.2</span></a> indicates types of murmurs, their location and likely heart diseases. Diastolic murmurs are difficult to appreciate for the average medical student but may be present in aortic regurgitation, pulmonary regurgitation, and at the cardiac apex in cases of <a href="./cvs-heart-failure.html">heart failure</a> secondary to a large left-to-right shunt. It is of note that approximately 80% of murmurs in children can be categorised as “innocent murmurs” as they are not associated with cardiac pathology.</p>
 <p>Other sounds need to be evaluated as well. These may include a pericardial rub which occurs in pericarditis, an ejection click heart in early systole and cases of aortic or pulmonary stenosis.</p></li>
 </ol>
 <div class="cell">
+<div id="tbl-murmur-grades" class="cell quarto-float anchored">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-murmur-grades-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;19.1: Grades of murmurs
+</figcaption>
+<div aria-describedby="tbl-murmur-grades-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <div class="cell-output-display">
-<div id="tbl-murmur-grades" class="anchored">
-
-<div id="zkisubnaqf" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#zkisubnaqf table {
+<div>
+<div id="hcmfblugym" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#hcmfblugym table {
   font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-#zkisubnaqf thead, #zkisubnaqf tbody, #zkisubnaqf tfoot, #zkisubnaqf tr, #zkisubnaqf td, #zkisubnaqf th {
+#hcmfblugym thead, #hcmfblugym tbody, #hcmfblugym tfoot, #hcmfblugym tr, #hcmfblugym td, #hcmfblugym th {
   border-style: none;
 }
 
-#zkisubnaqf p {
+#hcmfblugym p {
   margin: 0;
   padding: 0;
 }
 
-#zkisubnaqf .gt_table {
+#hcmfblugym .gt_table {
   display: table;
   border-collapse: collapse;
   line-height: normal;
@@ -1121,12 +1158,12 @@ div.csl-indent {
   border-left-color: #D3D3D3;
 }
 
-#zkisubnaqf .gt_caption {
+#hcmfblugym .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
 
-#zkisubnaqf .gt_title {
+#hcmfblugym .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -1138,7 +1175,7 @@ div.csl-indent {
   border-bottom-width: 0;
 }
 
-#zkisubnaqf .gt_subtitle {
+#hcmfblugym .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -1150,7 +1187,7 @@ div.csl-indent {
   border-top-width: 0;
 }
 
-#zkisubnaqf .gt_heading {
+#hcmfblugym .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -1162,13 +1199,13 @@ div.csl-indent {
   border-right-color: #D3D3D3;
 }
 
-#zkisubnaqf .gt_bottom_border {
+#hcmfblugym .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #0076BA;
 }
 
-#zkisubnaqf .gt_col_headings {
+#hcmfblugym .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #0076BA;
@@ -1183,7 +1220,7 @@ div.csl-indent {
   border-right-color: #D3D3D3;
 }
 
-#zkisubnaqf .gt_col_heading {
+#hcmfblugym .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1203,7 +1240,7 @@ div.csl-indent {
   overflow-x: hidden;
 }
 
-#zkisubnaqf .gt_column_spanner_outer {
+#hcmfblugym .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1215,15 +1252,15 @@ div.csl-indent {
   padding-right: 4px;
 }
 
-#zkisubnaqf .gt_column_spanner_outer:first-child {
+#hcmfblugym .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#zkisubnaqf .gt_column_spanner_outer:last-child {
+#hcmfblugym .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#zkisubnaqf .gt_column_spanner {
+#hcmfblugym .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #0076BA;
@@ -1235,11 +1272,11 @@ div.csl-indent {
   width: 100%;
 }
 
-#zkisubnaqf .gt_spanner_row {
+#hcmfblugym .gt_spanner_row {
   border-bottom-style: hidden;
 }
 
-#zkisubnaqf .gt_group_heading {
+#hcmfblugym .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1265,7 +1302,7 @@ div.csl-indent {
   text-align: left;
 }
 
-#zkisubnaqf .gt_empty_group_heading {
+#hcmfblugym .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1280,15 +1317,15 @@ div.csl-indent {
   vertical-align: middle;
 }
 
-#zkisubnaqf .gt_from_md > :first-child {
+#hcmfblugym .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#zkisubnaqf .gt_from_md > :last-child {
+#hcmfblugym .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#zkisubnaqf .gt_row {
+#hcmfblugym .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1307,7 +1344,7 @@ div.csl-indent {
   overflow-x: hidden;
 }
 
-#zkisubnaqf .gt_stub {
+#hcmfblugym .gt_stub {
   color: #FFFFFF;
   background-color: #0076BA;
   font-size: 100%;
@@ -1320,7 +1357,7 @@ div.csl-indent {
   padding-right: 5px;
 }
 
-#zkisubnaqf .gt_stub_row_group {
+#hcmfblugym .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1334,15 +1371,15 @@ div.csl-indent {
   vertical-align: top;
 }
 
-#zkisubnaqf .gt_row_group_first td {
+#hcmfblugym .gt_row_group_first td {
   border-top-width: 2px;
 }
 
-#zkisubnaqf .gt_row_group_first th {
+#hcmfblugym .gt_row_group_first th {
   border-top-width: 2px;
 }
 
-#zkisubnaqf .gt_summary_row {
+#hcmfblugym .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1352,16 +1389,16 @@ div.csl-indent {
   padding-right: 5px;
 }
 
-#zkisubnaqf .gt_first_summary_row {
+#hcmfblugym .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #0076BA;
 }
 
-#zkisubnaqf .gt_first_summary_row.thick {
+#hcmfblugym .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
 
-#zkisubnaqf .gt_last_summary_row {
+#hcmfblugym .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1371,7 +1408,7 @@ div.csl-indent {
   border-bottom-color: #0076BA;
 }
 
-#zkisubnaqf .gt_grand_summary_row {
+#hcmfblugym .gt_grand_summary_row {
   color: #333333;
   background-color: #89D3FE;
   text-transform: inherit;
@@ -1381,7 +1418,7 @@ div.csl-indent {
   padding-right: 5px;
 }
 
-#zkisubnaqf .gt_first_grand_summary_row {
+#hcmfblugym .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1391,7 +1428,7 @@ div.csl-indent {
   border-top-color: #0076BA;
 }
 
-#zkisubnaqf .gt_last_grand_summary_row_top {
+#hcmfblugym .gt_last_grand_summary_row_top {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1401,11 +1438,11 @@ div.csl-indent {
   border-bottom-color: #0076BA;
 }
 
-#zkisubnaqf .gt_striped {
+#hcmfblugym .gt_striped {
   background-color: #F4F4F4;
 }
 
-#zkisubnaqf .gt_table_body {
+#hcmfblugym .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #0076BA;
@@ -1414,7 +1451,7 @@ div.csl-indent {
   border-bottom-color: #0076BA;
 }
 
-#zkisubnaqf .gt_footnotes {
+#hcmfblugym .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1428,7 +1465,7 @@ div.csl-indent {
   border-right-color: #D3D3D3;
 }
 
-#zkisubnaqf .gt_footnote {
+#hcmfblugym .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-top: 4px;
@@ -1437,7 +1474,7 @@ div.csl-indent {
   padding-right: 5px;
 }
 
-#zkisubnaqf .gt_sourcenotes {
+#hcmfblugym .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1451,7 +1488,7 @@ div.csl-indent {
   border-right-color: #D3D3D3;
 }
 
-#zkisubnaqf .gt_sourcenote {
+#hcmfblugym .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -1459,115 +1496,135 @@ div.csl-indent {
   padding-right: 5px;
 }
 
-#zkisubnaqf .gt_left {
+#hcmfblugym .gt_left {
   text-align: left;
 }
 
-#zkisubnaqf .gt_center {
+#hcmfblugym .gt_center {
   text-align: center;
 }
 
-#zkisubnaqf .gt_right {
+#hcmfblugym .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#zkisubnaqf .gt_font_normal {
+#hcmfblugym .gt_font_normal {
   font-weight: normal;
 }
 
-#zkisubnaqf .gt_font_bold {
+#hcmfblugym .gt_font_bold {
   font-weight: bold;
 }
 
-#zkisubnaqf .gt_font_italic {
+#hcmfblugym .gt_font_italic {
   font-style: italic;
 }
 
-#zkisubnaqf .gt_super {
+#hcmfblugym .gt_super {
   font-size: 65%;
 }
 
-#zkisubnaqf .gt_footnote_marks {
+#hcmfblugym .gt_footnote_marks {
   font-size: 75%;
   vertical-align: 0.4em;
   position: initial;
 }
 
-#zkisubnaqf .gt_asterisk {
+#hcmfblugym .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
 
-#zkisubnaqf .gt_indent_1 {
+#hcmfblugym .gt_indent_1 {
   text-indent: 5px;
 }
 
-#zkisubnaqf .gt_indent_2 {
+#hcmfblugym .gt_indent_2 {
   text-indent: 10px;
 }
 
-#zkisubnaqf .gt_indent_3 {
+#hcmfblugym .gt_indent_3 {
   text-indent: 15px;
 }
 
-#zkisubnaqf .gt_indent_4 {
+#hcmfblugym .gt_indent_4 {
   text-indent: 20px;
 }
 
-#zkisubnaqf .gt_indent_5 {
+#hcmfblugym .gt_indent_5 {
   text-indent: 25px;
 }
 </style>
-<table class="gt_table" data-quarto-disable-processing="false" data-quarto-bootstrap="false"><caption>Table&nbsp;19.1:  <p>Grades of murmurs</p> </caption>
-  <thead>
-    <tr class="gt_col_headings">
-      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1" scope="col" id="Grade">Grade</th>
-      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1" scope="col" id="Description">Description</th>
-    </tr>
-  </thead>
-  <tbody class="gt_table_body">
-    <tr><td headers="Grade" class="gt_row gt_left">Grade I</td>
-<td headers="Description" class="gt_row gt_left">Barely perceptible</td></tr>
-    <tr><td headers="Grade" class="gt_row gt_left gt_striped">Grade II</td>
-<td headers="Description" class="gt_row gt_left gt_striped">Soft, but easily audible</td></tr>
-    <tr><td headers="Grade" class="gt_row gt_left">Grade III</td>
-<td headers="Description" class="gt_row gt_left">Moderately loud but has not thrill</td></tr>
-    <tr><td headers="Grade" class="gt_row gt_left gt_striped">Grade IV</td>
-<td headers="Description" class="gt_row gt_left gt_striped">Loud and associated with a thrill</td></tr>
-    <tr><td headers="Grade" class="gt_row gt_left">Grade V</td>
-<td headers="Description" class="gt_row gt_left">Audible with stethoscope partially of the chest</td></tr>
-    <tr><td headers="Grade" class="gt_row gt_left gt_striped">Grade VI</td>
-<td headers="Description" class="gt_row gt_left gt_striped">Audible with stethoscope off the chest</td></tr>
-  </tbody>
-  
-  
+
+<table class="gt_table do-not-create-environment cell table table-sm table-striped small" data-quarto-postprocess="true" data-quarto-disable-processing="false" data-quarto-bootstrap="false">
+<thead>
+<tr class="header gt_col_headings">
+<th id="Grade" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" scope="col">Grade</th>
+<th id="Description" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" scope="col">Description</th>
+</tr>
+</thead>
+<tbody class="gt_table_body">
+<tr class="odd">
+<td class="gt_row gt_left" headers="Grade">Grade I</td>
+<td class="gt_row gt_left" headers="Description">Barely perceptible</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_left gt_striped" headers="Grade">Grade II</td>
+<td class="gt_row gt_left gt_striped" headers="Description">Soft, but easily audible</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_left" headers="Grade">Grade III</td>
+<td class="gt_row gt_left" headers="Description">Moderately loud but has not thrill</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_left gt_striped" headers="Grade">Grade IV</td>
+<td class="gt_row gt_left gt_striped" headers="Description">Loud and associated with a thrill</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_left" headers="Grade">Grade V</td>
+<td class="gt_row gt_left" headers="Description">Audible with stethoscope partially of the chest</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_left gt_striped" headers="Grade">Grade VI</td>
+<td class="gt_row gt_left gt_striped" headers="Description">Audible with stethoscope off the chest</td>
+</tr>
+</tbody>
 </table>
+
 </div>
 </div>
+</div>
+</div>
+</figure>
 </div>
 </div>
 <div class="cell">
+<div id="tbl-murmur-location" class="cell quarto-float anchored">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-murmur-location-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;19.2: Heart diseases and their murmur charateristics
+</figcaption>
+<div aria-describedby="tbl-murmur-location-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <div class="cell-output-display">
-<div id="tbl-murmur-location" class="anchored">
-
-<div id="cjxbmqamvc" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#cjxbmqamvc table {
+<div>
+<div id="iklfhyqwgn" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#iklfhyqwgn table {
   font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-#cjxbmqamvc thead, #cjxbmqamvc tbody, #cjxbmqamvc tfoot, #cjxbmqamvc tr, #cjxbmqamvc td, #cjxbmqamvc th {
+#iklfhyqwgn thead, #iklfhyqwgn tbody, #iklfhyqwgn tfoot, #iklfhyqwgn tr, #iklfhyqwgn td, #iklfhyqwgn th {
   border-style: none;
 }
 
-#cjxbmqamvc p {
+#iklfhyqwgn p {
   margin: 0;
   padding: 0;
 }
 
-#cjxbmqamvc .gt_table {
+#iklfhyqwgn .gt_table {
   display: table;
   border-collapse: collapse;
   line-height: normal;
@@ -1593,12 +1650,12 @@ div.csl-indent {
   border-left-color: #D3D3D3;
 }
 
-#cjxbmqamvc .gt_caption {
+#iklfhyqwgn .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
 
-#cjxbmqamvc .gt_title {
+#iklfhyqwgn .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -1610,7 +1667,7 @@ div.csl-indent {
   border-bottom-width: 0;
 }
 
-#cjxbmqamvc .gt_subtitle {
+#iklfhyqwgn .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -1622,7 +1679,7 @@ div.csl-indent {
   border-top-width: 0;
 }
 
-#cjxbmqamvc .gt_heading {
+#iklfhyqwgn .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -1634,13 +1691,13 @@ div.csl-indent {
   border-right-color: #D3D3D3;
 }
 
-#cjxbmqamvc .gt_bottom_border {
+#iklfhyqwgn .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #0076BA;
 }
 
-#cjxbmqamvc .gt_col_headings {
+#iklfhyqwgn .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #0076BA;
@@ -1655,7 +1712,7 @@ div.csl-indent {
   border-right-color: #D3D3D3;
 }
 
-#cjxbmqamvc .gt_col_heading {
+#iklfhyqwgn .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1675,7 +1732,7 @@ div.csl-indent {
   overflow-x: hidden;
 }
 
-#cjxbmqamvc .gt_column_spanner_outer {
+#iklfhyqwgn .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1687,15 +1744,15 @@ div.csl-indent {
   padding-right: 4px;
 }
 
-#cjxbmqamvc .gt_column_spanner_outer:first-child {
+#iklfhyqwgn .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#cjxbmqamvc .gt_column_spanner_outer:last-child {
+#iklfhyqwgn .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#cjxbmqamvc .gt_column_spanner {
+#iklfhyqwgn .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #0076BA;
@@ -1707,11 +1764,11 @@ div.csl-indent {
   width: 100%;
 }
 
-#cjxbmqamvc .gt_spanner_row {
+#iklfhyqwgn .gt_spanner_row {
   border-bottom-style: hidden;
 }
 
-#cjxbmqamvc .gt_group_heading {
+#iklfhyqwgn .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1737,7 +1794,7 @@ div.csl-indent {
   text-align: left;
 }
 
-#cjxbmqamvc .gt_empty_group_heading {
+#iklfhyqwgn .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1752,15 +1809,15 @@ div.csl-indent {
   vertical-align: middle;
 }
 
-#cjxbmqamvc .gt_from_md > :first-child {
+#iklfhyqwgn .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#cjxbmqamvc .gt_from_md > :last-child {
+#iklfhyqwgn .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#cjxbmqamvc .gt_row {
+#iklfhyqwgn .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1779,7 +1836,7 @@ div.csl-indent {
   overflow-x: hidden;
 }
 
-#cjxbmqamvc .gt_stub {
+#iklfhyqwgn .gt_stub {
   color: #FFFFFF;
   background-color: #0076BA;
   font-size: 100%;
@@ -1792,7 +1849,7 @@ div.csl-indent {
   padding-right: 5px;
 }
 
-#cjxbmqamvc .gt_stub_row_group {
+#iklfhyqwgn .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1806,15 +1863,15 @@ div.csl-indent {
   vertical-align: top;
 }
 
-#cjxbmqamvc .gt_row_group_first td {
+#iklfhyqwgn .gt_row_group_first td {
   border-top-width: 2px;
 }
 
-#cjxbmqamvc .gt_row_group_first th {
+#iklfhyqwgn .gt_row_group_first th {
   border-top-width: 2px;
 }
 
-#cjxbmqamvc .gt_summary_row {
+#iklfhyqwgn .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1824,16 +1881,16 @@ div.csl-indent {
   padding-right: 5px;
 }
 
-#cjxbmqamvc .gt_first_summary_row {
+#iklfhyqwgn .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #0076BA;
 }
 
-#cjxbmqamvc .gt_first_summary_row.thick {
+#iklfhyqwgn .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
 
-#cjxbmqamvc .gt_last_summary_row {
+#iklfhyqwgn .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1843,7 +1900,7 @@ div.csl-indent {
   border-bottom-color: #0076BA;
 }
 
-#cjxbmqamvc .gt_grand_summary_row {
+#iklfhyqwgn .gt_grand_summary_row {
   color: #333333;
   background-color: #89D3FE;
   text-transform: inherit;
@@ -1853,7 +1910,7 @@ div.csl-indent {
   padding-right: 5px;
 }
 
-#cjxbmqamvc .gt_first_grand_summary_row {
+#iklfhyqwgn .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1863,7 +1920,7 @@ div.csl-indent {
   border-top-color: #0076BA;
 }
 
-#cjxbmqamvc .gt_last_grand_summary_row_top {
+#iklfhyqwgn .gt_last_grand_summary_row_top {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1873,11 +1930,11 @@ div.csl-indent {
   border-bottom-color: #0076BA;
 }
 
-#cjxbmqamvc .gt_striped {
+#iklfhyqwgn .gt_striped {
   background-color: #F4F4F4;
 }
 
-#cjxbmqamvc .gt_table_body {
+#iklfhyqwgn .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #0076BA;
@@ -1886,7 +1943,7 @@ div.csl-indent {
   border-bottom-color: #0076BA;
 }
 
-#cjxbmqamvc .gt_footnotes {
+#iklfhyqwgn .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1900,7 +1957,7 @@ div.csl-indent {
   border-right-color: #D3D3D3;
 }
 
-#cjxbmqamvc .gt_footnote {
+#iklfhyqwgn .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-top: 4px;
@@ -1909,7 +1966,7 @@ div.csl-indent {
   padding-right: 5px;
 }
 
-#cjxbmqamvc .gt_sourcenotes {
+#iklfhyqwgn .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1923,7 +1980,7 @@ div.csl-indent {
   border-right-color: #D3D3D3;
 }
 
-#cjxbmqamvc .gt_sourcenote {
+#iklfhyqwgn .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -1931,97 +1988,109 @@ div.csl-indent {
   padding-right: 5px;
 }
 
-#cjxbmqamvc .gt_left {
+#iklfhyqwgn .gt_left {
   text-align: left;
 }
 
-#cjxbmqamvc .gt_center {
+#iklfhyqwgn .gt_center {
   text-align: center;
 }
 
-#cjxbmqamvc .gt_right {
+#iklfhyqwgn .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#cjxbmqamvc .gt_font_normal {
+#iklfhyqwgn .gt_font_normal {
   font-weight: normal;
 }
 
-#cjxbmqamvc .gt_font_bold {
+#iklfhyqwgn .gt_font_bold {
   font-weight: bold;
 }
 
-#cjxbmqamvc .gt_font_italic {
+#iklfhyqwgn .gt_font_italic {
   font-style: italic;
 }
 
-#cjxbmqamvc .gt_super {
+#iklfhyqwgn .gt_super {
   font-size: 65%;
 }
 
-#cjxbmqamvc .gt_footnote_marks {
+#iklfhyqwgn .gt_footnote_marks {
   font-size: 75%;
   vertical-align: 0.4em;
   position: initial;
 }
 
-#cjxbmqamvc .gt_asterisk {
+#iklfhyqwgn .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
 
-#cjxbmqamvc .gt_indent_1 {
+#iklfhyqwgn .gt_indent_1 {
   text-indent: 5px;
 }
 
-#cjxbmqamvc .gt_indent_2 {
+#iklfhyqwgn .gt_indent_2 {
   text-indent: 10px;
 }
 
-#cjxbmqamvc .gt_indent_3 {
+#iklfhyqwgn .gt_indent_3 {
   text-indent: 15px;
 }
 
-#cjxbmqamvc .gt_indent_4 {
+#iklfhyqwgn .gt_indent_4 {
   text-indent: 20px;
 }
 
-#cjxbmqamvc .gt_indent_5 {
+#iklfhyqwgn .gt_indent_5 {
   text-indent: 25px;
 }
 </style>
-<table class="gt_table" data-quarto-disable-processing="false" data-quarto-bootstrap="false"><caption>Table&nbsp;19.2:  <p>Heart diseases and their murmur charateristics</p> </caption>
-  <thead>
-    <tr class="gt_col_headings">
-      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1" scope="col" id="Murmur">Murmur</th>
-      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1" scope="col" id="Location">Location</th>
-      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1" scope="col" id="Condition">Condition</th>
-    </tr>
-  </thead>
-  <tbody class="gt_table_body">
-    <tr><td headers="Murmur" class="gt_row gt_left">Pansystolic</td>
-<td headers="Location" class="gt_row gt_left">LLSB</td>
-<td headers="Condition" class="gt_row gt_left">VSD, Tricuspid regurgitation</td></tr>
-    <tr><td headers="Murmur" class="gt_row gt_left gt_striped">Pansystolic</td>
-<td headers="Location" class="gt_row gt_left gt_striped">Apex</td>
-<td headers="Condition" class="gt_row gt_left gt_striped">Rheumatic Heart Disease, Mitral valve prolapse</td></tr>
-    <tr><td headers="Murmur" class="gt_row gt_left">Ejection systolic</td>
-<td headers="Location" class="gt_row gt_left">URSB</td>
-<td headers="Condition" class="gt_row gt_left">Aortic stenosis</td></tr>
-    <tr><td headers="Murmur" class="gt_row gt_left gt_striped">Ejection systolic</td>
-<td headers="Location" class="gt_row gt_left gt_striped">ULSB</td>
-<td headers="Condition" class="gt_row gt_left gt_striped">ASD, Pulmonary stenosis, Tetralogy of Fallot, 
-        Coarctation of the aorta</td></tr>
-    <tr><td headers="Murmur" class="gt_row gt_left">Continuous</td>
-<td headers="Location" class="gt_row gt_left">2nd left ICS</td>
-<td headers="Condition" class="gt_row gt_left">Patent Dutus Arteriosus</td></tr>
-  </tbody>
-  
-  
+
+<table class="gt_table do-not-create-environment cell table table-sm table-striped small" data-quarto-postprocess="true" data-quarto-disable-processing="false" data-quarto-bootstrap="false">
+<thead>
+<tr class="header gt_col_headings">
+<th id="Murmur" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" scope="col">Murmur</th>
+<th id="Location" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" scope="col">Location</th>
+<th id="Condition" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" scope="col">Condition</th>
+</tr>
+</thead>
+<tbody class="gt_table_body">
+<tr class="odd">
+<td class="gt_row gt_left" headers="Murmur">Pansystolic</td>
+<td class="gt_row gt_left" headers="Location">LLSB</td>
+<td class="gt_row gt_left" headers="Condition">VSD, Tricuspid regurgitation</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_left gt_striped" headers="Murmur">Pansystolic</td>
+<td class="gt_row gt_left gt_striped" headers="Location">Apex</td>
+<td class="gt_row gt_left gt_striped" headers="Condition">Rheumatic Heart Disease, Mitral valve prolapse</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_left" headers="Murmur">Ejection systolic</td>
+<td class="gt_row gt_left" headers="Location">URSB</td>
+<td class="gt_row gt_left" headers="Condition">Aortic stenosis</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_left gt_striped" headers="Murmur">Ejection systolic</td>
+<td class="gt_row gt_left gt_striped" headers="Location">ULSB</td>
+<td class="gt_row gt_left gt_striped" headers="Condition">ASD, Pulmonary stenosis, Tetralogy of Fallot, Coarctation of the aorta</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_left" headers="Murmur">Continuous</td>
+<td class="gt_row gt_left" headers="Location">2nd left ICS</td>
+<td class="gt_row gt_left" headers="Condition">Patent Dutus Arteriosus</td>
+</tr>
+</tbody>
 </table>
+
 </div>
 </div>
+</div>
+</div>
+</figure>
 </div>
 </div>
 </section>
@@ -2032,24 +2101,36 @@ div.csl-indent {
 <ol type="1">
 <li><p><strong><em>Pulse Oximetry</em></strong>: The usefulness of pulse oximetry is in determining the heart rate and oxygen saturation. An oxygen saturation that is lower than expected (&lt;95% outside the early neonatal period) is considered abnormal, and a strong indication of a cyanotic heart disease in the presence of a non-pathologic lung.</p></li>
 <li><p><strong><em>Electrocardiogram</em></strong>: The electrocardiogram is a common modality for the bedside investigation of heart diseases in all age groups. It gives indications of the heart rate, rhythm, chamber dilatation, wall thickness, laterality of the chambers, electrolyte abnormalities and even the presence of a head injury. It is often not conclusive in many heart conditions but serves as a good auxiliary test in children, especially post-surgery. There are various types: The routine ECG takes just a few minutes to perform on a resting patient usually lying supine. The stress ECG on the other hand is usually done with the heart under stress, as may happen during an aerobic exercise. The Holter ECG on the other hand is attached to the patient and continuously monitors the heart for 24 to 48 hours. This usually gives a better reflection of the electrical activity of the heart over a prolonged period, instead of just a brief period.</p></li>
-<li><p><strong><em>X-ray</em></strong>: A chest x-ray is very useful in diagnosing and managing heart diseases in children. Fortunately, it is readily available in many parts of Ghana. Both posteroanterior and lateral chest X-rays can be useful in assessing the individual chamber and overall heart sizes. Cardiomegaly, assessed with a cardiothoracic ratio &gt; 60% in children is seen in many cases of heart disease. Chest X-rays also indicate ling pathologies, often showing as opacification or silhouetting. Increased lung markings for instance can be found in patients with VSD and ASD while decreased lung markings are often seen in <a href="./cvs-tof.html">Tetralogy of Fallot</a> and pulmonary stenosis. The shape of the heart is often an indicator of the underlying cardiac pathology. A Boot-shaped heart may indicate a <a href="./cvs-tof.html">Tetralofy of Fallot</a> (<a href="#fig-cvs-x-ray-boot-shaped">Figure&nbsp;<span>19.6</span></a>) while a globular-shaped heart points to dilated cardiomyopathy or pericardial effusion. <a href="#fig-cvs-globular-heart">Figure&nbsp;<span>19.5</span></a></p></li>
+<li><p><strong><em>X-ray</em></strong>: A chest x-ray is very useful in diagnosing and managing heart diseases in children. Fortunately, it is readily available in many parts of Ghana. Both posteroanterior and lateral chest X-rays can be useful in assessing the individual chamber and overall heart sizes. Cardiomegaly, assessed with a cardiothoracic ratio &gt; 60% in children is seen in many cases of heart disease. Chest X-rays also indicate ling pathologies, often showing as opacification or silhouetting. Increased lung markings for instance can be found in patients with VSD and ASD while decreased lung markings are often seen in <a href="./cvs-tof.html">Tetralogy of Fallot</a> and pulmonary stenosis. The shape of the heart is often an indicator of the underlying cardiac pathology. A Boot-shaped heart may indicate a <a href="./cvs-tof.html">Tetralofy of Fallot</a> (<a href="#fig-cvs-x-ray-boot-shaped" class="quarto-xref">Figure&nbsp;<span>19.7</span></a>) while a globular-shaped heart points to dilated cardiomyopathy or pericardial effusion. <a href="#fig-cvs-globular-heart" class="quarto-xref">Figure&nbsp;<span>19.6</span></a></p></li>
 </ol>
-<div id="fig-cxrCardiomegaly" class="quarto-figure quarto-figure-center anchored">
-<figure class="figure">
-<p><img src="images/cvs-globular-heart.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Figure&nbsp;19.4: Chest x-ray showing cardiomegaly and lung shadowing</figcaption>
+<div id="fig-cxrCardiomegaly" class="quarto-figure quarto-figure-center quarto-float anchored" data-fig-align="center">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-cxrCardiomegaly-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/cvs-globular-heart.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-cxrCardiomegaly-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;19.5: Chest x-ray showing cardiomegaly and lung shadowing
+</figcaption>
 </figure>
 </div>
-<div id="fig-cvs-globular-heart" class="quarto-figure quarto-figure-center anchored">
-<figure class="figure">
-<p><img src="images/cvs-GlobularHeart.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Figure&nbsp;19.5: Chest x-ray showing a globular heart</figcaption>
+<div id="fig-cvs-globular-heart" class="quarto-figure quarto-figure-center quarto-float anchored" data-fig-align="center">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-cvs-globular-heart-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/cvs-GlobularHeart.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-cvs-globular-heart-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;19.6: Chest x-ray showing a globular heart
+</figcaption>
 </figure>
 </div>
-<div id="fig-cvs-x-ray-boot-shaped" class="quarto-figure quarto-figure-center anchored">
-<figure class="figure">
-<p><img src="images/cvs-x-ray-boot-shaped.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Figure&nbsp;19.6: Boot-shaped heart of Chest X-X-ray</figcaption>
+<div id="fig-cvs-x-ray-boot-shaped" class="quarto-figure quarto-figure-center quarto-float anchored" data-fig-align="center">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-cvs-x-ray-boot-shaped-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/cvs-x-ray-boot-shaped.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-cvs-x-ray-boot-shaped-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;19.7: Boot-shaped heart of Chest X-X-ray
+</figcaption>
 </figure>
 </div>
 <ol start="4" type="1">
@@ -2060,7 +2141,7 @@ div.csl-indent {
 </ol>
 
 
-<div id="refs" class="references csl-bib-body hanging-indent" role="list" style="display: none">
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
 <div id="ref-Kalisch-Smith2020" class="csl-entry" role="listitem">
 Kalisch-Smith, Jacinta Isabelle, Nikita Ved, and Duncan Burnaby Sparrow. 2019. <span>“Environmental Risk Factors for Congenital Heart Disease.”</span> <em>Cold Spring Harbor Perspectives in Biology</em> 12 (3): a037234. <a href="https://doi.org/10.1101/cshperspect.a037234">https://doi.org/10.1101/cshperspect.a037234</a>.
 </div>
@@ -2156,10 +2237,27 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -2169,8 +2267,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -2182,7 +2289,130 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -2226,6 +2456,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -2251,6 +2482,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -2312,12 +2569,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./cvs-intro.html" class="pagination-link">
+      <a href="./cvs-intro.html" class="pagination-link" aria-label="Anatomy, Physiology &amp; Pathology">
         <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">18</span>&nbsp; <span class="chapter-title">Anatomy, Physiology &amp; Pathology</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./cvs-heart-failure.html" class="pagination-link">
+      <a href="./cvs-heart-failure.html" class="pagination-link" aria-label="Heart Failure">
         <span class="nav-page-text"><span class="chapter-number">20</span>&nbsp; <span class="chapter-title">Heart Failure</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
@@ -2328,12 +2585,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-left">
       &nbsp;
     </div>   
-    <div class="nav-footer-center">Compiled by: Dr Samuel Blay Nguah</div>
+    <div class="nav-footer-center">
+<p>Compiled by: Dr Samuel Blay Nguah</p>
+</div>
     <div class="nav-footer-right">
       &nbsp;
     </div>
   </div>
 </footer>
+
 
 
 
