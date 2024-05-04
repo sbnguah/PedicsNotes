@@ -57,12 +57,12 @@ of heart failure. These include:
 2.  ***Cyanotic spells***: Some cyanotic CHDs are associated with recurrent periods where the child
     has increasing cyanosis, sometimes associated with weakness, fast breathing and even
     unconsciousness. The presence of these spells may be a pointer to a CHD.
-3.  ***Squatting and exercise intolerance***: A common presentation of heart diseases in children is
-    exercise intolerance. However, for some cyanotic congenital heart diseases, most notably
+3.  ***Squatting and exercise intolerance***: Exercise intolerance is a common presentation of heart
+    disease in children. However, for some cyanotic congenital heart diseases, most notably
     [Tetralogy of Fallot](cvs-tof.qmd), the added feature is frequent squatting when the child
     becomes fatigued.
-4.  ***Delayed milestones***: Growth failure, easy fatiguability and the presence of other genetic
-    syndromes may result in delayed motor milestones in the child.
+4.  ***Delayed milestones***: Growth failure, easy fatiguability and other genetic syndromes may
+    result in delayed motor milestones in the child.
 5.  ***Others***: *Fast* and sometimes *difficulty breathing* are also common presentations of CHDs.
     Some children develop *oedema*.(@fig-cvs-pedal-edema) This is predominantly seen in the faces of
     younger children and the feet of older children. Frequent *lower respiratory infection* is also
@@ -77,7 +77,7 @@ of heart failure. These include:
     -   *Joint swelling* does occur in Rheumatic Heart Disease but again not a common presentation
         in children with heart pathology.
 
-![Pedal edema in a child with heart
+![Pedal oedema in a child with heart
 failure](images/cvs-pedal-edema.jpg){#fig-cvs-pedal-edema fig-align="center"}
 
 ## Clinical examination
@@ -97,7 +97,7 @@ include:
     well-documented recognisable heart defects. Below are just a few adapted from @ko2015:
 
     | Genetic syndrome                        | \% with CHD | Cardiac anomalies                                                                                                             |
-    |-------------------|-------------------|--------------------------------------------------------------|
+    |-----------------------------------------|-------------|-------------------------------------------------------------------------------------------------------------------------------|
     | [Down Syndrome](synd-down.qmd)          | 40 to 50    | Atrial Septal Defect, Ventricular Septal Defect, Atrioventricular Canal Defect, Patent Ductus Arteriosus, Tetralogy of Fallot |
     | [Turner's syndrome](synd-turners.qmd)   | 25 to 45    | Coarctation of the Aorta. Bicuspid Aortic Valve, Aortic Stenosis, Hypoplastic left heart syndrome                             |
     | [DiGeorge syndrome](synd-digeorge.qmd)  | 70 to 75    | Aortic arch anomalies, Truncus arteriosus, Tetralogy of Fallot                                                                |
@@ -214,7 +214,7 @@ tibble(
 ```{r}
 #| echo: false
 #| message: false
-#| tbl-cap: "Heart diseases and their murmur charateristics"
+#| tbl-cap: "Heart diseases and their murmur characteristics"
 #| label: tbl-murmur-location
 
 tibble(

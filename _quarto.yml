@@ -14,6 +14,8 @@ book:
   page-footer:
     background: light
     center: "Compiled by: Dr Samuel Blay Nguah"
+    left: KNUST
+    right: KATH
   chapters:
     - index.qmd
     - contributors.qmd
@@ -33,8 +35,8 @@ book:
         - neo-newborn-feeding.qmd
     - part: "<span style='font-weight:bold; color: black;'>Pulmonology</span>"
       chapters: 
-        - resp-asthma.qmd
         - resp-basics.qmd
+        - resp-asthma.qmd
         - resp-bronchiolitis.qmd
         - resp-croup.qmd
         - resp-pneumonia.qmd
