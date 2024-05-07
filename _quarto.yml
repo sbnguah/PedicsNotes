@@ -154,7 +154,7 @@ format:
   html:
     mainfont: Roboto
     theme: 
-        - zephr
+        - cosmo
         - BookTheme.scss
   pdf:
     documentclass: scrreprt

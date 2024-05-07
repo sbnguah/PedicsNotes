@@ -1,15 +1,44 @@
 ---
 title: "Tetralogy of Fallot"
-author: "Dr Samuel Blay Nguah"
+author: "Dr. Ekua Andzie-Quainoo"
 ---
 
 ## Definition
 
+Tetralogy of Fallot (ToF) is a conotruncal defect resulting from anterior malalignment of the
+infundibular septum, giving rise to four components:
+
+- Large, unrestrictive [Ventricular Septal Defect](cvs-vsd.qmd)
+- The aorta overriding the interventricular septum
+- Right ventricular outflow tract obstruction, including at the infundibulum, main and branch pulmonary arteries
+- Right ventricular hypertrophy
+
 ## Incidence/prevalence
+
+It is the most common cyanotic congenital heart disease. About 1 in 3500 babies born in the US are
+born with ToF. Accounts for 7–10% of all congenital cardiac malformations. More common in Males. In
+a series of echocardiograms done in Kumasi, Ghana ToF was the most common cyanotic congenital heart
+disease seen in 13% of all heart diseases. There was a significant male preponderance with a female
+vs male prevalence of 10% vs 15% respectively.
 
 ## Aetiology
 
+Although there is no known definite cause as to why some babies develop ToF in utero, certain
+environmental and biological factors are known to increase the risk:
+
+-   **Genetic**: CHARGE syndrome, chromosome 22q11 microdeletion ([Di George syndrome](synd-digeorge.qmd)), [Down syndrome](), [Edward's syndrome](synd-edwards.qmd), or [Patau syndrome](synd-patau.qmd), VACTERL association
+
+- **Teratogens**: maternal diabetes mellitus, retinoic acid exposure, maternal phenylketonuria (PKU), Alcohol ([fetal alcohol syndrome](synd-fetal-alcohol.qmd)), Warfarin (fetal warfarin syndrome), Trimethadione: antiepileptic drug
+
 ## Pathophysiology
+
+- The severity of clinical signs and symptoms depends on the proportion of blood going through PA, the relative pressures in the right and left ventricles, and the proportion of the aorta overriding the VSD.
+- The VSD is normally of a significant size, which causes the systolic pressures between the ventricles to equalize. In mild TOF, the left ventricular pressures remain higher than the right ventricle, thus blood shunts from left to right through the VSD. These patients are normally acyanotic. In more severe disease, due to increased right ventricular pressure (secondary to PS) the shunt direction reverses from right-to-left allowing mixing of deoxygenated and oxygenated blood. This results in lower oxygenated blood in the systemic circulation; hence patients are cyanotic.
+- Pulmonary stenosis can be classified according to its location. The commonest site is the infundibular septum (50%). The stenosis may also be valvular (10%) or a combination of both (30%).
+- This results in impaired flow of deoxygenated blood into the main pulmonary artery (PA). It may be severe enough to cause intermittent RVOT obstruction (“RVOTO”) – this forms the basis of hypoxic episodes (tet spells).
+- Hypertrophy of the right ventricle occurs in response to the high pressures it must overcome to force deoxygenated blood through the RVOTO.
+- Compared to the normal heart, the aorta in TOF is dilated and displaced over the intraventricular septum. Aortic dilatation is caused by an increase in blood flow through the aorta as it receives blood from both ventricles via the VSD.
+
 
 ## Signs and symptoms
 
@@ -20,6 +49,8 @@ author: "Dr Samuel Blay Nguah"
 ## Complications
 
 ## Prognosis
+
+Untreated, approximately 50% will live to their 6th birthday.
 
 ## Differential diagnosis
 

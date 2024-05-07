@@ -1030,7 +1030,18 @@
     "href": "cvs-tof.html",
     "title": "25  Tetralogy of Fallot",
     "section": "",
-    "text": "25.1 Definition",
+    "text": "25.1 Definition\nTetralogy of Fallot (ToF) is a conotruncal defect resulting from anterior malalignment of the infundibular septum, giving rise to four components:",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Cardiology</span>",
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Tetralogy of Fallot</span>"
+    ]
+  },
+  {
+    "objectID": "cvs-tof.html#definition",
+    "href": "cvs-tof.html#definition",
+    "title": "25  Tetralogy of Fallot",
+    "section": "",
+    "text": "Large, unrestrictive Ventricular Septal Defect\nThe aorta overriding the interventricular septum\nRight ventricular outflow tract obstruction, including at the infundibulum, main and branch pulmonary arteries\nRight ventricular hypertrophy",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Cardiology</span>",
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Tetralogy of Fallot</span>"
@@ -1041,7 +1052,7 @@
     "href": "cvs-tof.html#incidenceprevalence",
     "title": "25  Tetralogy of Fallot",
     "section": "25.2 Incidence/prevalence",
-    "text": "25.2 Incidence/prevalence",
+    "text": "25.2 Incidence/prevalence\nIt is the most common cyanotic congenital heart disease. About 1 in 3500 babies born in the US are born with ToF. Accounts for 7–10% of all congenital cardiac malformations. More common in Males. In a series of echocardiograms done in Kumasi, Ghana ToF was the most common cyanotic congenital heart disease seen in 13% of all heart diseases. There was a significant male preponderance with a female vs male prevalence of 10% vs 15% respectively.",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Cardiology</span>",
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Tetralogy of Fallot</span>"
@@ -1052,7 +1063,7 @@
     "href": "cvs-tof.html#aetiology",
     "title": "25  Tetralogy of Fallot",
     "section": "25.3 Aetiology",
-    "text": "25.3 Aetiology",
+    "text": "25.3 Aetiology\nAlthough there is no known definite cause as to why some babies develop ToF in utero, certain environmental and biological factors are known to increase the risk:\n\nGenetic: CHARGE syndrome, chromosome 22q11 microdeletion (Di George syndrome), Down syndrome, Edward’s syndrome, or Patau syndrome, VACTERL association\nTeratogens: maternal diabetes mellitus, retinoic acid exposure, maternal phenylketonuria (PKU), Alcohol (fetal alcohol syndrome), Warfarin (fetal warfarin syndrome), Trimethadione: antiepileptic drug",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Cardiology</span>",
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Tetralogy of Fallot</span>"
@@ -1063,7 +1074,7 @@
     "href": "cvs-tof.html#pathophysiology",
     "title": "25  Tetralogy of Fallot",
     "section": "25.4 Pathophysiology",
-    "text": "25.4 Pathophysiology",
+    "text": "25.4 Pathophysiology\n\nThe severity of clinical signs and symptoms depends on the proportion of blood going through PA, the relative pressures in the right and left ventricles, and the proportion of the aorta overriding the VSD.\nThe VSD is normally of a significant size, which causes the systolic pressures between the ventricles to equalize. In mild TOF, the left ventricular pressures remain higher than the right ventricle, thus blood shunts from left to right through the VSD. These patients are normally acyanotic. In more severe disease, due to increased right ventricular pressure (secondary to PS) the shunt direction reverses from right-to-left allowing mixing of deoxygenated and oxygenated blood. This results in lower oxygenated blood in the systemic circulation; hence patients are cyanotic.\nPulmonary stenosis can be classified according to its location. The commonest site is the infundibular septum (50%). The stenosis may also be valvular (10%) or a combination of both (30%).\nThis results in impaired flow of deoxygenated blood into the main pulmonary artery (PA). It may be severe enough to cause intermittent RVOT obstruction (“RVOTO”) – this forms the basis of hypoxic episodes (tet spells).\nHypertrophy of the right ventricle occurs in response to the high pressures it must overcome to force deoxygenated blood through the RVOTO.\nCompared to the normal heart, the aorta in TOF is dilated and displaced over the intraventricular septum. Aortic dilatation is caused by an increase in blood flow through the aorta as it receives blood from both ventricles via the VSD.",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Cardiology</span>",
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Tetralogy of Fallot</span>"
@@ -1118,7 +1129,7 @@
     "href": "cvs-tof.html#prognosis",
     "title": "25  Tetralogy of Fallot",
     "section": "25.9 Prognosis",
-    "text": "25.9 Prognosis",
+    "text": "25.9 Prognosis\nUntreated, approximately 50% will live to their 6th birthday.",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Cardiology</span>",
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Tetralogy of Fallot</span>"
