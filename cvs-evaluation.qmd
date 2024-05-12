@@ -102,7 +102,7 @@ include:
     | [Turner's syndrome](synd-turners.qmd)   | 25 to 45    | Coarctation of the Aorta. Bicuspid Aortic Valve, Aortic Stenosis, Hypoplastic left heart syndrome                             |
     | [DiGeorge syndrome](synd-digeorge.qmd)  | 70 to 75    | Aortic arch anomalies, Truncus arteriosus, Tetralogy of Fallot                                                                |
     | [William's syndrome](synd-williams.qmd) | 75 to 80    | Supravalvar Aortic Stenosis, Peripheral Pulmonary Stenosis                                                                    |
-    | Noonan syndrome                         | 70 to 80    | Pulmonary Stenosis, Hypertrophic Cardiomyopathy, Atrial Septal Defect                                                         |
+    | [Noonan syndrome](synd-noonan.qmd)      | 70 to 80    | Pulmonary Stenosis, Hypertrophic Cardiomyopathy, Atrial Septal Defect                                                         |
     | Kabuki syndrome                         | 31 to 55    | Coarctation of the Aorta, Atrial Septal Defect, Aortic Stenosis, Mitral Stenosis, Hypoplastic left heart syndrome             |
     | Alagille syndrome                       | 90          | Peripheral Pulmonary Stenosis, Pulmonary Stenosis, Tetralogy of Fallot                                                        |
 
