@@ -5,10 +5,10 @@ author: "Dr. Ekua Andzie-Quainoo"
 
 ## Definition
 
-Tetralogy of Fallot (ToF) is a conotruncal defect resulting from anterior malalignment of the
+Tetralogy of Fallot (ToF) is a conotruncal defect resulting from anterior misalignment of the
 infundibular septum, giving rise to four components:
 
--   Large, unrestrictive [Ventricular Septal Defect](cvs-vsd.qmd)
+-   Large, nonrestrictive [Ventricular Septal Defect](cvs-vsd.qmd)
 -   The aorta overriding the interventricular septum
 -   Right ventricular outflow tract obstruction, including at the infundibulum, main and branch
     pulmonary arteries
@@ -38,7 +38,7 @@ environmental and biological factors are known to increase the risk:
 ## Pathophysiology
 
 -   The severity of clinical signs and symptoms depends on the proportion of the cardiac output
-    going through the pulmonary artery, the relative pressures in the right and left ventricles and
+    going through the pulmonary artery, the relative pressures in the right and left ventricles, and
     the proportion of the aorta overriding the VSD.
 -   The VSD is normally of a significant size, which causes the systolic pressures between the
     ventricles to equalize. In mild ToF, the left ventricular pressures remain higher than the right
@@ -67,15 +67,15 @@ which worsens as the child ages. In children who can walk, frequent squatting is
 unrepaired ToF. Other features include poor feeding and poor weight gain.
 
 Physical examination of children with ToF may reveal digital clubbing of varying stages, central
-cyanosis and plethora, usually seen in the hands and eyes. Auscultation classically reveals the
+cyanosis, and plethora, usually seen in the hands and eyes. Auscultation classically reveals the
 first and second heart sounds with an ejection systolic murmur loudest at the upper to middle left
 sternal edge.
 
 ## Investigations
 
 Bedside pulse oximetry often reveals an oxygen saturation of less than 90%. A chest X-ray shows a
-normal-sizedeart with the classical boot shape, decreased pulmonary vascular markings and in about
-30% of the cases, a right aortic arch.
+normal-sized heart with a classical boot shape and decreased pulmonary vascular markings. In about
+30% of the cases, a right arch is present.
 
 ![Boot-shaped heart of Tetralogy of Fallot](images/cvs-Tof.jpg){#fig-ToF fig-align="center"}
 
@@ -86,7 +86,7 @@ An echocardiogram is the most useful diagnostic modality. It delineates the defe
 anterior malalignment [Ventricular Septal Defect](cvs-vsd.qmd), degree of infundibular stenosis,
 state of the pulmonary artery and/or branches, and the overriding aortic arch sidedness. Other
 anatomical abnormalities that may co-exist eg. Atrioventricular Canal Defects, [Atrial Septal
-Defect](cvs-asd.qmd) and coronary artery abnormalities can also be obtained. A CT angiogram and
+Defect](cvs-asd.qmd), and coronary artery abnormalities can also be obtained. A CT angiogram and
 Magnetic Resonance Angiography can be done in complex cases and preparation for surgery.
 
 ## Treatment
@@ -114,9 +114,9 @@ adulthood. Untreated, approximately 50% will live to their 6th birthday.
 
 A feared presentation in untreated children with a ToF is the hypercyanotic spell (Tet spell). This
 is treated further below. Other complications can result from the emboli effect leading to stroke
-and cerebral abscess. High hematocrit may lead to hyperviscosity, headache and dizziness. [Infective
-endocarditis](cvs-inf-endo.qmd) is another known complication. Long-term complications include right
-ventricular dysfunction, coagulopathy and arrhythmias.
+and cerebral abscess. High hematocrit may lead to hyperviscosity, headache, and dizziness.
+[Infective endocarditis](cvs-inf-endo.qmd) is another known complication. Long-term complications
+include right ventricular dysfunction, coagulopathy, and arrhythmias.
 
 ## Prognosis
 
@@ -131,18 +131,45 @@ Tricuspid atresia, pulmonary atresia, etc. Pink tets will have a differential di
 
 ## Prevention
 
+There is no known prevention in ToF. However, it is always prudent for prospective mothers and those
+in the first trimester to avoid recreational drugs, alcohol, and some over-the-counter medications.
+Also, folic acid supplementation should encouraged.
+
 ## Hypercyanotic spell
 
-Hypercyanotic spell (tet spell) is an emergency in children with Tof and to a lesser extent other
-cyanotic congenital heart diseases. Presentation is usually those less than 2 years. • Paroxysms of
-hyperpnoea due to increased right-to-left shunting, carbon dioxide accumulates therefore stimulating
-the central respiratory center. This unfortunately causes further right-to-left shunting thus
-perpetuating the hypoxia. • Irritability – manifested by prolonged, unsettled crying. • Increasing
-cyanosis • May be precipitated by dehydration, anaemia or prolonged crying (induces tachycardia and
-reduced systemic vascular resistance). • Decreased intensity for a heart murmur. The treatment goal
-is to increase preload and promote pulmonary blood flow. • The child should be placed in a
-knee-chest position. • Administer oxygen (limited value so do not force it if the infant is
-combative) • Volume expansion with intravenous fluids • IM/SC morphine (0.1mg/kg) • Use of
-alpha-agonists such as Phenylephrine • IV Propranolol (for immediate therapy), oral propranolol for
-long-term prophylaxis for those with pulmonary artery stenosis • Iron supplementation. • Correction
-of metabolic acidosis with NaHCO~3~.
+Hypercyanotic spell (tet spell) is an emergency in children with ToF and to a lesser extent, other
+cyanotic congenital heart diseases. It presents most commonly in children less than 2 years.
+
+### Presentation
+
+Children with hypercyanotic spells present with paroxysms of increased and deep breathing,
+irritability, prolonged, unsettled crying, increasing cyanosis, seizures, and decreased intensity of
+heart murmur. In untreated cases, this might lead to brain damage or death.
+
+### Pathophysiology
+
+A hypercyanitic spell can have many precipitating factors. These may include fever, anemia,
+dehydration, prolonged crying, and eating. These precipitants lead to decreased blood flow to the
+lungs and progressively increase right-to-left shunting. This leads to increasing cyanosis,
+tachycardia, and reduced systemic vascular resistance. Carbon dioxide accumulation stimulates the
+central respiratory center leading to increased and deep breathing. All these unfortunately cause
+further right-to-left shunting thus perpetuating the hypoxia.
+
+### Treatment
+
+The treatment goal is to increase preload and promote pulmonary blood flow.
+
+-   First, the child should be placed in a knee-chest position. This increases systemic vascular
+    resistance, temporarily raises the systemic pressure, and reduces the right to left shunting.
+-   Oxygen can be administered though it is of limited value and should not be forced on the patient
+    if he is combative.
+-   Next volume expansion with intravenous fluids should be administered. This raises the preload,
+    and increases systemic pressure, thus aiding in reducing the right-to-left shunting.
+-   Intramuscular or subcutaneous morphine can be administered. This aids in relaxing the
+    infundibular muscle and thus promotes pulmonary blood flow. It also sedates the child, thus
+    making him/her less acidotic. Acidosis perpetuates the hyperchaotic spell
+-   Intravenous propranolol, esmolol, or metoprolol are administered to reduce the right ventricular
+    outflow tract obstruction.
+-   Some alpha-agonists such as Phenylephrine can be given to improve blood pressure in severe cases
+-   Long-term treatment may include oral propranolol for prophylaxis, iron supplementation, and
+    surgical correction.
