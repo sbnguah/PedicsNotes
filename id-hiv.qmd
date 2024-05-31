@@ -91,7 +91,7 @@ confirmed HIV positive. @fig-HivTestAlgorithm below gives further information
 %%| label: fig-HivTestAlgorithm
 %%| fig-cap: "HIV testing algorithm for non-pregnant women and general population"
 flowchart TD
-    A(Screen with First Response)-->B(Reactive First Response);
+    A(Routine viral load monitoring for early detection of treatment failures: obtain an reveiw results by 6 months after ART nintiation, 12 months after ART initiattion and yearly thereafter)-->B(Undetectable -  V=50Reactive First Response);
     A-->C(First Response non-reactive <br> Report HIV Negative);
     B-->D(Test with Oraquick <br> HIV 1&2);
     D-->E(If reactive to <br> both First Response <br> & Oraquick);
@@ -118,7 +118,9 @@ disease. These are listed in @tbl-hiv-investigations
 library(tidyverse)
 tibble(
     Test = c(
-        "Haematological", "Biochemistry", "","","","Routine", "", "Respiratory", "", "", "Serological", "Immunological", "Optional (Patient dependent)","", "", "", ""),
+        "Haematological", "Biochemistry", "","","","Routine", "", 
+        "Respiratory", "", "", "Serological", "Immunological", 
+        "Optional (Patient dependent)","", "", "", ""),
     Types = c(
         "Full blood count", 
         "Blood Urea Electrolytes and Creatinine", 
@@ -149,3 +151,199 @@ tibble(
 ```
 
 When children are on treatment viral load tests are done regularly. This is done to detect early virological failure. When highly active antiretroviral therapy (HAART) is started first viral load test is done at 6 months and then at 12 months. If there is virological suppression, then monitoring is done yearly. The table below outlines what to do with various viral load cut-offs and actions to take
+
+![Treatment monitoring algorithm](images/id-viral-load-monitoring.jpg){#fig-id-tmt-monitoring
+fig-align="center"}
+
+
+## Treatment
+Before commencing HAART for any child or adolescent, counsel the caregiver and the child if old enough to appreciate the counselling
+
+### Infants born to HIV-positive mothers (post-exposure prophylaxis)
+All newborns of HIV-positive mothers are called HIV-exposed babies. These babies should be given antiretroviral prophylaxis namely nevirapine and zidovudine daily starting from birth (within 24 hours) for 3 months. At week 6, infants should be started on cotrimoxazole daily till HIV infection is ruled out at 18 months. 
+At any point in time when a child tests positive for HIV, treatment with cotrimoxazole should be continued for a longer duration till the child’s immune system is fully re-constituted and appropriate for age. The best marker is appropriate CD4 for age. In the absence of CD4 testing, the child should be virologically suppressed with no evidence of clinical disease.
+
+### Treatment of HIV infection
+Counselling caregivers and children is a must before initiating HAART. Emphasise should be on HAART being a lifelong treatment. Adherence counselling should be integrated into clinical care.
+The HAART  consist of 2 Nucleos(t)ide Reverse Transcriptase Inhibitor (N(t)RTI plus Non-nucleoside Reverse Transcriptase Inhibitor (NNRTI) or Integrase Strand Transfer Inhibitor (INSTI) or Protease Inhibitor (PI). HAART regimen should have a minimum of three ARVs.
+The table below shows the types of ARVs available in Ghana
+
+
+
+:::{#tbl-oopo}
+```{=html}
+<table style="border-collapse:collapse;border:none;">
+    <caption>Antiretroviral Groups</span></caption>
+    <tbody>
+        <tr>
+            <td style="width: 92.4pt;border: 1pt solid windowtext;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:justify;line-height:150%;'><strong><span style='font-family:"Times New Roman",serif;'>Group 1</span></strong></p>
+            </td>
+            <td style="width: 92.4pt;border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:justify;line-height:150%;'><strong><span style='font-family:"Times New Roman",serif;'>Group 2</span></strong></p>
+            </td>
+            <td colspan="3" style="width: 277.3pt;border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:justify;line-height:150%;'><strong><span style='font-family:"Times New Roman",serif;'>Group 3</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 92.4pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><strong><span style='font-family:"Times New Roman",serif;'>N(t)RTI</span></strong></p>
+            </td>
+            <td style="width: 92.4pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><strong><span style='font-family:"Times New Roman",serif;'>NRTI</span></strong></p>
+            </td>
+            <td style="width: 92.4pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><strong><span style='font-family:"Times New Roman",serif;'>NNRTI</span></strong></p>
+            </td>
+            <td style="width: 92.45pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><strong><span style='font-family:"Times New Roman",serif;'>INSTI</span></strong></p>
+            </td>
+            <td style="width: 92.45pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><strong><span style='font-family:"Times New Roman",serif;'>PI</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 92.4pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><span style='font-family:"Times New Roman",serif;'>Abacavir (ABC)</span></p>
+            </td>
+            <td style="width: 92.4pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><span style='font-family:"Times New Roman",serif;'>Lamivudine(3TC)</span></p>
+            </td>
+            <td style="width: 92.4pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><span style='font-family:"Times New Roman",serif;'>Efavirenz(EFV)</span></p>
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><span style='font-family:"Times New Roman",serif;'>Weight &gt; 10 kg</span></p>
+            </td>
+            <td style="width: 92.45pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><span style='font-family:"Times New Roman",serif;'>Dolutegravir (DTG)</span></p>
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><span style='font-family:"Times New Roman",serif;'>Weight &gt;3 kg</span></p>
+            </td>
+            <td style="width: 92.45pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><span style='font-family:"Times New Roman",serif;'>Ritonavir boosted Lopinavir (LPV/r)</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 92.4pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><span style='font-family:"Times New Roman",serif;'>Zidovudine (AZT)</span></p>
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><span style='font-family:"Times New Roman",serif;'>(Hb&gt; 8 g/dl)</span></p>
+            </td>
+            <td style="width: 92.4pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><span style='font-family:"Times New Roman",serif;'>Emtricitabine (FTC)</span></p>
+            </td>
+            <td style="width: 92.4pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><span style='font-family:"Times New Roman",serif;'>Nevirapine (NVP)</span></p>
+            </td>
+            <td style="width: 92.45pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><span style='font-family:"Times New Roman",serif;'>Raltegravir (RAL)</span></p>
+            </td>
+            <td style="width: 92.45pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><span style='font-family:"Times New Roman",serif;'>Ritonavir boosted Atazanavir (ATV/r)</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 92.4pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><span style='font-family:"Times New Roman",serif;'>Tenofovir (TDF)</span></p>
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><span style='font-family:"Times New Roman",serif;'>(Renal disease)</span></p>
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><span style='font-family:"Times New Roman",serif;'>Weight=&gt;30 kg</span></p>
+            </td>
+            <td colspan="3" style="width: 277.25pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><strong><span style='font-family:"Times New Roman",serif;'>Read around the main side effects/contraindications of each ARV</span></strong></p>
+            </td>
+            <td style="width: 92.45pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><span style='font-family:"Times New Roman",serif;'>Ritonavir boosted Darunavir (DRV/r)</span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+```
+:::
+
+HAART combination can be made easy by choosing one ARV from each group.
+
+
+
+:::{#tbl-alternative-arv}
+```{=html}
+<table style="border: none;border-collapse:collapse;">
+    <caption>Preferred and alternative first-line ART regimens for adolescents, children and neonates</span></caption>
+    <tbody>
+        <tr>
+            <td style="border: 1pt solid black;padding: 0.75pt 5.4pt 0cm;height: 57.1pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><strong><span style='font-family:"Times New Roman",serif;'>Populations</span></strong></p>
+            </td>
+            <td style="border-top: 1pt solid black;border-right: 1pt solid black;border-bottom: 1pt solid black;border-image: initial;border-left: none;padding: 0.75pt 5.4pt 0cm;height: 57.1pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><strong><span style='font-family:"Times New Roman",serif;'>Preferred first-line</span></strong></p>
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><strong><span style='font-family:"Times New Roman",serif;'>regimen</span></strong></p>
+            </td>
+            <td style="border-top: 1pt solid black;border-right: 1pt solid black;border-bottom: 1pt solid black;border-image: initial;border-left: none;padding: 0.75pt 5.4pt 0cm;height: 57.1pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><strong><span style='font-family:"Times New Roman",serif;'>Alternative first-line</span></strong></p>
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><strong><span style='font-family:"Times New Roman",serif;'>regimen</span></strong></p>
+            </td>
+            <td style="border-top: 1pt solid black;border-right: 1pt solid black;border-bottom: 1pt solid black;border-image: initial;border-left: none;padding: 0.75pt 5.4pt 0cm;height: 57.1pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><strong><span style='font-family:"Times New Roman",serif;'>Special circumstances</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 0.75pt 5.4pt 0cm;height: 175.55pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><span style='font-family:"Times New Roman",serif;'>&nbsp;</span></p>
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><strong><span style='font-family:"Times New Roman",serif;'>Adolescents&nbsp;</span></strong></p>
+            </td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0.75pt 5.4pt 0cm;height: 175.55pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><span style='font-family:"Times New Roman",serif;'>TDF + 3TC (or FTC) + DTG</span></p>
+            </td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0.75pt 5.4pt 0cm;height: 175.55pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><span style='font-family:"Times New Roman",serif;'>TDF + 3TC + EFV 400mg</span></p>
+            </td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0.75pt 5.4pt 0cm;height: 175.55pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><span style='font-family:"Times New Roman",serif;'>TDF + 3TC (or FTC) + EFV600mg</span></p>
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><span style='font-family:"Times New Roman",serif;'>AZT + 3TC + EFV 600 mg</span></p>
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><span style='font-family:"Times New Roman",serif;'>TDF + 3TC (or FTC) + PI/r</span></p>
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><span style='font-family:"Times New Roman",serif;'>TDF + 3TC (or FTC) + RAL</span></p>
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><span style='font-family:"Times New Roman",serif;'>ABC + 3TC + DTG</span></p>
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><span style='font-family:"Times New Roman",serif;'>TDF + 3TC (or FTC) + PI/r</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 0.75pt 5.4pt 0cm;height: 89.45pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><strong><span style='font-family:"Times New Roman",serif;'>Children</span></strong></p>
+            </td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0.75pt 5.4pt 0cm;height: 89.45pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><span style='font-family:"Times New Roman",serif;'>ABC + 3TC + DTG</span></p>
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><span style='font-family:"Times New Roman",serif;'>&nbsp;</span></p>
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><strong><span style='font-family:"Times New Roman",serif;'>&nbsp;</span></strong></p>
+            </td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0.75pt 5.4pt 0cm;height: 89.45pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><span style='font-family:"Times New Roman",serif;'>ABC + 3TC + LPV/r</span></p>
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><span style='font-family:"Times New Roman",serif;'>TDF+ 3TC (or FTC) + DTG</span></p>
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><span style='font-family:"Times New Roman",serif;'>&nbsp;</span></p>
+            </td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0.75pt 5.4pt 0cm;height: 89.45pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><span style='font-family:"Times New Roman",serif;'>ABC + 3TC + EFV&nbsp;</span></p>
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><span style='font-family:"Times New Roman",serif;'>ABC + 3TC + RAL</span></p>
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><span style='font-family:"Times New Roman",serif;'>AZT + 3TC + EFV&nbsp;</span></p>
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><span style='font-family:"Times New Roman",serif;'>AZT + 3TC + LPV/r (or RAL)</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 0.75pt 5.4pt 0cm;height: 27.45pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><strong><span style='font-family:"Times New Roman",serif;'>Neonates</span></strong></p>
+            </td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0.75pt 5.4pt 0cm;height: 27.45pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><span style='font-family:"Times New Roman",serif;'>AZT (or ABC) + 3TC + RAL(or DTG)</span></p>
+            </td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0.75pt 5.4pt 0cm;height: 27.45pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><span style='font-family:"Times New Roman",serif;'>AZT + 3TC + NVP</span></p>
+            </td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0.75pt 5.4pt 0cm;height: 27.45pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:16px;font-family:"Aptos",sans-serif;text-align:center;line-height:150%;'><span style='font-family:"Times New Roman",serif;'>AZT + 3TC + LPV/r</span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+```
+:::
+
+
+### Side effects of main ARVS
+Depending on the type of HAART, children may experience different side effects. Regular clinical and laboratory monitoring will be needed to identify side effects early. There are alternative ARVs in each group to substitute if a child on HAART experiences a major side effect.
+
