@@ -91,7 +91,7 @@ confirmed HIV positive. @fig-HivTestAlgorithm below gives further information
 %%| label: fig-HivTestAlgorithm
 %%| fig-cap: "HIV testing algorithm for non-pregnant women and general population"
 flowchart TD
-    A(Routine viral load monitoring for early detection of treatment failures: obtain an reveiw results by 6 months after ART nintiation, 12 months after ART initiattion and yearly thereafter)-->B(Undetectable -  V=50Reactive First Response);
+    A(Screen with First response)-->B(Reactive First Response);
     A-->C(First Response non-reactive <br> Report HIV Negative);
     B-->D(Test with Oraquick <br> HIV 1&2);
     D-->E(If reactive to <br> both First Response <br> & Oraquick);
