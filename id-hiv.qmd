@@ -1,3 +1,151 @@
 ---
 title: "HIV"
+author: Dr Anthony Enimil
 ---
+
+## Definition
+
+Human immunodeficiency virus (HIV) is an infection that attacks the body’s immune system,
+specifically the white blood cells called CD4 cells. HIV destroys these CD4 cells, weakening a
+person’s immunity against opportunistic infections, such as tuberculosis, fungal infections, severe
+bacterial infections, and some cancers.1
+
+## Incidence/prevalence
+
+Globally, 39 million people were living with HIV in 2022 out of which 1.5 million were children
+below 15 years. In Ghana, out of 354,927 people living with HIV in 2022, 7% (24,845) were children
+below 15 years. There were 16,574 new HIV infections in 2022 out of which 17% (2,818) were children.
+Mother-to-child transmission of HIV at 6 weeks in 2022 was 9.12% while the final MTCT rate at 18
+months was 17.75%. In 2022, there were 21,439 adolescents (10-19 years) living with HIV out of which
+1,791 were newly infected.2
+
+## Aetiology
+
+HIV is a retrovirus with two main subtypes namely HIV 1 and HIV 2. HIV-1 is the most common type of
+HIV and accounts for 99% of all infections in Ghana, whereas HIV-2 is relatively uncommon (0.08%)
+and less infectious. Ghanaians co-infected with HIV 1 and HIV 2 form 0.02% of total infections.
+HIV-2 is mainly concentrated in West Africa and the surrounding countries. HIV-2 is less fatal and
+progresses more slowly than HIV-1. Modes of HIV transmission are sexual (80% in Ghana) mainly
+heterosexual but also same-sex; parenteral transmission (5%) examples include blood transmission,
+shared needles, and needle stick accidents, and mother-to-child transmission (15%) of which
+in-utero, intrapartum and postpartum accounts for 10-25%, 60-75%, and 10-20% respectively.
+
+## Pathogenesis
+
+HIV entry, the first phase of the viral replication cycle, begins with the adhesion of the virus to
+the host cell and ends with the fusion of the cell and viral membranes with subsequent delivery of
+the viral core into the cytoplasm. The intricate series of protein-protein interactions that
+ultimately result in virus infection can be divided into several phases, some of which are essential
+and others that may modulate the efficiency of the process.3 Infection with HIV starts without
+symptoms or ill-feeling and is accompanied by slight changes in the immune system. This stage spans
+up to three months after infection until seroconversion where HIV-specific antibodies can be
+detected in individuals following recent exposure. The outcome of infection and duration of disease
+progression with clinical symptoms may vary greatly between individuals, but often it progresses
+fairly slowly. It takes several years from primary infection to the development of symptoms of
+advanced HIV diseases and immunosuppression.4 Although individuals may look healthy during primary
+infection, the virus replicates in infected individuals' lymph nodes and bloodstream. As a result,
+the immune system may get slowly damaged by the burst of viral load in their bodies.5
+
+## Signs and symptoms
+
+Signs and symptoms develop when the immune system’s ability to fight the disease is compromised due
+to viral replication and reduced CD4 cells.
+
+### Early/ acute HIV
+
+Acute HIV infection, also known as primary HIV infection, can cause a range of symptoms that can
+begin a few days after exposure to the virus and last for a few days to several months
+
+### Late chronic HIV
+
+The late stage of HIV infection is AIDS (acquired immunodeficiency syndrome), which occurs when the
+virus weakens the immune system.
+
+### Staging of HIV
+
+The extensive staging of HIV into 4 is shown in Table 3 (pages 15-16)
+[here](https://iris.who.int/bitstream/handle/10665/43699/9789241595629_eng.pdf?sequence=1&isAllowed=y "HIV Staging").
+
+## Investigations
+
+Depending on signs and symptoms, a patient could be suspected of HIV infection and AIDS. Children
+are then tested for HIV depending on their age.
+
+### Newborn to \<18 months
+
+Younger children (\< 18 months) who are exposed to HIV or are suspected of HIV should be tested at
+any time they have symptoms of HIV disease. The preferred test is the DNA PCR which is done using
+dried blood spots (DBS) taken from pricking the heel of a child onto filter paper. If the test is
+positive, the child should be started on treatment, but a second confirmatory test must be done.
+Infants born to HIV-positive mothers without symptoms are routinely tested within 6 weeks of birth,
+at 9 months of age using DNA PCR. At 18 months such children are tested with antibody tests using a
+“triple algorithm” as detailed below.
+
+### 18 months and above
+
+Should be tested using the “triple algorithm” when a patient is sequentially tested using first
+response, Oraquick, and SD biofilm test. ALL three tests must be positive before a child is
+confirmed HIV positive. @fig-HivTestAlgorithm below gives further information
+
+```{mermaid}
+%%| label: fig-HivTestAlgorithm
+%%| fig-cap: "HIV testing algorithm for non-pregnant women and general population"
+flowchart TD
+    A(Screen with First Response)-->B(Reactive First Response);
+    A-->C(First Response non-reactive <br> Report HIV Negative);
+    B-->D(Test with Oraquick <br> HIV 1&2);
+    D-->E(If reactive to <br> both First Response <br> & Oraquick);
+    D-->F(If First Response <br> was reactive but <br> not Reactive to Oraquick);
+    E-->G(Confirm with SD Bioline);
+    F-->H(Repeat both First <br> Response & Oraquick <br> sequentially);
+    H-->I(Reactive to First <br> Response & Oraquick: <br> Confirm with SD Bioline);
+    H-->J(If Non-reactive <br> to first response report <br> HIV Negative);
+    G-->K(Reactive to First <br> Response, Oraquick <br> and SD Bioline <br> Report HIV-positive);
+    G-->L(Reactive to First <br> Response & Oraquick <br> but non-reactive to <br> SD Bioline Report HIV <br> inconclusive. Retest in 14 days);
+    H-->M(If reactive to First <br> Response but non-reactive <br> to Oraquick report <br> HIV Negative);
+    I-->G
+```
+
+Baseline investigations are needed before initiating antiretroviral treatment/ monitoring of the
+disease. These are listed in @tbl-hiv-investigations
+
+```{r}
+#| echo: false
+#| message: false
+#| tbl-cap: "Baseline investigations for HIV"
+#| label: tbl-hiv-investigations
+
+library(tidyverse)
+tibble(
+    Test = c(
+        "Haematological", "Biochemistry", "","","","Routine", "", "Respiratory", "", "", "Serological", "Immunological", "Optional (Patient dependent)","", "", "", ""),
+    Types = c(
+        "Full blood count", 
+        "Blood Urea Electrolytes and Creatinine", 
+        "Liver Function tests", 
+        "Fasting Blood Sugar", 
+        "Cholesterol and lipid profile", 
+        "Urinalysis (Urine R/E)", 
+        "Stool R/E",
+        "TB screening",
+        "GeneXpert", 
+        "Chest X-ray", 
+        "Hepatitis B Surface antigen",
+        "CD4",
+        "Histology on skin and lymph node biopsy",
+        "Kidney biopsy",
+        "Screening for STIs",
+        "Pap smear, HPV DNA",
+        "Abdominal Ultrasound")
+    ) %>% 
+    gt::gt() %>%
+    gt::tab_options(
+        data_row.padding = gt::px(2),
+        table.font.size = 15) %>% 
+    gt::tab_style(
+            style= gt::cell_text(weight = "bold"), 
+            locations = gt::cells_body(columns = Test)) %>% 
+    gt::opt_stylize(5)
+```
+
+When children are on treatment viral load tests are done regularly. This is done to detect early virological failure. When highly active antiretroviral therapy (HAART) is started first viral load test is done at 6 months and then at 12 months. If there is virological suppression, then monitoring is done yearly. The table below outlines what to do with various viral load cut-offs and actions to take

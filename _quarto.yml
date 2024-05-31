@@ -11,6 +11,10 @@ book:
   title: "Pediatrics Notes"
   author: "Department of Child Health <br> SMS, KNUST <br> KATH"
   date: today
+  sidebar: 
+    title: Contents
+    search: true
+    style: docked
   page-footer:
     background: light
     center: "Compiled by: Dr Samuel Blay Nguah"

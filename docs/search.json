@@ -1620,6 +1620,72 @@
     ]
   },
   {
+    "objectID": "id-hiv.html",
+    "href": "id-hiv.html",
+    "title": "32  HIV",
+    "section": "",
+    "text": "32.1 Definition\nHuman immunodeficiency virus (HIV) is an infection that attacks the body’s immune system, specifically the white blood cells called CD4 cells. HIV destroys these CD4 cells, weakening a person’s immunity against opportunistic infections, such as tuberculosis, fungal infections, severe bacterial infections, and some cancers.1",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Infectious Diseases</span>",
+      "<span class='chapter-number'>32</span>  <span class='chapter-title'>HIV</span>"
+    ]
+  },
+  {
+    "objectID": "id-hiv.html#incidenceprevalence",
+    "href": "id-hiv.html#incidenceprevalence",
+    "title": "32  HIV",
+    "section": "32.2 Incidence/prevalence",
+    "text": "32.2 Incidence/prevalence\nGlobally, 39 million people were living with HIV in 2022 out of which 1.5 million were children below 15 years. In Ghana, out of 354,927 people living with HIV in 2022, 7% (24,845) were children below 15 years. There were 16,574 new HIV infections in 2022 out of which 17% (2,818) were children. Mother-to-child transmission of HIV at 6 weeks in 2022 was 9.12% while the final MTCT rate at 18 months was 17.75%. In 2022, there were 21,439 adolescents (10-19 years) living with HIV out of which 1,791 were newly infected.2",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Infectious Diseases</span>",
+      "<span class='chapter-number'>32</span>  <span class='chapter-title'>HIV</span>"
+    ]
+  },
+  {
+    "objectID": "id-hiv.html#aetiology",
+    "href": "id-hiv.html#aetiology",
+    "title": "32  HIV",
+    "section": "32.3 Aetiology",
+    "text": "32.3 Aetiology\nHIV is a retrovirus with two main subtypes namely HIV 1 and HIV 2. HIV-1 is the most common type of HIV and accounts for 99% of all infections in Ghana, whereas HIV-2 is relatively uncommon (0.08%) and less infectious. Ghanaians co-infected with HIV 1 and HIV 2 form 0.02% of total infections. HIV-2 is mainly concentrated in West Africa and the surrounding countries. HIV-2 is less fatal and progresses more slowly than HIV-1. Modes of HIV transmission are sexual (80% in Ghana) mainly heterosexual but also same-sex; parenteral transmission (5%) examples include blood transmission, shared needles, and needle stick accidents, and mother-to-child transmission (15%) of which in-utero, intrapartum and postpartum accounts for 10-25%, 60-75%, and 10-20% respectively.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Infectious Diseases</span>",
+      "<span class='chapter-number'>32</span>  <span class='chapter-title'>HIV</span>"
+    ]
+  },
+  {
+    "objectID": "id-hiv.html#pathogenesis",
+    "href": "id-hiv.html#pathogenesis",
+    "title": "32  HIV",
+    "section": "32.4 Pathogenesis",
+    "text": "32.4 Pathogenesis\nHIV entry, the first phase of the viral replication cycle, begins with the adhesion of the virus to the host cell and ends with the fusion of the cell and viral membranes with subsequent delivery of the viral core into the cytoplasm. The intricate series of protein-protein interactions that ultimately result in virus infection can be divided into several phases, some of which are essential and others that may modulate the efficiency of the process.3 Infection with HIV starts without symptoms or ill-feeling and is accompanied by slight changes in the immune system. This stage spans up to three months after infection until seroconversion where HIV-specific antibodies can be detected in individuals following recent exposure. The outcome of infection and duration of disease progression with clinical symptoms may vary greatly between individuals, but often it progresses fairly slowly. It takes several years from primary infection to the development of symptoms of advanced HIV diseases and immunosuppression.4 Although individuals may look healthy during primary infection, the virus replicates in infected individuals’ lymph nodes and bloodstream. As a result, the immune system may get slowly damaged by the burst of viral load in their bodies.5",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Infectious Diseases</span>",
+      "<span class='chapter-number'>32</span>  <span class='chapter-title'>HIV</span>"
+    ]
+  },
+  {
+    "objectID": "id-hiv.html#signs-and-symptoms",
+    "href": "id-hiv.html#signs-and-symptoms",
+    "title": "32  HIV",
+    "section": "32.5 Signs and symptoms",
+    "text": "32.5 Signs and symptoms\nSigns and symptoms develop when the immune system’s ability to fight the disease is compromised due to viral replication and reduced CD4 cells.\n\n32.5.1 Early/ acute HIV\nAcute HIV infection, also known as primary HIV infection, can cause a range of symptoms that can begin a few days after exposure to the virus and last for a few days to several months\n\n\n32.5.2 Late chronic HIV\nThe late stage of HIV infection is AIDS (acquired immunodeficiency syndrome), which occurs when the virus weakens the immune system.\n\n\n32.5.3 Staging of HIV\nThe extensive staging of HIV into 4 is shown in Table 3 (pages 15-16) here.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Infectious Diseases</span>",
+      "<span class='chapter-number'>32</span>  <span class='chapter-title'>HIV</span>"
+    ]
+  },
+  {
+    "objectID": "id-hiv.html#investigations",
+    "href": "id-hiv.html#investigations",
+    "title": "32  HIV",
+    "section": "32.6 Investigations",
+    "text": "32.6 Investigations\nDepending on signs and symptoms, a patient could be suspected of HIV infection and AIDS. Children are then tested for HIV depending on their age.\n\n32.6.1 Newborn to &lt;18 months\nYounger children (&lt; 18 months) who are exposed to HIV or are suspected of HIV should be tested at any time they have symptoms of HIV disease. The preferred test is the DNA PCR which is done using dried blood spots (DBS) taken from pricking the heel of a child onto filter paper. If the test is positive, the child should be started on treatment, but a second confirmatory test must be done. Infants born to HIV-positive mothers without symptoms are routinely tested within 6 weeks of birth, at 9 months of age using DNA PCR. At 18 months such children are tested with antibody tests using a “triple algorithm” as detailed below.\n\n\n32.6.2 18 months and above\nShould be tested using the “triple algorithm” when a patient is sequentially tested using first response, Oraquick, and SD biofilm test. ALL three tests must be positive before a child is confirmed HIV positive. Figure 32.1 below gives further information\n\n\n\n\n\n\nflowchart TD\n    A(Screen with First Response)--&gt;B(Reactive First Response);\n    A--&gt;C(First Response non-reactive &lt;br&gt; Report HIV Negative);\n    B--&gt;D(Test with Oraquick &lt;br&gt; HIV 1&2);\n    D--&gt;E(If reactive to &lt;br&gt; both First Response &lt;br&gt; & Oraquick);\n    D--&gt;F(If First Response &lt;br&gt; was reactive but &lt;br&gt; not Reactive to Oraquick);\n    E--&gt;G(Confirm with SD Bioline);\n    F--&gt;H(Repeat both First &lt;br&gt; Response & Oraquick &lt;br&gt; sequentially);\n    H--&gt;I(Reactive to First &lt;br&gt; Response & Oraquick: &lt;br&gt; Confirm with SD Bioline);\n    H--&gt;J(If Non-reactive &lt;br&gt; to first response report &lt;br&gt; HIV Negative);\n    G--&gt;K(Reactive to First &lt;br&gt; Response, Oraquick &lt;br&gt; and SD Bioline &lt;br&gt; Report HIV-positive);\n    G--&gt;L(Reactive to First &lt;br&gt; Response & Oraquick &lt;br&gt; but non-reactive to &lt;br&gt; SD Bioline Report HIV &lt;br&gt; inconclusive. Retest in 14 days);\n    H--&gt;M(If reactive to First &lt;br&gt; Response but non-reactive &lt;br&gt; to Oraquick report &lt;br&gt; HIV Negative);\n    I--&gt;G\n\n\n\n\nFigure 32.1: HIV testing algorithm for non-pregnant women and general population\n\n\n\n\n\nBaseline investigations are needed before initiating antiretroviral treatment/ monitoring of the disease. These are listed in Table 32.1\n\n\n\n\nTable 32.1: Baseline investigations for HIV\n\n\n\n\n\n\n\n\n\n\nTest\nTypes\n\n\n\n\nHaematological\nFull blood count\n\n\nBiochemistry\nBlood Urea Electrolytes and Creatinine\n\n\n\nLiver Function tests\n\n\n\nFasting Blood Sugar\n\n\n\nCholesterol and lipid profile\n\n\nRoutine\nUrinalysis (Urine R/E)\n\n\n\nStool R/E\n\n\nRespiratory\nTB screening\n\n\n\nGeneXpert\n\n\n\nChest X-ray\n\n\nSerological\nHepatitis B Surface antigen\n\n\nImmunological\nCD4\n\n\nOptional (Patient dependent)\nHistology on skin and lymph node biopsy\n\n\n\nKidney biopsy\n\n\n\nScreening for STIs\n\n\n\nPap smear, HPV DNA\n\n\n\nAbdominal Ultrasound\n\n\n\n\n\n\n\n\n\n\n\nWhen children are on treatment viral load tests are done regularly. This is done to detect early virological failure. When highly active antiretroviral therapy (HAART) is started first viral load test is done at 6 months and then at 12 months. If there is virological suppression, then monitoring is done yearly. The table below outlines what to do with various viral load cut-offs and actions to take",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Infectious Diseases</span>",
+      "<span class='chapter-number'>32</span>  <span class='chapter-title'>HIV</span>"
+    ]
+  },
+  {
     "objectID": "nep-hypertension.html",
     "href": "nep-hypertension.html",
     "title": "44  Hypertension",
