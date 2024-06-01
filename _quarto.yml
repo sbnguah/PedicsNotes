@@ -157,7 +157,7 @@ bibliography: references.bib
 
 format:
   html:
-    mainfont: Roboto
+    mainfont: Times New
     theme: 
         - cosmo
         - BookTheme.scss

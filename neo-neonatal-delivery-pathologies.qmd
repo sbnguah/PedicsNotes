@@ -63,6 +63,7 @@ The asphyxiated baby may have any of the following:
 It is an objective method of quantifying the newborn's condition. And is useful for conveying
 information about the newborn's overall status and response to resuscitation
 
+:::{#tbl-apgar-score}
 |                 | 0            | 1                         | 2                                       |
 |-----------------|--------------|---------------------------|-----------------------------------------|
 | **Heart Rate**  | 0            | \<100                     | \>=100                                  |
@@ -72,6 +73,7 @@ information about the newborn's overall status and response to resuscitation
 | **Tone**        | Limp         | Some movement             | Active movement, <br> limbs well flexed |
 
 : The APGAR Score
+:::
 
 8-10 = No Asphyxia\
 5-7 = Mild Asphyxia\
@@ -136,14 +138,16 @@ and shoulder as shown below.
 
 This is the first type of humeral fracture
 
-![Humeral Fracture (immobilised)](images/neo-humeral-fracture.jpg){#fig-HumralFractureSplinted
+![Humeral Fracture
+(immobilised)](images/neo-humeral-fracture.jpg){#fig-HumralFractureSplinted
 fig-align="center"}
 
 #### Humerus
 
 The x-ray below shows another commonly fractured bone, the humerus.
 
-![X-ray of a humeral fracture](images/humeral-fracture-2.jpg){#fig-HumeralFractureXray
+![X-ray of a humeral
+fracture](images/humeral-fracture-2.jpg){#fig-HumeralFractureXray
 fig-alt="humeral-fracture-2" fig-align="center"}
 
 #### Femur
@@ -152,10 +156,12 @@ Risk factors: big baby, breech presentation, incompetency. The affected thigh lo
 swollen and may be reddened. The main mode of management involves splinting the limb from the waist
 to below the knee.
 
-![Femoral Fracture](images/neo-femural-fracture.jpg){#fig-FemoralFracture fig-alt="Femoral Fracture"
-fig-align="center"}
+![Femoral
+Fracture](images/neo-femural-fracture.jpg){#fig-FemoralFracture
+fig-alt="Femoral Fracture" fig-align="center"}
 
-![Femoral Fracture Splinting](images/neo-femuralfracture-splinting.jpg){#fig-FemoralFractureSplint
+![Femoral Fracture
+Splinting](images/neo-femuralfracture-splinting.jpg){#fig-FemoralFractureSplint
 fig-alt="Femoral Fracture Splinting" fig-align="center" width="280" height="280"}
 
 ## Nerve injuries
@@ -169,7 +175,8 @@ or oedema. Erb's palsy (C5-C6) is the most common type of BPI and is associated 
 shoulder motion. The involved extremity lies adducted, prone, and internally rotated. Grasp reflex
 is usually present and prognosis is generally good. Also described as the Waiter's tip position.
 
-![Erb's Palsy](images/neo-erbs-palsy.jpg){#fig-ErbsPalsy fig-alt="Erb's Palsy" fig-align="center"}
+![Erb's Palsy](images/neo-erbs-palsy.jpg){#fig-ErbsPalsy
+fig-alt="Erb's Palsy" fig-align="center"}
 
 ### Klumpke's paralysis
 
@@ -188,8 +195,8 @@ subsequent swelling. Suture lines confine the cephalhematoma and limit the exten
 There could be an underlying linear skull fracture. Prognosis is good with most of them resolving
 between 2 weeks to 3 months.
 
-![Cephalhematoma](images/neo-cephalhematoma.jpg){#fig-Cephalhematoma fig-alt="Cephalhematoma"
-fig-align="center"}
+![Cephalhematoma](images/neo-cephalhematoma.jpg){#fig-Cephalhematoma
+fig-alt="Cephalhematoma" fig-align="center"}
 
 ### Subgaleal Hemorrhage
 
@@ -200,8 +207,9 @@ subgaleal haemorrhages can be extensive. Clinically, the baby may present with p
 followed by tachycardia, tachypnea and hypotension. The scalp may appear tight and boggy and
 complications include anemia, hypovolemic shock and jaundice.
 
-![Subgaleal Bleed](images/neo-subgaleal-bleed.jpg){#fig-SubgalealBleed fig-alt="Subgaleal Bleed"
-fig-align="center"}
+![Subgaleal
+Bleed](images/neo-subgaleal-bleed.jpg){#fig-SubgalealBleed
+fig-alt="Subgaleal Bleed" fig-align="center"}
 
 ## Visceral injuries
 
