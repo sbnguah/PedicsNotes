@@ -91,6 +91,6 @@ regurgitation.
 
 ## Complications
 
-Notable complications of VSDs include [infectious endocarditis](cvs-inf-endo.qmd), aortic
+Notable complications of VSDs include [Infective Endocarditis](cvs-inf-endo.qmd), aortic
 regurgitation, pulmonary hypertension, left ventricular outflow tract obstruction and growth
 failure.

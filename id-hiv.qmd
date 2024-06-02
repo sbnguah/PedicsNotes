@@ -8,7 +8,7 @@ author: Dr Anthony Enimil
 Human immunodeficiency virus (HIV) is an infection that attacks the body’s immune system,
 specifically the white blood cells called CD4 cells. HIV destroys these CD4 cells, weakening a
 person’s immunity against opportunistic infections, such as tuberculosis, fungal infections, severe
-bacterial infections, and some cancers.1
+bacterial infections, and some cancers.[@who2023hiv]
 
 ## Incidence/prevalence
 
@@ -17,7 +17,7 @@ below 15 years. In Ghana, out of 354,927 people living with HIV in 2022, 7% (24,
 below 15 years. There were 16,574 new HIV infections in 2022 out of which 17% (2,818) were children.
 Mother-to-child transmission of HIV at 6 weeks in 2022 was 9.12% while the final MTCT rate at 18
 months was 17.75%. In 2022, there were 21,439 adolescents (10-19 years) living with HIV out of which
-1,791 were newly infected.2
+1,791 were newly infected.[@ghs2023jointreview]
 
 ## Aetiology
 
@@ -36,17 +36,17 @@ HIV entry, the first phase of the viral replication cycle, begins with the adhes
 the host cell and ends with the fusion of the cell and viral membranes with subsequent delivery of
 the viral core into the cytoplasm. The intricate series of protein-protein interactions that
 ultimately result in virus infection can be divided into several phases, some of which are essential
-and others that may modulate the efficiency of the process.3
+and others that may modulate the efficiency of the process.[@wilen2012]
 
 Infection with HIV starts without symptoms or ill-feeling and is accompanied by slight changes in
 the immune system. This stage spans up to three months after infection until seroconversion where
 HIV-specific antibodies can be detected in individuals following recent exposure. The outcome of
 infection and duration of disease progression with clinical symptoms may vary greatly between
 individuals, but often it progresses fairly slowly. It takes several years from primary infection to
-the development of symptoms of advanced HIV diseases and immunosuppression.4 Although individuals
-may look healthy during primary infection, the virus replicates in infected individuals' lymph nodes
-and bloodstream. As a result, the immune system may get slowly damaged by the burst of viral load in
-their bodies.5
+the development of symptoms of advanced HIV diseases and immunosuppression.[@cunningham2000]
+Although individuals may look healthy during primary infection, the virus replicates in infected
+individuals' lymph nodes and bloodstream. As a result, the immune system may get slowly damaged by
+the burst of viral load in their bodies.[@moir2011]
 
 ## Signs and symptoms
 
@@ -237,7 +237,6 @@ When children are on treatment viral load tests are done regularly. This is done
 virological failure. When highly active antiretroviral therapy (HAART) is started, the first viral
 load test is done at 6 and 12 months. If there is virological suppression, then monitoring is done
 yearly. The table below outlines what to do with various viral load cut-offs and actions to take
-
 
 ```{mermaid}
 %%| label: fig-viral-load-monitoring
@@ -463,7 +462,7 @@ each group to substitute if a child on HAART experiences a major side effect.
 
 ::: {#tbl-arv-toxicities}
 |                                   |                                                                                                                                                                                                                                                      |
-|---------------------|-------------------------------------------------------------------------------|
+|------------------------|----------------------------------------------------------------------------|
 | **Haematological toxicity**       | Drug-induced bone marrow suppression is most commonly seen with AZT (anaemia, neutropenia).                                                                                                                                                          |
 | **Mitochondrial Dysfunction**     | Primarily seen with the NRTI drugs, including lactic acidosis, hepatic toxicity, pancreatitis, peripheral neuropathy, lipoatrophy, myopathy                                                                                                          |
 | **Renal Toxicity**                | Renal tubular dysfunction is associated with Tenofovir (TDF). ATV/r can also cause nephrolithiasis.                                                                                                                                                  |
