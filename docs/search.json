@@ -359,18 +359,18 @@
     "href": "resp-broncho-dysp.html",
     "title": "18  Bronchopulmonary Dysplasia",
     "section": "",
-    "text": "18.1 Definition\nBronchopulmonary dysplasia (BPD) is a form of chronic lung disease that affects newborns, especially those born prematurely and requiring oxygen therapy. It results in damage to the lungs and airways, causing tissue destruction in the tiny air sacs of the lung1. While most infants recover from BPD, some may have long-term breathing difficulties.",
+    "text": "18.1 Definition\nBronchopulmonary dysplasia (BPD) is a chronic lung disease that affects newborns, especially those born prematurely and requiring oxygen therapy. It damages the lungs and airways, causing tissue destruction in the lung’s tiny air sacs. While most infants recover from BPD, some may have long-term breathing difficulties.",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
       "<span class='chapter-number'>18</span>  <span class='chapter-title'>Bronchopulmonary Dysplasia</span>"
     ]
   },
   {
-    "objectID": "resp-broncho-dysp.html#incidenceprevalence",
-    "href": "resp-broncho-dysp.html#incidenceprevalence",
+    "objectID": "resp-broncho-dysp.html#incidence",
+    "href": "resp-broncho-dysp.html#incidence",
     "title": "18  Bronchopulmonary Dysplasia",
-    "section": "18.2 Incidence/prevalence",
-    "text": "18.2 Incidence/prevalence",
+    "section": "18.2 Incidence",
+    "text": "18.2 Incidence\nGlobally, the incidence in extremely preterm infants(&lt; 28 weeks) ranges between 10-89%, while 40% of extremely low birth weight infants (&lt;1000g) will develop BPD. At the Komfoo Anokye Teaching Hospital, 44 out of 171 preterm babies admitted from January to April 2024 had Respiratory Distress Syndrome.",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
       "<span class='chapter-number'>18</span>  <span class='chapter-title'>Bronchopulmonary Dysplasia</span>"
@@ -381,7 +381,7 @@
     "href": "resp-broncho-dysp.html#aetiology",
     "title": "18  Bronchopulmonary Dysplasia",
     "section": "18.3 Aetiology",
-    "text": "18.3 Aetiology",
+    "text": "18.3 Aetiology\nThe causes of BPD vary and can be divided into:\nPre-natal - These include lack of maternal steroids, maternal smoking, Pregnancy-induced hypertension, preeclampsia, chorioamnionitis, hypoxia, congenital anomaly causing pulmonary hypoplasia, and genetic susceptibility.\nPost-natal - These include prematurity, immature lungs, apnea, sepsis, need for mechanical ventilation and a Patent Ductus Arteriosus",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
       "<span class='chapter-number'>18</span>  <span class='chapter-title'>Bronchopulmonary Dysplasia</span>"
@@ -392,7 +392,7 @@
     "href": "resp-broncho-dysp.html#pathogenesis",
     "title": "18  Bronchopulmonary Dysplasia",
     "section": "18.4 Pathogenesis",
-    "text": "18.4 Pathogenesis",
+    "text": "18.4 Pathogenesis\nBPD is a multifactorial process and is linked to immature lung tissue, prenatal factors and postnatal factors. Injury from mechanical ventilation and reactive oxygen species to the premature lungs in the presence of antenatal factors predisposing the lung to BPD forms the basis of the pathogenesis in preterm infants. This leads to an inflammatory response with an increase in pro-inflammatory cytokines like IL-6 IL-8, and TNF alpha, along with growth factors (Transforming growth factors,), angiogenic factors (vascular endothelial growth factors, angiopoietin 2), which result in aberrant tissue repair and arrest in lung development. Dysregulated vascular and arrested alveolar development form the basis of the pathology seen in the new BPD. Histologically, BPD occurs when lung development arrests in the late canaliculi to the saccular stage of lung development. The pathology characteristically demonstrates decreased septation and alveoli hypoplasia resulting in simplified large alveoli and reduced availability for gaseous exchange.",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
       "<span class='chapter-number'>18</span>  <span class='chapter-title'>Bronchopulmonary Dysplasia</span>"
@@ -403,7 +403,7 @@
     "href": "resp-broncho-dysp.html#signs-and-symptoms",
     "title": "18  Bronchopulmonary Dysplasia",
     "section": "18.5 Signs and symptoms",
-    "text": "18.5 Signs and symptoms",
+    "text": "18.5 Signs and symptoms\nInitial findings in BPD are consistent with Respiratory Distress Syndrome. These include respiratory distress, tachypnea, chest retractions, tachycardia, and paradoxical breathing. Others include intermittent expiratory wheezing, crackles and frequent desaturations. There might be significant weight loss during the first 10 days of life.",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
       "<span class='chapter-number'>18</span>  <span class='chapter-title'>Bronchopulmonary Dysplasia</span>"
@@ -414,7 +414,7 @@
     "href": "resp-broncho-dysp.html#investigations",
     "title": "18  Bronchopulmonary Dysplasia",
     "section": "18.6 Investigations",
-    "text": "18.6 Investigations",
+    "text": "18.6 Investigations\nA Chest radiograph is often the first investigative modality employed The lung field may show a sponginess and decreased lung volumes. Others include areas of hyperventilation, atelectasis, pulmonary oedema, and pulmonary interstitial emphysema. A high-resolution CT Scan demonstrates abnormalities not readily seen with routine chest radiography. Infants with moderate or severe BPD must be screened for pulmonary hypertension at 36 post-menstrual age using an echocardiogram. In the intensive care unit, arterial blood gases may reveal the extent of hypoxia, hypercarbia or acidosis.",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
       "<span class='chapter-number'>18</span>  <span class='chapter-title'>Bronchopulmonary Dysplasia</span>"
@@ -425,7 +425,7 @@
     "href": "resp-broncho-dysp.html#treatment",
     "title": "18  Bronchopulmonary Dysplasia",
     "section": "18.7 Treatment",
-    "text": "18.7 Treatment",
+    "text": "18.7 Treatment\nTreatment is generally divided into two phases:\nAcute phase - As previously mentioned, most cases of BPD present as Respiratory Distress Syndrome. Hence its management starts from this stage. This requires surfactant replacement with oxygen supplementation, Continuous Positive Airway Pressure, and mechanical ventilation when necessary.   Antibiotics are initiated if chronic chorioamnionitis or an infective process is suspected. Others may insert an indwelling arterial line for treatment administration and parenteral nutrition\nLong-term - Attention should be paid to the nutrition of the infant. When necessary, a fluid restriction may be required. Also, clinicians will need to minimise ventilator-associated and oxygen-associated lung injury. Some pharmacological interventions may include steroids, diuretics and bronchodilators.",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
       "<span class='chapter-number'>18</span>  <span class='chapter-title'>Bronchopulmonary Dysplasia</span>"
@@ -436,7 +436,7 @@
     "href": "resp-broncho-dysp.html#complications",
     "title": "18  Bronchopulmonary Dysplasia",
     "section": "18.8 Complications",
-    "text": "18.8 Complications",
+    "text": "18.8 Complications\nRecognised complications include decreased pulmonary function and defence, chronic reflux and microaspiration with a risk of aspiration pneumonia and chronic inflammation. Others develop asthma-like symptoms, exercise intolerance, pulmonary artery hypertension, systemic hypertension, poor neurodevelopmental outcomes, left ventricular hypertrophy and dysfunction.",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
       "<span class='chapter-number'>18</span>  <span class='chapter-title'>Bronchopulmonary Dysplasia</span>"
@@ -447,7 +447,7 @@
     "href": "resp-broncho-dysp.html#prognosis",
     "title": "18  Bronchopulmonary Dysplasia",
     "section": "18.9 Prognosis",
-    "text": "18.9 Prognosis",
+    "text": "18.9 Prognosis\nMost babies with BPD recover completely but mortality ranges between 1% to 20% during the first year of life.",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
       "<span class='chapter-number'>18</span>  <span class='chapter-title'>Bronchopulmonary Dysplasia</span>"
@@ -458,7 +458,7 @@
     "href": "resp-broncho-dysp.html#differential-diagnosis",
     "title": "18  Bronchopulmonary Dysplasia",
     "section": "18.10 Differential diagnosis",
-    "text": "18.10 Differential diagnosis\nDefinitioinBronchopulmonary dysplasia (BPD) is a form of chronic lung disease that affects newborns, especially those born prematurely and requiring oxygen therapy. It results in damage to the lungs and airways, causing tissue destruction in the tiny air sacs of the lung1. While most infants recover from BPD, some may have long-term breathing difficulties.",
+    "text": "18.10 Differential diagnosis\nThese include pulmonary atelectasis, pneumonia, pulmonary hypertension, tracheomalacia and pulmonary interstitial emphysema.",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
       "<span class='chapter-number'>18</span>  <span class='chapter-title'>Bronchopulmonary Dysplasia</span>"

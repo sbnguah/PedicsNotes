@@ -1,6 +1,7 @@
 ---
 title: "Evaluating Heart Diseases"
 author: "Dr Samuel Blay Nguah"
+date: 2024-04-23
 ---
 
 To fully evaluate a child with a suspected cardiac condition, one needs to go through the regular
@@ -95,18 +96,17 @@ include:
 2.  ***Dysmorphism*** is very critical in pediatric heart diseases. As much as 23% of all children
     with CHD will have a chromosomal abnormality.[@wang2023] There are many genetic syndromes with
     well-documented recognisable heart defects. Below are just a few adapted from @ko2015:
-    
-:::{#tbl-genetic-synds}
 
+::: {#tbl-genetic-synds}
 | Genetic syndrome                        | \% with CHD | Cardiac anomalies                                                                                                             |
-|-------------------|-------------------|--------------------------------------------------------------|
+|----------------------|----------------------|---------------------------------------------------------|
 | [Down Syndrome](synd-down.qmd)          | 40 to 50    | Atrial Septal Defect, Ventricular Septal Defect, Atrioventricular Canal Defect, Patent Ductus Arteriosus, Tetralogy of Fallot |
-    | [Turner's syndrome](synd-turners.qmd)   | 25 to 45    | Coarctation of the Aorta. Bicuspid Aortic Valve, Aortic Stenosis, Hypoplastic left heart syndrome                             |
-    | [DiGeorge syndrome](synd-digeorge.qmd)  | 70 to 75    | Aortic arch anomalies, Truncus arteriosus, Tetralogy of Fallot                                                                |
-    | [William's syndrome](synd-williams.qmd) | 75 to 80    | Supravalvar Aortic Stenosis, Peripheral Pulmonary Stenosis                                                                    |
-    | [Noonan syndrome](synd-noonan.qmd)      | 70 to 80    | Pulmonary Stenosis, Hypertrophic Cardiomyopathy, Atrial Septal Defect                                                         |
-    | Kabuki syndrome                         | 31 to 55    | Coarctation of the Aorta, Atrial Septal Defect, Aortic Stenosis, Mitral Stenosis, Hypoplastic left heart syndrome             |
-    | Alagille syndrome                       | 90          | Peripheral Pulmonary Stenosis, Pulmonary Stenosis, Tetralogy of Fallot                                                        |
+| [Turner's syndrome](synd-turners.qmd)   | 25 to 45    | Coarctation of the Aorta. Bicuspid Aortic Valve, Aortic Stenosis, Hypoplastic left heart syndrome                             |
+| [DiGeorge syndrome](synd-digeorge.qmd)  | 70 to 75    | Aortic arch anomalies, Truncus arteriosus, Tetralogy of Fallot                                                                |
+| [William's syndrome](synd-williams.qmd) | 75 to 80    | Supravalvar Aortic Stenosis, Peripheral Pulmonary Stenosis                                                                    |
+| [Noonan syndrome](synd-noonan.qmd)      | 70 to 80    | Pulmonary Stenosis, Hypertrophic Cardiomyopathy, Atrial Septal Defect                                                         |
+| Kabuki syndrome                         | 31 to 55    | Coarctation of the Aorta, Atrial Septal Defect, Aortic Stenosis, Mitral Stenosis, Hypoplastic left heart syndrome             |
+| Alagille syndrome                       | 90          | Peripheral Pulmonary Stenosis, Pulmonary Stenosis, Tetralogy of Fallot                                                        |
 
 : Common genetic syndromes associated with congenital heart diseases
 :::

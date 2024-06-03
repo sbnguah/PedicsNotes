@@ -1,6 +1,7 @@
 ---
 title: "Atrial Septal Defect"
 author: "Dr. Samuel Blay Nguah"
+data: 2024-05-02
 ---
 
 ## Introduction
@@ -15,7 +16,8 @@ compilation of all electrocardiogram cases in Kumasi, it formed 26% of the patie
 difference in incidence between sexes. There are 4 main types, Secundum ASD (50-70%), Primum ASD
 (\~30%), Sinus Venosus ASD and Coronary sinus ASD. @fig-csv-asd
 
-![Schematic drawing of an Atrial Septal Defect](images/cvs-asd.jpg){#fig-csv-asd fig-align="center"}
+![Schematic drawing of an Atrial Septal Defect](images/cvs-asd.jpg){#fig-csv-asd
+fig-align="center"}
 
 ## Aetiology
 
