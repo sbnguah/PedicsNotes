@@ -8,6 +8,8 @@ author: "Dr Samuel Blay Nguah"
 Coarctation of the aorta (CoA) is a narrowing of the aorta, the results of which could range from
 asymptomatic, hypertension in children and early adults, to acute neonatal emergency.
 
+![Coarctation of the aorta](images/cvs-coa.jpg){#fig-cvs-coa fig-align="center"}
+
 ## Incidence/prevalence
 
 Worldwide, CoA is thought to occur in about 6-10% of children with congenital heart diseases. A

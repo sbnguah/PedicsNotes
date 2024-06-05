@@ -1037,6 +1037,17 @@
     ]
   },
   {
+    "objectID": "cvs-coa.html#definition",
+    "href": "cvs-coa.html#definition",
+    "title": "25  Coarctation of the Aorta",
+    "section": "",
+    "text": "Figure 25.1: Coarctation of the aorta",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Cardiology</span>",
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Coarctation of the Aorta</span>"
+    ]
+  },
+  {
     "objectID": "cvs-coa.html#incidenceprevalence",
     "href": "cvs-coa.html#incidenceprevalence",
     "title": "25  Coarctation of the Aorta",
@@ -1771,6 +1782,138 @@
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Infectious Diseases</span>",
       "<span class='chapter-number'>32</span>  <span class='chapter-title'>HIV</span>"
+    ]
+  },
+  {
+    "objectID": "id-tuberculosis.html",
+    "href": "id-tuberculosis.html",
+    "title": "34  Paediatric Tuberculosis",
+    "section": "",
+    "text": "34.1 Definitions\nInfection with Mycobacterium tuberculosis usually results from inhaling infected droplets produced by someone who has Pulmonary Tuberculosis (TB) and is coughing. The most infectious source cases are those with sputum smear-positive disease. The closer the contact with this source case, the greater the exposure and the greater the risk of getting infected with tuberculosis.\nTB infection occurs when a person carries the Mycobacterium tuberculosis bacteria inside the body. Many people have TB but are well. A positive tuberculin skin test (TST) suggests infection but a negative TST does not exclude the possibility of infection.\nTB disease occurs in someone with TB infection when the bacteria inside the body start to multiply and become numerous enough to damage one or more organs of the body. This damage causes clinical symptoms and signs. This is referred to as “tuberculosis” or active disease.\nClose contact is defined as living in the same household as, or in frequent contact with (e.g. caregiver, school staff), a source case with PTB.\nMultidrug-resistant TB (MDR-TB) is caused by M. tuberculosis strains that are resistant to both isoniazid and rifampicin.\nPre-extensively drug-resistant TB (Pre-XDR): TB caused by M. tuberculosis strains that fulfil the definition of multidrug-resistant TB (MDR-TB) or rifampicin-resistant TB (RR-TB) and that are also resistant to any fluoroquinolone.\nExtensively drug-resistant TB (XDR-TB): TB caused by M. tuberculosis strains that fulfil the definition of MDR/RR-TB and that are also resistant to any fluoroquinolone and at least one additional Group A medicine. (bedaquiline and linezolid)",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Infectious Diseases</span>",
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>Paediatric Tuberculosis</span>"
+    ]
+  },
+  {
+    "objectID": "id-tuberculosis.html#incidenceprevalence",
+    "href": "id-tuberculosis.html#incidenceprevalence",
+    "title": "34  Paediatric Tuberculosis",
+    "section": "34.2 Incidence/prevalence",
+    "text": "34.2 Incidence/prevalence\nAccording to the 2023 WHO global TB report; globally, a total of 10.6 million people fell ill with TB in 2022 of which children less than 15 years accounted for 12%. According to WHO estimates for 2022, there were 44,000 estimated incident cases in Ghana. Of this number, Ghana notified 16,526 cases of which 10% were expected to be paediatric (0-14yrs). However, 5% of paediatric cases were notified.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Infectious Diseases</span>",
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>Paediatric Tuberculosis</span>"
+    ]
+  },
+  {
+    "objectID": "id-tuberculosis.html#aetiology",
+    "href": "id-tuberculosis.html#aetiology",
+    "title": "34  Paediatric Tuberculosis",
+    "section": "34.3 Aetiology",
+    "text": "34.3 Aetiology\nThe Mycobacterium tuberculosis complex (MTBC) constitutes a significantly genetically similar group of bacteria that cause tuberculosis in various hosts. They are rod-shaped, acid-base-fast, aerobic, slow-growing intracellular pathogens that destroy phagosomal cells to maintain and evade the immune system. The major MTBC pathogenic mycobacteria species include M. tuberculosis, M. bovis, M. africanum, and M. microti.(Zhang et al. 2022)",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Infectious Diseases</span>",
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>Paediatric Tuberculosis</span>"
+    ]
+  },
+  {
+    "objectID": "id-tuberculosis.html#pathogenesis",
+    "href": "id-tuberculosis.html#pathogenesis",
+    "title": "34  Paediatric Tuberculosis",
+    "section": "34.4 Pathogenesis",
+    "text": "34.4 Pathogenesis\nFollowing the M. tuberculosis transmission to a new host, the bacilli enter the lung and get ingested by macrophages. Further, immune cells are recruited to wall off the infected macrophages, forming granuloma, the hallmark of TB. Healthy individuals remain latently infected, and the infection is kept at bay at this stage, but it is prone to the risk of reactivation. As the granuloma develops, the bacilli emerge from the macrophages. When the reactivation occurs, M. tb proliferates, the bacterial load becomes overwhelmingly high, and the granuloma ruptures, disseminating the bacteria to the airways. The bacilli are then expectorated as contagious aerosol droplets, restarting the cycle, and infecting other individuals.(Alsayed and Gunosewoyo 2023)",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Infectious Diseases</span>",
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>Paediatric Tuberculosis</span>"
+    ]
+  },
+  {
+    "objectID": "id-tuberculosis.html#signs-and-symptoms",
+    "href": "id-tuberculosis.html#signs-and-symptoms",
+    "title": "34  Paediatric Tuberculosis",
+    "section": "34.5 Signs and symptoms",
+    "text": "34.5 Signs and symptoms\nIt is important to understand the risk for TB infection and TB disease. Taking the history from children and caregivers must include questions on risk factors.\nFor an infection to occur, there are certain factors:\n\nContact with source case (Close contact and duration of contact)\nSource case (Smear positivity: smear positive is more infectious; Cavitation on Chest X-ray: more infectious)\nIncreased exposure (Living in high TB endemic areas; children of families living with HIV)\n\nFactors affecting TB disease:\n\nYoung age ( 2 years and below)\nHIV infection\nOther immunosuppression (Malnutrition, Post-measles)\nNot BCG vaccinated (Risk of disseminated TB or severe TB disease)\n\nPulmonary Tuberculosis\nHistory –The major considerations\nMake every effort to look for the close contact or the household contact who is the source of the infection. It is helpful to note that close contact may be at school in a classroom, dormitory/ school bus, or church. Sometimes, it may be someone who frequently visits the child’s home or a caregiver. In childhood, it may take between 3 months to 2 years from the time of exposure to develop TB disease.\nHistory of symptoms suggestive of TB\nMore commonly children with TB will present with the following symptoms:\n\nCough of any duration or progressive non-remitting cough which may be dry or wet.\nFever (persistent or unexplained)\nLethargy/reduced playfulness/less active\nPoor weight gain or weight loss or very low weight (failure to thrive), flattened growth curve is a very sensitive marker of disease. More specifically it is important to plot the measurement and compare it to previous charts on the growth charts in the child health record booklet\nNight sweat. Since most children sweat at night, it is usually difficult to establish this symptom.\n\nPhysical Examination (Some clinical findings suggestive of PTB)\nGeneral Examination\n\nFever- Temperature that remains persistently high or irregular &gt;37.5 (fever)\nWeight- (confirm poor weight gain, recent weight loss): the weight should be plotted on the child’s growth curve, and any child who “falls off” or is unable to maintain their usual line of growth should be considered as having possible TB\nLength/Height is needed to determine the weight-for-length/height Z-scores (&lt;-3 Z indicates severe wasting)\nMUAC -Middle upper arm circumference of &lt; 12.5 cm\nRespiratory rate - (fast breathing) depends on the patient’s age. (Children 0-2 months above 60cpm, 3 months to 12 months more than 50 CPM and 1-5 years more than 40 CPM)\nSigns of respiratory distress are not specific to TB but must raise the index of suspicion e.g Low oxygen saturation, stridor, and wheezes\n\nPhysical signs suggestive of Extra Pulmonary TB (EPTB) include:\n\nEnlarged cervical lymph nodes which are not painful with or without fistula formation – TB lymphadenopathy;\nPresence of spinal kyphosis (angular swelling) – spinal TB (“gibbous”);\nSigns of non-acute meningitis with poor response to antibiotic treatment and/or with raised intracranial pressure – TB Meningitis;\nPleural effusion, especially one-sided dullness with pleuritic pain in a child who is not acutely ill – pleural TB;\nPericardial effusion, distant or muffled heart sounds or signs of new-onset heart failure – pericardial TB;\nNon-acute distended abdomen with or without ascites – abdominal TB;\nNon-tender swollen joints with painful or abnormal gait – osteoarticular TB.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Infectious Diseases</span>",
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>Paediatric Tuberculosis</span>"
+    ]
+  },
+  {
+    "objectID": "id-tuberculosis.html#investigations",
+    "href": "id-tuberculosis.html#investigations",
+    "title": "34  Paediatric Tuberculosis",
+    "section": "34.6 Investigations",
+    "text": "34.6 Investigations\nIn addition to a detailed history and careful physical examination, all children suspected to have TB will require additional investigations. Investigations commonly used are grouped into the following categories.\n\nBacteriological investigations\nRadiologic investigations and\nImmunologic investigations.\n\n\n34.6.1 Bacteriological investigations\nXpert MTB/RIF Assay is the recommended first-line investigation for diagnosing TB in children. Results are rapid and determine if the patient has a drug-sensitive or resistant organism. Various specimens may be collected, including expectorated sputum, induced sputum, gastric aspirate, bronchoalveolar lavage, transbronchial biopsies, pleural aspirate urine, blood, cerebrospinal fluid tissue and, more recently, stool. Other modalities for confirming TB are smear microscopy and TB cultures.\n\n\n34.6.2 Radiologic investigations\nChildren often have paucibacillary TB and therefore bacteriological yields are low. Various imaging modalities can be suggestive of TB. Chest X-ray is the most frequently used radiological imaging. The presence of hilar lymphadenopathy (Figure 34.1), effusions, and cavitations could all support the diagnosis of TB in children. Ultrasound, CT scan, and MRI all have roles in suspected extrapulmonary TB.\n\n\n\n\n\n\nFigure 34.1: Chest X-ray showing perihilar lymphadenopathy suggestive of TB\n\n\n\n\n\n34.6.3 Immunologic investigations\nImmunological tests provide evidence for TB infection but not TB disease. Two tests are widely used namely the Tuberculin skin test and the interferon-gamma release assay.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Infectious Diseases</span>",
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>Paediatric Tuberculosis</span>"
+    ]
+  },
+  {
+    "objectID": "id-tuberculosis.html#treatment",
+    "href": "id-tuberculosis.html#treatment",
+    "title": "34  Paediatric Tuberculosis",
+    "section": "34.7 Treatment",
+    "text": "34.7 Treatment\n\n34.7.1 Antituberculous medications\nThere are two types of treatment namely TB disease treatment and TB preventive therapy. The Paediatric TB Medicines comprises of 3 different formulations as follows:\n\nRifampicin + Isoniazid + Pyrazinamide (RHZ) 75/50/150 mg\nEthambutol (E) 100 mg 3. Rifampicin + Isoniazid (RH) 75/50 mg\n\nEvery child receives 2RHZE ( 2 months intensive phase)/4RH (4 months continuation phase) for all forms of TB except TB meningitis and osteoarticular TB where the continuation phase is extended for 10 months (10 RH). For non-severe TB (refer to further reading) 2RHZE/2RH regimen can be applied.\nNote:\nCorticosteroids are often used as an adjunct in the treatment of these forms of TB to prevent complications. These include TB Meningitis; TB Pericarditis; and Pott disease/ TB Spondylitis. Pleural diseases, and Endobronchial TB\nPyridoxine (Vitamin B6) supplement is necessary in some patients to prevent peripheral neuropathy but recommended in ALL HIV-infected persons and severely acute malnourished patients on isoniazid\n\n\n34.7.2 Major side effects\nPotential side effects of TB medications are:\n\nRifampicin: Orange-colored urine, saliva or tears, jaundice\nPyrazinamide: GI disturbances, hepatotoxicity\nEthambutol: GI disturbances, blurred vision\nIsoniazid: numbness and tingling in the extremities, GI disturbances, rash\n\n\n\n34.7.3 TB Preventive Therapy\nEvery person living with HIV should be given TB preventive therapy (TPT) after screening and ruling out active TB disease. Other categories of children requiring TPT after ruling out TB disease are:\n\nNewborns of mothers with TB,\nAll Children exposed to an index case with sputum-positive TB,\nLong-term steroids, and immunocompromised children.\n\nIf a patient develops TB disease, the patient should be investigated, and treatment changed from TPT to full treatment. There are four(4) options for TPT in children:\n\nRifapentine + Isoniazid- weekly for 3 months\nRifampicin + isoniazid – daily for 3 months\nRifampicin- daily for 4 months\nIsoniazid only – daily for 6 months",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Infectious Diseases</span>",
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>Paediatric Tuberculosis</span>"
+    ]
+  },
+  {
+    "objectID": "id-tuberculosis.html#complications",
+    "href": "id-tuberculosis.html#complications",
+    "title": "34  Paediatric Tuberculosis",
+    "section": "34.8 Complications",
+    "text": "34.8 Complications\nThe most common complication is chronic lung disease. TB can affect any part of the body including the brain, spine and therefore can cause other complications such as stroke, abscesses, impaired growth and so forth.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Infectious Diseases</span>",
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>Paediatric Tuberculosis</span>"
+    ]
+  },
+  {
+    "objectID": "id-tuberculosis.html#prognosis",
+    "href": "id-tuberculosis.html#prognosis",
+    "title": "34  Paediatric Tuberculosis",
+    "section": "34.9 Prognosis",
+    "text": "34.9 Prognosis\nWith early identification and treatment, the prognosis is good.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Infectious Diseases</span>",
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>Paediatric Tuberculosis</span>"
+    ]
+  },
+  {
+    "objectID": "id-tuberculosis.html#differential-diagnosis",
+    "href": "id-tuberculosis.html#differential-diagnosis",
+    "title": "34  Paediatric Tuberculosis",
+    "section": "34.10 Differential diagnosis",
+    "text": "34.10 Differential diagnosis\nCommon differentials are bacterial pneumonia, atypical pneumonia, brucellosis, bronchogenic carcinoma, HIV, and Hodgkin lymphoma",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Infectious Diseases</span>",
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>Paediatric Tuberculosis</span>"
+    ]
+  },
+  {
+    "objectID": "id-tuberculosis.html#further-readings",
+    "href": "id-tuberculosis.html#further-readings",
+    "title": "34  Paediatric Tuberculosis",
+    "section": "34.11 Further readings",
+    "text": "34.11 Further readings\nWHO consolidated guidelines on tuberculosis: module 5: management of tuberculosis in children and adolescents\nWHO operational handbook on tuberculosis: module 5: management of tuberculosis in children and adolescents",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Infectious Diseases</span>",
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>Paediatric Tuberculosis</span>"
+    ]
+  },
+  {
+    "objectID": "id-tuberculosis.html#sample-case-scenarios",
+    "href": "id-tuberculosis.html#sample-case-scenarios",
+    "title": "34  Paediatric Tuberculosis",
+    "section": "34.12 Sample case scenarios",
+    "text": "34.12 Sample case scenarios\nQuestion\n\nA mother delivers a newborn at 40 weeks gestation. Within the last 4 weeks of pregnancy, she started coughing. She bought cough syrup and amoxicillin at a dispensary. Her coughing got severe and she noted weight loss. At week 39, she visited the hospital and was diagnosed with TB (GeneXpert MTB positive and RIF sensitive). She was started on treatment immediately. She lives in a single room with her 3 other children who are 2 years, 8 years, and 10 years respectively who were all clinically well except the 2 years old who weighed 8 kgs.\n\nIdentify risks of infection for the children\nIdentify risks of disease in children\nHow would you approach the management of the children\n\n\nAnswers\n\nThe risks of infection in the above scenario are sputum-positive MTB on GeneXpert tests and the single room is occupied by a single mother and her children.\nThe risk of TB disease will be in the newborn and the 2-year-old sibling who is already failing to thrive. If the mother has HIV or the children are not immunised with BCG, that would also be a risk factors for disease.\nAll the children have been exposed to TB through a close contact, who happens to be their mother. The mother has to be tested for HIV. If she is positive, all the children should also be tested. All the children would have to be screened for TB. The newborn should ideally not be given BCG vaccine but put on TPT if TB disease is excluded. The recommended TPT will depend on the HIV status of the newborn, but Isoniazid is an option for 6 months. After 6 months of INH, if there is no evidence that the newborn has been exposed to TB (Mantoux testing), the child can be given BCG vaccine. If the newborn has the disease, then full TB treatment should be given. The 2-year-old weighs 8 kg which is evidence of weight faltering. Plot the weight for age on the Z-score. Do other investigations such as Chest X-ray, stool for Xpert, and HIV testing. If the clinical, bacteriological, and imaging are suggestive of TB, treat the 2-year-old. If HIV is positive, remember to adjust the dose of ARVs that interact with rifampicin during TB treatment. If the screening of the 8 and 10 years is normal, then put them on TPT, otherwise treat them\n\nSelf-assessment questions\n\nA 5-year-old boy diagnosed with TB and started on RHZE complained to his mother that he finds it difficult to see clearly what his school teacher has projected in class. Which of the following medications is likely responsible?\n\nIsoniazid\nPyrazinamide\nEthambutol\nRifampicin\n\nExplain why bacteriological yield from children with suspected PTB is often very low.\n\n\n\n\n\nAlsayed, Shahinda S. R., and Hendra Gunosewoyo. 2023. “Tuberculosis: Pathogenesis, Current Treatment Regimens and New Drug Targets.” International Journal of Molecular Sciences 24 (6): 5202. https://doi.org/10.3390/ijms24065202.\n\n\nZhang, Haobo, Mengda Liu, Weixing Fan, Shufang Sun, and Xiaoxu Fan. 2022. “The Impact of Mycobacterium Tuberculosis Complex in the Environment on One Health Approach.” Frontiers in Public Health 10 (September). https://doi.org/10.3389/fpubh.2022.994745.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Infectious Diseases</span>",
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>Paediatric Tuberculosis</span>"
     ]
   },
   {
@@ -2724,7 +2867,7 @@
     "href": "references.html",
     "title": "References",
     "section": "",
-    "text": "Borges-Lujan, Moreyba, Gema E. Gonzalez-Luis, Tom Roosen, Maurice J.\nHuizing, and Eduardo Villamor. 2022. “Sex Differences in Patent\nDuctus Arteriosus Incidence and Response to Pharmacological Treatment in\nPreterm Infants: A Systematic Review, Meta-Analysis and\nMeta-Regression.” Journal of Personalized Medicine 12\n(7): 1143. https://doi.org/10.3390/jpm12071143.\n\n\nCaputo, Salvatore, Giovanbattista Capozzi, Maria Giovanna Russo, Teresa\nEsposito, Lucia Martina, Dominga Cardaropoli, Concetta Ricci, Paola\nArgiento, Giuseppe Pacileo, and Raffaele Calabrò. 2005. “Familial\nRecurrence of Congenital Heart Disease in Patients with Ostium Secundum\nAtrial Septal Defect.” European Heart Journal 26 (20):\n2179–84. https://doi.org/10.1093/eurheartj/ehi378.\n\n\nCunningham, A L, S Li, J Juarez, G Lynch, M Alali, and H Naif. 2000.\n“The Level of HIV Infection of Macrophages Is Determined by\nInteraction of Viral and Host Cell Genotypes.” Journal of\nLeukocyte Biology 68 (3): 311–17. https://doi.org/10.1189/jlb.68.3.311.\n\n\nGhana Health Service. 2023. “Ghana Health Service Holds Annual\nJoint TB/HIV Performance Review Meeting.” GHS News. https://ghs.gov.gh/2023/01/22/ghana-health-service-holds-annual-joint-tb-hiv-performance-review-meeting/.\n\n\nJortveit, Jarle, Elisabeth Leirgul, Leif Eskedal, Gottfried Greve,\nTatiana Fomina, Gaute Døhlen, Grethe S Tell, Sigurd Birkeland, Nina\nØyen, and Henrik Holmstrøm. 2016. “Mortality and Complications in\n3495 Children with Isolated Ventricular Septal Defects.”\nArchives of Disease in Childhood 101 (9): 808–13. https://doi.org/10.1136/archdischild-2015-310154.\n\n\nKalisch-Smith, Jacinta Isabelle, Nikita Ved, and Duncan Burnaby Sparrow.\n2019. “Environmental Risk Factors for Congenital Heart\nDisease.” Cold Spring Harbor Perspectives in Biology 12\n(3): a037234. https://doi.org/10.1101/cshperspect.a037234.\n\n\nKo, Jung Min. 2015. “Genetic Syndromes Associated with Congenital\nHeart Disease.” Korean Circulation Journal 45 (5): 357.\nhttps://doi.org/10.4070/kcj.2015.45.5.357.\n\n\nMoir, Susan, Tae-Wook Chun, and Anthony S. Fauci. 2011.\n“Pathogenic Mechanisms of HIV Disease.” Annual Review\nof Pathology: Mechanisms of Disease 6 (1): 223–48. https://doi.org/10.1146/annurev-pathol-011110-130254.\n\n\nØyen, Nina, Gry Poulsen, Heather A. Boyd, Jan Wohlfahrt, Peter K. A.\nJensen, and Mads Melbye. 2009. “Recurrence of Congenital Heart\nDefects in Families.” Circulation 120 (4): 295–301. https://doi.org/10.1161/circulationaha.109.857987.\n\n\nSmith, Clayton A., Courtney McCracken, Amanda S. Thomas, Logan G.\nSpector, James D. St Louis, Matthew E. Oster, James H. Moller, and\nLazaros Kochilas. 2019. “Long-Term Outcomes of Tetralogy of\nFallot.” JAMA Cardiology 4 (1): 34. https://doi.org/10.1001/jamacardio.2018.4255.\n\n\nWang, Huaming, Xi Lin, Guorong Lyu, Shaozheng He, Bingtian Dong, and\nYiru Yang. 2023. “Chromosomal Abnormalities in Fetuses with\nCongenital Heart Disease: A Meta-Analysis.” Archives of\nGynecology and Obstetrics 308 (3): 797–811. https://doi.org/10.1007/s00404-023-06910-3.\n\n\nWilen, C. B., J. C. Tilton, and R. W. Doms. 2012. “HIV: Cell\nBinding and Entry.” Cold Spring Harbor Perspectives in\nMedicine 2 (8): a006866–66. https://doi.org/10.1101/cshperspect.a006866.\n\n\nWorld Health Organization (WHO). 2023. “HIV and AIDS.”\nFact Sheets. https://www.who.int/news-room/fact-sheets/detail/hiv-aids.\n\n\nYuan, Zhen, Long-Zhen Zhang, Bin Li, Hung-Tao Chung, Jin-Xin Jiang, John\nY. Chiang, Hsin-Ju Chiang, Hon-Kan Yip, and Pei-Hsun Sung. 2021.\n“Investigation of Echocardiographic Characteristics and Predictors\nfor Persistent Defects of Patent Foramen Ovale or Patent Ductus\nArteriosus in Chinese Newborns.” Biomedical Journal 44\n(2): 209–16. https://doi.org/10.1016/j.bj.2019.12.007.",
+    "text": "Alsayed, Shahinda S. R., and Hendra Gunosewoyo. 2023.\n“Tuberculosis: Pathogenesis, Current Treatment Regimens and New\nDrug Targets.” International Journal of Molecular\nSciences 24 (6): 5202. https://doi.org/10.3390/ijms24065202.\n\n\nBorges-Lujan, Moreyba, Gema E. Gonzalez-Luis, Tom Roosen, Maurice J.\nHuizing, and Eduardo Villamor. 2022. “Sex Differences in Patent\nDuctus Arteriosus Incidence and Response to Pharmacological Treatment in\nPreterm Infants: A Systematic Review, Meta-Analysis and\nMeta-Regression.” Journal of Personalized Medicine 12\n(7): 1143. https://doi.org/10.3390/jpm12071143.\n\n\nCaputo, Salvatore, Giovanbattista Capozzi, Maria Giovanna Russo, Teresa\nEsposito, Lucia Martina, Dominga Cardaropoli, Concetta Ricci, Paola\nArgiento, Giuseppe Pacileo, and Raffaele Calabrò. 2005. “Familial\nRecurrence of Congenital Heart Disease in Patients with Ostium Secundum\nAtrial Septal Defect.” European Heart Journal 26 (20):\n2179–84. https://doi.org/10.1093/eurheartj/ehi378.\n\n\nCunningham, A L, S Li, J Juarez, G Lynch, M Alali, and H Naif. 2000.\n“The Level of HIV Infection of Macrophages Is Determined by\nInteraction of Viral and Host Cell Genotypes.” Journal of\nLeukocyte Biology 68 (3): 311–17. https://doi.org/10.1189/jlb.68.3.311.\n\n\nGhana Health Service. 2023. “Ghana Health Service Holds Annual\nJoint TB/HIV Performance Review Meeting.” GHS News. https://ghs.gov.gh/2023/01/22/ghana-health-service-holds-annual-joint-tb-hiv-performance-review-meeting/.\n\n\nJortveit, Jarle, Elisabeth Leirgul, Leif Eskedal, Gottfried Greve,\nTatiana Fomina, Gaute Døhlen, Grethe S Tell, Sigurd Birkeland, Nina\nØyen, and Henrik Holmstrøm. 2016. “Mortality and Complications in\n3495 Children with Isolated Ventricular Septal Defects.”\nArchives of Disease in Childhood 101 (9): 808–13. https://doi.org/10.1136/archdischild-2015-310154.\n\n\nKalisch-Smith, Jacinta Isabelle, Nikita Ved, and Duncan Burnaby Sparrow.\n2019. “Environmental Risk Factors for Congenital Heart\nDisease.” Cold Spring Harbor Perspectives in Biology 12\n(3): a037234. https://doi.org/10.1101/cshperspect.a037234.\n\n\nKo, Jung Min. 2015. “Genetic Syndromes Associated with Congenital\nHeart Disease.” Korean Circulation Journal 45 (5): 357.\nhttps://doi.org/10.4070/kcj.2015.45.5.357.\n\n\nMoir, Susan, Tae-Wook Chun, and Anthony S. Fauci. 2011.\n“Pathogenic Mechanisms of HIV Disease.” Annual Review\nof Pathology: Mechanisms of Disease 6 (1): 223–48. https://doi.org/10.1146/annurev-pathol-011110-130254.\n\n\nØyen, Nina, Gry Poulsen, Heather A. Boyd, Jan Wohlfahrt, Peter K. A.\nJensen, and Mads Melbye. 2009. “Recurrence of Congenital Heart\nDefects in Families.” Circulation 120 (4): 295–301. https://doi.org/10.1161/circulationaha.109.857987.\n\n\nSmith, Clayton A., Courtney McCracken, Amanda S. Thomas, Logan G.\nSpector, James D. St Louis, Matthew E. Oster, James H. Moller, and\nLazaros Kochilas. 2019. “Long-Term Outcomes of Tetralogy of\nFallot.” JAMA Cardiology 4 (1): 34. https://doi.org/10.1001/jamacardio.2018.4255.\n\n\nWang, Huaming, Xi Lin, Guorong Lyu, Shaozheng He, Bingtian Dong, and\nYiru Yang. 2023. “Chromosomal Abnormalities in Fetuses with\nCongenital Heart Disease: A Meta-Analysis.” Archives of\nGynecology and Obstetrics 308 (3): 797–811. https://doi.org/10.1007/s00404-023-06910-3.\n\n\nWilen, C. B., J. C. Tilton, and R. W. Doms. 2012. “HIV: Cell\nBinding and Entry.” Cold Spring Harbor Perspectives in\nMedicine 2 (8): a006866–66. https://doi.org/10.1101/cshperspect.a006866.\n\n\nWorld Health Organization (WHO). 2023. “HIV and AIDS.”\nFact Sheets. https://www.who.int/news-room/fact-sheets/detail/hiv-aids.\n\n\nYuan, Zhen, Long-Zhen Zhang, Bin Li, Hung-Tao Chung, Jin-Xin Jiang, John\nY. Chiang, Hsin-Ju Chiang, Hon-Kan Yip, and Pei-Hsun Sung. 2021.\n“Investigation of Echocardiographic Characteristics and Predictors\nfor Persistent Defects of Patent Foramen Ovale or Patent Ductus\nArteriosus in Chinese Newborns.” Biomedical Journal 44\n(2): 209–16. https://doi.org/10.1016/j.bj.2019.12.007.\n\n\nZhang, Haobo, Mengda Liu, Weixing Fan, Shufang Sun, and Xiaoxu Fan.\n2022. “The Impact of Mycobacterium Tuberculosis Complex in the\nEnvironment on One Health Approach.” Frontiers in Public\nHealth 10 (September). https://doi.org/10.3389/fpubh.2022.994745.",
     "crumbs": [
       "References"
     ]
