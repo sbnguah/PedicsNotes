@@ -169,7 +169,7 @@ fig-align="center" width="351"}
 Immunological tests provide evidence for TB infection but not TB disease. Two tests are widely used
 namely the *Tuberculin skin test* and the *interferon-gamma release assay*.
 
-## Treatment 
+## Treatment
 
 ### Antituberculous medications
 
@@ -192,7 +192,7 @@ Pyridoxine (Vitamin B6) supplement is necessary in some patients to prevent peri
 but recommended in ALL [HIV](id-hiv.qmd)-infected persons and severely acute malnourished patients
 on isoniazid
 
-### Major side effects 
+### Major side effects
 
 Potential side effects of TB medications are:
 
@@ -219,7 +219,7 @@ to full treatment. There are four(4) options for TPT in children:
 3.  Rifampicin- daily for 4 months
 4.  Isoniazid only – daily for 6 months
 
-## Complications 
+## Complications
 
 The most common complication is chronic lung disease. TB can affect any part of the body including
 the brain, spine and therefore can cause other complications such as stroke, abscesses, impaired
@@ -229,12 +229,12 @@ growth and so forth.
 
 With early identification and treatment, the prognosis is good.
 
-## Differential diagnosis 
+## Differential diagnosis
 
 Common differentials are bacterial pneumonia, atypical pneumonia, brucellosis, bronchogenic
 carcinoma, [HIV](id-hiv.qmd), and Hodgkin lymphoma
 
-## Further readings 
+## Further readings
 
 [WHO consolidated guidelines on tuberculosis: module 5: management of tuberculosis in children and
 adolescents](https://www.who.int/publications/i/item/9789240046764)

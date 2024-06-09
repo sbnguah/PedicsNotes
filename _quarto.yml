@@ -27,7 +27,9 @@ book:
     - gen-growh-development.qmd
     - gen-anthropometry.qmd
     - gen-acid-base.qmd
-    - gen-basic-critical-care.qmd
+    - part: "<span style='font-weight:bold; color: black;'>Basic Critical Care</span>"
+      chapters: 
+        - cc-cardiovascular-dysfunction.qmd
     - part: "<span style='font-weight:bold; color: black;'>Neonatology</span>"
       chapters: 
         - neo-neonate-hx-exam.qmd
