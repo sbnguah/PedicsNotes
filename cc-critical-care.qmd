@@ -1,0 +1,206 @@
+---
+title: "Paediatric Critical Care"
+author: "Dr John Adabie Appiah"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+## Background
+
+In resource-limited resource settings, such as those lacking access to healthcare staff, equipment, and resources, pediatric emergency and critical care (PECC) play an essential role.
+These settings bear the highest burden of severe acute illness and life-threatening injuries.
+Still, due to underappreciation of its importance, critical care has not been incorporated as an essential part of the health system.[@sakaan2022]
+
+An infant, child, or adolescent with an illness, injury, or post-operative state that increases the risk for or results in acute physiological instability (abnormal vital signs, laboratory values, or clinical findings) falls under acute paediatric critical illness.[@appiah2018]\
+\
+Many paediatric lives can be saved with low-cost resuscitation techniques and procedures, supportive care and referral pathways available at all levels of care.
+Over sixty per cent of children die because of poor emergency and critical care.
+SDG may not be achieved unless PECC service is available to every acutely ill child.
+
+By providing prompt and adequate medical care to critically ill children, paediatric emergency and critical care services can contribute to a decrease in childhood death rates.
+
+## Reasons for PECC
+
+Children who require specialised care due to severe diseases or injuries should ideally be referred or managed at the paediatric emergency or critical care (PICU).
+Any space available should and can be used to offer such services.
+In that sense, any clinician can advocate for or institute measures to provide PECC.
+
+The following are typical reasons for PICU admissions:
+
+-   **Acute respiratory distress and failure** e.g., (acute respiratory distress syndrome (ARDS), pneumonia, severe exacerbations of asthma, or any cause are all considered respiratory distress.
+-   **Shock**: hypovolemic shock, septic shock, (e.g., from severe dehydration or haemorrhage). cardiogenic shock (e.g., from myocarditis or heart failure),
+-   **Trauma**: accidental and non-accidental polytrauma injuries, burns, or other causes.
+-   **Neurological emergencies**: Seizures, severe brain damage, cerebral bleeding, meningitis, or encephalitis are examples.
+-   **Cardiovascular**: Heart failure, myocarditis, arrhythmias, and exacerbations of congenital heart disease are examples.
+-   **Sepsis**: Systemic infections caused by bacteria, viruses, or fungi that result in septic shock or sepsis.
+-   **Metabolic disorders** include metabolic acidosis, severe electrolyte imbalances, diabetic ketoacidosis (DKA), and inborn metabolic abnormalities.
+-   Conditions that result in the failure or dysfunction of numerous organ systems, including multiple organ failure, are called multi-organ dysfunction.
+-   **Post-operative support**: Children undergoing difficult procedures, especially those requiring close cardiovascular monitoring of organ function.
+-   **Haematological and oncological disorders**: coagulation issues, thrombocytopenia, or severe anaemia, side effects of cancer treatment, such as tumour lysis syndrome or neutropenia caused by chemotherapy.
+-   Exposure to poisonous substances, overdosing, or poisoning are examples of **toxicological** emergencies.
+-   **Endocrine**: include thyroid storm, adrenal crises, and diabetic emergencies.\
+    Gastrointestinal: intussusception, typhoid ileal perforation, necrotizing enterocolitis, or extreme dehydration are examples of.
+-   **Renal** **disorders:** include electrolyte abnormalities, acute kidney damage, and renal failure.
+
+## Evaluation of critically ill
+
+A methodical and comprehensive approach is necessary when evaluating a severely unwell child to promptly recognize and treat life-threatening diseases.
+The clinical plan that is frequently applied in emergency and critical care settings for children:
+
+Initial assessment and stabilisation
+
+**ABCDE technique**: This methodical technique entails evaluating the airway, breathing, circulation, disability, and exposure.
+
+A – check for airway patency.
+Determine at risk or not at risk of obstruction.
+
+B – the breathing sufficient
+
+C – assess circulation for perfusion
+
+D – evaluate the neurological status using GCS or AVPU
+
+E – expose the infant while keeping them warm.\
+\
+Vital Signs: Take your blood pressure, temperature, heart rate, breathing rate, oxygen saturation and pain score assessment.
+
+During this assessment, any irregularities ought to be taken care of right away before the next category is done.
+
+### History
+
+A focused history that covers the child's presenting complaints, medical history, current medications, recent illnesses, immunization status, and events leading up to the current presentation should be obtained from caregivers.\
+Inquire about symptoms like fever, coughing, breathing problems diarrhoeaa, vomiting, lethargy, seizures, trauma, or toxin intake.
+
+### Physical examination
+
+Examine the child thoroughly, beginning with a general assessment of their look and state of consciousness.\
+Perform a comprehensive examination from head to toe, encompassing evaluation of the respiratory, neurological, gastrointestinal, abdominal, cardiovascular, renal, and musculoskeletal systems.\
+Keep an eye out for symptoms of trauma, dehydration, altered mental status, cyanosis, irregular breath sounds, abnormal heart sounds, and respiratory distress.
+
+### Focused assessment and investigations
+
+-   Prioritize testing including blood tests (e.g., complete blood count, electrolytes, blood gas analysis), imaging studies (e.g., chest X-ray, ultrasound, CT scan), and
+
+-    other tests (e.g., ECG, echocardiogram, lumbar puncture) based on the first assessment and history.\
+    If available and appropriate, take into consideration bedside testing such as point-of-care ultrasound or quick diagnostics for infectious disorders.
+
+### Management and treatment
+
+Based on the results of the diagnostic tests and clinical findings, begin the necessary treatment.
+This can involve the use of supportive care measures, oxygen therapy, fluid resuscitation, and drug delivery (such as antibiotics, inotropes, analgesia and sedatives).
+
+Prioritize treating life-threatening disorders including shock, respiratory failure, and obstruction of the airway.
+
+### Monitoring and reassessment
+
+Monitoring is a cardinally important part of critical care.
+It allows for evaluation of the patient’s response to interventions.
+Patients with critical illness or injury require more frequent monitoring in the first 24-48 to identify deterioration patients or those not responding to treatment.
+Keep a close eye on the child's vital signs, reaction to therapies, and general state of health.
+
+Regularly reevaluate the child and modify the management plan in response to treatment response and changes in the child's clinical status.
+If resources permit all patients should be on patient monitor for continuous vital signs evaluation.
+Additional staffing may be required or assigned to monitor and alert other clinicians of abnormal values.
+This will ensure a timely response.
+
+### Multi-disciplinary and referral 
+
+Critical illness may involve or result or lead to multiple pathologies as a result multidisciplinary team approach to care cannot be over-emphasised.
+If additional evaluation and management are needed, consult with the appropriate specialists (paediatric surgeons, paediatric intensivists, neurologists, infectious disease specialists, etc.).
+
+MDT in critical care involves discussing patients in detail with the appropriate specialist(s) to determine the best care for the desired outcome.
+If the child's condition calls for specialized interventions or resources not provided by the current facility, consider transferring to a higher level of care.
+
+### Family centred care
+
+The family's role in providing care for a sick child must always be considered during management.
+Recall that the patient is best known by their parents, guardians, or relatives.
+Their engagement from the patient's history to recognizing and comprehending their condition will be optimal.
+
+Involve caregivers in decision-making wherever possible, respecting their choices and cultural views.
+Communicate effectively with the child's caregivers, giving them updates on the child's status, outlining the planned interventions, and answering any worries or questions they may have.
+
+## Interventions 
+
+Children who are critically ill require emergent and timely life-sustaining interventions.
+Resuscitation and supportive care are two interventions that are usually utilized to revive patients and assist vital organs to recover until they can function within the survivable level.
+
+### Resuscitation
+
+The process of treating a critically ill patient's physiological abnormalities is known as resuscitation, and it occurs in every hospital department.
+It involves various methods that call for a broad range of capabilities that have been systematically developed and applied over time.[@arias2024]
+
+It refers to the act of reviving someone from apparent death or unconsciousness because of cardiorespiratory arrest, often involving procedures such as chest compression, ventilation, cardiac massage, and the use of a defibrillator.[@lewis2018]
+
+Clinical presentation of cardiac arrest in children presents differently from adults.
+Cardiac (shock), respiratory (respiratory tract infection) and gastrointestinal (diarrhoea and vomiting) conditions are the common predisposing risks that get children into cardiorespiratory arrest.[@meghani2021] Children frequently move to cardiac arrest through respiratory or circulatory failure, the pre-arrest period in children is typically characterized by respiratory distress or failure, shock, or a combination of these factors.
+
+### Critical organ dysfunction or failure
+
+Manifestation of children's pre-cardiac arrest stage includes:
+
+1.  **Respiratory distress**
+    a.  **Increased work of breathing**: Using auxiliary muscles, nasal flaring, grunting, and retractions (intercostal, subcostal, and suprasternal).
+    b.  **Abnormal breath** sounds including crackles, stridor, wheezing, or reduced breath sounds.
+    c.  **Alterations in breathing pattern**: Bradypnea (slow breathing) or tachypnoea (fast breathing).
+2.  **Respiratory failure**
+    a.  **Cyanosis:** Bluish discolouration of the skin, especially around the lips and fingertips, indicating hypoxemia.
+    b.  **Altered Mental Status:** Lethargy, irritability, or unresponsiveness due to inadequate oxygenation.
+    c.  **Apnoea:** Periods of stopped breathing or significant pauses in breathing.
+3.  **Circulatory impairment/failure (shock)**
+    a.  **Tachycardia** or abnormally rapid heart rate is frequently the result of an early compensatory mechanism.
+    b.  **Hypotension**: Low blood pressure in children is a late and concerning sign.
+    c.  **Poor perfusion**: Cold, clammy skin; longer than two seconds for capillary refill; sluggish or non-existent peripheral pulses.
+    d.  **Altered mental status**: Incomprehension, agitation, or a reduction in reactivity.
+4.  **Neurological dysfunction**
+    a.  Altered Mental State: Diminished level of alertness, agitation, or lethargy.
+    b.  Seizures: In children with known seizure disorders, a new or alterations in seizure patterns.
+5.  **Vital Sign Changes**
+    a.  **Abnormal Heart Rate:** Tachycardia is common, whilst bradycardia is usually a late sign suggesting severe deterioration.
+    b.  **Abnormal Respiratory Rate:** Both tachypnoea and bradypnea are worrying.
+    c.  **Hypotension:** in children, it is frequently a late sign of shock.
+6.  **Laboratory and Monitoring Data:**
+    1.  **Hypoxemia:** arterial saturation as measured by pulse oximetry.
+
+    2.  **Hypercapnia:** Elevated carbon dioxide readings, indicating inadequate ventilation.
+
+    3.  **Metabolic Acidosis:** Blood gas analysis shows a drop in blood pH and bicarbonate levels, indicating poor tissue perfusion and oxygenation.
+
+Management of pre-cardiac arrest and cardiac arrest involves prevention by identifying patients at risk, monitoring and managing complications, cardiopulmonary resuscitation, and in advanced cases supportive care,
+
+### Early Recognition and Monitoring:
+
+-   Frequent or continuous monitoring of vital signs, including HR, RR, CRT, and SpO2 with or without BP.
+-   Repeated assessments of mental status and perfusion indicators.
+-   Following assessment and monitoring, any abnormalities should be responded to with appropriate interventions such as low SpO2 should be given oxygen and respiratory support for respiratory failure.
+
+### Supportive therapy
+
+Aside from resuscitation among patients with cardiac arrest, those in pre-arrest or return of spontaneous circulation post-resuscitation need supportive care.
+
+**Respiratory Support:**
+
+-   Providing oxygen therapy, non-invasive ventilation (e.g., CPAP or BiPAP), or mechanical ventilation if needed.
+-   Clearing airway obstructions and ensuring proper airway management.
+
+**Circulatory Support:**
+
+-   Administering fluids judiciously to treat hypovolemia.
+-   Using vasoactive medications like epinephrine or norepinephrine for shock.
+
+**Treating Underlying Causes:**
+
+### Optimisation of oxygen delivery 
+
+Prevention of cardiac arrest or restoration after cardiac arrest of a patient to health requires optimisation of the oxygen-carrying capacity of blood and flow of blood to the tissues.
+These require
+
+1.  Provide oxygen to the lungs so that red blood cells can take it
+2.  Sufficient haemoglobin levels to bind oxygen
+3.  Improve cardiac contractility to guarantee enough blood pumping optimum vascular tone for all tissue beds to be perfused
+4.  Effective intravascular volume to provide sufficient blood flow to the heart's right side.
+
+Children with critical illness require early identification, institution of timely intervention, assessment and effective monitoring.
+ Understanding the complex interaction of clinical, infrastructural, workforce, family, and systemic factors affects the outcomes of pediatric critical illness in hospitals.
+Improving these parameters using focused interventions, distribution of resources, education, and modifications to policies can greatly enhance the standard of care and survival rates for children with critical illness.

@@ -14,7 +14,7 @@ long-term breathing difficulties.
 ## Incidence
 
 Globally, the incidence in extremely preterm infants(\< 28 weeks) ranges between 10-89%, while 40%
-of extremely low birth weight infants (\<1000g) will develop BPD. At the Komfoo Anokye Teaching
+of extremely low birth weight infants (\<1000g) will develop BPD. At the Komfo Anokye Teaching
 Hospital, 44 out of 171 preterm babies admitted from January to April 2024 had Respiratory Distress
 Syndrome.
 
@@ -27,7 +27,7 @@ hypertension, preeclampsia, chorioamnionitis, hypoxia, congenital anomaly causin
 hypoplasia, and genetic susceptibility.
 
 **Post-natal** - These include prematurity, immature lungs, apnea, sepsis, need for mechanical
-ventilation and a [Patent Ductus Arteriosus](cvs.pda.qmd)
+ventilation and a [Patent Ductus Arteriosus](cvs-pda.qmd)
 
 ## Pathogenesis
 

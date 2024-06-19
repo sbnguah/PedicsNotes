@@ -58,7 +58,7 @@ Shock may be categorized into stages to assist with diagnosis and management
 
 ::: {#tbl-cc-shock-stages}
 | Stage                            | Pathophysiology                                                                                                                                                                            | Clinical Features                                                                                                                                                  |
-|--------------|-----------------------------|-----------------------------|
+|---------------|-------------------------------|---------------------------|
 | Pre-shock                        | There is impaired hemodynamic status, but the body can fall on its physiological reserve and intrinsic autoregulation to compensate mechanisms to attenuate its untoward undesired effect. | Tachycardia, Tachypnoea, Cool core to periphery temperature                                                                                                        |
 | Shock                            | Ensues when the compensatory reserve is exhausted with full-blown clinical manifestation of the cardiovascular system                                                                      | Above **plus** Capillary refill time \> 3 seconds, +/- hypotension                                                                                                 |
 | End-organ dysfunction or failure | During this stage distant organs are affected. Usually, the terminal process results from loss of autoregulation leading to death or permanent organ damage in patients who survive.       | *Neurology* (altered level of consciousness) *Genito-urinary* (reduced urine output) *Laboratory* (evidence of organ dysfunction - liver, renal, coagulation etc.) |
@@ -72,7 +72,7 @@ Shock may be categorized into stages to assist with diagnosis and management
     The former refers to the early stages of shock when the body can mount a response to maintain perfusion.
     Uncompensated shock refers to the loss of the body’s compensatory response.
 
--   Other classifications based on core-to-peripheral body temperature into cold and warm shock.
+-   Other classifications based on core-to-peripheral body temperature are cold and warm shock.
     Clinical presentation may vary depending on the state of the patient and may drift in and out of these classifications.
     Without intervention and monitoring for stability, there should not be seen an improvement.
 
@@ -181,7 +181,7 @@ Resuscitation must therefore be timely.
 Evaluate the patient for causes of shock and treat accordingly.
 
 1.  Hypovolemic
-    a.  Severe dehydration because of acute gastroenteritis (diarrhoea and vomiting) . Rehydrate using WHO Plan B or C as appropriate
+    a.  Severe dehydration because of acute gastroenteritis (diarrhoea and vomiting). Rehydrate using WHO Plan B or C as appropriate
     b.  Severe anaemia – transfuse blood.
     c.  Hemorrhage – transfuse blood without blood products as needed
 2.  Monitor response to the fluid bolus every 15 – 30 minutes.
@@ -190,7 +190,7 @@ Evaluate the patient for causes of shock and treat accordingly.
 
 Once the patient has been resuscitated tailored but detailed investigations are needed.
 
-#### Laboratory 
+#### Laboratory
 
 1.  FBC- Anemia, Leukopenia/leukocytosis, thrombocytopenia
 2.  Arterial blood gases- acidosis (metabolic/respiratory), low PaO2, high/low PCO2, high lactate, high anion gap
@@ -203,7 +203,7 @@ Once the patient has been resuscitated tailored but detailed investigations are 
 9.  Neuroimaging for suspected brain abscess, meningitis and encephalitis.
 10. Markers of inflammation/infection- CRP, ESR and procalcitonin. These will be determined by circumstances. It may also be used to guide antibiotic therapy decisions.  
 
-### Additional treatment 
+### Additional treatment
 
 For shock not responding to fluid of 30-40 ml/kg the following may be added.
 
@@ -212,17 +212,17 @@ For shock not responding to fluid of 30-40 ml/kg the following may be added.
     a.  Tension pneumothorax – thoracostomy/chest tube insertion
     b.  massive pulmonary embolism – anticoagulants
     c.  cardiac tamponade - pericardiocentesis
-3.   **Distributive** **shock** – adrenaline, phenylephrine
+3.  **Distributive** **shock** – adrenaline, phenylephrine
 4.  **Septic shock**
     a.  For fluid refractory - noradrenaline, adrenaline, dobutamine
     b.  For vasopressor and inotrope refractory - steroid stress dose
     c.  Antimicrobial therapy in sepsis within an hour.
 
-### Supportive therapy 
+### Supportive therapy
 
 In inotrope-refractory shock, steroids may be given for adrenal insufficiency.
 
-1.  Intensive Care unit admission as required
+1.  Intensive Care Unit admission as required
 2.  Neuroprotective measures- normothermia, normoglycemia, anti-seizure(if indicated), hyperosmolar therapy
 3.  Providing ventilatory support- invasive vs non-invasive
 4.  Worsening cardiac function requires invasive treatment options like ECMO (Extracorporeal Membrane Oxygenation) and ventricular-assisted devices. The underlying cause should be looked at after resuscitation and stabilization
@@ -238,7 +238,7 @@ In low-resource facilities,
 
 Monitoring of abnormal laboratory indices for improvement/deterioration.
 
-## Conclusion 
+## Conclusion
 
 Shock is an emergency requiring early recognition, triaging and treatment.
 Initial treatment for almost all shock is careful restrictive fluid resuscitation.
