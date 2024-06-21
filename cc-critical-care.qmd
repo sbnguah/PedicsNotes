@@ -63,6 +63,7 @@ C – assess circulation for perfusion
 D – evaluate the neurological status using GCS or AVPU
 
 E – expose the infant while keeping them warm.\
+
 \
 Vital Signs: Take your blood pressure, temperature, heart rate, breathing rate, oxygen saturation and pain score assessment.
 
@@ -83,7 +84,7 @@ Keep an eye out for symptoms of trauma, dehydration, altered mental status, cyan
 
 -   Prioritize testing including blood tests (e.g., complete blood count, electrolytes, blood gas analysis), imaging studies (e.g., chest X-ray, ultrasound, CT scan), and
 
--    other tests (e.g., ECG, echocardiogram, lumbar puncture) based on the first assessment and history.\
+-   other tests (e.g., ECG, echocardiogram, lumbar puncture) based on the first assessment and history.\
     If available and appropriate, take into consideration bedside testing such as point-of-care ultrasound or quick diagnostics for infectious disorders.
 
 ### Management and treatment
@@ -105,7 +106,7 @@ If resources permit all patients should be on patient monitor for continuous vit
 Additional staffing may be required or assigned to monitor and alert other clinicians of abnormal values.
 This will ensure a timely response.
 
-### Multi-disciplinary and referral 
+### Multi-disciplinary and referral
 
 Critical illness may involve or result or lead to multiple pathologies as a result multidisciplinary team approach to care cannot be over-emphasised.
 If additional evaluation and management are needed, consult with the appropriate specialists (paediatric surgeons, paediatric intensivists, neurologists, infectious disease specialists, etc.).
@@ -122,7 +123,7 @@ Their engagement from the patient's history to recognizing and comprehending the
 Involve caregivers in decision-making wherever possible, respecting their choices and cultural views.
 Communicate effectively with the child's caregivers, giving them updates on the child's status, outlining the planned interventions, and answering any worries or questions they may have.
 
-## Interventions 
+## Interventions
 
 Children who are critically ill require emergent and timely life-sustaining interventions.
 Resuscitation and supportive care are two interventions that are usually utilized to revive patients and assist vital organs to recover until they can function within the survivable level.
@@ -192,7 +193,7 @@ Aside from resuscitation among patients with cardiac arrest, those in pre-arrest
 
 **Treating Underlying Causes:**
 
-### Optimisation of oxygen delivery 
+### Optimisation of oxygen delivery
 
 Prevention of cardiac arrest or restoration after cardiac arrest of a patient to health requires optimisation of the oxygen-carrying capacity of blood and flow of blood to the tissues.
 These require

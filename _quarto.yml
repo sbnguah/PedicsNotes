@@ -64,7 +64,7 @@ book:
         - cvs-miscellaneous.qmd
     - part: "<span style='font-weight:bold; color: black;'>Infectious Diseases</span>"
       chapters: 
-        - id-immunodeficiencies.qmd
+        - id-enteric-fever.qmd
         - id-hiv.qmd
         - id-sepsis.qmd
         - id-tuberculosis.qmd

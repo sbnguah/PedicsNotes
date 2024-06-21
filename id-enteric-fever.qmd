@@ -1,0 +1,129 @@
+---
+title: "Enteric Fever"
+subtitle: "Typhoid and Paratyphoid Fevers"
+author: Dr Anthony Enimil
+date: 2024-06-21
+---
+
+## Definition
+
+Typhoid fever is a life-threatening infection caused by the bacterium *Salmonella Typh*i. It is
+usually spread through contaminated food or water. Once Salmonella Typhi bacteria are ingested, they
+multiply and spread into the bloodstream. It causes an acute generalised infection of the
+reticuloendothelial system, intestinal lymphoid tissue, and the gall bladder.
+
+## Incidence/prevalence
+
+As of 2019 estimates, there were 9 million cases of typhoid fever annually, resulting in about
+110,000 deaths annually.[@WHO_typhoid] In 2023, information from LHIMS, Komfo Anokye Teaching
+Hospital, Kumasi indicated a rate of 0.4% or 4/1000 admissions through the Paediatric Emergency Unit
+(PEU) were diagnosed as enteric fever.
+
+## Aetiology 
+
+An infectious feverish disease caused by the bacterium Salmonella typhi (Salmonella enterica Serovar
+Typhi) and less commonly by Salmonella paratyphi.
+
+## Pathogenesis
+
+S. typhi and S. paratyphi are transmitted through ingestion of fecally contaminated food or water,
+improper hygiene, and unsafe food/water handling practices. Individual-level risk factors include
+contaminated water supply, patronizing food vendors, ingestion of raw fruits and vegetables and a
+history of contact with a case or a chronic carrier. The risk of environmental transmission of
+typhoid fever is higher in the rainy season, proximity to open sewers and highly contaminated water
+bodies and residing in areas of low elevation.[@adesegun2020] Ingested organisms survive exposure to
+gastric acid before gaining access to the small bowel, where they penetrate the epithelium, enter
+the lymphoid tissue, and disseminate via the lymphatic or hematogenous route. A chronic carrier
+state is established in an estimated 1 to 5 per cent of cases.[@andrews2023pathogenesis]
+
+## Signs and symptoms 
+
+The incubation period ranges from 7-14 days on average but can range from 3 days to two months.
+Symptoms include prolonged high fever, fatigue, headache, nausea, abdominal pain, constipation or
+diarrhoea, and in some cases a rash. Typhoid can affect every system of the body. Other
+manifestations include drowsiness, seizures, coma, psychosis, meningitis, acute renal failure,
+osteomyelitis, and septic arthritis. Severe cases may lead to serious complications including
+terminal ileal perforation or even death.
+
+## Investigations 
+
+In the first and second weeks of the presentation, blood culture and sensitivity are recommended.
+Stool culture is also relevant more in the first week as compared to the second week. Bone marrow
+aspirate and culture are important after the second week. Recently, antibodies (IgM) have been used
+as a diagnostic tool. Local studies are needed to validate these antibody tests. Depending on the
+system involved, other tests must be requested.
+
+## Treatment 
+
+Treatment is supportive (Antipyretics, hydration, nutrition, transfusion) and specific (antibiotics
+are given starting with the empiric regimen: Third generation cephalosporin or quinolone eg.
+Ciprofloxacin). The choice of antibiotics should be changed to a narrower spectrum when culture and
+sensitivity results are available. Where there is poor response attributed to a focus e.g. abscess
+formation, source control should be pursued. Safe water, sanitation, and hygiene (WASH)
+interventions are critical to preventing the spread of typhoid. Typhoid is spread via the
+faecal-oral route when bacteria pass into people’s mouths through food, water, hands, or objects
+contaminated with faecal matter. Solutions such as water treatment or filtration, installation and
+management of toilets and sanitation systems, and education about proper handwashing and
+food-handling practices can save lives and protect people from typhoid infection. Three types of
+typhoid vaccines of demonstrated safety and efficacy are available on the international market:-
+
+1.  A conjugated vaccine in which the Vi polysaccharide vaccine is bound to a carrier protein,
+2.  A non-conjugated Vi polysaccharide vaccine, and
+3.  A live attenuated Ty21a vaccine.
+
+## Complications 
+
+These include anicteric hepatitis, bone marrow suppression, paralytic ileus, myocarditis, psychosis,
+cholecystitis, osteomyelitis, peritonitis, pneumonia, haemolysis, and syndrome of inappropriate
+release of antidiuretic hormone (SIADH)
+
+## Prognosis 
+
+The prognosis among persons with typhoid fever depends primarily on the speed of diagnosis and
+initiation of correct treatment. Generally, untreated typhoid fever carries a mortality rate of
+15%-30%. In properly treated diseases, the mortality rate is less than 1%. [@medscapeTyphoidFever]
+
+## Differential diagnosis 
+
+Differential diagnosis will depend on the types of presentation. The most common are malaria, liver
+abscesses, tuberculosis, and meningitis.
+
+## Sample questions
+
+1.  A 5-year-old boy complained of general body weakness, abdominal pain and a fever of two weeks
+    duration. He had 2 courses of antimalarial treatment even though the RDT was negative. On
+    examination, he was lethargic and had a body temperature of 39.9^o^C. If you suspect enteric
+    fever, what will be the best test to perform?
+
+    a.  Urine culture
+
+    b.  Stool culture
+
+    c.  Blood culture
+
+    d.  Widal test
+
+        *All the options are feasible but with the duration of illness, blood culture with
+        sensitivity testing will provide the best yield. Widal tests are widely used in some
+        facilities but have a high tendency of false positive results*.
+
+2.  A 10-year-old known sickle cell disease patient genotype SS presented with severe pain in the
+    right leg of 3-week duration. She is on her routine medications but has yet to be initiated on
+    hydroxyurea. On examination, there was tenderness in the right leg, especially at the knee joint
+    with evidence of inflammation. Blood culture isolated Salmonella typhi. What is your best
+    management approach?
+
+    *A more detailed history and examination is warranted. Before the blood culture results came
+    out, the child would have been on empiric antibiotics. This must be changed to a narrower
+    spectrum based on the sensitivity results. Remember to request for ultrasound of the inflamed
+    knee for possible effusion. If there is fluid collection, this must be drained to achieve source
+    control. This will optimize antibiotic response.*
+
+## Practice question 
+
+Concerning question 2 (above) if the child was started on ceftriaxone, discuss what must be done
+after microbiology provides the sensitivity results as shown in the table below.
+
+| Sensitive                          | Resistant              |
+|------------------------------------|------------------------|
+|  Meropenem Ciprofloxacin Amikacin  | Ceftriaxone, Linezolid |
