@@ -19,7 +19,7 @@ As of 2019 estimates, there were 9 million cases of typhoid fever annually, resu
 Hospital, Kumasi indicated a rate of 0.4% or 4/1000 admissions through the Paediatric Emergency Unit
 (PEU) were diagnosed as enteric fever.
 
-## Aetiology 
+## Aetiology
 
 An infectious feverish disease caused by the bacterium Salmonella typhi (Salmonella enterica Serovar
 Typhi) and less commonly by Salmonella paratyphi.
@@ -36,7 +36,7 @@ gastric acid before gaining access to the small bowel, where they penetrate the 
 the lymphoid tissue, and disseminate via the lymphatic or hematogenous route. A chronic carrier
 state is established in an estimated 1 to 5 per cent of cases.[@andrews2023pathogenesis]
 
-## Signs and symptoms 
+## Signs and symptoms
 
 The incubation period ranges from 7-14 days on average but can range from 3 days to two months.
 Symptoms include prolonged high fever, fatigue, headache, nausea, abdominal pain, constipation or
@@ -45,7 +45,7 @@ manifestations include drowsiness, seizures, coma, psychosis, meningitis, acute 
 osteomyelitis, and septic arthritis. Severe cases may lead to serious complications including
 terminal ileal perforation or even death.
 
-## Investigations 
+## Investigations
 
 In the first and second weeks of the presentation, blood culture and sensitivity are recommended.
 Stool culture is also relevant more in the first week as compared to the second week. Bone marrow
@@ -53,7 +53,7 @@ aspirate and culture are important after the second week. Recently, antibodies (
 as a diagnostic tool. Local studies are needed to validate these antibody tests. Depending on the
 system involved, other tests must be requested.
 
-## Treatment 
+## Treatment
 
 Treatment is supportive (Antipyretics, hydration, nutrition, transfusion) and specific (antibiotics
 are given starting with the empiric regimen: Third generation cephalosporin or quinolone eg.
@@ -71,19 +71,19 @@ typhoid vaccines of demonstrated safety and efficacy are available on the intern
 2.  A non-conjugated Vi polysaccharide vaccine, and
 3.  A live attenuated Ty21a vaccine.
 
-## Complications 
+## Complications
 
 These include anicteric hepatitis, bone marrow suppression, paralytic ileus, myocarditis, psychosis,
 cholecystitis, osteomyelitis, peritonitis, pneumonia, haemolysis, and syndrome of inappropriate
 release of antidiuretic hormone (SIADH)
 
-## Prognosis 
+## Prognosis
 
 The prognosis among persons with typhoid fever depends primarily on the speed of diagnosis and
 initiation of correct treatment. Generally, untreated typhoid fever carries a mortality rate of
 15%-30%. In properly treated diseases, the mortality rate is less than 1%. [@medscapeTyphoidFever]
 
-## Differential diagnosis 
+## Differential diagnosis
 
 Differential diagnosis will depend on the types of presentation. The most common are malaria, liver
 abscesses, tuberculosis, and meningitis.
@@ -119,11 +119,11 @@ abscesses, tuberculosis, and meningitis.
     knee for possible effusion. If there is fluid collection, this must be drained to achieve source
     control. This will optimize antibiotic response.*
 
-## Practice question 
+## Practice question
 
 Concerning question 2 (above) if the child was started on ceftriaxone, discuss what must be done
 after microbiology provides the sensitivity results as shown in the table below.
 
-| Sensitive                          | Resistant              |
-|------------------------------------|------------------------|
-|  Meropenem Ciprofloxacin Amikacin  | Ceftriaxone, Linezolid |
+| Sensitive                        | Resistant              |
+|----------------------------------|------------------------|
+| Meropenem Ciprofloxacin Amikacin | Ceftriaxone, Linezolid |
