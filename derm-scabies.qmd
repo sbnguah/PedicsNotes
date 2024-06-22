@@ -1,4 +1,117 @@
 ---
 title: "Scabies"
 author: "Dr Akua Yeboah Senyah"
+date: 2024-06-22
 ---
+
+## Introduction
+
+7 years 7-year-old male child presents to the outpatient unit with a two-month history of an itchy
+rash. According to the mother, the rash is recurrent.
+
+I.  What relevant questions will you ask?
+II. What is your diagnosis?
+III. Outline your management plan for this patient
+
+## Definition & incidence/prevalence
+
+It’s a common pruritic skin infection, caused by an infestation of the mite Sarcoptes scabiei var.
+hominis, which is an obligate parasite. The pruritus associated with scabies is usually severe and
+more especially at night.
+
+## Epidemiology
+
+It’s a worldwide problem, with a significant public health burden that is, it is very contagious.
+Prevalence is higher in children and those who are sexually active. Environmental factors that
+hastens its spread include:
+
+1.  Overcrowding
+2.  Delayed treatment of primary cases
+3.  Lack of public awareness of the condition
+
+Transmission is by direct contact with infected persons or fomites (beddings, clothing). The crusted
+scabies (formerly known as the Norwegian scabies) are usually found in immunocompromised and
+incapacitated individuals.
+
+## Pathogenesis
+
+The incubation period can range from days to months. The whole life cycle of the mite is between 30
+to 60 days. It can live approximately 3 days or fewer of the human host but up to 7 days if from
+crusted scabies. The female mite lays between 1 to 3 eggs a day, which takes approximately 10 days
+to mature. In first-time infestations, it usually takes 2 to 6 weeks before the host’s immune system
+becomes sensitized to the mite or its by-products, resulting in pruritus and cutaneous lesions.
+
+## Clinical presentation
+
+Patients will present with symmetrical cutaneous lesions with intense pruritus which is accentuated
+at night.  Cutaneous lesions are usually small erythematous papules with variable degrees of
+excoriations. Other times, lesions may be vesicular, indurated nodules, eczematous dermatitis and
+secondary bacterial infections. Burrows, which represent tunnels a female mite excavates while
+laying eggs are pathognomonic for scabies. Note: The distribution forms the basis of the clinical
+diagnosis. Areas to look out for lesions include:
+
+-   the interdigital webbing of the hands
+-   flexural aspects of the wrists
+-   axillae
+-   posterior auricular area
+-   waist (including the umbilicus)
+-   ankles
+-   feet
+-   buttocks
+-   In men, check the penile and scrotum
+-   In women, the areolae, nipples and vulvar area
+-   In infants, the elderly and immunocompromised hosts, all skin surfaces are susceptible,
+    including the scalp and face
+
+![Scabies showing lesion on the
+abdomen](images/derm-scabies-abdomen.jpg){#fig-derm-scabies-abdomen fig-align="center"}
+
+![Scabies showing lesions on the
+buttocks](images/derm-scabies-buttocks.jpg){#fig-derm-scabies-buttocks
+fig-align="center"}
+
+![Scabies showing lesions on the
+genitals](images/derm-scabies-genitals.jpg){#fig-derm-scabies-genitals
+fig-align="center"}
+
+![Scabies showing lesions on the hands](images/derm-scabies-hands.jpg){#fig-derm-scabies-hands
+fig-align="center"}
+
+![Scabies showing lesions in the interdigital
+spaces](images/derm-scabies-interdigital.jpg){#fig-derm-scabies-interdigital
+fig-align="center"}
+
+![Scabies showing lesion on the
+wrist](images/derm-scabies-wrist.jpg){#fig-derm-scabies-wrist fig-align="center"}
+
+## Investigations
+
+Confirmation of scabies can be done by light microscopy of mineral oil preparation of skin scrapings
+from an infested area to observe either the mite, its eggs and or scybala (faeces). The skin
+scrappings can be obtained by using a scalpel blade. Microscopic examination of adhesive tape can
+also be done. Skin biopsy is rarely performed
+
+## Treatment
+
+Two topical treatments, one week apart of a prescribed anti-scabeitic to be applied from the neck
+down. Leave on for 24 hours and wash after that. Special attention is to be given to application in
+the interdigital web spaces, umbilicus, genital and gluteal cleft. Treat all close contacts at the
+same time. All bedding and clothing are to be washed in hot water, sun dry and ironed to be safe for
+reuse. Available anti-scabeitics in Ghana are permethrin 5% cream and benzyl benzoate 25%. Oral
+Ivermectin is reserved for treating crusted scabies
+
+## Complications
+
+They are generally mild, including secondary bacterial infections, a breach in the skin integrity,
+pain and reduced function due to pain.
+
+## Prognosis
+
+If treated correctly, has a very good prognosis
+
+## Differential diagnosis
+
+In the absence of a burrow and dermoscopically identifying the mite, the differential diagnosis is
+quite broad including atopic dermatitis, contact dermatitis, seborrhoiec dermatitis, arthropod
+bites, pyoderma and bullous pemphigoid. In infants, severe infestation can resemble Langerhans cell
+histiocytosis.

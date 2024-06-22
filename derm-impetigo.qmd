@@ -1,4 +1,115 @@
 ---
-title: "Impetigo"
+title: "Bacterial Skin Infections"
 author: "Dr Akua Yeboah Senyah"
+date: 2024-06-22
 ---
+
+## Introduction
+
+The skin is sterile at delivery and becomes colonised shortly after. The normal skin of healthy
+infants and children is resistant to invasion by most bacteria because the cutaneous surface serves
+as a dry mechanical barrier.
+
+-   The ***transient flora*** consists of multiple organisms that are deposited on the skin from the
+    environment presumably, they do not proliferate and are removed easily by washing or scrubbing
+    the affected area.
+
+-   The ***resident flora*** consists of a smaller number of organisms which are found regularly in
+    appreciable numbers on the skin of normal individuals, multiply on the skin, form stable
+    communities on the cutaneous surface, and are not easily dislodged.
+
+-   ***Pathogenic bacteria***, not ordinarily a regular part of this flora, persist on the skin if
+    there is a continuous replacement from some internal or external source or if the integrity of
+    the skin is disrupted by injury or disease.
+
+*Staphylococcus aureus* forms part of the normal human flora. 10% to 30% of individuals are nasal
+carriers of *Staphylococcus aureus* and 70% to 90% are transient carriers.
+
+## Impetigo
+
+***Question***:
+
+A 4-year-old male child presents to the clinic with a one-week history of a fluid-filled eruption at
+the chin which easily ruptures and spreads to other areas. Mother complains his 2-year-old sister
+has also developed similar lesions 2 days ago.
+
+a.  What is your most likely diagnosis?
+b.  How will you manage this family?
+
+### Definition & incidence/prevalence
+
+Impetigo is a common, contagious superficial skin infection. It is seen in all age groups, most
+common in infants and children. It can involve any body surface but occurs most often on the exposed
+parts of the body, especially the face, hands, neck and extremities.
+
+### Aetiology
+
+It is caused by streptococci, staphylococci or both.
+
+### Pathogenesis
+
+There are two classic forms
+
+1.  ***Non-bullous impetigo*** – accounts for \>70% of cases. It is caused by S. aureus or S.
+    pyogenes. Spread by direct contact or through fomites. It begins with a 1 to 2mm erythematous
+    papule or pustule that soon develops into a thin-roofed vesicle or bulla surrounded by a narrow
+    rim of erythema. The vesicle ruptures easily with the release of a thin, cloudy, yellow fluid
+    that dries, forming a honey-coloured crust, the hallmark of non-bullous impetigo. S. pyogenes
+    may cause post-streptococcal glomerulonephritis if the nephrogenic strain is involved. This is
+    shown in @fig-derm-non-bulous-impetigo
+2.  ***Bullous impetigo*** - This is always caused by Staphylococcus aureus. Presents as flaccid,
+    thin-walled bullae or more commonly, tender, shallow erosions surrounded by a remnant of the
+    blister roof. High reservoir sites include nasal carriage of asymptomatic persons and perineum.
+    This is shown in @fig-derm-bullous-impetigo
+
+![Non-Bullous Impetigo in a
+Child](images/derm-non-bullous-impetigo.jpg){#fig-derm-non-bulous-impetigo
+fig-align="center" width="300"}
+
+![Bullous Impetigo in a
+child](images/derm-bullous-impetigo.jpg){#fig-derm-bullous-impetigo
+fig-align="center"}
+
+### Investigations
+
+Diagnosis is usually made clinically, however, aspirate of the fluid from the lesion can be sent for
+culture and sensitivity pattern in extensive cases.
+
+### Treatment
+
+1.  Local skin care: cleansing, removal of crust
+2.  Mild and localised disease- topical antibiotics e.g. Mupirocin
+3.  In severe or more widespread diseases – oral antibiotics, e.g.: amoxicillin plus clavulanic
+    acid, erythromycin
+
+**Note**: Staph eradication can be considered in people with recurrent impetigo.
+
+## Ecthyma
+
+Ecthyma is a deep or ulcerative type of non-bullous impetigo. Commonly seen on the lower extremities
+and buttocks of children. Lesions are painful and heal slowly with scar formation. The initial
+lesion is a vesiculopustular with an erythematous base and firmly adherent crust. Removal of the
+crust reveals an underlying saucer-shaped ulcer and raised margin.
+
+![Ecthyma in a child](images/derm-ecthyma.jpg){#fig-derm-ecthyma fig-align="center"
+width="350"}
+
+### Treatment
+
+This is with warm compresses and an appropriate systemic antibiotic.
+
+### Complications
+
+-   Cellulitis
+-   Acute post-streptococcal glomerulonephritis in 5% of cases of non-bullous impetigo by S.
+    pyogenes (serotypes 1, 4,12, 25 and 49)
+
+### Prognosis
+
+Impetigo heals well without scarring
+
+### Differential diagnosis
+
+The most common differentials to consider include insect bite, eczematous dermatoses and herpes
+simplex viral infection (HSV) in non-bullous impetigo and thermal burns, bullous insect bite
+reactions and HSV in bullous impetigo.
