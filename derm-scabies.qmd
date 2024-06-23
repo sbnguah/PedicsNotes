@@ -63,6 +63,13 @@ diagnosis. Areas to look out for lesions include:
 -   In infants, the elderly and immunocompromised hosts, all skin surfaces are susceptible,
     including the scalp and face
 
+@fig-derm-scabies-interdigital, @fig-derm-scabies-hands, @fig-derm-scabies-abdomen,
+@fig-derm-scabies-wrist show papules and some excoriations at the typical distribution sites of
+scabetic lesions (interdigital web spaces, along the phalanges, around umbilicus and wrist).
+@fig-derm-scabies-buttocks shows crusting in the intergluteal cleft, and @fig-derm-scabies-genitals
+depicts papules and some crusting over the penile glans as well as scabetic granulomas (nodules) on
+the scrotum of a child.
+
 ![Scabies showing lesion on the
 abdomen](images/derm-scabies-abdomen.jpg){#fig-derm-scabies-abdomen fig-align="center"}
 
@@ -74,8 +81,8 @@ fig-align="center"}
 genitals](images/derm-scabies-genitals.jpg){#fig-derm-scabies-genitals
 fig-align="center"}
 
-![Scabies showing lesions on the hands](images/derm-scabies-hands.jpg){#fig-derm-scabies-hands
-fig-align="center"}
+![Scabies showing lesions on the
+hands](images/derm-scabies-hands.jpg){#fig-derm-scabies-hands fig-align="center"}
 
 ![Scabies showing lesions in the interdigital
 spaces](images/derm-scabies-interdigital.jpg){#fig-derm-scabies-interdigital
