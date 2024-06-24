@@ -69,7 +69,7 @@ book:
         - id-sepsis.qmd
         - id-tuberculosis.qmd
         - id-immunization.qmd
-        - id-viral-infections.qmd
+        - id-meningitis.qmd
     - part: "<span style='font-weight:bold; color: black;'>Oncology</span>"
       chapters: 
         - onco-principles.qmd

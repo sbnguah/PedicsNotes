@@ -1,0 +1,166 @@
+---
+title: "Meningitis (bacterial)"
+author: Dr Anthony Enimil
+date: 2024-06-24
+---
+
+## Definition
+
+Inflammation of the meninges due to bacterial infection. The onset of symptoms is classified as
+acute (symptoms evolving rapidly over 1-24hrs), sub-acute (1-7 days), and Chronic (\> 1 week).
+Infants, children, and young adults are most likely to suffer from bacterial meningitis.
+
+## Incidence/prevalence
+
+An estimated 2.5 million cases of meningitis occur globally each year, with approximately 250,000
+deaths.[@path_meningitis] In 2023, information from LHIMS, Komfo Anokye Teaching Hospital, Kumasi
+indicated a rate of 1.5% or 15/1000 admissions through the Paediatric Emergency Unit (PEU) were
+diagnosed as meningitis. Most of the KATH cases were not confirmed.
+
+## Aetiology
+
+Several different bacteria can cause meningitis. *Streptococcus pneumoniae*, *Haemophilus
+influenzae*, and *Neisseria meningitidis* are the most frequent ones. N. meningitidis, causing
+meningococcal meningitis, has the potential to produce large epidemics. 12 serogroups of N.
+meningitidis have been identified, 6 of which (A, B, C, W, X and Y) can cause
+epidemics.[@who_meningitis] Viral, fungi and Mycobacterium species can also cause meningitis. This
+write-up is limited to bacteria.
+
+## Pathogenesis
+
+The bacterial gain access to the central nervous system through
+
+i.   Invasion of mucosal surface (respiratory tract) then, hematogenous to the brain;
+ii. Spread from Para meningeal focus(otitis media, sinusitis); penetrating head trauma, and previous
+    neurosurgical procedure.
+
+Bacterial meningitis is distinguished by the introduction of bacteria into the cerebrospinal fluid
+(CSF) and the subsequent proliferation of bacteria in this compartment, leading to inflammation both
+within the CSF and in the brain tissue next to it. By production and/or release of virulence factors
+into and stimulating the formation of inflammatory cytokines within the central nervous system,
+meningeal pathogens increase the permeability of the blood-brain barrier, thus allowing protein and
+neutrophils to move into the subarachnoid space.[@hoffman2009]
+
+## Signs and symptoms
+
+**Infants:** Temperature instability, convulsions, meningeal irritation (stiff neck, positive
+Kernig’s sign, Positive Brudzinski’s sign), bulging fontanelles and increased head circumference are
+common and may be late signs. Signs are very non-specific. Examine for spinal or cranial
+abnormalities
+
+**Older children**: Fever, headache, photophobia, Changes in mental status (Irritability, lethargy,
+coma, and confusion), and End organ dysfunction (Heart, Lung, Kidney, Liver). Meningeal irritation
+(neck stiffness, positive Kernig’s sign), cranial nerve palsies, and purpuric rash – meningococcal
+meningitis.
+
+## Investigations
+
+**Lumbar puncture**: White Blood Cells, Red Blood Cells, protein content, Glucose content (2/3 blood
+glucose), Culture and sensitivity, Serology (latex agglutination test), PCR
+
+::: {#tbl-genetic-synds}
+| Item                 | Bacterial               | Viral             | Fungal         | Tuberculous    |
+|----------------------|-------------------------|-------------------|----------------|----------------|
+| **Opening pressure** | Elevated                | Slightly elevated | Normal or high | Unusually high |
+| **Appearance**       | Turbid                  | clear             | Turbid         | Cob-web        |
+| **Proteins**         | Very high               | Normal            | High           | High           |
+| **Glucose**          | Low                     | Normal            | Low            | Low            |
+| **RBCs**             | Few                     | None              | None           | None           |
+| **WBCs**             | \>200                   | \<200             | \<50           | 20-30          |
+| **Differential**     | Polymorphonuclear cells | Monocytes         | Monocytes      | Monocytes      |
+
+: Lumbar puncture findings in different meningitis
+:::
+
+**Blood**: Glucose, culture and sensitivity
+
+**Imaging:** (CT Scan/MRI) helps identify: brain abscesses, meningeal inflammation, infarction,
+haemorrhages, subdural effusion, focal infections (sinusitis)
+
+## **Contraindications**
+
+Focal neurologic deficit or signs of increased intracranial pressure, deep coma, protracted
+seizures, cranial nerve palsy, pupillary dilatation, bleeding disorders, septic lesion at the site
+of LP.
+
+## Treatment
+
+### General and supportive measures
+
+Close cardio-respiratory monitoring, frequent neurologic assessment, strict fluid balance, frequent
+urine specific gravity assessment, nil per os until neurologically stable, isolate until the
+organism is known, daily weighing, and frequent BP monitoring may be needed, monitor and treat for
+(hypoglycaemia, hyponatraemia, Acidosis, Septic shock, DIC, Seizures, Increased intracranial
+pressure)
+
+### Definitive treatment
+
+Ceftriaxone is the drug of empiric choice beyond the neonatal period (cefotaxime is preferred in the
+first 2 weeks of life). Modify after culture and sensitivity results are available. Look out for
+focus if the response to antibiotics is sub-optimal. Steroids such as dexamethasone may be used
+depending on the organism isolated. Anticonvulsants (phenobarbitone, diazepam, and midazolam) and
+analgesics may also be required.
+
+### Prophylaxis
+
+Close contacts especially for patients with Neisseria meningitidis meningitis will need
+post-exposure prophylaxis preferably within 48 hours. Options are ciprofloxacin or rifampicin.
+
+### **Vaccines**
+
+Vaccines are available for use, especially during outbreaks
+
+## Complications
+
+These include seizures, persistent focal seizures, neurological deficits, cerebral oedema, visual
+impairment, ataxia, hearing loss, hydrocephalus, cranial nerve palsy, mental retardation, severe
+behavioural problems, syndrome of the inappropriate release of antidiuretic hormone (SIADH), and
+vegetative state.
+
+## Prognosis
+
+Even with timely, appropriate treatment, bacterial meningitis can be fatal in 5 to 20% of newborns
+and 5 to 15% of older infants and children.[@skar2024meningitis]
+
+## Differential diagnosis
+
+Differential diagnoses include cerebral malaria, liver failure, brain abscess, encephalitis, brain
+tumour, and subarachnoid haemorrhage.
+
+## Sample questions
+
+1\. A neonate presented at 24 hours post-delivery with fever, floppiness, and poor feeding. These
+were your CSF chemistry report
+
+| Appearance | Proteins | Glucose | WBCs | Differentials |
+|------------|----------|---------|------|---------------|
+| Turbid     | High     | low     | \<50 | Monocytes     |
+
+Which of the following diagnoses is most likely?
+
+a.  Bacterial
+b.  **Fungal**
+c.  Tuberculosis
+d.  Viral
+
+This CSF characteristic is more consistent with the fungal cause of meningitis. There will be a need
+to investigate immunosuppression.
+
+2.  You suspect a 10-year-old presenting with focal seizures and febrile illness had meningitis. You
+    were not able to do a Lumbar puncture. You started treatment with ceftriaxone. Three days into
+    treatment, the child still had a fever (39.7^o^C) and focal seizures. What will be your best
+    next step?
+
+    a.  Increase the ceftriaxone dose
+    b.  Modify antipyretic dose
+    c.  Immediate lumbar puncture
+    d.  **Imaging of the head**
+
+    Imaging (CT scan /MRI) will be the best option to help identify the focus of infection
+    especially abscesses.
+
+**Practice question**
+
+3.  You worked as Director of Public Health in a rural facility. There was a sudden increase in the
+    number of students admitted to your facility from a particular secondary school with meningitis.
+    Enumerate the steps you will take to stop the outbreak.
