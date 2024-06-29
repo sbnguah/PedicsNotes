@@ -53,7 +53,7 @@ children. It is shown below:
 
 ::: {#tbl-nyha-hf-classification}
 | Class                | Patient Symptoms                                                                                                                                                        |
-|------------------------|----------------------------------------------------------------------------|
+|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Class I (Mild)       | No limitation on physical activity. Ordinary physical activity does not cause undue fatigue, palpitation or dyspnoea                                                    |
 | Class II (Mild)      | Slight limitation of physical activity. Comfortable at rest but ordinary physical activity results in fatigue, palpitation or dyspnoea                                  |
 | Class III (Moderate) | Marked limitation of physical activity. Comfortable at rest but less than ordinary physical activity causes fatigue, palpitation or dyspnoea                            |
@@ -67,7 +67,7 @@ children.
 
 ::: {#tbl-ross-classification}
 | Class     | Symptoms                                                                                                                                     |
-|------------------------|----------------------------------------------------------------------------|
+|-----------|----------------------------------------------------------------------------------------------------------------------------------------------|
 | Class I   | Asymptomatic                                                                                                                                 |
 | Class II  | Mild tachypnoea or diaphoresis in feeding in infants <br> Dyspnoea on exertion in older children                                             |
 | Class III | Marked tachypnoea or sweating with feeding in infants <br> Marked dyspnoea on exertion <br> Prolonged feeding times with growth failure <br> |
@@ -145,8 +145,9 @@ the disease.
 ### Non-pharmacological treatment
 
 This includes fluid restriction in case of congestion and fluid overload, intubation and mechanical
-ventilation to help support breathing and reduce the workload on the heart and patient. Heart
-transplantation is the last option in some cases of heart failure.
+ventilation to help support breathing and reduce the workload on the heart and patient. Others
+include cardiac Resynchronization Therapy, Ventricular Assisted Devices and Extracorporeal Membrane
+Oxygenation. Heart transplantation is the last option in some cases of heart failure.
 
 ### Pharmacological treatment
 
@@ -157,7 +158,7 @@ groups to be considered:
 
 ::: {#tbl-acute-hf-tmt-drug-class}
 | Drug      | Action                                                                                                                                                                                                                                                                                  |
-|-----------------------|-----------------------------------------------------------------------------|
+|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Diuretics | Notable here is furosemide. The aim is to help decongest the lungs, reduce preload by vasodilatation and improve heart failure symptoms.                                                                                                                                                |
 | Inotropes | These include adrenaline, noradrenaline, dopamine and dobutamine. They help improve the contractility of the heart, increase heart rate, and increase peripheral vascular resistance, thus maintaining the blood pressure and cardiac output. They are usually Intravenous medications. |
 
@@ -170,7 +171,7 @@ These are usually oral medications given to treat heart failure on an outpatient
 
 ::: {#tbl-chronic-hf-tmt-drug-class}
 | Group                        | Action                                                                                                                                                                                                                |
-|------------------------|----------------------------------------------------------------------------|
+|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Diuretics                    | These are given to decongest the lungs, liver and other edematous organs. The most commonly used is furosemide.                                                                                                       |
 | Aldosterone antagonists      | These counteract the aldosterone effect of water and sodium retention. They decrease afterload while helping in reversing cardiac remodelling.                                                                        |
 | ACE-I/ARB                    | Angiotensin-converting enzyme inhibitors and Angiotensin II receptor blockers counteract the renin effects of increasing afterload. They thus decrease the afterload and help reverse and prevent cardiac remodelling |
