@@ -43,11 +43,17 @@ Severe Malaria](https://factsforlife.org/pdf/management-of-severe-malaria-eng.pd
 
 **Complicated malaria**: The transition between uncomplicated to complicated malaria is not
 predictable and therefore there is a need for a high index of suspicion of complicated malaria in
-managing children with malaria.[@marsh1996; @marsh1995] Note that there is no intermediary stage
-called moderate malaria. Clinical parameters that signal the presence of complicated (Severe
-malaria) include clinical signs and symptoms with laboratory indicators.
-@tbl-gen-sev-malarai-clinical and @tbl-gen-sev-malarai-lab outline the features suggestive of
-complicated malaria.
+managing children with malaria.[@marsh1996; @marsh1995]
+
+::: callout-note
+## Note
+
+There is no intermediary stage called moderate malaria.
+:::
+
+Clinical parameters that signal the presence of complicated (Severe malaria) include clinical signs
+and symptoms with laboratory indicators. @tbl-gen-sev-malarai-clinical and @tbl-gen-sev-malarai-lab
+outline the features suggestive of complicated malaria.
 
 ::: {#tbl-gen-sev-malarai-clinical}
 +-----+------------------------------------------------------+--------------------------------+
@@ -89,7 +95,7 @@ complicated malaria.
 +-----+------------------------------------------------------+--------------------------------+
 | 6   | **Cardiovascular**                                   | Assessment based on clinical   |
 |     |                                                      | examination                    |
-|     | 1.  Reduce Capillary Refill time.                    |                                |
+|     | 1.  Reduce Capillary Refill Time.                    |                                |
 |     | 2.  Reduce blood pressure                            |                                |
 |     | 3.  Weak Pulse                                       |                                |
 |     | 4.  Cold and clammy extremities                      |                                |
@@ -125,7 +131,7 @@ complicated malaria.
 +-----+---------------------------------------------------+--------------------------------------+
 | 5   | **Cardiovascular**                                | Basic bedside clinical examinations  |
 |     |                                                   |                                      |
-|     | 1.  Reduce Capillary Refill time.                 |                                      |
+|     | 1.  Reduce Capillary Refill Time.                 |                                      |
 |     | 2.  Reduce blood pressure                         |                                      |
 |     | 3.  Weak Pulse                                    |                                      |
 |     | 4.  Cold and clammy extremities                   |                                      |
@@ -180,20 +186,38 @@ Parenteral artesunate IV artesunate: Should be given immediately after malaria i
 2·4mg/kg per dose at 0, 12, and 24 hours, then every 24 hours till the child is stable and able to
 tolerate oral Artemisinin-based combination therapy (ACT).
 
-NOTE: Children with body weight \<20∙0 kg should receive, 3·0 mg/kg per dose to ensure equivalent
-exposure to the drug. Other alternate medications are:
+::: callout-note
+## Note
+
+Children with body weight \<20∙0 kg should receive, 3·0 mg/kg per dose to ensure equivalent exposure
+to the drug.
+:::
+
+Other alternate medications are:
 
 -   Intramuscular artemether: initial dose 3·2 mg/kg, then 1·6 mg/kg every 24 h
+
 -   Intravenous quinine diluted in 5% dextrose: loading dose of 20 mg/kg infused over 4 h, then 10
-    mg/kg every 8 h infused no faster than 5 mg/kg per h. NOTE; Quinine is currently not recommended
-    and patients on Quinine are at risk of hypoglycaemia
+    mg/kg every 8 h infused no faster than 5 mg/kg per hour.
+
+    ::: callout-note
+    ## Note
+
+    Quinine is currently not recommended and patients on Quinine are at risk of hypoglycaemia.
+    :::
+
 -   Pre-referral rectal artesunate: recommended in primary health-care settings in which parenteral
     drug administration is not possible104
+
 -   Children who are stable and can take oral medication should be given a full course of oral
     antimalarial treatment as per guidelines for uncomplicated malaria.
 
-CAUTION: Due to the risk of post-complicated malaria neurological syndrome. Mefloquine-containing
+::: callout-caution
+## Caution!
+
+Due to the risk of post-complicated malaria neurological syndrome. Mefloquine-containing
 artemisinin-based combination therapies (ACT) should be avoided.
+:::
 
 ::: {#tbl-gen-antimalarials}
 +-------+--------------+-------------------------------------------------+-------------------------+
@@ -279,12 +303,13 @@ differential diagnoses shown below in @tbl-malaria-differentials.
 +------+-------------------+-----------------------------------------------------------------------+
 | SN   | Region            | Differential                                                          |
 +======+===================+=======================================================================+
-| 1    | Head and Neck     | Bacterial Meningitis, Viral Encephalitis, Otitis Media, Tonsilitis    |
-|      |                   | and Pharyngitis Epiglottitis                                          |
+| 1    | Head and Neck     | [Bacterial Meningitis](id-meningitis.qmd), Viral Encephalitis, Otitis |
+|      |                   | Media, Tonsilitis and Pharyngitis Epiglottitis                        |
 +------+-------------------+-----------------------------------------------------------------------+
-| 2    | Thorax            | Pneumonia, Bronchiolitis, Pericarditis, carditis and endocarditis     |
+| 2    | Thorax            | Pneumonia, Bronchiolitis, Pericarditis, Carditis and Endocarditis     |
 +------+-------------------+-----------------------------------------------------------------------+
-| 3    | Gastro-Intestinal | Typhoid fever, Appendicitis, Hepatitis and Cholecystitis              |
+| 3    | Gastro-Intestinal | [Typhoid fever](id-enteric-fever), Appendicitis, Hepatitis and        |
+|      |                   | Cholecystitis                                                         |
 +------+-------------------+-----------------------------------------------------------------------+
 | 4    | Genitourinary     | Cystitis and Pyelonephritis                                           |
 +------+-------------------+-----------------------------------------------------------------------+
@@ -388,23 +413,24 @@ investigation revealed a drop of haemoglobin to 4.5g/dL. The child was given pac
 
 **Introduction**
 
-The over 480,000 deaths from malaria which are recorded annually worldwide(1) likely result from one
-of these case scenarios above. One critical question researchers and clinicians should ask is: How
-can cases of malaria best be managed so that potentially complicated cases are identified early and
-appropriate measures are taken to avert death?
+The over 480,000 deaths from malaria which are recorded annually worldwide[@poespoprodjo2023] likely
+result from one of these case scenarios above. One critical question researchers and clinicians
+should ask is: How can cases of malaria best be managed so that potentially complicated cases are
+identified early and appropriate measures are taken to avert death?
 
-Too many cases of complicated malaria are seen across sub-Saharan Africa(2)(5).  As we advance in
-the knowledge of malaria pathogenesis and chemotherapy, we have to translate the research knowledge
-into good clinical practice and standard treatment. The case fatality rate from complicated malaria
-varies across Africa.(2) Competencies of health personnel in assessing the children among others are
-important factors.  The bedside provides a very good opportunity for health practitioners to pick up
-clinical clues that signal impending complications; if these clues are seen at the right time,
-appropriate management can be instituted early to avoid death. How can these clues be picked up to
-avoid these deaths in our health institutions across Africa? The WHO Handbook on Hospital Care for
-Children provides guidelines for the assessment of critically ill children.(6) This document should
-serve as training material and medical companion for lower-level health practitioners. Appropriate
-use of these materials at the lower level with the correct application of the IMCI modules should
-have a major impact on the drive to reduce death from malaria.(8)
+Too many cases of complicated malaria are seen across sub-Saharan Africa[@who2023worldmalaria;
+@marsh1996].  As we advance in the knowledge of malaria pathogenesis and chemotherapy, we have to
+translate the research knowledge into good clinical practice and standard treatment. The case
+fatality rate from complicated malaria varies across Africa.[@who2023worldmalaria] Competencies of
+health personnel in assessing children among others are important factors.  The bedside provides a
+very good opportunity for health practitioners to pick up clinical clues that signal impending
+complications; if these clues are seen at the right time, appropriate management can be instituted
+early to avoid death. How can these clues be picked up to avoid these deaths in our health
+institutions across Africa? The WHO Handbook on Hospital Care for Children provides guidelines for
+the assessment of critically ill children.[@carter2011] This document should serve as training
+material and medical companion for lower-level health practitioners. Appropriate use of these
+materials at the lower level with the correct application of the IMCI modules should have a major
+impact on the drive to reduce death from malaria.[@demendonça2012]
 
 **Review of cases**
 
@@ -413,26 +439,26 @@ suspect haemolysis in this child. If this essential symptom had been picked at t
 appearance at the CHPS, it should have led to an immediate referral to a higher health centre. 
 
 The passage of dark-coloured urine (haemoglobinuria) is a recognised complication of severe
-malaria.(9)(10) Any child who presents with such symptoms is at risk of two potentially fatal
-complications: severe anaemia and acute renal failure from pigment nephropathy. Such cases should be
-referred to a centre where facilities for safe blood transfusion exist. The acute renal failure from
-haemoglobinuria usually responds to fluid therapy (approx 1.5 times maintenance fluid, oral or
-intravenous). Haemoglobinuria is recognised as an important cause of acute renal failure in
-children(11)(12). The case under discussion presented with haemoglobinuria followed by the two
-complications of severe anaemia and acute renal failure. The swift institution of haemotransfusion
-therapy averted death. Her renal failure responded to conservative therapy with IV fluid and
-frusemide with careful monitoring of the lung bases for any evidence of pulmonary congestion.  It is
-important to note that primary-level health facilities across Africa will not be privileged to have
-facilities to measure the haemoglobin levels of children reporting severe malaria. However, a simple
-examination of the conjunctiva, palms and soles by these first-level healthcare workers can detect
-significant anaemia in children. Similarly, enquiry about urine colour or macroscopic inspection of
-a urine sample could indicate haemolysis that requires prompt review or referral. The scientific
-knowledge about the pathogenesis of malaria-induced anaemia is widely known and the bedside clinical
-recognition of severe anaemia that is critical to warrant transfusion is clear. (11)(14) The current
-challenge in most sub-Saharan African countries is how to recognize potentially complicated cases of
-malaria before the complications have manifested themselves. Healthcare professionals across
-sub-Saharan Africa should continuously train and develop their skills in recognizing the early signs
-and symptoms of severe malaria.
+malaria.[@crawley2004; @crawley2010] Any child who presents with such symptoms is at risk of two
+potentially fatal complications: severe anaemia and acute renal failure from pigment nephropathy.
+Such cases should be referred to a centre where facilities for safe blood transfusion exist. Acute
+renal failure from haemoglobinuria usually responds to fluid therapy (approx 1.5 times maintenance
+fluid, oral or intravenous). Haemoglobinuria is recognised as an important cause of acute renal
+failure in children.[@WHO_MalariaVaccines] The case under discussion presented haemoglobinuria
+followed by the two complications of severe anaemia and acute renal failure. The swift institution
+of haemotransfusion therapy averted death. Her renal failure responded to conservative therapy with
+IV fluid and frusemide with careful monitoring of the lung bases for any evidence of pulmonary
+congestion.  It is important to note that primary-level health facilities across Africa will not be
+privileged to have facilities to measure the haemoglobin levels of children reporting severe
+malaria. However, a simple examination of the conjunctiva, palms and soles by these first-level
+healthcare workers can detect significant anaemia in children. Similarly, enquiry about urine colour
+or macroscopic inspection of a urine sample could indicate haemolysis that requires prompt review or
+referral. The scientific knowledge about the pathogenesis of malaria-induced anaemia is widely known
+and the bedside clinical recognition of severe anaemia that is critical to warrant transfusion is
+clear.[@WHO_MalariaVaccines] The current challenge in most sub-Saharan African countries is how to
+recognize potentially complicated cases of malaria before the complications have manifested
+themselves. Healthcare professionals across sub-Saharan Africa should continuously train and develop
+their skills in recognizing the early signs and symptoms of severe malaria.
 
 **Case 2:** Prostration is a common presentation in children with severe malaria and an important
 triage finding that should not be missed by health workers in both the peripheral centres and the
@@ -457,13 +483,13 @@ intracranial pressure or other complications of cerebral malaria. In low-level h
 across sub-Saharan Africa, glucose measurement is not routinely done. However, a history of poor
 feeding and or vomiting in the presence of prostration and unconsciousness should prompt health
 workers about the possibility of hypoglycaemia. Hypoglycaemia secondary to malaria is known to be
-associated with very high mortality(2). Management of the condition is simple and cheap.  In
-advanced cases of severe malaria where there has been the involvement of the brain, raised
-intracranial pressures ensue. Failure to recognize this life-threatening complication eventually
-leads to respiration arrest and eventual death. Early clues known from scientific knowledge should
-be applied at the bedside. Abnormal respiratory patterns, deep breathing in the absence of blood
-gases and electrolytes, abnormal postures, and pupillary changes are among the bedside clinical
-signs of potential raised intracranial pressure.
+associated with very high mortality.[@who2023worldmalaria] Management of the condition is simple and
+cheap.  In advanced cases of severe malaria where there has been the involvement of the brain,
+raised intracranial pressures ensue. Failure to recognize this life-threatening complication
+eventually leads to respiration arrest and eventual death. Early clues known from scientific
+knowledge should be applied at the bedside. Abnormal respiratory patterns, deep breathing in the
+absence of blood gases and electrolytes, abnormal postures, and pupillary changes are among the
+bedside clinical signs of potential raised intracranial pressure.
 
 **Case 4:**  Early clinical signs in the child with severe malaria and hyperparasitaemia can be
 misleading especially if health staff do not have much experience in monitoring the clinical signs
