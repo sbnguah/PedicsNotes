@@ -19,13 +19,13 @@ contributing to the high under-five mortality.[@who2023worldmalaria]
 ## Epidemiology
 
 **Global**: The global estimate of malaria based on 2022 data estimated over 249 million cases with
-about 608,000 deaths. Nearly 28% reduction in cases and about 50% reduction in mortality between
-2000-2022. Ninety per cent of the cases and deaths emanate from sub-Saharan
+about 608,000 deaths. There was approximately a 28% reduction in cases and a 50% reduction in
+mortality between 2000-2022. Ninety per cent of the cases and deaths emanate from sub-Saharan
 Africa.[@who2023worldmalaria]
 
-**Regional**: In Africa there were 232 million cases representing about 94% of global cases. About
-580,000 deaths. Nigeria, Chad, Niger, Sudan and DRC are among the top 5 countries with the highest
-disease burdens. This is attributable to poverty, weak health systems and environmental
+**Regional**: In Africa there were 232 million cases representing about 94% of global cases and
+about 580,000 deaths. Nigeria, Chad, Niger, Sudan and DRC are among the top 5 countries with the
+highest disease burdens. This is attributable to poverty, weak health systems and environmental
 conditions.[@who2023worldmalaria]
 
 **Country**: In Ghana, malaria is the third leading cause of under-5 morbidities and mortality.
@@ -35,117 +35,128 @@ peak incidence during the rainy season.
 
 ## Presentation
 
-**Uncomplicated malaria**: Uncomplicated is associated with fever, chills, rigour lethargy, nausea,
-vomiting, poor feeding, and diarrhoea in younger children. Older children present with headaches,
-myalgia, and abdominal pain. Uncomplicated malaria is generally characterized by non-specific
-clinical features. These features are well documented in the 2013 [WHO's Handbook on Management of
-Severe Malaria](https://factsforlife.org/pdf/management-of-severe-malaria-eng.pdf).
+**Uncomplicated malaria**: Uncomplicated malaria is associated with fever, chills, rigour lethargy,
+nausea, vomiting, poor feeding, and diarrhoea in younger children. Older children present with
+headaches, myalgia, and abdominal pain. It is generally characterized by non-specific clinical
+features. These features are well documented in the 2013 [WHO's Handbook on Management of Severe
+Malaria](https://factsforlife.org/pdf/management-of-severe-malaria-eng.pdf).
 
 **Complicated malaria**: The transition between uncomplicated to complicated malaria is not
-predictable and therefore there is a need for a high index of suspicion of complicated malaria in
+predictable. Therefore, there is a need for a high index of suspicion of complicated malaria in
 managing children with malaria.[@marsh1996; @marsh1995]
 
 ::: callout-note
 ## Note
 
-There is no intermediary stage called moderate malaria.
+There is no intermediary stage called **moderate malaria**.
 :::
 
-Clinical parameters that signal the presence of complicated (Severe malaria) include clinical signs
+Clinical parameters that signal the presence of complicated (severe) malaria include clinical signs
 and symptoms with laboratory indicators. @tbl-gen-sev-malarai-clinical and @tbl-gen-sev-malarai-lab
 outline the features suggestive of complicated malaria.
 
 ::: {#tbl-gen-sev-malarai-clinical}
-+-----+------------------------------------------------------+--------------------------------+
-| SN  | Clinical Signs and Symptoms                          | Comments                       |
-+=====+======================================================+================================+
-| 1   | Prostration                                          | Weakness associated with the   |
-|     |                                                      | inability to sit, stand or     |
-|     |                                                      | walk. In younger children      |
-|     |                                                      | inability to suckle            |
-+-----+------------------------------------------------------+--------------------------------+
-| 2   | **Central Nervous System**                           | Blantyre Coma Score of \<3 In  |
-|     |                                                      | the presence of malaria        |
-|     | 1.  Convulsions (Multiple \> 2 in 24hours)           | parasite is classified as      |
-|     | 2.  Loss of consciousness (BCS \<5                   | cerebral malaria.              |
-|     | 3.  Abnormal motor function                          |                                |
-|     | 4.  Abnormal Cranial nerve function. Specifically    |                                |
-|     |     Cranial 3, 4,5, 6, 9 and 10 abnormalities        |                                |
-|     | 5.  Cotton wool and Haemorrhage on the retina        |                                |
-+-----+------------------------------------------------------+--------------------------------+
-| 3   | **Haematological**                                   | History and physical           |
-|     |                                                      | examination.                   |
-|     | 1.  Severe pallor (Anaemia)                          |                                |
-|     | 2.  Haemoglobinuria                                  | Complete blood count is        |
-|     | 3.  Bleeding                                         | required                       |
-|     | 4.  Jaundice                                         |                                |
-+-----+------------------------------------------------------+--------------------------------+
-| 4   | **Renal**                                            | Measurement of the urine and   |
-|     |                                                      | fluid intake is critical to    |
-|     | 1.  Oliguria                                         | estimate oliguria and anuria.  |
-|     | 2.  Anuria                                           |                                |
-+-----+------------------------------------------------------+--------------------------------+
-| 5   | **Respiratory**                                      | Could signal severe pneumonia. |
-|     |                                                      | Radiologically confirmed       |
-|     | 1.  Respiratory Rate  \> age-specific limit          |                                |
-|     | 2.  Oxygen saturation \< 92%                         |                                |
-|     | 3.  Pulmonary oedema                                 |                                |
-|     | 4.  Chest wall indrawing                             |                                |
-|     | 5.  Crepitation on auscultation                      |                                |
-+-----+------------------------------------------------------+--------------------------------+
-| 6   | **Cardiovascular**                                   | Assessment based on clinical   |
-|     |                                                      | examination                    |
-|     | 1.  Reduce Capillary Refill Time.                    |                                |
-|     | 2.  Reduce blood pressure                            |                                |
-|     | 3.  Weak Pulse                                       |                                |
-|     | 4.  Cold and clammy extremities                      |                                |
-+-----+------------------------------------------------------+--------------------------------+
++----------------------+----------------------------------------------+---------------------------+
+| SN                   | Clinical Signs and Symptoms                  | Comments                  |
++======================+==============================================+===========================+
+| 1                    | Prostration                                  | Weakness associated with  |
+|                      |                                              | the inability to sit,     |
+|                      |                                              | stand or walk. In younger |
+|                      |                                              | children inability to     |
+|                      |                                              | suckle                    |
++----------------------+----------------------------------------------+---------------------------+
+| 2                    | **Central Nervous System**                   | Blantyre Coma Score of    |
+|                      |                                              | \<3 In the presence of    |
+|                      | 1.  Convulsions (Multiple \> 2 in 24 hours)  | malaria parasite is       |
+|                      | 2.  Loss of consciousness (Blantyre Coma     | classified as cerebral    |
+|                      |     Score \<5                                | malaria.                  |
+|                      | 3.  Abnormal motor function                  |                           |
+|                      | 4.  Abnormal Cranial nerve function.         |                           |
+|                      |     Specifically Cranial 3, 4,5, 6, 9 and    |                           |
+|                      |     10.                                      |                           |
+|                      | 5.  Cotton wool and haemorrhage on the       |                           |
+|                      |     retina                                   |                           |
++----------------------+----------------------------------------------+---------------------------+
+| 3                    | **Haematological**                           | Obtained through history, |
+|                      |                                              | physical examination and  |
+|                      | 1.  Severe pallor (anaemia)                  | complete blood count.     |
+|                      | 2.  Haemoglobinuria                          |                           |
+|                      | 3.  Bleeding                                 |                           |
+|                      | 4.  Jaundice                                 |                           |
++----------------------+----------------------------------------------+---------------------------+
+| 4                    | **Renal**                                    | Measurement of the urine  |
+|                      |                                              | and fluid intake is       |
+|                      | 1.  Oliguria                                 | critical to estimate      |
+|                      | 2.  Anuria                                   | oliguria and anuria.      |
++----------------------+----------------------------------------------+---------------------------+
+| 5                    | **Respiratory**                              | These could signal severe |
+|                      |                                              | pneumonia. Should be      |
+|                      | 1.  Respiratory Rate  \> age-specific limit  | radiologically confirmed. |
+|                      | 2.  Oxygen saturation \< 92%                 |                           |
+|                      | 3.  Pulmonary oedema                         |                           |
+|                      | 4.  Chest wall indrawing                     |                           |
+|                      | 5.  Crepitation on auscultation              |                           |
++----------------------+----------------------------------------------+---------------------------+
+| 6                    | **Cardiovascular**                           | Assessment based on       |
+|                      |                                              | clinical examination      |
+|                      | 1.  Reduce Capillary Refill Time.            |                           |
+|                      | 2.  Hypotension                              |                           |
+|                      | 3.  Weak Pulse                               |                           |
+|                      | 4.  Cold and clammy extremities              |                           |
++----------------------+----------------------------------------------+---------------------------+
 
 : Signs and symptoms suggestive of complicated malaria
 :::
 
 ::: {#tbl-gen-sev-malarai-lab}
-+-----+---------------------------------------------------+--------------------------------------+
-| SN  | Clinical Signs and Symptoms                       | Comments                             |
-+=====+===================================================+======================================+
-| 1   | **Central Nervous System**                        | Rule out other causes of             |
-|     |                                                   | encephalopathy i.e. Meningitis,      |
-|     | Coma Score of \<3 In the presence of malaria      | encephalitis, hypoglycaemia hepatic  |
-|     | parasite is classified as cerebral malaria.       | and failure.                         |
-+-----+---------------------------------------------------+--------------------------------------+
-| 2   | **Haematological**                                | Bed site point-of-care devices and   |
-|     |                                                   | Complete Blood count                 |
-|     | 1.  Severe Anaemia Hb \<5g/dL PCV \<15%           |                                      |
-|     | 2.  Plasma Bilirubin  \>50 umol/L (3mg/dL)        |                                      |
-|     | 3.  Bleeding  (Thrombocytopenia)                  |                                      |
-+-----+---------------------------------------------------+--------------------------------------+
-| 3   | **Renal**                                         | Blood chemistries are required to    |
-|     |                                                   | establish renal complications.       |
-|     | 1.  Plasma creatinine  \>265umol/L (3mg/dL)       |                                      |
-|     | 2.  Blood urea \> 20 mmol/L                       |                                      |
-+-----+---------------------------------------------------+--------------------------------------+
-| 4   | **Respiratory**                                   | Could signal severe pneumonia        |
-|     |                                                   |                                      |
-|     | 1.  Respiratory Rate                              |                                      |
-|     | 2.  Oxygen saturation \< 92%                      |                                      |
-+-----+---------------------------------------------------+--------------------------------------+
-| 5   | **Cardiovascular**                                | Basic bedside clinical examinations  |
-|     |                                                   |                                      |
-|     | 1.  Reduce Capillary Refill Time.                 |                                      |
-|     | 2.  Reduce blood pressure                         |                                      |
-|     | 3.  Weak Pulse                                    |                                      |
-|     | 4.  Cold and clammy extremities                   |                                      |
-+-----+---------------------------------------------------+--------------------------------------+
-| 6   | **Metabolic**                                     | Clinically will manifest as Kussmaul |
-|     |                                                   | Breathing (Deep rapid breathing)     |
-|     | 1.  Base deficit of \> 8mEq/L                     |                                      |
-|     | 2.  Plasma Bicarbonate  of \<15mmol/L             |                                      |
-|     | 3.  Lactate of \< 5mmol/L                         |                                      |
-|     | 4.  Hypoglycaemia  \<2.2 mmol/L                   |                                      |
-+-----+---------------------------------------------------+--------------------------------------+
-| 7   | Hyperparasitaemia                                 | Microscopy in resource endowed       |
-|     |                                                   | institution                          |
-+-----+---------------------------------------------------+--------------------------------------+
++---------------------+-------------------------------------------+------------------------------+
+| SN                  | Laboratory parameter                      | Comments                     |
++=====================+===========================================+==============================+
+| 1                   | **Central Nervous System**                | Rule out other causes of     |
+|                     |                                           | encephalopathy i.e.          |
+|                     | Coma Score of \<3 In the presence of      | Meningitis, encephalitis,    |
+|                     | malaria parasite is classified as         | hypoglycaemia hepatic and    |
+|                     | cerebral malaria.                         | failure.                     |
++---------------------+-------------------------------------------+------------------------------+
+| 2                   | **Haematological**                        | Bedside point-of-care        |
+|                     |                                           | devices and a complete blood |
+|                     | 1.  Severe Anaemia Hb \<5g/dL or PCV      | count are required.          |
+|                     |     \<15%                                 |                              |
+|                     | 2.  Plasma Bilirubin \>50 umol/L (3mg/dL) |                              |
+|                     | 3.  Bleeding  (thrombocytopenia)          |                              |
++---------------------+-------------------------------------------+------------------------------+
+| 3                   | **Renal**                                 | Blood chemistries are        |
+|                     |                                           | required to establish renal  |
+|                     | 1.  Plasma creatinine  \>265umol/L        | complications.               |
+|                     |     (3mg/dL)                              |                              |
+|                     | 2.  Blood urea \> 20 mmol/L               |                              |
++---------------------+-------------------------------------------+------------------------------+
+| 4                   | **Respiratory**                           | Could signal severe          |
+|                     |                                           | pneumonia                    |
+|                     | 1.  Respiratory Rate                      |                              |
+|                     | 2.  Oxygen saturation \< 92%              |                              |
++---------------------+-------------------------------------------+------------------------------+
+| 5                   | **Cardiovascular**                        | Basic bedside clinical       |
+|                     |                                           | examinations                 |
+|                     | 1.  Reduce Capillary Refill Time.         |                              |
+|                     | 2.  Reduce blood pressure                 |                              |
+|                     | 3.  Weak Pulse                            |                              |
+|                     | 4.  Cold and clammy extremities           |                              |
++---------------------+-------------------------------------------+------------------------------+
+| 6                   | **Metabolic**                             | Clinically will manifest as  |
+|                     |                                           | Kussmaul breathing (deep     |
+|                     | 1.  Base deficit of \> 8mEq/L             | rapid breathing)             |
+|                     | 2.  Plasma Bicarbonate  of \<15mmol/L     |                              |
+|                     | 3.  Lactate of \< 5mmol/L                 |                              |
+|                     | 4.  Hypoglycaemia  \<2.2 mmol/L           |                              |
++---------------------+-------------------------------------------+------------------------------+
+| 7                   | Hyperparasitaemia:                        | Microscopy in resource       |
+|                     |                                           | endowed institution          |
+|                     | > \>2%/100 000/µL in low intensity        |                              |
+|                     | > transmission areas or \>5% or           |                              |
+|                     | > 250 000/µL in areas of high stable      |                              |
+|                     | > malaria transmission intensity          |                              |
++---------------------+-------------------------------------------+------------------------------+
 
 : Laboratory features suggestive of complicated malaria
 :::
@@ -153,15 +164,16 @@ outline the features suggestive of complicated malaria.
 ## Risk factors
 
 There are genetic factors that protect against the development of malaria. The genetic factor and
-the mechanism proposed to lead to the protection against malaria are shown in the table below. In
-sub-Saharan Africa, Sickle Cell Anaemia and Glucose six phosphate dehydrogenase deficiency are the
-most common genetic disorders.[@carter2011; @moeti2023] The following are known to be associated
-with complicated malaria. (8)
+the mechanism proposed to lead to the protection against malaria are shown in Table 1 of the
+publication titled [Genetic polymorphisms linked to susceptibility to
+malaria](https://malariajournal.biomedcentral.com/articles/10.1186/1475-2875-10-271#citeas) by
+@driss2011a. In sub-Saharan Africa, sickle cell anaemia and glucose-6-phosphate dehydrogenase
+deficiency are the most common genetic disorders.[@carter2011; @moeti2023]
 
 ## **Management**
 
-**Uncomplicated malaria:** The WHO recommends Artemisinin Combination therapy to manage
-uncomplicated malaria. Mono-therapy is highly recommended in patients living in endemic and
+**Uncomplicated malaria:** The WHO recommends Artemisinin-based Combination Therapy (ACT) to manage
+uncomplicated malaria. Mono-therapy is NOT recommended in patients living in endemic and
 high-transmission settings. Treatment should be swift and therefore home management of malaria is
 highly recommended.
 
@@ -169,27 +181,27 @@ highly recommended.
 Severe malaria can result in death within hours of progression from uncomplicated malaria to
 complicated. Prompt and swift response to clinical changes is paramount.
 
-The WHO recommends parenteral artesunate and applying appropriate support care based on the clinical
-progression. Complicated malaria is a multi-system disease; therefore, clinicians should prioritize
+The WHO recommends parenteral artesunate and appropriate support care based on the clinical
+progression. Complicated malaria is a multi-system disease; therefore, clinicians should prioritise
 their care with emphasis on supportive care. It is a medical emergency. Healthcare professionals
-should therefore identify life-threatening situations like hypoglycaemia, hypoxaemia secondary to
-heart failure from complications such as severe anaemia and pulmonary oedema, convulsion and other
-central nervous manifestations from brain oedema and potentially raised intracranial pressure.
-Children can develop compensated and decompensated shock. When present, it should be corrected and
-monitored until the patient is stable.
+should identify life-threatening situations like hypoglycaemia, and hypoxaemia, secondary to heart
+failure from complications such as severe anaemia and pulmonary oedema, convulsion and other central
+nervous manifestations from brain oedema and potentially raised intracranial pressure. Children can
+develop compensated and decompensated shock. When present, it should be corrected and monitored
+until the patient is stable.
 
 Full doses of parenteral artemisinin (artesunate or artemether) should be provided followed by
 complete doses of ACT. Rectal Artesunate is recommended in situations where parenteral artemisinin
 is not available.
 
-Parenteral artesunate IV artesunate: Should be given immediately after malaria is confirmed at 
+**Parenteral artesunate:** IV artesunate should be given immediately after malaria is confirmed at 
 2·4mg/kg per dose at 0, 12, and 24 hours, then every 24 hours till the child is stable and able to
-tolerate oral Artemisinin-based combination therapy (ACT).
+tolerate oral ACT.
 
 ::: callout-note
 ## Note
 
-Children with body weight \<20∙0 kg should receive, 3·0 mg/kg per dose to ensure equivalent exposure
+Children with body weight \<20 kg should receive, 3·0 mg/kg per dose to ensure equivalent exposure
 to the drug.
 :::
 
@@ -206,7 +218,7 @@ Other alternate medications are:
     Quinine is currently not recommended and patients on Quinine are at risk of hypoglycaemia.
     :::
 
--   Pre-referral rectal artesunate: recommended in primary health-care settings in which parenteral
+-   Pre-referral rectal artesunate: Recommended in primary health-care settings in which parenteral
     drug administration is not possible104
 
 -   Children who are stable and can take oral medication should be given a full course of oral
@@ -220,42 +232,45 @@ artemisinin-based combination therapies (ACT) should be avoided.
 :::
 
 ::: {#tbl-gen-antimalarials}
-+-------+--------------+-------------------------------------------------+-------------------------+
-| SN    | ACT          | Dosage                                          | Comments                |
-+=======+==============+=================================================+=========================+
-| 1     | Artemether–  | 0·83–4∙00 mg/kg artemether and 4·83–24∙00 mg/kg | Take twice a day for 3  |
-|       | lumefantrine | of lumefantrine                                 | days with fatty food;   |
-|       |              |                                                 | the first two doses     |
-|       |              |                                                 | should be given 8 hours |
-|       |              |                                                 | apart.                  |
-+-------+--------------+-------------------------------------------------+-------------------------+
-| 2     | Artesunat    | 4 mg/kg per day artesunate (range 2–10 mg/kg)   | Taken once a day for 3  |
-|       | e–mefloquine | and 8·3 mg/kg per day mefloquine (7–11 mg/kg)   | days                    |
-+-------+--------------+-------------------------------------------------+-------------------------+
-| 3     | Dihydr       | 4mg/kg per day dihydroartemisinin (range 2–10   | Taken once a day for 3  |
-|       | oartemisinin | mg/kg) and 18 mg/kg per day piperaquine (16–27  | days                    |
-|       | –piperaquine | mg/kg)                                          |                         |
-+-------+--------------+-------------------------------------------------+-------------------------+
-| 4     | Artesunate   | 4 mg/kg per day of artesunate (range 2–10       |                         |
-|       | –amodiaquine | mg/kg)                                          |                         |
-|       |              | and 10 mg/kg per day amodiaquine (7·5–15 mg/kg) |                         |
-|       |              | once a day for 3 days                           |                         |
-+-------+--------------+-------------------------------------------------+-------------------------+
-| 5     | Artesunate–s | 4 mg/kg per day of artesunate (range 2–10       |                         |
-|       | ulfadoxine-p | mg/kg)                                          |                         |
-|       | yrimethamine | given once a day for 3 days and a single        |                         |
-|       |              | administration of at least 25 mg/kg             |                         |
-|       |              | sulfadoxine (25–70 mg/kg) and 1·25 mg/kg        |                         |
-|       |              | pyrimethamine (1·25–3·5 mg/kg) given            |                         |
-|       |              | as a single dose on day 1                       |                         |
-+-------+--------------+-------------------------------------------------+-------------------------+
++------------------+------------------+------------------------------------+------------------+
+| SN               | ACT              | Dosage                             | Comments         |
++==================+==================+====================================+==================+
+| 1                | Artemether–      | 0·83–4∙00 mg/kg artemether and     | Take twice a day |
+|                  | lumefantrine     | 4·83–24∙00 mg/kg of lumefantrine   | for 3 days with  |
+|                  |                  |                                    | fatty food; the  |
+|                  |                  |                                    | first two doses  |
+|                  |                  |                                    | should be given  |
+|                  |                  |                                    | 8 hours apart.   |
++------------------+------------------+------------------------------------+------------------+
+| 2                | Artesu           | 4 mg/kg per day artesunate (range  | Taken once a day |
+|                  | nate–mefloquine  | 2–10 mg/kg) and 8·3 mg/kg per day  | for 3 days       |
+|                  |                  | mefloquine (7–11 mg/kg)            |                  |
++------------------+------------------+------------------------------------+------------------+
+| 3                | Dihydr           | 4mg/kg per day dihydroartemisinin  | Taken once a day |
+|                  | oartemisinin     | (range 2–10 mg/kg) and 18 mg/kg    | for 3 days       |
+|                  | –piperaquine     | per day piperaquine (16–27 mg/kg)  |                  |
++------------------+------------------+------------------------------------+------------------+
+| 4                | Artesunate       | 4 mg/kg per day of artesunate      |                  |
+|                  | –amodiaquine     | (range 2–10 mg/kg) and 10 mg/kg    |                  |
+|                  |                  | per day amodiaquine (7·5–15 mg/kg) |                  |
+|                  |                  | once a day for 3 days              |                  |
++------------------+------------------+------------------------------------+------------------+
+| 5                | Artesunate–s     | 4 mg/kg per day of artesunate      |                  |
+|                  | ulfadoxine-p     | (range 2–10 mg/kg) given once a    |                  |
+|                  | yrimethamine     | day for 3 days and a single        |                  |
+|                  |                  | administration of at least 25      |                  |
+|                  |                  | mg/kg sulfadoxine (25–70 mg/kg)    |                  |
+|                  |                  | and 1·25 mg/kg pyrimethamine       |                  |
+|                  |                  | (1·25–3·5 mg/kg) given as a single |                  |
+|                  |                  | dose on day 1                      |                  |
++------------------+------------------+------------------------------------+------------------+
 
 : Drugs recommended for the management of Uncomplicated malaria
 :::
 
 ## **Monitoring of progress**
 
-The following clinical indices fluctuate and serial monitoring of the indices is crucial to avoid
+The following clinical indices fluctuate and their serial monitoring is crucial to avoid
 complications:
 
 1.  Hypoglycaemia
@@ -268,8 +283,8 @@ complications:
 
 ## **Prevention**
 
-Behavioural change to avoid the bite of infected female *anopheles* mosquitoes is an important step
-in preventing malaria. Several modes of behavioural techniques are known. Notable is the use of
+**Behavioural change** to avoid the bite of infected female *anopheles* mosquitoes is an important
+step in preventing malaria. Several modes of behavioural techniques are known. Notable is the use of
 insecticide-treated bed net.
 
 **Indoor and Outdoor spraying residual spraying** at household levels and in mass campaigns in wide
@@ -300,28 +315,30 @@ physical examination supported with appropriate laboratory investigation should 
 differential diagnoses shown below in @tbl-malaria-differentials.
 
 ::: {#tbl-malaria-differentials}
-+------+-------------------+-----------------------------------------------------------------------+
-| SN   | Region            | Differential                                                          |
-+======+===================+=======================================================================+
-| 1    | Head and Neck     | [Bacterial Meningitis](id-meningitis.qmd), Viral Encephalitis, Otitis |
-|      |                   | Media, Tonsilitis and Pharyngitis Epiglottitis                        |
-+------+-------------------+-----------------------------------------------------------------------+
-| 2    | Thorax            | Pneumonia, Bronchiolitis, Pericarditis, Carditis and Endocarditis     |
-+------+-------------------+-----------------------------------------------------------------------+
-| 3    | Gastro-Intestinal | [Typhoid fever](id-enteric-fever), Appendicitis, Hepatitis and        |
-|      |                   | Cholecystitis                                                         |
-+------+-------------------+-----------------------------------------------------------------------+
-| 4    | Genitourinary     | Cystitis and Pyelonephritis                                           |
-+------+-------------------+-----------------------------------------------------------------------+
++------------------+------------------+----------------------------------------------------------+
+| SN               | Region           | Differential                                             |
++==================+==================+==========================================================+
+| 1                | Head and Neck    | [Bacterial Meningitis](id-meningitis.qmd), Viral         |
+|                  |                  | Encephalitis, Otitis Media, Tonsilitis and Pharyngitis   |
+|                  |                  | Epiglottitis                                             |
++------------------+------------------+----------------------------------------------------------+
+| 2                | Thorax           | Pneumonia, Bronchiolitis, Pericarditis, Carditis and     |
+|                  |                  | Endocarditis                                             |
++------------------+------------------+----------------------------------------------------------+
+| 3                | Gas              | [Typhoid fever](id-enteric-fever), Appendicitis,         |
+|                  | tro-Intestinal   | Hepatitis and Cholecystitis                              |
++------------------+------------------+----------------------------------------------------------+
+| 4                | Genitourinary    | Cystitis and Pyelonephritis                              |
++------------------+------------------+----------------------------------------------------------+
 
 : Possible differential diagnosis based on history and Anatomical location
 :::
 
 ## **Case Discussion**
 
-These reviews present four hypothetical case scenarios of severe malaria in children.  It
-illustrates four key common pathways along which over 239,000 children die from malaria annually
-either at rural health posts or in higher tertiary institutions across sub-Saharan Africa.
+These reviews present four hypothetical case scenarios of severe malaria in children. It illustrates
+four key common pathways along which over 239,000 children die from malaria annually either at rural
+health posts or in higher tertiary institutions across sub-Saharan Africa.
 
 **Case 1: Malaria with Haemoglobinuria**
 
@@ -514,4 +531,4 @@ Basic clinical indices that are well known to signify impending complication or 
 malaria should be applied in triaging and reassessing all children who present with malaria. From
 the health centre to the tertiary hospital, these clinical indices can guide health officials to
 manage children according to standard protocols and guidelines and thus avoid death from complicated
-malaria. 
+malaria.

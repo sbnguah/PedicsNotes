@@ -67,7 +67,7 @@ Chart](images/bpchart.jpg){fig-align="center"}](https://www.bing.com/ck/a?!&&p=0
 
 ## Plotting the blood pressure centile
 
-1.  Measure the child's height
+1.  Measure the child's height.
 2.  Determine the height centile. If the height centile falls between 2 centiles, use the closest
     centile. Otherwise, use the lower height centile.
 3.  Determine the blood pressure centile.
@@ -93,14 +93,14 @@ in-patient.
 
 ## Rules of blood pressure measurement
 
-1.  Select the right cuff size
+1.  Select the right cuff size.
     -   The length of the inflation bladder should be at least 80% of the mid-arm circumference.
     -   The width of the inflation bladder is at least 40th of the mid-arm circumference.
 2.  The child should rest for at least 5 minutes in a comfortable environment and position.
 3.  Arm resting and supported at heart level (The reference level. Values outside this reference
     level are higher). The lower edge of the cuff is 2cm above the cubital fossa.
 4.  Bladder tubings should lie over the brachial artery.
-5.  Bell of the stethoscope is used
+5.  The Bell of the stethoscope is used.
 6.  Korotkoff sounds 1 and 5 are used for systolic and diastolic respectively.
 7.  Multiple measurements are made (preferably at different settings) and the lowest reading is
     taken. For research purposes, 3 measurements are taken and an average of the last 2 used.
@@ -312,7 +312,7 @@ cerebral blood flow leads to cerebral hyperperfusion. Generally, short-acting an
 preferred in the initial instance of treatment so that any potentially harmful drop in blood
 pressure (which could lead to Posterior Reversible Encephalopathy Syndrome {PRES}) could be
 reversed. Subsequently, long-acting agents could be used Sublingual nifedipine could cause a
-precipitous drop in blood pressure so it is best avoided or should be used with extreme caution
+precipitous drop in blood pressure so it is best avoided or should be used with extreme caution.
 
 Treatment outline:
 
@@ -325,4 +325,5 @@ Treatment outline:
 -   Alternatively, by a quarter within 6 hours, and the rest in the next 24-36hrs
 
 Commonly preferred drugs include Labetalol infusion, Na nitroprusside infusion, and IV hydralazine
-infusion. After achieving the desired blood pressure target, oral antihypertensives are then started
+infusion. After achieving the desired blood pressure target, oral antihypertensives are then
+started.
