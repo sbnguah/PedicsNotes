@@ -5,7 +5,13 @@ author: "Dr Samuel Blay Nguah"
 
 ## Definition
 
+Rheumatic Heart Disease (RHD) is an acquired heart disease and the only permanent sequel of
+Rheumatic Fever (RF). Thus, it is acquired after an episode of RF. RHD should, therefore, be
+distinguished from RF as they are two different but closely related disease entities.
+
 ## Incidence/prevalence
+
+RHD is the most common acquired heart disease in children, with a prevalence
 
 ## Aetiology
 
@@ -22,5 +28,55 @@ author: "Dr Samuel Blay Nguah"
 ## Prognosis
 
 ## Differential diagnosis
+
+Rheumatic fever (RF) is a significant public health concern, especially in developing countries.
+Here are some key points about its epidemiology:
+
+### **Global Burden**
+
+-   **Prevalence**: Approximately 33.4 million people worldwide are affected by rheumatic heart
+    disease (RHD), a complication of rheumatic fever.
+-   **Incidence**: Around 300,000 to 500,000 new cases of rheumatic fever are reported annually,
+    with about 60% of these cases progressing to rheumatic heart disease.
+
+### **Geographical Distribution**
+
+-   **High Burden Regions**: The African, South-East Asia, and Western Pacific regions have the
+    highest prevalence, accounting for 84% of all cases and 80% of deaths due to RHD.
+-   **Specific Countries**: India has the highest global prevalence, followed by China and
+    indigenous populations in Australia, New Zealand, and the Pacific island states.
+
+### **Demographics**
+
+-   **Age**: Rheumatic fever most commonly occurs in childhood.
+-   **Gender**: Historically, females have been more affected than males, but recent reports suggest
+    a more balanced gender distribution in some regions.
+
+### **Risk Factors**
+
+-   **Streptococcal Infections**: Rheumatic fever follows pharyngeal infection with Group A
+    Streptococcus (GAS).
+-   **Genetic Susceptibility**: Individuals with certain genetic backgrounds are more susceptible to
+    developing rheumatic fever after a strep infection.
+
+### **Prevention and Control**
+
+-   **Early Detection and Treatment**: Prompt treatment of strep throat with antibiotics can prevent
+    rheumatic fever.
+-   **Long-term Antibiotic Prophylaxis**: Regular antibiotic treatment is recommended for
+    individuals who have had rheumatic fever to prevent recurrence.
+
+### **Challenges**
+
+-   **Data Gaps**: Reliable data on the incidence of acute rheumatic fever is lacking in many
+    regions, making it difficult to implement effective prevention measures.
+-   **Healthcare Access**: Limited access to healthcare in low- and middle-income countries
+    contributes to the high burden of the disease.
+
+Rheumatic fever remains a major cause of morbidity and mortality, particularly among young people in
+developing nations. Efforts to improve early detection, treatment, and long-term management are
+crucial to reducing its impact.
+
+Would you like more information on any specific aspect of rheumatic fever or its management?
 
 ----------------------------------------------------------------------------------------------------

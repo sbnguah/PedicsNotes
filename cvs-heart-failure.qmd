@@ -10,11 +10,12 @@ The inability of the heat to provide enough output to the body.
 
 ## **Causes**
 
-Varies especially in children. They can occur in both structurally normal hearts and in congenital
-cardiac malformations. There are 3 main groups of causes:
+Varies, especially in children. They can occur in both structurally normal hearts and in congenital
+cardiac malformations. There are three main groups of causes:
 
-1.  Ventricular dysfunction: This is where there is a dysfunction of the ventricles. It is usually a
-    systolic dysfunction but may also be diastolic. Examples are:
+1.  **Ventricular dysfunction** results from either systolic or diastolic dysfunction of the
+    ventricles. Systolic dysfunction is more commonly encountered compared to diastolic ones.
+    Examples are:
 
     -   Cardiomyopathy (dilated, restrictive and hypertrophic)
     -   Myocarditis
@@ -22,10 +23,10 @@ cardiac malformations. There are 3 main groups of causes:
     -   Coronary artery anomalies
     -   Post-op cardiac dysfunction
 
-2.  Volume overload: This occurs in conditions associated with increased volume (preload) in the
-    heart especially the ventricles. The ventricle must therefore eject an increased blood volume,
-    leading to tachycardia. It may or may not be associated with ventricular dysfunction. Examples
-    include:
+2.  **Volume overload** occurs in conditions associated with increased volume (preload) in the
+    heart, especially the ventricles. The ventricle must, therefore, eject an increased blood
+    volume, leading to tachycardia. It may or may not be associated with ventricular dysfunction.
+    Examples include:
 
     -   Ventricular septal defect (left to right shunt)
     -   Atrial septal defect
@@ -33,8 +34,8 @@ cardiac malformations. There are 3 main groups of causes:
     -   Aortic regurgitation (left ventricle)
     -   Mitral regurgitation (Left atrium)
 
-3.  Pressure overload: This is when heart failure is caused by an increased pressure (afterload) in
-    the heart. Ventricles must therefore contract against higher pressures. It may or may not be
+3.  **Pressure overload** is when heart failure is caused by an increased pressure (afterload) in
+    the heart. Ventricles must, therefore, contract against higher pressures. It may or may not be
     associated with ventricular dysfunction. These include:
 
     -   Hypertension
@@ -46,18 +47,18 @@ In all these, the result is decreased cardiac output and pulmonary oedema.
 
 ## Classification
 
-The symptoms of heart failure vary significantly with infants and young children having different
+The symptoms of heart failure vary significantly, with infants and young children having different
 presentations compared to older children. The classification of heart failure there is not uniform.
-The most well-known classification is the NYHA classification which is appropriate for older
-children. It is shown below:
+The most well-known classification is the NYHA, which is appropriate for older children. It is shown
+below:
 
 ::: {#tbl-nyha-hf-classification}
-| Class                | Patient Symptoms                                                                                                                                                        |
-|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Class I (Mild)       | No limitation on physical activity. Ordinary physical activity does not cause undue fatigue, palpitation or dyspnoea                                                    |
-| Class II (Mild)      | Slight limitation of physical activity. Comfortable at rest but ordinary physical activity results in fatigue, palpitation or dyspnoea                                  |
-| Class III (Moderate) | Marked limitation of physical activity. Comfortable at rest but less than ordinary physical activity causes fatigue, palpitation or dyspnoea                            |
-| Class IV (Severe)    | Unable to carry out any physical activity without discomfort. Symptoms of cardiac insufficiency at rest. If any physical activity is undertaken discomfort is increased |
+| Class | Patient Symptoms |
+|----|----|
+| Class I (Mild) | No limitation on physical activity. Ordinary physical activity does not cause undue fatigue, palpitation or dyspnoea |
+| Class II (Mild) | Slight limitation of physical activity. Comfortable at rest but ordinary physical activity results in fatigue, palpitation or dyspnoea |
+| Class III (Moderate) | Marked limitation of physical activity. Comfortable at rest but less than ordinary physical activity causes fatigue, palpitation or dyspnoea |
+| Class IV (Severe) | Unable to carry out any physical activity without discomfort. Symptoms of cardiac insufficiency at rest. If any physical activity is undertaken discomfort is increased |
 
 : NYHA Classification
 :::
@@ -66,12 +67,12 @@ On the other hand, the Ross classification shown below is more suited for infant
 children.
 
 ::: {#tbl-ross-classification}
-| Class     | Symptoms                                                                                                                                     |
-|-----------|----------------------------------------------------------------------------------------------------------------------------------------------|
-| Class I   | Asymptomatic                                                                                                                                 |
-| Class II  | Mild tachypnoea or diaphoresis in feeding in infants <br> Dyspnoea on exertion in older children                                             |
+| Class | Symptoms |
+|----|----|
+| Class I | Asymptomatic |
+| Class II | Mild tachypnoea or diaphoresis in feeding in infants <br> Dyspnoea on exertion in older children |
 | Class III | Marked tachypnoea or sweating with feeding in infants <br> Marked dyspnoea on exertion <br> Prolonged feeding times with growth failure <br> |
-| Class IV  | Symptoms such as tachycardia, retraction, grunting, or diaphoresis at rest                                                                   |
+| Class IV | Symptoms such as tachycardia, retraction, grunting, or diaphoresis at rest |
 
 : Modified Ross Classification
 :::
@@ -157,9 +158,9 @@ groups to be considered:
 ### Acute decompensated heart failure
 
 ::: {#tbl-acute-hf-tmt-drug-class}
-| Drug      | Action                                                                                                                                                                                                                                                                                  |
-|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Diuretics | Notable here is furosemide. The aim is to help decongest the lungs, reduce preload by vasodilatation and improve heart failure symptoms.                                                                                                                                                |
+| Drug | Action |
+|----|----|
+| Diuretics | Notable here is furosemide. The aim is to help decongest the lungs, reduce preload by vasodilatation and improve heart failure symptoms. |
 | Inotropes | These include adrenaline, noradrenaline, dopamine and dobutamine. They help improve the contractility of the heart, increase heart rate, and increase peripheral vascular resistance, thus maintaining the blood pressure and cardiac output. They are usually Intravenous medications. |
 
 : Drugs used in acute decompensated heart failure
@@ -170,13 +171,13 @@ groups to be considered:
 These are usually oral medications given to treat heart failure on an outpatient basis
 
 ::: {#tbl-chronic-hf-tmt-drug-class}
-| Group                        | Action                                                                                                                                                                                                                |
-|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Diuretics                    | These are given to decongest the lungs, liver and other edematous organs. The most commonly used is furosemide.                                                                                                       |
-| Aldosterone antagonists      | These counteract the aldosterone effect of water and sodium retention. They decrease afterload while helping in reversing cardiac remodelling.                                                                        |
-| ACE-I/ARB                    | Angiotensin-converting enzyme inhibitors and Angiotensin II receptor blockers counteract the renin effects of increasing afterload. They thus decrease the afterload and help reverse and prevent cardiac remodelling |
-| Digoxin                      | This is probably the oldest anti-heart failure medication. It has negative chronotropic and positive inotropic effects. Thus increasing contractility and reducing heart rate.                                        |
-| $\beta$ -adrenergic blocking | These are adrenergic-blocking agents that work by decreasing sympathetic activity to the heart, decreasing heart rate, and thus decreasing oxygen demand. Examples are Propranolol, Atenolol and Carvedilol.          |
+| Group | Action |
+|----|----|
+| Diuretics | These are given to decongest the lungs, liver and other edematous organs. The most commonly used is furosemide. |
+| Aldosterone antagonists | These counteract the aldosterone effect of water and sodium retention. They decrease afterload while helping in reversing cardiac remodelling. |
+| ACE-I/ARB | Angiotensin-converting enzyme inhibitors and Angiotensin II receptor blockers counteract the renin effects of increasing afterload. They thus decrease the afterload and help reverse and prevent cardiac remodelling |
+| Digoxin | This is probably the oldest anti-heart failure medication. It has negative chronotropic and positive inotropic effects. Thus increasing contractility and reducing heart rate. |
+| $\beta$ -adrenergic blocking | These are adrenergic-blocking agents that work by decreasing sympathetic activity to the heart, decreasing heart rate, and thus decreasing oxygen demand. Examples are Propranolol, Atenolol and Carvedilol. |
 
 : Drugs for chronic heart failure treatment
 :::

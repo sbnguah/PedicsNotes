@@ -17,9 +17,9 @@ Prenatally, the history should delve into but not be limited to the following:
 
 1.  ***Infections***: Some infections are the well-known TORCHES. They include Toxoplasmosis, HIV,
     syphilis, parvovirus B19 (fifth disease), varicella (chickenpox) and (Zika), Rubella,
-    Cytomegalovirus, and Herpes simplex virus. Rubella when acquired in the first trimester of
-    pregnancy is very well known to be associated with [PDA](cvs-pda.qmd)s.
-2.  ***Medications:*** The use of some medications, including herbs predisposes to heart disease in
+    Cytomegalovirus, and Herpes simplex virus. Rubella, when acquired in the first trimester of
+    pregnancy, is very well known to be associated with [PDA](cvs-pda.qmd)s.
+2.  ***Medications:*** The use of some medications, including herbs, predisposes to heart disease in
     newborns. Anticonvulsant such as phenytoin, carbamazepine, and valproic acid are highly
     teratogenic.[@Kalisch-Smith2020]
 3.  ***Recreational drugs***: Excessive smoking, cocaine, and alcohol use in early pregnancy are all
@@ -39,7 +39,7 @@ Prenatally, the history should delve into but not be limited to the following:
 
 Perinatal history associated with heart disease may include the following:
 
-1.  ***Birth weight***: A high birth weight, often associated with a child of a diabetic mother is
+1.  ***Birth weight***: A high birth weight, often associated with a child of a diabetic mother, is
     also associated with an increased incidence of CHDs. Conversely, a low birth weight may also be
     associated with fetal alcohol syndrome or congenital rubella syndrome, both of which are
     associated with CHDs.
@@ -62,21 +62,21 @@ of heart failure. These include:
     disease in children. However, for some cyanotic congenital heart diseases, most notably
     [Tetralogy of Fallot](cvs-tof.qmd), the added feature is frequent squatting when the child
     becomes fatigued.
-4.  ***Delayed milestones***: Growth failure, easy fatiguability and other genetic syndromes may
-    result in delayed motor milestones in the child.
-5.  ***Others***: *Fast* and sometimes *difficulty breathing* are also common presentations of CHDs.
-    Some children develop *oedema*.(@fig-cvs-pedal-edema) This is predominantly seen in the faces of
-    younger children and the feet of older children. Frequent *lower respiratory infection* is also
-    seen in children with heart diseases, especially those associated with [heart
+4.  ***Delayed milestones***: Growth failure, easy fatiguability, and other genetic syndromes may
+    delay motor milestones in children.
+5.  ***Others***: *Fast* and sometimes *difficult breathing* are also common presentations of CHDs.
+    Some children develop *oedema*.(@fig-cvs-pedal-edema) This is predominantly seen in younger
+    children's faces and older children's feet. Frequent *lower respiratory infection* is also seen
+    in children with heart diseases, especially those associated with [heart
     failure](cvs-heart-failure.qmd).
 6.  ***Uncommon symptoms***: Uncommon presentation of heart disease in children include:
     -   *Chest pain* is a rather feared symptom in adults but usually portends another diagnosis
         rather than heart disease in children.
-    -   *Syncope* can be observed in children with an arrhythmia, or left or right ventricular
+    -   *Syncope* can be observed in children with an arrhythmia or left or right ventricular
         obstruction. However, this is still not a common presentation in pediatric heart diseases.
     -   Older children report *palpitations*.
-    -   *Joint swelling* does occur in Rheumatic Heart Disease but again not a common presentation
-        in children with heart pathology.
+    -   *Joint swelling* does occur in Rheumatic Heart Disease, but again, it is not a common
+        presentation in children with heart pathology.
 
 ![Pedal oedema in a child with heart
 failure](images/cvs-pedal-edema.jpg){#fig-cvs-pedal-edema fig-align="center"}
@@ -89,7 +89,7 @@ Clinical examination for a child with a suspected heart disease should always st
 should first look out for life-threatening signs and intervene quickly. Subsequent steps could
 include:
 
-1.  ***Nutritional status*** is very important as many children with chronic heart conditions with
+1.  ***Nutritional status*** is vital as many children with chronic heart conditions with
     significant heart failure present with malnutrition. The growth pattern of the patient should
     always be evaluated.
 
@@ -98,25 +98,25 @@ include:
     well-documented recognisable heart defects. Below are just a few adapted from @ko2015:
 
 ::: {#tbl-genetic-synds}
-| Genetic syndrome                        | \% with CHD | Cardiac anomalies                                                                                                             |
-|----------------------|----------------------|---------------------------------------------------------|
-| [Down Syndrome](synd-down.qmd)          | 40 to 50    | Atrial Septal Defect, Ventricular Septal Defect, Atrioventricular Canal Defect, Patent Ductus Arteriosus, Tetralogy of Fallot |
-| [Turner's syndrome](synd-turners.qmd)   | 25 to 45    | Coarctation of the Aorta. Bicuspid Aortic Valve, Aortic Stenosis, Hypoplastic left heart syndrome                             |
-| [DiGeorge syndrome](synd-digeorge.qmd)  | 70 to 75    | Aortic arch anomalies, Truncus arteriosus, Tetralogy of Fallot                                                                |
-| [William's syndrome](synd-williams.qmd) | 75 to 80    | Supravalvar Aortic Stenosis, Peripheral Pulmonary Stenosis                                                                    |
-| [Noonan syndrome](synd-noonan.qmd)      | 70 to 80    | Pulmonary Stenosis, Hypertrophic Cardiomyopathy, Atrial Septal Defect                                                         |
-| Kabuki syndrome                         | 31 to 55    | Coarctation of the Aorta, Atrial Septal Defect, Aortic Stenosis, Mitral Stenosis, Hypoplastic left heart syndrome             |
-| Alagille syndrome                       | 90          | Peripheral Pulmonary Stenosis, Pulmonary Stenosis, Tetralogy of Fallot                                                        |
+| Genetic syndrome | \% with CHD | Cardiac anomalies |
+|----------------------------------|----------------------------------|----------------------------------|
+| [Down Syndrome](synd-down.qmd) | 40 to 50 | Atrial Septal Defect, Ventricular Septal Defect, Atrioventricular Canal Defect, Patent Ductus Arteriosus, Tetralogy of Fallot |
+| [Turner's syndrome](synd-turners.qmd) | 25 to 45 | Coarctation of the Aorta. Bicuspid Aortic Valve, Aortic Stenosis, Hypoplastic left heart syndrome |
+| [DiGeorge syndrome](synd-digeorge.qmd) | 70 to 75 | Aortic arch anomalies, Truncus arteriosus, Tetralogy of Fallot |
+| [William's syndrome](synd-williams.qmd) | 75 to 80 | Supravalvar Aortic Stenosis, Peripheral Pulmonary Stenosis |
+| [Noonan syndrome](synd-noonan.qmd) | 70 to 80 | Pulmonary Stenosis, Hypertrophic Cardiomyopathy, Atrial Septal Defect |
+| Kabuki syndrome | 31 to 55 | Coarctation of the Aorta, Atrial Septal Defect, Aortic Stenosis, Mitral Stenosis, Hypoplastic left heart syndrome |
+| Alagille syndrome | 90 | Peripheral Pulmonary Stenosis, Pulmonary Stenosis, Tetralogy of Fallot |
 
 : Common genetic syndromes associated with congenital heart diseases
 :::
 
 3.  ***Colour***: The skin colour of a child with a CHD could hold signs of its presence.
     *Cyanosis*, the blueish duskiness of the skin and mucous membranes can be seen in children with
-    a cyanotic congenital heart disease. In black skin, this may be difficult and can only be
-    observed in the mouth and tongue (@fig-cvsCyanosisMouth). Mild cyanosis is often not visible and
-    may require the use of pulse oximetry. *Pallor* can be observed in patients with heart diseases,
-    such as [Infective Endocarditis](cvs-inf-endo.qmd). *Jaundice* can be observed in patients with
+    cyanotic congenital heart disease. This may not be easy on black skin and can only be observed
+    in the mouth and tongue (@fig-cvsCyanosisMouth). Mild cyanosis is often not visible and may
+    require pulse oximetry. *Pallor* can be observed in patients with heart diseases, such as
+    [Infective Endocarditis](cvs-inf-endo.qmd). *Jaundice* can be observed in patients with
     [Infective Endocarditis](cvs-inf-endo.qmd) or those with hepatic injury secondary to chronic
     [heart failure](cvs-heart-failure.qmd).
 
@@ -131,64 +131,64 @@ child](images/cvs-cyanosis-mouth.jpg){#fig-cvsCyanosisMouth fig-align="center"}
 fig-align="center"}
 
 5.  ***Respiratory signs***: Respiratory signs commonly associated with heart diseases in children
-    are *tachypnoea*, *dyspnoea*, *chest recessions* and *increased work of breathing*. These are
-    especially true when there is associated [heart failure](cvs-heart-failure.qmd) and worsens with
-    exercise or breastfeeding infants.
+    are *tachypnoea*, *dyspnoea*, *chest recessions,* and *increased work of breathing*. These are
+    especially true when there is associated [heart failure](cvs-heart-failure.qmd), which worsens
+    with exercise or breastfeeding infants.
 6.  ***Circulation***: The circulation in a child with a suspected heart disease is critical.
     Reduced circulation can be assessed with the warmth of the extremities, capillary refill time,
     and blood pressure.
 7.  ***Blood pressure***: Low blood pressure is a late sign of circulatory failure and cardiogenic
     shock. Conversely, weak pulse may be associated with hypertensive heart disease as well. Wide
-    pulse pressure, an abnormally wide difference between the systolic and diastolic blood pressures
-    may indicate a [patent ductus arteriosus](cvs-pda.qmd), aortic insufficiency or an
+    pulse pressure, an abnormally wide difference between the systolic and diastolic blood
+    pressures, may indicate a [patent ductus arteriosus](cvs-pda.qmd), aortic insufficiency or an
     aorticopulmonary window. Blood pressure should be checked in the upper and lower limbs as a
     higher BP in the upper limbs compared to the lower may indicate the presence of a [Coarctation
     of the Aorta](cvs-coa.qmd).
 8.  ***Pulses***: The radial pulse is the most routinely examined in cardiovascular examination. It
     should be checked for the rate, rhythm, volume and character. If they are difficult to examine,
-    especially in young infants, the brachial pulsus can be used. Other pulses should be examined
-    and they include the brachial pulses, femoral and dorsalis pedis. Next, synchronization of the
+    especially in young infants, the brachial pulsus can be used. Other pulses should be examined,
+    including the brachial femoral and dorsalis pedis. Next, the synchronisation of the
     radio-femoral pulse should be determined for a delay. This happens in the coarctation of the
-    aorta. Pulses difficult to palpate or inconsistent could be caused by large artery arteritis
-    such as Taksyasu's arteritis.
+    aorta. Pulses that are challenging to palpate or inconsistent could be caused by large artery
+    arteritis, such as Taksyasu's arteritis.
 
 ### Precordial
 
 1.  ***Inspection***: Inspection of the precordium yields a wealth of information in a child with a
     suspected heart disease. A midline bulge or left-sided bulge will often indicate a right or
     left-sided heart chamber dilatation. Visible precordial pulsation should be noted. Scars,
-    especially from previous surgeries are useful. Scarification, the usually small "medicinal"
-    scars done on the chest as a means of treatment should also be noted. A Harrison sulcus,
-    depression of the lower part of the chest is common in children with chronic heart failure and
-    thus dyspnoea. @fig-chest-bulge
+    especially from previous surgeries, are useful. Scarification, the usually small "medicinal"
+    scars done on the chest as a means of treatment, should also be noted. A Harrison sulcus,
+    depression of the lower part of the chest, is common in children with chronic heart failure and,
+    thus, dyspnoea. @fig-chest-bulge
 
 ![Chest bulge and Harrison's sulcus in
 child](images/cvs-chest-bulge.jpg){#fig-chest-bulge fig-align="center"}
 
 2.  ***Palpation***: Palpation should be directed toward determining the presence of a thrill (a
-    palpable murmur), heave at the apex or middle of the precordium. Also, a palpable heart sound,
-    especially the second at the upper left sternal edge may indicate pulmonary hypertension.
+    palpable murmur) heave at the apex or middle of the precordium. Also, a palpable heart sound,
+    especially the second at the upper left sternal edge, may indicate pulmonary hypertension.
 
-3.  ***Percussion***: This is of very little relevance in the examination of the heart in children.
+3.  ***Percussion***: This is of very little relevance in examining the heart in children.
 
 4.  ***Auscultation***: Auscultation of the heart can yield a wealth of information. It should be
     done in a quiet environment, with the child as calm as possible. Auscultating can be performed
-    with both bell and diaphragm. All four auscultatory areas need to be auscultated. It is always
-    prudent to auscultate the back (between the scapulae) and over the carotids. First, the regular
-    two heart sounds should be determined. If muffled, they could indicate a pericardial effusion or
-    sometimes obesity. Pulmonary hypertension and an [Atrial Septal Defect](cvs-asd.qmd) for
-    instance could result in a loud or split second heart sound. The presence of a third heart sound
-    (S3) is not always pathologic in children but an S4 is. The presence of a murmur needs to be
-    determined. If present, it should be determined if it is systolic or diastolic, and the point of
-    maximal intensity. It needs to be graded (@tbl-murmur-grades) and the presence of radiation
-    ascertained. @tbl-murmur-location indicates types of murmurs, their location and likely heart
-    diseases. Diastolic murmurs are difficult to appreciate for the average medical student but may
-    be present in aortic regurgitation, pulmonary regurgitation, and at the cardiac apex in cases of
-    [heart failure](cvs-heart-failure.qmd) secondary to a large left-to-right shunt. It is of note
-    that approximately 80% of murmurs in children can be categorised as "innocent murmurs" as they
-    are not associated with cardiac pathology.
+    with both bell and diaphragm. All four auscultatory areas need to be auscultated. Auscultating
+    the back (between the scapulae) and over the carotids is always prudent. First, the regular two
+    heart sounds should be determined. If muffled, they could indicate a pericardial effusion or
+    sometimes obesity. Pulmonary hypertension and an [Atrial Septal Defect](cvs-asd.qmd), for
+    instance could result in a loud or split-second heart sound. The presence of a third heart sound
+    (S3) is not always pathologic in children, but an S4 is. The presence of a murmur needs to be
+    determined. If present, it should be determined if it is systolic or diastolic and the point of
+    maximal intensity. It needs to be graded (@tbl-murmur-grades), and the presence of radiation
+    must be ascertained. @tbl-murmur-location indicates types of murmurs, their location and likely
+    heart diseases. Diastolic murmurs are difficult to appreciate for the average medical student
+    but may be present in aortic regurgitation, pulmonary regurgitation, and at the cardiac apex in
+    cases of [heart failure](cvs-heart-failure.qmd) secondary to a large left-to-right shunt.
+    Notably, approximately 80% of murmurs in children can be categorised as "innocent murmurs" as
+    they are not associated with cardiac pathology.
 
-    Other sounds need to be evaluated as well. These may include a pericardial rub which occurs in
+    Other sounds need to be evaluated as well. These may include a pericardial rub, which occurs in
     pericarditis, an ejection click heart in early systole and cases of aortic or pulmonary
     stenosis.
 
@@ -244,34 +244,32 @@ tibble(
 
 Various investigations used in the diagnosis and management of heart diseases are:
 
-1.  ***Pulse Oximetry***: The usefulness of pulse oximetry is in determining the heart rate and
-    oxygen saturation. An oxygen saturation that is lower than expected (\<95% outside the early
-    neonatal period) is considered abnormal, and a strong indication of a cyanotic heart disease in
-    the presence of a non-pathologic lung.
+1.  ***Pulse Oximetry***: Pulse oximetry helps determine heart rate and oxygen saturation. An oxygen
+    saturation lower than expected (\<95% outside the early neonatal period) is considered abnormal
+    and a strong indication of cyanotic heart disease in the presence of a non-pathologic lung.
 
 2.  ***Electrocardiogram***: The electrocardiogram is a common modality for the bedside
-    investigation of heart diseases in all age groups. It gives indications of the heart rate,
-    rhythm, chamber dilatation, wall thickness, laterality of the chambers, electrolyte
-    abnormalities and even the presence of a head injury. It is often not conclusive in many heart
-    conditions but serves as a good auxiliary test in children, especially post-surgery. There are
-    various types: The routine ECG takes just a few minutes to perform on a resting patient usually
-    lying supine. The stress ECG on the other hand is usually done with the heart under stress, as
-    may happen during an aerobic exercise. The Holter ECG on the other hand is attached to the
-    patient and continuously monitors the heart for 24 to 48 hours. This usually gives a better
-    reflection of the electrical activity of the heart over a prolonged period, instead of just a
-    brief period.
+    investigation of heart diseases in all age groups. It indicates the heart rate, rhythm, chamber
+    dilatation, wall thickness, laterality of the chambers, electrolyte abnormalities and even the
+    presence of a head injury. It is often not conclusive in many heart conditions but serves as a
+    good auxiliary test in children, especially post-surgery. There are various types: The routine
+    ECG takes just a few minutes to perform on a resting patient, usually lying supine. On the other
+    hand, the stress ECG is traditionally done with the heart under stress, as may happen during an
+    aerobic exercise. The Holter ECG, on the other hand, is attached to the patient and continuously
+    monitors the heart for 24 to 48 hours. This usually gives a better reflection of the heart's
+    electrical activity over a prolonged period instead of just a brief period.
 
 3.  ***X-ray***: A chest x-ray is very useful in diagnosing and managing heart diseases in children.
     Fortunately, it is readily available in many parts of Ghana. Both posteroanterior and lateral
     chest X-rays can be useful in assessing the individual chamber and overall heart sizes.
-    Cardiomegaly, assessed with a cardiothoracic ratio \> 60% in children is seen in many cases of
+    Cardiomegaly, assessed with a cardiothoracic ratio \> 60% in children, is seen in many cases of
     heart disease. Chest X-rays also indicate ling pathologies, often showing as opacification or
-    silhouetting. Increased lung markings for instance can be found in patients with VSD and ASD
-    while decreased lung markings are often seen in [Tetralogy of Fallot](cvs-tof.qmd) and pulmonary
-    stenosis. The shape of the heart is often an indicator of the underlying cardiac pathology. A
-    Boot-shaped heart may indicate a [Tetralofy of Fallot](cvs-tof.qmd) (@fig-cvs-x-ray-boot-shaped)
-    while a globular-shaped heart points to dilated cardiomyopathy or pericardial effusion.
-    @fig-cvs-globular-heart
+    silhouetting. Increased lung markings, for instance, can be found in patients with VSD and ASD,
+    while decreased lung markings are often seen in the [Tetralogy of Fallot](cvs-tof.qmd) and
+    pulmonary stenosis. The shape of the heart is often an indicator of the underlying cardiac
+    pathology. A Boot-shaped heart may indicate a [Tetraloy of Fallot](cvs-tof.qmd)
+    (@fig-cvs-x-ray-boot-shaped), while a globular-shaped heart points to dilated cardiomyopathy or
+    pericardial effusion. @fig-cvs-globular-heart
 
 ![Chest x-ray showing cardiomegaly and lung
 shadowing](images/cvs-globular-heart.jpg){#fig-cxrCardiomegaly fig-align="center"}
@@ -283,24 +281,25 @@ heart](images/cvs-GlobularHeart.jpg){#fig-cvs-globular-heart fig-align="center"}
 X-X-ray](images/cvs-x-ray-boot-shaped.jpg){#fig-cvs-x-ray-boot-shaped
 fig-align="center"}
 
-4.  ***Echocardiogram***: This is is rather old but new investigatory modality. Old because it has
-    been around since the 1960s, and new because it is relatively new in Ghana. It is however a very
-    useful modality of investigation. An echocardiogram is essentially an ultrasound of the heart
-    and great vessels. Its biggest advantage is its ability to visualise the heart in real-time,
-    assess systolic and diastolic functions, measure chamber sizes and wall thickness, detect
-    defects such as ventricular septal defect, determine valvular abnormalities such as stenosis and
-    regurgitation, and even assess all these under stressful situation (stress echocardiogram). The
-    video below illustrates the various echocardiographic views used in children. Unfortunately,
-    since it is very user dependent it is not commonly available in Ghana with pediatric
-    echocardiography only currently available in Accra, Kumasi, Cape Coast and Tamale.
+4.  ***Echocardiogram***: This is a rather old but new investigatory modality. It is old because it
+    has been around since the 1960s and new because it is relatively new in Ghana. It is, however, a
+    beneficial modality of investigation. An echocardiogram is essentially an ultrasound of the
+    heart and great vessels. Its most significant advantage is its ability to visualise the heart in
+    real-time, assess systolic and diastolic functions, measure chamber sizes and wall thickness,
+    detect defects such as ventricular septal defect, determine valvular abnormalities such as
+    stenosis and regurgitation, and even assess all these under stressful situation (stress
+    echocardiogram). The video below illustrates the various echocardiographic views used in
+    children. Unfortunately, since it is very user-dependent, it is not commonly available in Ghana,
+    with pediatric echocardiography only currently available in Accra, Kumasi, Cape Coast and
+    Tamale.
 
     {{< video https://www.youtube.com/watch?v=WpJuARIoR6s&t=39s >}}
 
-5.  ***Computerized tomography (CT) scan and Magnetic resonance Imaging (MRI)***: These are more
+5.  ***Computerised tomography (CT) scan and Magnetic resonance Imaging (MRI)***: These are more
     advanced modalities available for use, especially when an echocardiogram is inconclusive or
-    further study of the patient is necessary. A CT scan uses a series of X-rays taken at different
-    angles to generate the image and does not the complication of significant X-ray radiation
-    exposure. Both modalities can employ the use of contrast to delineate vessels.
+    further study of the patient is necessary. A CT scan generates the image using a series of
+    X-rays taken at different angles without the complication of significant X-ray radiation
+    exposure. Both modalities can employ contrast to delineate vessels.
 
-6.  ***Others***: Other specialised investigatory modalities are used as required. These include
-    cardiac catheterization in a specialised catheter laboratory.
+6.  ***Others***: Other specialised investigatory modalities are used as required, including cardiac
+    catheterisation in a specialised catheter laboratory.

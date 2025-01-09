@@ -11,9 +11,9 @@ An Atrial Septal Defect (ASD) is a defect in the wall separating the left and ri
 ## Incidence/Prevalence
 
 It is the second most common congenital heart disease and may occur in as much as 25% of all
-congenital heart disease patients. It is thought to have a small female preponderance but in a
+congenital heart disease patients. It is thought to have a small female preponderance. Still, in a
 compilation of all electrocardiogram cases in Kumasi, it formed 26% of the patients and showed no
-difference in incidence between sexes. There are 4 main types, Secundum ASD (50-70%), Primum ASD
+difference in incidence between sexes. There are four main types: Secundum ASD (50-70%), Primum ASD
 (\~30%), Sinus Venosus ASD and Coronary sinus ASD. @fig-csv-asd
 
 ![Schematic drawing of an Atrial Septal Defect](images/cvs-asd.jpg){#fig-csv-asd
@@ -21,31 +21,31 @@ fig-align="center"}
 
 ## Aetiology
 
-Most ASDs are thought to occur sporadically but there are recorded associations with some genetic
-defects and syndromes. [@caputo2005] Prominent among these are Holt-Oram, Noonan,
+Most ASDs are thought to occur sporadically, but there are recorded associations with some genetic
+defects and syndromes. [@caputo2005] Among these are Holt-Oram, [Noonan](synd-noonan.qmd),
 [Down](synd-down.qmd), and Budd-Chiari syndrome.
 
 ## Pathophysiology
 
-Since the pressure in the left atrium is higher than that of the right, there is shunting from the
-high oxygen-content blood in the left atrium to the right atrium. Thus an uncomplicated ASD is
-**acyanotic**. The shunting also leads to volume overload of the right atrium, right ventricle,
+Since the pressure in the left atrium is higher than that of the right, the high oxygen-content
+blood shunts from the left atrium to the low oxygen-content right atrium. Thus an uncomplicated ASD
+is **acyanotic**. The shunting also leads to volume overload of the right atrium, right ventricle,
 pulmonary artery and lungs. This consequently results in dilatation of the right atrium, right
 ventricle and pulmonary artery, and pulmonary oedema. The low pressure in the atria implies low
 pressure in the right ventricle, pulmonary artery and lungs. This reduces the extent of pulmonary
-oedema and subsequently overt heart failure in a child with ASD, compared to other congenital heart
-defects such as [ventricular septal defects](cvs-vsd.qmd). However, longstanding long-standing
+oedema and, subsequently, overt heart failure in a child with ASD, compared to other congenital
+heart defects such as [ventricular septal defects](cvs-vsd.qmd). However, longstanding long-standing
 lesions or relatively large ones, especially those with a pulmonary-to-systemic flow ratio of 2 or
-more could lead to heart failure, and pulmonary hypertension after about 15 to 20 years with
+more, could lead to heart failure and pulmonary hypertension after about 15 to 20 years with
 subsequent reversal of the shunt.
 
 ## Signs and symptoms
 
 Most children with an atrial septal defect are without overt symptoms. However, those with
 relatively large defects with a high Qp:Qs may result in [heart failure](cvs-heart-failure.qmd).
-Therefore many of these patients till now have been diagnosed incidentally when they for instance
-report to the health institution for another complaint. They tend to have slender bodies, and
-reduced exercise tolerance.
+Therefore, many of these patients have been diagnosed incidentally when they, for instance, report
+to the health institution for another complaint. They tend to have slender bodies and reduced
+exercise tolerance.
 
 Auscultation usually reveals a widely fixed-split second heart sound and an ejection systolic murmur
 of grade 2/3 to 3/6, loudest at the left upper sternal border. Unfortunately, many ASDs are silent
@@ -53,7 +53,7 @@ as well. These properties lead to many undiagnosed ASD that are subsequently see
 
 ## Investigations
 
--   At the bedside pulse oximetry would likely reveal a normal SpO~2~ as this is an acyanotic
+-   At the bedside, pulse oximetry would likely reveal a normal SpO~2~ as this is an acyanotic
     congenital heart disease.
 -   A chest X-ray could show cardiomegaly with dilatation of the right side of the heart. Prominence
     of the pulmonary artery and an increase in vascular markings may also be present.
@@ -61,16 +61,16 @@ as well. These properties lead to many undiagnosed ASD that are subsequently see
     and a right atrial enlargement.
 -   An echocardiogram is diagnostic as it visualises the defect, quantifies the shunt and other
     chamber sizes, and identifies possible complications.
--   Cardiac catheterisation is often done in long-standing cases to detect complications possibly
-    pulmonary hypertension and quantify the shunt volume.
+-   Cardiac catheterisation is often done in long-standing cases to detect complications, possibly
+    pulmonary hypertension, and quantify the shunt volume.
 
 ## Treatment
 
 Treatment depends on the age at diagnosis and the size of the defect. For a small defect with no
-signs of heart failure, and in s child less than 3 years counselling and regular review may be what
-is required. The echocardiogram should be repeated at 4 years and surgical or device closure
-considered if the defect is persistent. For large defects heart failure medications can be started
-as planning of immediate surgical closure is being made. Closure of the ASD is by use of a device or
+signs of heart failure, and in a child less than 3 years, counselling and regular review may be what
+is required. The echocardiogram should be repeated at 4 years, and surgical or device closure should
+be considered if the defect persists. For large defects, heart failure medications can be started as
+planning of immediate surgical closure is being made. Closure of the ASD is by use of a device or,
 as may occur more often in Ghana, by open heart surgery. There is no need for exercise restriction
 or prophylaxis for endocarditis.
 
@@ -81,7 +81,7 @@ associated symptoms and complications go a long way in improving quality of life
 
 ## Complication
 
--   Many patients with ASDs may not grow appropriately and rather become thin.
+-   Many patients with ASDs may not grow appropriately and instead become thin.
 -   Arrhythmias may arise because of the dilated right atrium.
 -   Though there are reported cases of paradoxical strokes in patients with ASDs, it remains an
     uncommon occurrence.
@@ -90,8 +90,8 @@ associated symptoms and complications go a long way in improving quality of life
 ## Prognosis
 
 Most ASDs will close spontaneously by 4 years, with smaller ones having a higher closure rate than
-bigger ones. A long-standing large defect however leads to chronic heart failure and pulmonary
-hypertension in early adulthood. Prognosis is generally good with many living into adulthood even
+bigger ones. A long-standing large defect, however, leads to chronic heart failure and pulmonary
+hypertension in early adulthood. Prognosis is generally good, with many living into adulthood, even
 without corrective surgery. Post-surgical mortality is currently less than 0.5%. The patient will
 need little long-term follow-up after the corrective surgery.
 
