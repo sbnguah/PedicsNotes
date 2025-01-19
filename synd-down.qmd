@@ -2,3 +2,211 @@
 title: "Down Syndrome"
 author: "xxx"
 ---
+
+## Introduction
+
+Down syndrome, also referred to as Trisomy 21, is the most common chromosomal disorder,
+characterized by a range of physical, developmental, and cognitive abnormalities. First described by
+John Langdon Down in 1866, it occurs due to an extra copy of chromosome 21, which results in
+overexpression of the genes on this chromosome. Affecting approximately 1 in 700 live births
+worldwide, Down syndrome is seen across all racial, ethnic, and socioeconomic groups. This condition
+presents with varying degrees of intellectual disability, distinctive physical features, and a
+predisposition to certain medical conditions. Advances in prenatal screening, early interventions,
+and supportive care have significantly improved the quality of life and life expectancy for
+individuals with Down syndrome.
+
+## **Definition**
+
+Down syndrome is a congenital chromosomal disorder caused by trisomy 21, resulting from an extra
+chromosome 21 in whole or part. It is a multisystem condition affecting physical development,
+cognitive abilities, and susceptibility to specific medical disorders. Based on the genetic cause,
+Down syndrome is classified into three types:
+
+1.  Trisomy 21 (95%): A result of nondisjunction during meiosis, leading to an extra chromosome 21
+    in all cells.
+
+2.  Translocation (4%): A structural rearrangement where a part of chromosome 21 is attached to
+    another chromosome, often chromosome 14.
+
+3.  Mosaicism (1%): A mixture of normal and trisomic cells due to a post-zygotic nondisjunction
+    event.
+
+## **Genetics**
+
+The extra genetic material from chromosome 21 disrupts normal development and leads to the
+phenotypic features of Down syndrome. Chromosome 21 is one of the smallest autosomes and contains
+around 200–300 genes. Overexpression of key genes contributes to the syndrome's clinical
+manifestations. These include:
+
+1.  DYRK1A: Implicated in cognitive impairment.
+
+2.  APP (Amyloid Precursor Protein): Associated with early-onset Alzheimer’s disease.
+
+3.  SOD1 (Superoxide Dismutase 1): Contributes to oxidative stress.
+
+4.  ETS2: May influence craniofacial development.
+
+Advanced maternal age is a significant risk factor due to increased nondisjunction during oocyte
+maturation. The risk of Down syndrome increases with maternal age, from about 1 in 1,500 at age 20
+to 1 in 100 at age 40.
+
+## **Clinical Features**
+
+Individuals with Down syndrome exhibit a characteristic phenotype along with a range of medical and
+developmental complications. These include:
+
+1.  Craniofacial Features:
+
+    -   Flat facial profile and nasal bridge
+
+    -   Brachycephaly (short and broad skull)
+
+    -   Upward-slanting palpebral fissures
+
+    -   Epicanthal folds
+
+    -   Low-set, small ears
+
+    -   Protruding tongue and small oral cavity
+
+2.  Musculoskeletal Features:
+
+    -   Hypotonia (generalized low muscle tone)
+
+    -   Short stature
+
+    -   Joint hypermobility
+
+    -   Single transverse palmar crease (Simian crease)
+
+    -   Clinodactyly (inward curvature of the fifth finger)
+
+3.  Neurological and Cognitive Features:
+
+    -   Mild to moderate intellectual disability (average IQ: 50–70)
+
+    -   Delayed developmental milestones (e.g., sitting, walking, and speech)
+
+    -   Early-onset Alzheimer’s disease (in 50% by their 50s)
+
+4.  Congenital Anomalies:
+
+    -   Cardiac: Approximately 50% have congenital heart defects, primarily atrioventricular septal
+        defects (AVSD) and ventricular septal defects (VSD).
+
+    -   Gastrointestinal: Duodenal atresia, Hirschsprung disease, and annular pancreas are common
+
+5.  Medical Comorbidities:
+
+    -   Endocrine: Hypothyroidism is frequently observed.
+
+    -   Hematological: Increased risk of leukemia, particularly acute lymphoblastic leukemia (ALL)
+        and acute megakaryoblastic leukemia (AMKL).
+
+    -   Immunological: Impaired immune responses lead to recurrent infections.
+
+    -   Respiratory: Obstructive sleep apnea due to airway abnormalities.
+
+    -   Ophthalmic: Cataracts, refractive errors, and strabismus.
+
+    -   Auditory: Conductive and sensorineural hearing loss.
+
+## **Investigations** 
+
+Diagnosis of Down syndrome can be made prenatally or postnatally using a combination of clinical
+evaluation and laboratory tests.
+
+1.  Prenatal Screening:
+
+    -   Non-Invasive Methods:
+
+        -   First-Trimester Screening: Combines maternal serum markers (β-hCG and PAPP-A) with
+            nuchal translucency measurement via ultrasound.
+        -   Second-Trimester Screening: Measures serum markers like AFP, β-hCG, estriol, and
+            inhibin-A (quadruple test).
+        -   Non-Invasive Prenatal Testing (NIPT): Analyzes cell-free fetal DNA in maternal blood
+            with high sensitivity and specificity.
+
+    -   Invasive Diagnostic Methods:
+
+        -   Chorionic Villus Sampling (CVS): Performed at 10–13 weeks of gestation.
+        -   Amniocentesis: Performed after 15 weeks of gestation.
+        -   Cordocentesis: Used for advanced gestational age
+
+2.  Postnatal Diagnosis:
+
+    -   Clinical Evaluation: Characteristic physical features and hypotonia are noted.
+    -   Cytogenetic Testing: Karyotyping confirms the diagnosis by identifying trisomy 21.
+        Fluorescence in situ hybridization (FISH) or chromosomal microarray analysis provides rapid
+        results.
+
+3.  Additional Investigations:
+
+    -   Echocardiogram to detect congenital heart defects.
+
+    -   Thyroid function tests (TSH and free T4) to screen for hypothyroidism.
+
+    -   Complete blood count (CBC) for hematologic abnormalities.
+
+    -   Hearing and vision assessments.
+
+    -   Polysomnography for suspected obstructive sleep apnea.
+
+## **Treatment**
+
+There is no cure for Down syndrome, but early intervention, medical management, and supportive care
+can significantly improve outcomes.
+
+1.  Developmental Interventions:
+
+    -   Early therapy programs, including speech, occupational, and physical therapy.
+
+    -   Special education tailored to cognitive abilities and needs.
+
+2.  Medical Management:
+
+    -   Surgical correction of congenital anomalies (e.g., AVSD or duodenal atresia).
+
+    -   Thyroid hormone replacement for hypothyroidism.
+
+    -   Antibiotics for recurrent infections.
+
+    -   Management of obstructive sleep apnea with CPAP or adenotonsillectomy.
+
+    -   Regular follow-up for screening and management of complications like leukemia or Alzheimer’s
+        disease.
+
+3.  Psychosocial Support:
+
+    -   Enabling social inclusion through community programs.
+
+    -   Support groups for families and caregivers.
+
+    -   Promoting independent living skills in adulthood
+
+## **Counselling**
+
+Comprehensive genetic and psychosocial counseling is essential for families of individuals with Down
+syndrome.
+
+1.  Prenatal Counselling:
+    -   Educate expectant parents about the condition, available diagnostic methods, and outcomes.
+    -   Provide psychological support to help them make informed decisions regarding pregnancy
+        continuation or termination.
+2.  Postnatal Counseling:
+    -   Offer guidance on medical care, developmental milestones, and prognosis.
+    -   Address the emotional and social concerns of the family.
+    -   Encourage joining support groups and advocacy networks.
+3.  Genetic Counseling:
+    -   For translocation Down syndrome, parents should undergo karyotyping to determine if one is a
+        carrier of a balanced translocation, which increases the recurrence risk in future
+        pregnancies.
+
+## **Conclusion**
+
+Down syndrome is a complex chromosomal disorder requiring a multidisciplinary approach to diagnosis,
+treatment, and management. Advances in prenatal screening and medical care have improved the life
+expectancy and quality of life for individuals with Down syndrome. However, ongoing research into
+the genetic and molecular basis of the condition holds promise for novel therapeutic interventions.
+Holistic care, including medical, developmental, and psychosocial support, is crucial in empowering
+individuals with Down syndrome to lead fulfilling lives.

@@ -2,3 +2,167 @@
 title: "Edward's Syndrome"
 author: "xxx"
 ---
+
+**Introduction**
+
+Edward syndrome, or Trisomy 18, is the second most common autosomal trisomy after Down syndrome,
+associated with a high rate of perinatal mortality and profound developmental abnormalities. First
+described by John Hilton Edward in 1960, the condition arises due to an extra copy of chromosome 18.
+The estimated prevalence is approximately 1 in 5,000 live births, but the actual incidence is higher
+due to early embryonic and fetal losses. Edward syndrome has a significant impact on physical,
+cognitive, and systemic development, with most affected infants demonstrating severe disability and
+reduced survival.
+
+**Definition**
+
+Edward syndrome is a chromosomal disorder caused by the presence of an extra copy of chromosome 18,
+resulting in multisystem abnormalities. The condition is characterized by intrauterine growth
+restriction (IUGR), distinctive craniofacial and limb features, and major organ defects. Based on
+the cytogenetic findings, Edward syndrome is classified into:
+
+1.  **Full Trisomy 18 (90%)**: The extra chromosome 18 in all cells due to non-disjunction during
+    meiosis.
+2.  **Mosaic Trisomy 18 (5–10%)**: Some cells have a normal karyotype, while others exhibit trisomy
+    18 due to post-zygotic non-disjunction.
+3.  **Partial Trisomy 18 (\<1%)**: A part of chromosome 18 is duplicated and attached to another
+    chromosome.
+
+**Genetics**
+
+The underlying cause of Edward syndrome is the presence of three copies of chromosome 18, which
+leads to the overexpression of genes located on this chromosome. Chromosome 18 contains
+approximately 500–600 genes, many of which are involved in critical developmental pathways.
+
+1.  **Mechanism of Trisomy 18**:
+    -   The most common cause is **meiotic nondisjunction**, particularly in maternal gametes.
+    -   Advanced maternal age is a significant risk factor, as with other trisomies.
+2.  **Mosaicism** occurs when nondisjunction occurs after fertilization, resulting in a mixture of
+    normal and trisomic cells. Mosaic cases often have milder phenotypes than full trisomy.
+3.  **Inheritance**:
+    -   Most cases are sporadic and not inherited.
+    -   Rarely, partial trisomy may result from a balanced translocation in one parent.
+
+**Clinical Features**
+
+Edward syndrome presents a constellation of physical, neurological, and systemic abnormalities,
+which are often apparent prenatally or at birth.
+
+1.  **Prenatal Features**:
+    -   Severe intrauterine growth restriction (IUGR)
+    -   Polyhydramnios or oligohydramnios
+    -   Structural anomalies detectable on fetal ultrasound (e.g., cardiac defects, clenched hands,
+        and overlapping fingers)
+2.  **Craniofacial Features**:
+    -   Microcephaly
+    -   Prominent occiput
+    -   Low-set, malformed ears
+    -   Micrognathia (undersized jaw)
+    -   Cleft lip and/or palate (less common)
+3.  **Limb and Skeletal Abnormalities**:
+    -   Clenched hands with overlapping fingers
+    -   Rocker-bottom feet
+    -   Hypoplastic nails
+    -   Short sternum
+4.  **Neurological Features**:
+    -   Severe intellectual disability
+    -   Hypotonia or hypertonia
+    -   Seizures
+5.  **Cardiac Abnormalities**:
+    -   Present in 90–95% of cases
+    -   The most common defects are ventricular septal defects (VSD), atrial septal defects (ASD),
+        and patent ductus arteriosus (PDA).
+6.  **Other Systemic Abnormalities**:
+    -   **Gastrointestinal**: Omphalocele, esophageal atresia, or malrotation.
+    -   **Renal**: Horseshoe kidney, hydronephrosis, or renal agenesis.
+    -   **Respiratory**: Hypoplastic lungs in some cases.
+7.  **Postnatal Features**:
+    -   Failure to thrive due to feeding difficulties.
+    -   Persistent respiratory infections.
+    -   Limited spontaneous movement.
+
+**Investigations**
+
+A combination of prenatal and postnatal diagnostic tools confirms Edward syndrome and identifies
+associated anomalies.
+
+1.  **Prenatal Investigations**:
+    -   **Ultrasound Findings**:
+        -   IUGR
+        -   Structural anomalies (e.g., cardiac defects, clenched hands, omphalocele)
+    -   **Maternal Serum Screening**:
+        -   Low alpha-fetoprotein (AFP) levels, unconjugated estriol (uE3), and free β-hCG.
+    -   **Non-Invasive Prenatal Testing (NIPT)**:
+        -   Detects fetal cell-free DNA in maternal blood with high sensitivity and specificity for
+            trisomy 18
+    -   **Invasive Diagnostic Testing**:
+        -   **Amniocentesis** (after 15 weeks): Definitive karyotyping to confirm trisomy 18.
+        -   **Chorionic Villus Sampling (CVS)** (10–13 weeks): Early diagnostic confirmation
+2.  **Postnatal Investigations**:
+    -   **Cytogenetic Testing**:
+        -   Karyotyping remains the gold standard for diagnosis.
+        -   Fluorescence in situ hybridization (FISH) or chromosomal microarray analysis for rapid
+            diagnosis.
+    -   **Echocardiogram**:
+        -   Essential to identify and evaluate congenital heart defects.
+    -   **Renal Ultrasound**:
+        -   Detects structural anomalies like horseshoe kidney or hydronephrosis.
+    -   **Other Tests**:
+        -   Brain imaging (MRI or CT) for structural abnormalities.
+        -   Hearing and vision screening.
+
+**Treatment**
+
+Edward syndrome does not have a curative treatment, and management focuses on supportive and
+palliative care to improve the quality of life. Treatment depends on the severity of symptoms and
+associated anomalies.
+
+1.  **Neonatal Care**:
+    -   Support for feeding difficulties, often requiring nasogastric tube feeding.
+    -   Management of respiratory distress with oxygen therapy or mechanical ventilation.
+2.  **Cardiac Care**:
+    -   Severe cardiac defects may require surgical intervention, but many families opt for
+        conservative management due to the poor prognosis.
+3.  **Surgical Management**:
+    -   Repairs for gastrointestinal anomalies like esophageal atresia or omphalocele if compatible
+        with survival.
+4.  **Developmental Support**:
+    -   Physical, occupational, and speech therapy can be introduced to optimize motor skills and
+        communication, although progress is often limited.
+5.  **Palliative Care**:
+    -   Comfort-focused care is essential for managing pain, feeding issues, and respiratory
+        infections.
+    -   Hospice care is often recommended for severe cases.
+
+**Counselling**
+
+Counseling is vital to managing Edward syndrome and providing support to families before and after
+diagnosis.
+
+1.  **Prenatal Counselling**:
+    -   Inform parents about the diagnosis, prognosis, and potential outcomes.
+    -   Discuss available options, including continuation or termination of pregnancy.
+    -   Offer psychological support and refer to genetic counseling
+2.  **Postnatal Counselling**:
+    -   Educate families on the medical challenges and potential interventions.
+    -   Provide information on support systems and resources.
+    -   Encourage the involvement of multidisciplinary teams, including neonatologists, geneticists,
+        and social workers.
+3.  **Genetic Counselling**:
+    -   For families with a history of Edward syndrome, offer genetic testing to identify potential
+        translocations or chromosomal abnormalities in parents.
+    -   Explain recurrence risks:
+        -   \<1% for full trisomy 18 due to de novo events.
+        -   Higher if a parent is a carrier of a balanced translocation.
+4.  **Psychosocial Support**:
+    -   Assist families in coping with grief and decision-making.
+    -   Connect them with support groups and advocacy organizations
+
+**Conclusion**
+
+Edward syndrome is a severe chromosomal disorder characterized by profound developmental and
+physical abnormalities, with a high risk of perinatal mortality. Advances in prenatal diagnostic
+techniques allow for early detection and informed decision-making. While there is no definitive
+cure, multidisciplinary care focusing on symptom management, supportive therapy, and counseling is
+critical in improving the quality of life for affected individuals and their families. Further
+research into the molecular mechanisms of trisomy 18 may offer insights into potential therapeutic
+strategies in the future.

@@ -99,7 +99,7 @@ include:
 
 ::: {#tbl-genetic-synds}
 | Genetic syndrome | \% with CHD | Cardiac anomalies |
-|----------------------------------|----------------------------------|----------------------------------|
+|----|----|----|
 | [Down Syndrome](synd-down.qmd) | 40 to 50 | Atrial Septal Defect, Ventricular Septal Defect, Atrioventricular Canal Defect, Patent Ductus Arteriosus, Tetralogy of Fallot |
 | [Turner's syndrome](synd-turners.qmd) | 25 to 45 | Coarctation of the Aorta. Bicuspid Aortic Valve, Aortic Stenosis, Hypoplastic left heart syndrome |
 | [DiGeorge syndrome](synd-digeorge.qmd) | 70 to 75 | Aortic arch anomalies, Truncus arteriosus, Tetralogy of Fallot |
