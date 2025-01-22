@@ -1080,7 +1080,7 @@
     "href": "cvs-coa.html",
     "title": "26  Coarctation of the Aorta",
     "section": "",
-    "text": "26.1 Definition\nCoarctation of the aorta (CoA) is a narrowing of the aorta, the results of which could range from asymptomatic, hypertension in children and early adults, to acute neonatal emergency.",
+    "text": "26.1 Definition\nCoarctation of the aorta (CoA) is a congenital heart defect characterized by the narrowing of the aorta, the major artery responsible for carrying oxygen-rich blood from the heart to the rest of the body. This condition accounts for approximately 5-8% of all congenital heart defects in children and is more prevalent in males than females. CoA can present with varying degrees of severity and may occur as an isolated defect or associated with other cardiac anomalies, such as bicuspid aortic valve, ventricular septal defect (VSD), or complex syndromes like Turner syndrome.",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Cardiology</span>",
       "<span class='chapter-number'>26</span>  <span class='chapter-title'>Coarctation of the Aorta</span>"
@@ -1098,66 +1098,44 @@
     ]
   },
   {
-    "objectID": "cvs-coa.html#incidenceprevalence",
-    "href": "cvs-coa.html#incidenceprevalence",
+    "objectID": "cvs-coa.html#anatomy-and-pathophysiology",
+    "href": "cvs-coa.html#anatomy-and-pathophysiology",
     "title": "26  Coarctation of the Aorta",
-    "section": "26.2 Incidence/prevalence",
-    "text": "26.2 Incidence/prevalence\nWorldwide, CoA is thought to occur in about 6-10% of children with congenital heart diseases. A review of the echocardiographic findings in Kumasi however resulted in a prevalence of 1.3%.",
+    "section": "26.2 Anatomy and Pathophysiology",
+    "text": "26.2 Anatomy and Pathophysiology\nThe aorta plays a crucial role in distributing oxygenated blood from the heart’s left ventricle to the systemic circulation. In CoA, the narrowing typically occurs at the isthmus of the aorta, which is located distal to the left subclavian artery and near the ductus arteriosus, a fetal blood vessel that normally closes after birth. The severity of CoA depends on the degree of narrowing, which can obstruct blood flow and increase the heart’s afterload.\nThe left ventricle must work harder in children to pump blood through the narrowed segment, leading to left ventricular hypertrophy. Prolonged obstruction may result in high blood pressure (hypertension) in the upper body and diminished blood flow to the lower body. Collateral circulation often develops as the body compensates using smaller vessels to bypass the narrowing, but this is not always sufficient to normalize blood flow.",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Cardiology</span>",
       "<span class='chapter-number'>26</span>  <span class='chapter-title'>Coarctation of the Aorta</span>"
     ]
   },
   {
-    "objectID": "cvs-coa.html#aetiology",
-    "href": "cvs-coa.html#aetiology",
+    "objectID": "cvs-coa.html#clinical-presentation",
+    "href": "cvs-coa.html#clinical-presentation",
     "title": "26  Coarctation of the Aorta",
-    "section": "26.3 Aetiology",
-    "text": "26.3 Aetiology",
+    "section": "26.3 Clinical Presentation",
+    "text": "26.3 Clinical Presentation\nThe clinical manifestations of CoA in children vary based on the severity of the narrowing. Severe cases may present in infancy, while milder forms might remain undetected until adolescence or adulthood.\n\n26.3.1 Infants:\n\nSevere CoA may cause critical illness within the first few weeks of life, especially after the ductus arteriosus closes.\nSymptoms include poor feeding, failure to thrive, lethargy, respiratory distress, and signs of heart failure.\nPulses in the lower extremities may be weak or absent, and blood pressure measurements reveal significant upper-to-lower extremity discrepancies.\n\n\n\n26.3.2 Older Children:\n\nMilder CoA might be asymptomatic or present with less obvious symptoms, such as fatigue, leg pain during exercise (claudication), headaches, or nosebleeds.\nHypertension is common in older children and may be detected incidentally during routine health check-ups.\nPhysical examination often reveals a systolic murmur heard best over the back, diminished or delayed femoral pulses, and upper extremity hypertension relative to the lower extremities.",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Cardiology</span>",
       "<span class='chapter-number'>26</span>  <span class='chapter-title'>Coarctation of the Aorta</span>"
     ]
   },
   {
-    "objectID": "cvs-coa.html#pathophysiology",
-    "href": "cvs-coa.html#pathophysiology",
+    "objectID": "cvs-coa.html#diagnostic-evaluation",
+    "href": "cvs-coa.html#diagnostic-evaluation",
     "title": "26  Coarctation of the Aorta",
-    "section": "26.4 Pathophysiology",
-    "text": "26.4 Pathophysiology",
+    "section": "26.4 Diagnostic Evaluation",
+    "text": "26.4 Diagnostic Evaluation\nTimely diagnosis of CoA is critical to prevent complications and ensure appropriate management. Several diagnostic tools are employed to confirm the condition and assess its severity.\n\nPhysical Examination:\n\nBlood pressure measurements in all four extremities to identify discrepancies.\nPalpation of pulses to detect reduced or absent femoral pulses.\nAuscultation for murmurs and other abnormal heart sounds.\n\nImaging Studies:\n\nChest X-ray: May show rib notching (caused by collateral vessels) and a characteristic “3 sign” of the aorta.\nEchocardiography: The primary diagnostic tool for visualizing the narrowed segment of the aorta and assessing associated anomalies.\nMagnetic Resonance Imaging (MRI) or Computed Tomography (CT): Provides detailed anatomical information, especially in older children or when planning surgical interventions.\n\nCardiac Catheterization:\n\nInvasive procedures are used for definitive diagnosis in certain cases and for interventional treatment.\nMeasures pressure gradients across the narrowed segment and evaluates the severity of obstruction.",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Cardiology</span>",
       "<span class='chapter-number'>26</span>  <span class='chapter-title'>Coarctation of the Aorta</span>"
     ]
   },
   {
-    "objectID": "cvs-coa.html#signs-and-symptoms",
-    "href": "cvs-coa.html#signs-and-symptoms",
+    "objectID": "cvs-coa.html#management",
+    "href": "cvs-coa.html#management",
     "title": "26  Coarctation of the Aorta",
-    "section": "26.5 Signs and symptoms",
-    "text": "26.5 Signs and symptoms",
-    "crumbs": [
-      "<span style='font-weight:bold; color: black;'>Cardiology</span>",
-      "<span class='chapter-number'>26</span>  <span class='chapter-title'>Coarctation of the Aorta</span>"
-    ]
-  },
-  {
-    "objectID": "cvs-coa.html#investigations",
-    "href": "cvs-coa.html#investigations",
-    "title": "26  Coarctation of the Aorta",
-    "section": "26.6 Investigations",
-    "text": "26.6 Investigations",
-    "crumbs": [
-      "<span style='font-weight:bold; color: black;'>Cardiology</span>",
-      "<span class='chapter-number'>26</span>  <span class='chapter-title'>Coarctation of the Aorta</span>"
-    ]
-  },
-  {
-    "objectID": "cvs-coa.html#treatment",
-    "href": "cvs-coa.html#treatment",
-    "title": "26  Coarctation of the Aorta",
-    "section": "26.7 Treatment",
-    "text": "26.7 Treatment",
+    "section": "26.5 Management",
+    "text": "26.5 Management\nThe treatment of CoA depends on the child’s age, the severity of the condition, and the presence of associated cardiac defects. The primary goal is to relieve the obstruction, restore normal blood flow, and prevent complications.\n\nMedical Management:\n\nIn neonates with severe CoA and ductal-dependent circulation, prostaglandin E1 infusion maintains ductus arteriosus patency and ensures adequate lower body perfusion.\nMedications such as inotropes and diuretics may be administered to manage heart failure symptoms before definitive treatment.\n\nSurgical Repair:\n\nSurgical correction is often the preferred treatment for infants and young children with severe CoA.\nTechniques include resection of the narrowed segment with end-to-end anastomosis, subclavian flap aortoplasty, or patch augmentation.\nSurgery is typically performed during infancy or early childhood to minimize long-term complications and avoid the development of significant collateral circulation.\n\nCatheter-Based Interventions:\n\nBalloon angioplasty and stent placement are minimally invasive alternatives, particularly in older children and adolescents.\nThese procedures are often used for coarctation after initial surgical repair or in cases where surgery is not feasible",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Cardiology</span>",
       "<span class='chapter-number'>26</span>  <span class='chapter-title'>Coarctation of the Aorta</span>"
@@ -1167,8 +1145,19 @@
     "objectID": "cvs-coa.html#complications",
     "href": "cvs-coa.html#complications",
     "title": "26  Coarctation of the Aorta",
-    "section": "26.8 Complications",
-    "text": "26.8 Complications",
+    "section": "26.6 Complications",
+    "text": "26.6 Complications\nUntreated or inadequately treated CoA can lead to significant complications, including:\n\nPersistent hypertension, even after successful repair.\nAortic aneurysm or dissection, particularly in cases of long-standing hypertension.\nHeart failure due to left ventricular strain.\nPremature coronary artery disease and cerebrovascular events, such as stroke.\nInfective endocarditis, especially in cases with associated valvular abnormalities.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Cardiology</span>",
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'>Coarctation of the Aorta</span>"
+    ]
+  },
+  {
+    "objectID": "cvs-coa.html#long-term-outcomes",
+    "href": "cvs-coa.html#long-term-outcomes",
+    "title": "26  Coarctation of the Aorta",
+    "section": "26.7 Long-Term Outcomes",
+    "text": "26.7 Long-Term Outcomes\nWith advancements in diagnostic techniques and treatment modalities, the prognosis for children with CoA has improved significantly. However, long-term follow-up is essential to monitor for residual or recurrent narrowing, hypertension, and other complications. Lifelong care under a cardiologist familiar with congenital heart defects is recommended.",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Cardiology</span>",
       "<span class='chapter-number'>26</span>  <span class='chapter-title'>Coarctation of the Aorta</span>"
@@ -1178,19 +1167,30 @@
     "objectID": "cvs-coa.html#prognosis",
     "href": "cvs-coa.html#prognosis",
     "title": "26  Coarctation of the Aorta",
-    "section": "26.9 Prognosis",
-    "text": "26.9 Prognosis",
+    "section": "26.8 Prognosis",
+    "text": "26.8 Prognosis\nThe long-term outlook for children with CoA largely depends on the timing and success of treatment. Early intervention typically results in good outcomes, with most children leading normal or near-normal lives. However, ongoing surveillance is crucial to address potential issues such as:\n\nResidual or recurrent coarctation.\nSystemic hypertension.\nAssociated cardiac or vascular anomalies.",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Cardiology</span>",
       "<span class='chapter-number'>26</span>  <span class='chapter-title'>Coarctation of the Aorta</span>"
     ]
   },
   {
-    "objectID": "cvs-coa.html#differential-diagnosis",
-    "href": "cvs-coa.html#differential-diagnosis",
+    "objectID": "cvs-coa.html#prevention-and-genetic-considerations",
+    "href": "cvs-coa.html#prevention-and-genetic-considerations",
     "title": "26  Coarctation of the Aorta",
-    "section": "26.10 Differential diagnosis",
-    "text": "26.10 Differential diagnosis",
+    "section": "26.9 Prevention and Genetic Considerations",
+    "text": "26.9 Prevention and Genetic Considerations\nSince CoA is a congenital defect, prevention strategies focus on early detection and management. Prenatal ultrasounds can sometimes identify CoA in utero, especially in high-risk pregnancies. Genetic counseling may be beneficial for families with a history of congenital heart defects or syndromes like Turner syndrome, which are associated with a higher risk of CoA.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Cardiology</span>",
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'>Coarctation of the Aorta</span>"
+    ]
+  },
+  {
+    "objectID": "cvs-coa.html#conclusion",
+    "href": "cvs-coa.html#conclusion",
+    "title": "26  Coarctation of the Aorta",
+    "section": "26.10 Conclusion",
+    "text": "26.10 Conclusion\nCoarctation of the aorta is a significant congenital heart defect that poses challenges in diagnosis and management, particularly in infants and young children. Advances in medical and surgical interventions have greatly improved outcomes, but timely recognition and treatment remain critical. Long-term follow-up and a multidisciplinary approach involving pediatric cardiologists, surgeons, and primary care providers are essential to optimize the health and well-being of affected children.",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Cardiology</span>",
       "<span class='chapter-number'>26</span>  <span class='chapter-title'>Coarctation of the Aorta</span>"
@@ -1355,40 +1355,29 @@
     "href": "cvs-rhd.html",
     "title": "28  Rheumatic Heart Disease",
     "section": "",
-    "text": "28.1 Definition\nRheumatic Heart Disease (RHD) is an acquired heart disease and the only permanent sequel of Rheumatic Fever (RF). Thus, it is acquired after an episode of RF. RHD should, therefore, be distinguished from RF as they are two different but closely related disease entities.",
+    "text": "28.1 Introduction\nRheumatic heart disease (RHD) is a chronic condition resulting from acute rheumatic fever (ARF), an autoimmune response to group A beta-hemolytic streptococcal (GAS) pharyngitis. It is characterized by permanent damage to the heart valves, particularly the mitral and aortic valves, due to repeated episodes of inflammation and scarring. RHD remains a significant cause of morbidity and mortality among children and young adults in low- and middle-income countries. Early diagnosis and management of ARF and RHD are critical to prevent severe complications and improve outcomes.",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Cardiology</span>",
       "<span class='chapter-number'>28</span>  <span class='chapter-title'>Rheumatic Heart Disease</span>"
     ]
   },
   {
-    "objectID": "cvs-rhd.html#incidenceprevalence",
-    "href": "cvs-rhd.html#incidenceprevalence",
+    "objectID": "cvs-rhd.html#incidence-and-prevalence",
+    "href": "cvs-rhd.html#incidence-and-prevalence",
     "title": "28  Rheumatic Heart Disease",
-    "section": "28.2 Incidence/prevalence",
-    "text": "28.2 Incidence/prevalence\nRHD is the most common acquired heart disease in children, with a prevalence",
+    "section": "28.2 Incidence and Prevalence",
+    "text": "28.2 Incidence and Prevalence\nRHD affects approximately 40 million people worldwide, with the highest burden in sub-Saharan Africa, South Asia, the Pacific Islands, and parts of Latin America. The global prevalence in children aged 5–15 years is estimated at 1–3 per 1,000, but it can exceed 10 per 1,000 in high-risk populations. ARF, the precursor to RHD, occurs most commonly between 5 and 15 years of age, with peak incidence following untreated or inadequately treated GAS pharyngitis.",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Cardiology</span>",
       "<span class='chapter-number'>28</span>  <span class='chapter-title'>Rheumatic Heart Disease</span>"
     ]
   },
   {
-    "objectID": "cvs-rhd.html#aetiology",
-    "href": "cvs-rhd.html#aetiology",
+    "objectID": "cvs-rhd.html#etiology",
+    "href": "cvs-rhd.html#etiology",
     "title": "28  Rheumatic Heart Disease",
-    "section": "28.3 Aetiology",
-    "text": "28.3 Aetiology",
-    "crumbs": [
-      "<span style='font-weight:bold; color: black;'>Cardiology</span>",
-      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Rheumatic Heart Disease</span>"
-    ]
-  },
-  {
-    "objectID": "cvs-rhd.html#pathophysiology",
-    "href": "cvs-rhd.html#pathophysiology",
-    "title": "28  Rheumatic Heart Disease",
-    "section": "28.4 Pathophysiology",
-    "text": "28.4 Pathophysiology",
+    "section": "28.3 Etiology",
+    "text": "28.3 Etiology\nThe primary etiology of RHD is recurrent ARF episodes triggered by an immune response to GAS infection. The following factors contribute to its development:\n\nInfectious Agent: GAS infection, particularly of the throat, is necessary to initiate the autoimmune process. Certain GAS strains (M-protein serotypes) are more rheumatogenic.\nHost Susceptibility: Genetic predisposition plays a role, with family clustering observed in affected individuals.\nEnvironmental Factors: Overcrowding, poor hygiene, and limited access to healthcare increase the risk of GAS infections and progression to ARF and RHD.\n\nRHD develops through the following sequence:\n\nGAS Pharyngitis: GAS infection elicits an immune response involving antibodies and T-cells targeting streptococcal antigens.\nMolecular Mimicry: Cross-reactivity occurs between streptococcal antigens (e.g., M protein) and human proteins in the heart, joints, brain, and skin. Autoimmune inflammation leads to tissue damage.\nAcute Rheumatic Fever: Pancarditis (endocarditis, myocarditis, and pericarditis) is the hallmark of ARF. The endocardium is most affected, leading to valvulitis.\nChronic RHD: Recurrent inflammation and scarring cause permanent valvular damage, predominantly affecting the mitral and aortic valves. Mitral stenosis is the most common lesion, followed by mitral regurgitation and aortic regurgitation.",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Cardiology</span>",
       "<span class='chapter-number'>28</span>  <span class='chapter-title'>Rheumatic Heart Disease</span>"
@@ -1398,8 +1387,8 @@
     "objectID": "cvs-rhd.html#signs-and-symptoms",
     "href": "cvs-rhd.html#signs-and-symptoms",
     "title": "28  Rheumatic Heart Disease",
-    "section": "28.5 Signs and symptoms",
-    "text": "28.5 Signs and symptoms",
+    "section": "28.4 Signs and Symptoms",
+    "text": "28.4 Signs and Symptoms\nThe clinical presentation of RHD varies based on the severity of valvular involvement and associated complications.\n\nSymptoms:\n\nFatigue and exercise intolerance\nDyspnea, initially on exertion and later at rest\nPalpitations due to arrhythmias (e.g., atrial fibrillation)\nCough and hemoptysis (in severe mitral stenosis)\nEdema and signs of heart failure in advanced cases\n\nSigns:\n\nCardiac Murmurs:\n\nMitral stenosis: Low-pitched diastolic murmur with an opening snap.\nMitral regurgitation: holosystolic murmur at the apex\nAortic regurgitation: High-pitched diastolic murmur.\n\nCardiomegaly with a displaced apex beat\nSigns of pulmonary hypertension (e.g., loud pulmonary component of S2)\nPeripheral edema, hepatomegaly, and ascites in heart failure\n\nHistory of ARF:\n\nClinical features such as migratory polyarthritis, carditis, chorea, subcutaneous nodules, or erythema marginatum support prior episodes of ARF.",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Cardiology</span>",
       "<span class='chapter-number'>28</span>  <span class='chapter-title'>Rheumatic Heart Disease</span>"
@@ -1409,8 +1398,8 @@
     "objectID": "cvs-rhd.html#investigations",
     "href": "cvs-rhd.html#investigations",
     "title": "28  Rheumatic Heart Disease",
-    "section": "28.6 Investigations",
-    "text": "28.6 Investigations",
+    "section": "28.5 Investigations",
+    "text": "28.5 Investigations\nThe diagnosis of RHD involves clinical assessment, laboratory tests, and imaging studies.\n\nLaboratory Tests:\n\nThroat Culture or Rapid Antigen Test: To confirm GAS infection if suspected.\nAnti-Streptolysin O (ASO) Titer: Elevated in recent GAS infections.\nC-reactive protein (CRP) and Erythrocyte Sedimentation Rate (ESR): Markers of inflammation during ARF episodes.\n\nImaging:\n\nEchocardiography:\n\nKey diagnostic tool for detecting valvular lesions and assessing severity.\nCommon findings include leaflet thickening, restricted mobility, and regurgitation or stenosis\n\nChest X-Ray:\n\nCardiomegaly and pulmonary congestion in advanced disease.\n\nElectrocardiogram (ECG):\n\nProlonged PR interval (first-degree heart block) in ARF.\nAtrial fibrillation or other arrhythmias in chronic RHD\n\n\nOther Tests:\n\nCardiac MRI in selected cases for detailed assessment of myocardial and valvular involvement.",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Cardiology</span>",
       "<span class='chapter-number'>28</span>  <span class='chapter-title'>Rheumatic Heart Disease</span>"
@@ -1420,8 +1409,19 @@
     "objectID": "cvs-rhd.html#treatment",
     "href": "cvs-rhd.html#treatment",
     "title": "28  Rheumatic Heart Disease",
-    "section": "28.7 Treatment",
-    "text": "28.7 Treatment",
+    "section": "28.6 Treatment",
+    "text": "28.6 Treatment\nManagement of RHD aims to reduce symptoms, prevent disease progression, and address complications.\n\nMedical Management:\n\nAntibiotic Prophylaxis: Long-term benzathine penicillin G intramuscular injections every 3–4 weeks to prevent recurrent ARF episodes.\nHeart Failure Management: Diuretics, ACE inhibitors, and beta-blockers for symptomatic relief.\nAnticoagulation: Warfarin for patients with atrial fibrillation or mechanical valve replacement.\nAnti-Inflammatory Therapy: Aspirin or corticosteroids for active carditis.\n\nSurgical and Interventional Treatment:\n\nValvuloplasty:\n\nPercutaneous balloon mitral valvotomy for mitral stenosis in suitable candidates\n\nValve Repair or Replacement:\n\nRequired for severe valvular dysfunction or when medical management fails.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Cardiology</span>",
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Rheumatic Heart Disease</span>"
+    ]
+  },
+  {
+    "objectID": "cvs-rhd.html#prevention",
+    "href": "cvs-rhd.html#prevention",
+    "title": "28  Rheumatic Heart Disease",
+    "section": "28.7 Prevention",
+    "text": "28.7 Prevention\nThe cornerstone of RHD prevention is the timely diagnosis and treatment of GAS pharyngitis and ARF.\n\nPrimary Prevention:\n\nEarly recognition and antibiotic treatment of streptococcal pharyngitis with penicillin or amoxicillin.\nImproved hygiene and reduced overcrowding to lower transmission risk.\n\nSecondary Prevention:\n\nLong-term antibiotic prophylaxis to prevent recurrent ARF.\nDuration of prophylaxis:\n\nAt least 10 years after the last episode of ARF or until the patient is 21 years old, whichever is longer.\nLife-long prophylaxis for severe valvular disease or post-surgical cases\n\n\nCommunity Interventions\n\nPublic health programs to increase awareness and access to healthcare in high-burden regions.",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Cardiology</span>",
       "<span class='chapter-number'>28</span>  <span class='chapter-title'>Rheumatic Heart Disease</span>"
@@ -1432,7 +1432,7 @@
     "href": "cvs-rhd.html#complications",
     "title": "28  Rheumatic Heart Disease",
     "section": "28.8 Complications",
-    "text": "28.8 Complications",
+    "text": "28.8 Complications\nRHD can lead to severe complications if not adequately managed:\n\nHeart Failure: Due to progressive valvular dysfunction and increased cardiac workload.\nAtrial Fibrillation: Common in mitral stenosis, leading to thromboembolic events like stroke.\nPulmonary Hypertension: Resulting from chronic left-sided valvular disease.\nInfective Endocarditis: Increased risk in patients with damaged valves.\nPregnancy Complications: Significant maternal and fetal risks due to increased hemodynamic demands.",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Cardiology</span>",
       "<span class='chapter-number'>28</span>  <span class='chapter-title'>Rheumatic Heart Disease</span>"
@@ -1443,7 +1443,7 @@
     "href": "cvs-rhd.html#prognosis",
     "title": "28  Rheumatic Heart Disease",
     "section": "28.9 Prognosis",
-    "text": "28.9 Prognosis",
+    "text": "28.9 Prognosis\nThe prognosis of RHD depends on the severity of valvular involvement, the effectiveness of secondary prophylaxis, and access to medical and surgical care. Without intervention, severe RHD can result in progressive heart failure, significant morbidity, and premature death. With timely diagnosis and appropriate management, many children can experience improved quality of life and survival.",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Cardiology</span>",
       "<span class='chapter-number'>28</span>  <span class='chapter-title'>Rheumatic Heart Disease</span>"
@@ -1453,8 +1453,19 @@
     "objectID": "cvs-rhd.html#differential-diagnosis",
     "href": "cvs-rhd.html#differential-diagnosis",
     "title": "28  Rheumatic Heart Disease",
-    "section": "28.10 Differential diagnosis",
-    "text": "28.10 Differential diagnosis\nRheumatic fever (RF) is a significant public health concern, especially in developing countries. Here are some key points about its epidemiology:\n\n28.10.1 Global Burden\n\nPrevalence: Approximately 33.4 million people worldwide are affected by rheumatic heart disease (RHD), a complication of rheumatic fever.\nIncidence: Around 300,000 to 500,000 new cases of rheumatic fever are reported annually, with about 60% of these cases progressing to rheumatic heart disease.\n\n\n\n28.10.2 Geographical Distribution\n\nHigh Burden Regions: The African, South-East Asia, and Western Pacific regions have the highest prevalence, accounting for 84% of all cases and 80% of deaths due to RHD.\nSpecific Countries: India has the highest global prevalence, followed by China and indigenous populations in Australia, New Zealand, and the Pacific island states.\n\n\n\n28.10.3 Demographics\n\nAge: Rheumatic fever most commonly occurs in childhood.\nGender: Historically, females have been more affected than males, but recent reports suggest a more balanced gender distribution in some regions.\n\n\n\n28.10.4 Risk Factors\n\nStreptococcal Infections: Rheumatic fever follows pharyngeal infection with Group A Streptococcus (GAS).\nGenetic Susceptibility: Individuals with certain genetic backgrounds are more susceptible to developing rheumatic fever after a strep infection.\n\n\n\n28.10.5 Prevention and Control\n\nEarly Detection and Treatment: Prompt treatment of strep throat with antibiotics can prevent rheumatic fever.\nLong-term Antibiotic Prophylaxis: Regular antibiotic treatment is recommended for individuals who have had rheumatic fever to prevent recurrence.\n\n\n\n28.10.6 Challenges\n\nData Gaps: Reliable data on the incidence of acute rheumatic fever is lacking in many regions, making it difficult to implement effective prevention measures.\nHealthcare Access: Limited access to healthcare in low- and middle-income countries contributes to the high burden of the disease.\n\nRheumatic fever remains a major cause of morbidity and mortality, particularly among young people in developing nations. Efforts to improve early detection, treatment, and long-term management are crucial to reducing its impact.\nWould you like more information on any specific aspect of rheumatic fever or its management?",
+    "section": "28.10 Differential Diagnosis",
+    "text": "28.10 Differential Diagnosis\nSeveral conditions can mimic the clinical presentation of RHD and should be considered:\n\nCongenital Heart Disease: Examples include atrial septal defect, ventricular septal defect, and patent ductus arteriosus.\nInfective Endocarditis: Characterized by fever, new murmur, and signs of embolization.\nKawasaki Disease: Vasculitis with coronary artery involvement, fever, and mucocutaneous inflammation.\nMyocarditis: Viral or autoimmune causes leading to cardiac inflammation.\nMitral Valve Prolapse:\n\nCan mimic mitral regurgitation murmurs",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Cardiology</span>",
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Rheumatic Heart Disease</span>"
+    ]
+  },
+  {
+    "objectID": "cvs-rhd.html#conclusion",
+    "href": "cvs-rhd.html#conclusion",
+    "title": "28  Rheumatic Heart Disease",
+    "section": "28.11 Conclusion",
+    "text": "28.11 Conclusion\nRheumatic heart disease remains a major public health challenge in developing countries, disproportionately affecting children and young adults. Early recognition and treatment of GAS pharyngitis and consistent secondary prophylaxis are essential to prevent the progression to RHD. Multidisciplinary care, including medical, surgical, and public health interventions, is crucial to improving outcomes and reducing the global burden of this preventable disease.",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Cardiology</span>",
       "<span class='chapter-number'>28</span>  <span class='chapter-title'>Rheumatic Heart Disease</span>"
@@ -1465,7 +1476,7 @@
     "href": "cvs-inf-endo.html",
     "title": "29  Infective Endocarditis",
     "section": "",
-    "text": "29.1 Definition",
+    "text": "29.1 Definition\nInfective endocarditis (IE) is an infection of the endocardial surface of the heart, typically involving one or more heart valves. It can be caused by bacteria, fungi, or other pathogens, leading to the formation of vegetation on the heart valves or endocardium. A serious condition that can result in significant morbidity and mortality without prompt diagnosis and treatment.",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Cardiology</span>",
       "<span class='chapter-number'>29</span>  <span class='chapter-title'>Infective Endocarditis</span>"
@@ -1475,96 +1486,8 @@
     "objectID": "cvs-inf-endo.html#incidenceprevalence",
     "href": "cvs-inf-endo.html#incidenceprevalence",
     "title": "29  Infective Endocarditis",
-    "section": "29.2 Incidence/prevalence",
-    "text": "29.2 Incidence/prevalence",
-    "crumbs": [
-      "<span style='font-weight:bold; color: black;'>Cardiology</span>",
-      "<span class='chapter-number'>29</span>  <span class='chapter-title'>Infective Endocarditis</span>"
-    ]
-  },
-  {
-    "objectID": "cvs-inf-endo.html#aetiology",
-    "href": "cvs-inf-endo.html#aetiology",
-    "title": "29  Infective Endocarditis",
-    "section": "29.3 Aetiology",
-    "text": "29.3 Aetiology",
-    "crumbs": [
-      "<span style='font-weight:bold; color: black;'>Cardiology</span>",
-      "<span class='chapter-number'>29</span>  <span class='chapter-title'>Infective Endocarditis</span>"
-    ]
-  },
-  {
-    "objectID": "cvs-inf-endo.html#pathophysiology",
-    "href": "cvs-inf-endo.html#pathophysiology",
-    "title": "29  Infective Endocarditis",
-    "section": "29.4 Pathophysiology",
-    "text": "29.4 Pathophysiology",
-    "crumbs": [
-      "<span style='font-weight:bold; color: black;'>Cardiology</span>",
-      "<span class='chapter-number'>29</span>  <span class='chapter-title'>Infective Endocarditis</span>"
-    ]
-  },
-  {
-    "objectID": "cvs-inf-endo.html#signs-and-symptoms",
-    "href": "cvs-inf-endo.html#signs-and-symptoms",
-    "title": "29  Infective Endocarditis",
-    "section": "29.5 Signs and symptoms",
-    "text": "29.5 Signs and symptoms",
-    "crumbs": [
-      "<span style='font-weight:bold; color: black;'>Cardiology</span>",
-      "<span class='chapter-number'>29</span>  <span class='chapter-title'>Infective Endocarditis</span>"
-    ]
-  },
-  {
-    "objectID": "cvs-inf-endo.html#investigations",
-    "href": "cvs-inf-endo.html#investigations",
-    "title": "29  Infective Endocarditis",
-    "section": "29.6 Investigations",
-    "text": "29.6 Investigations",
-    "crumbs": [
-      "<span style='font-weight:bold; color: black;'>Cardiology</span>",
-      "<span class='chapter-number'>29</span>  <span class='chapter-title'>Infective Endocarditis</span>"
-    ]
-  },
-  {
-    "objectID": "cvs-inf-endo.html#treatment",
-    "href": "cvs-inf-endo.html#treatment",
-    "title": "29  Infective Endocarditis",
-    "section": "29.7 Treatment",
-    "text": "29.7 Treatment",
-    "crumbs": [
-      "<span style='font-weight:bold; color: black;'>Cardiology</span>",
-      "<span class='chapter-number'>29</span>  <span class='chapter-title'>Infective Endocarditis</span>"
-    ]
-  },
-  {
-    "objectID": "cvs-inf-endo.html#complications",
-    "href": "cvs-inf-endo.html#complications",
-    "title": "29  Infective Endocarditis",
-    "section": "29.8 Complications",
-    "text": "29.8 Complications",
-    "crumbs": [
-      "<span style='font-weight:bold; color: black;'>Cardiology</span>",
-      "<span class='chapter-number'>29</span>  <span class='chapter-title'>Infective Endocarditis</span>"
-    ]
-  },
-  {
-    "objectID": "cvs-inf-endo.html#prognosis",
-    "href": "cvs-inf-endo.html#prognosis",
-    "title": "29  Infective Endocarditis",
-    "section": "29.9 Prognosis",
-    "text": "29.9 Prognosis",
-    "crumbs": [
-      "<span style='font-weight:bold; color: black;'>Cardiology</span>",
-      "<span class='chapter-number'>29</span>  <span class='chapter-title'>Infective Endocarditis</span>"
-    ]
-  },
-  {
-    "objectID": "cvs-inf-endo.html#differential-diagnosis",
-    "href": "cvs-inf-endo.html#differential-diagnosis",
-    "title": "29  Infective Endocarditis",
-    "section": "29.10 Differential diagnosis",
-    "text": "29.10 Differential diagnosis",
+    "section": "29.2 Incidence/Prevalence",
+    "text": "29.2 Incidence/Prevalence\nRare in children, with an estimated incidence of 0.05–0.12 cases per 1,000 pediatric hospital admissions. More common in children with underlying congenital heart disease (CHD), accounting for up to 80% of cases. Increasing prevalence due to improved survival rates of children with CHD and the use of indwelling central venous catheters. Higher incidence in children with prosthetic heart valves or those who have undergone cardiac surgery.\nAetiology\n\nMicroorganisms:\n\nBacteria: Most common cause, including Streptococcus viridans, Staphylococcus aureus, and Enterococcus species.\nFungi: Less common, but Candida and Aspergillus can cause IE, particularly in immunocompromised patients\n\nRisk Factors:\n\nCongenital heart defects, particularly cyanotic lesions.\nProsthetic heart valves.\nIndwelling devices (e.g., pacemakers, central venous catheters).\nRheumatic heart disease (rare in developed countries).\nImmunosuppression or intravenous drug use (less common in pediatrics).\n\n\nPathophysiology\n\nInitial endothelial damage due to turbulent blood flow or direct trauma (e.g., from catheters).\nFormation of sterile thrombotic vegetations at the site of damage.\nColonization of vegetations by microorganisms during transient bacteremia.\nVegetations grow, consisting of microorganisms, fibrin, and platelets.\nCan result in local destruction of heart structures, systemic embolization, and immune-mediated complications (e.g., glomerulonephritis).\n\nSigns and Symptoms\n\nNon-specific symptoms:\n\nFever (most common presenting symptom).\nFatigue, malaise, anorexia, weight loss\n\nCardiac manifestations:\n\nNew or changing heart murmur.\nSigns of heart failure (e.g., dyspnea, tachypnea, peripheral edema)\n\nSystemic features:\n\nPetechiae, splinter hemorrhages.\nOsler nodes (painful nodules on fingers/toes).\nJaneway lesions (painless macules on palms/soles).\nRoth spots (retinal hemorrhages with central clearing).\n\nEmbolic phenomena:\n\nStroke or other neurologic deficits.\nSplenic or renal infarction.\nPulmonary emboli in right-sided IE.\n\nSymptoms may be less pronounced in children, particularly in chronic or subacute presentations.\n\nInvestigations\n\nBlood cultures:\n\nEssential for diagnosis; obtain at least three sets before starting antibiotics.\nMay reveal causative organism in &gt;90% of cases if appropriately timed.\n\nEchocardiography:\n\nTransthoracic echocardiography (TTE): Initial investigation; non-invasive.\nTransesophageal echocardiography (TEE): Higher sensitivity, especially for prosthetic valves or difficult-to-image cases\n\nLaboratory tests:\n\nFull blood count: May show anemia, leukocytosis, or thrombocytopenia.\nInflammatory markers: Elevated C-reactive protein (CRP) and erythrocyte sedimentation rate (ESR)\nRenal function and urinalysis: May detect embolic phenomena or immune-mediated injury.\n\nImaging:\n\nChest X-ray: Evaluate for heart failure or pulmonary embolism in right-sided IE\nCT or MRI: Assess embolic complications (e.g., stroke, abscess).\n\n\nTreatment\n\nAntimicrobial therapy:\n\nEmpiric treatment with broad-spectrum antibiotics after blood cultures are drawn.\nTailor therapy based on culture results and sensitivity testing.\nProlonged intravenous antibiotics (typically 4–6 weeks).\n\nSurgical intervention:\n\nIndicated for severe valvular damage, heart failure, abscess formation, or persistent infection despite antibiotics.\nOften required for prosthetic valve endocarditis.\n\nSupportive care:\n\nManagement of heart failure or other complications.\nAnticoagulation generally avoided due to risk of embolization from vegetations\n\n\nComplications\n\nCardiac complications:\n\nValvular dysfunction (regurgitation or stenosis).\nHeart failure.\nPerivalvular abscess.\nConduction disturbances (e.g., heart block).\n\nEmbolic events:\n\nStroke, myocardial infarction, or organ infarctions.\nSeptic emboli causing abscesses.\n\nSystemic complications:\n\nImmune complex-mediated glomerulonephritis.\nDisseminated infection or sepsis\n\nProsthetic valve complications:\n\nDehiscence or dysfunction requiring reoperation\n\n\nPrognosis\n\nDepends on the underlying cause, diagnosis timeliness, and treatment appropriateness.\nMortality rates in children range from 10% to 25%, higher in fungal infections or prosthetic valve IE.\nEarly surgical intervention improves outcomes in high-risk cases.\nLong-term follow-up necessary for valve function and detection of late complications.\n\nDifferential Diagnosis\n\nNon-infective causes of endocarditis-like features:\n\nNon-bacterial thrombotic endocarditis (marantic endocarditis).\nLibman-Sacks endocarditis (associated with systemic lupus erythematosus)\n\nConditions with overlapping symptoms:\n\nRheumatic fever.\nSystemic vasculitis (e.g., Kawasaki disease, polyarteritis nodosa).\nMalignancy (e.g., leukemia).\nInfectious diseases (e.g., osteomyelitis, septic arthritis, tuberculosis)\n\nOther cardiac conditions:\n\nMyocarditis.\nPericarditis.\nCongenital heart disease exacerbations.\n\n\nThis outline provides a structured approach for understanding infective endocarditis in children and serves as a foundation for deeper study. Let me know if you need any sections expanded or clarified.",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Cardiology</span>",
       "<span class='chapter-number'>29</span>  <span class='chapter-title'>Infective Endocarditis</span>"
@@ -1575,7 +1498,7 @@
     "href": "cvs-emf.html",
     "title": "30  Endomyocardial Fibrosis",
     "section": "",
-    "text": "30.1 Definition",
+    "text": "30.1 Definition\nEndomyocardial fibrosis (EMF) is a progressive, restrictive cardiomyopathy characterized by fibrotic thickening of the endocardium, predominantly affecting the inflow tracts of the right and/or left ventricles. This leads to impaired diastolic filling, atrioventricular valve regurgitation, and ultimately heart failure. EMF is most commonly seen in tropical and subtropical regions, and it remains an important cause of pediatric heart failure in these areas.",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Cardiology</span>",
       "<span class='chapter-number'>30</span>  <span class='chapter-title'>Endomyocardial Fibrosis</span>"
@@ -1585,8 +1508,8 @@
     "objectID": "cvs-emf.html#incidenceprevalence",
     "href": "cvs-emf.html#incidenceprevalence",
     "title": "30  Endomyocardial Fibrosis",
-    "section": "30.2 Incidence/prevalence",
-    "text": "30.2 Incidence/prevalence",
+    "section": "30.2 Incidence/Prevalence",
+    "text": "30.2 Incidence/Prevalence\n\nEMF is primarily seen in tropical and subtropical regions, particularly in sub-Saharan Africa, India, and parts of South America.\nIt is estimated to affect 10 million people worldwide, with the highest burden in children and young adults.\nThe prevalence in endemic areas ranges from 10% to 20% of all heart diseases.\nThe condition is more common in socioeconomically disadvantaged populations and is associated with malnutrition and infections.\nWhile rare in developed countries, cases have been reported in immigrants from endemic regions.",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Cardiology</span>",
       "<span class='chapter-number'>30</span>  <span class='chapter-title'>Endomyocardial Fibrosis</span>"
@@ -1597,84 +1520,7 @@
     "href": "cvs-emf.html#aetiology",
     "title": "30  Endomyocardial Fibrosis",
     "section": "30.3 Aetiology",
-    "text": "30.3 Aetiology",
-    "crumbs": [
-      "<span style='font-weight:bold; color: black;'>Cardiology</span>",
-      "<span class='chapter-number'>30</span>  <span class='chapter-title'>Endomyocardial Fibrosis</span>"
-    ]
-  },
-  {
-    "objectID": "cvs-emf.html#pathophysiology",
-    "href": "cvs-emf.html#pathophysiology",
-    "title": "30  Endomyocardial Fibrosis",
-    "section": "30.4 Pathophysiology",
-    "text": "30.4 Pathophysiology",
-    "crumbs": [
-      "<span style='font-weight:bold; color: black;'>Cardiology</span>",
-      "<span class='chapter-number'>30</span>  <span class='chapter-title'>Endomyocardial Fibrosis</span>"
-    ]
-  },
-  {
-    "objectID": "cvs-emf.html#signs-and-symptoms",
-    "href": "cvs-emf.html#signs-and-symptoms",
-    "title": "30  Endomyocardial Fibrosis",
-    "section": "30.5 Signs and symptoms",
-    "text": "30.5 Signs and symptoms",
-    "crumbs": [
-      "<span style='font-weight:bold; color: black;'>Cardiology</span>",
-      "<span class='chapter-number'>30</span>  <span class='chapter-title'>Endomyocardial Fibrosis</span>"
-    ]
-  },
-  {
-    "objectID": "cvs-emf.html#investigations",
-    "href": "cvs-emf.html#investigations",
-    "title": "30  Endomyocardial Fibrosis",
-    "section": "30.6 Investigations",
-    "text": "30.6 Investigations",
-    "crumbs": [
-      "<span style='font-weight:bold; color: black;'>Cardiology</span>",
-      "<span class='chapter-number'>30</span>  <span class='chapter-title'>Endomyocardial Fibrosis</span>"
-    ]
-  },
-  {
-    "objectID": "cvs-emf.html#treatment",
-    "href": "cvs-emf.html#treatment",
-    "title": "30  Endomyocardial Fibrosis",
-    "section": "30.7 Treatment",
-    "text": "30.7 Treatment",
-    "crumbs": [
-      "<span style='font-weight:bold; color: black;'>Cardiology</span>",
-      "<span class='chapter-number'>30</span>  <span class='chapter-title'>Endomyocardial Fibrosis</span>"
-    ]
-  },
-  {
-    "objectID": "cvs-emf.html#complications",
-    "href": "cvs-emf.html#complications",
-    "title": "30  Endomyocardial Fibrosis",
-    "section": "30.8 Complications",
-    "text": "30.8 Complications",
-    "crumbs": [
-      "<span style='font-weight:bold; color: black;'>Cardiology</span>",
-      "<span class='chapter-number'>30</span>  <span class='chapter-title'>Endomyocardial Fibrosis</span>"
-    ]
-  },
-  {
-    "objectID": "cvs-emf.html#prognosis",
-    "href": "cvs-emf.html#prognosis",
-    "title": "30  Endomyocardial Fibrosis",
-    "section": "30.9 Prognosis",
-    "text": "30.9 Prognosis",
-    "crumbs": [
-      "<span style='font-weight:bold; color: black;'>Cardiology</span>",
-      "<span class='chapter-number'>30</span>  <span class='chapter-title'>Endomyocardial Fibrosis</span>"
-    ]
-  },
-  {
-    "objectID": "cvs-emf.html#differential-diagnosis",
-    "href": "cvs-emf.html#differential-diagnosis",
-    "title": "30  Endomyocardial Fibrosis",
-    "section": "30.10 ## Differential diagnosis",
-    "text": "30.10 ## Differential diagnosis\n\n\n\n\n\n\nFigure 30.1: Endomyocardial Fibrosis showing classical Egg-on-Stick appearance",
+    "text": "30.3 Aetiology\nThe exact cause of endomyocardial fibrosis remains unknown, but several contributing factors have been proposed, including:\n\nInfectious Causes:\n\nParasitic infections such as Plasmodium falciparum (malaria) and Schistosoma species have been implicated in the pathogenesis.\nViral infections, including Epstein-Barr virus and Coxsackie virus, have also been suggested.\n\nAutoimmune Mechanisms\n\nImmune system dysregulation leading to chronic inflammation and fibrosis.\nPresence of eosinophilia in many patients suggests an allergic or immune-mediated response.\n\nNutritional Deficiencies:\n\nChronic malnutrition, specifically deficiencies in magnesium, selenium, and protein, may predispose individuals to EMF.\nExposure to toxic dietary substances such as cassava, which contains cyanogenic glycosides, is considered a potential factor\n\nGenetic Predisposition:\n\nFamilial clustering has been noted in some endemic areas, suggesting a genetic susceptibility to the disease.\n\nEnvironmental Factors:\n\nLiving in rural, low-income areas with high exposure to infections and dietary toxins.\n\n\nPathophysiology\n\nEMF predominantly affects the ventricular endocardium, leading to fibrosis that extends from the apex toward the atrioventricular valves.\nRight ventricular involvement is more common than left, but both can be affected (biventricular disease).\nFibrosis results in:\n\nDiastolic dysfunction: The stiff ventricle cannot fill adequately, leading to elevated atrial pressures.\nAtrioventricular valve regurgitation: Fibrosis and restriction of valve movement lead to tricuspid or mitral regurgitation.\nThrombus formation: The fibrotic endocardium is prone to thrombus development, which can embolize systemically or to the lungs.\nMyocardial dysfunction: Though the myocardium is often spared early in the disease, late-stage fibrosis can affect contractility and lead to heart failure.\n\n\nSigns and Symptoms\nThe clinical presentation of EMF in children varies depending on the extent of cardiac involvement and which ventricle is affected.\nRight Ventricular EMF (Most Common Presentation):\n\nSigns of right heart failure:\n\nHepatomegaly\nAscites\nPeripheral edema\nElevated jugular venous pressure\n\nFatigue and exercise intolerance\nRight upper quadrant pain due to liver congestion\n\nLeft Ventricular EMF:\n\nSigns of left heart failure:\n\nPulmonary congestion (dyspnea, orthopnea)\nCough, hemoptysis (in advanced cases)\nFatigue and poor growth in children\n\nSystemic embolization (e.g., stroke) from left-sided thrombus formation\n\nBiventricular Disease:\n\nSevere heart failure with a combination of right- and left-sided symptoms\nAnasarca (generalized edema)\nReduced cardiac output leading to shock in advanced case\n\nGeneral Symptoms:\n\nFailure to thrive\nRecurrent respiratory infections\nCyanosis (in severe cases)\n\nInvestigations\n1. Blood Tests:\n\nEosinophilia: Found in a subset of patients.\nElevated inflammatory markers (CRP, ESR).\nLiver function tests: Abnormal in cases with severe right heart failure.\nPro-BNP: Elevated in cases of heart failure.\n\n2. Electrocardiogram (ECG):\n\nLow voltage QRS complexes.\nRight or left atrial enlargement.\nConduction abnormalities (e.g., atrioventricular block)\n\n3. Echocardiography (Key Diagnostic Tool):\n\nThickened endocardium, especially in the apical region.\nAtrioventricular valve regurgitation.\nRestricted ventricular filling pattern.\nIntracardiac thrombus formation.\nDiastolic dysfunction with preserved systolic function in early stages.\n\n4. Cardiac MRI:\n\nProvides detailed imaging of fibrotic areas.\nHelps differentiate EMF from other restrictive cardiomyopathies.\n\n5. Cardiac Catheterization:\n\nConfirms restrictive physiology with elevated end-diastolic pressure\n\n6. Endomyocardial Biopsy:\n\nRarely performed but can confirm fibrosis histologically.\n\nTreatment\nTreatment of endomyocardial fibrosis in children is primarily supportive and aimed at symptom relief.\n1. Medical Management:\n\nDiuretics: Reduce fluid overload and symptoms of heart failure.\nAnticoagulation: Indicated for patients with atrial fibrillation or intracardiac thrombi.\nACE inhibitors/ARBs: Help reduce afterload and improve heart function.\nNutritional support: Address malnutrition with appropriate supplementation.\n\n2. Surgical Management:\n\nEndocardial resection and valve repair or replacement in selected cases.\nHigh surgical risk with variable outcomes in children.\n\n3. Symptomatic Care:\n\nManagement of complications such as arrhythmias and infections.\nRegular follow-up for disease progression and heart failure management.\n\nComplications\n\nHeart Failure: Progressive and refractory to medical therapy.\nThromboembolism: Stroke, mesenteric ischemia, or pulmonary embolism.\nArrhythmias: Atrial fibrillation or heart block leading to sudden cardiac death.\nGrowth retardation: Due to chronic illness and malnutrition.\nInfective endocarditis: Due to damaged endocardial surfaces.\n\nPrognosis\n\nEMF is a chronic, progressive condition with a poor long-term prognosis.\nEarly diagnosis and medical management can improve quality of life.\nIn children, the prognosis is worse if diagnosed late or if biventricular involvement is present.\nSurgical intervention provides limited benefit and carries high perioperative risks.\n\nDifferential Diagnosis\n\nRestrictive Cardiomyopathy: Similar presentation but without endocardial fibrosis on imaging.\nConstrictive Pericarditis: Presents with similar right heart failure symptoms but is distinguished by pericardial thickening on imaging.\nRheumatic Heart Disease: Can cause valvular regurgitation and heart failure but lacks endocardial thickening.\nHypereosinophilic Syndrome: Can mimic EMF but includes systemic involvement (e.g., skin, lungs).\n\n\n\n\n\n\n\nFigure 30.1: Endomyocardial Fibrosis showing classical Egg-on-Stick appearance",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Cardiology</span>",
       "<span class='chapter-number'>30</span>  <span class='chapter-title'>Endomyocardial Fibrosis</span>"
@@ -2928,7 +2774,84 @@
     "href": "synd-edwards.html",
     "title": "85  Edward’s Syndrome",
     "section": "",
-    "text": "Introduction\nEdward syndrome, or Trisomy 18, is the second most common autosomal trisomy after Down syndrome, associated with a high rate of perinatal mortality and profound developmental abnormalities. First described by John Hilton Edward in 1960, the condition arises due to an extra copy of chromosome 18. The estimated prevalence is approximately 1 in 5,000 live births, but the actual incidence is higher due to early embryonic and fetal losses. Edward syndrome has a significant impact on physical, cognitive, and systemic development, with most affected infants demonstrating severe disability and reduced survival.\nDefinition\nEdward syndrome is a chromosomal disorder caused by the presence of an extra copy of chromosome 18, resulting in multisystem abnormalities. The condition is characterized by intrauterine growth restriction (IUGR), distinctive craniofacial and limb features, and major organ defects. Based on the cytogenetic findings, Edward syndrome is classified into:\n\nFull Trisomy 18 (90%): The extra chromosome 18 in all cells due to non-disjunction during meiosis.\nMosaic Trisomy 18 (5–10%): Some cells have a normal karyotype, while others exhibit trisomy 18 due to post-zygotic non-disjunction.\nPartial Trisomy 18 (&lt;1%): A part of chromosome 18 is duplicated and attached to another chromosome.\n\nGenetics\nThe underlying cause of Edward syndrome is the presence of three copies of chromosome 18, which leads to the overexpression of genes located on this chromosome. Chromosome 18 contains approximately 500–600 genes, many of which are involved in critical developmental pathways.\n\nMechanism of Trisomy 18:\n\nThe most common cause is meiotic nondisjunction, particularly in maternal gametes.\nAdvanced maternal age is a significant risk factor, as with other trisomies.\n\nMosaicism occurs when nondisjunction occurs after fertilization, resulting in a mixture of normal and trisomic cells. Mosaic cases often have milder phenotypes than full trisomy.\nInheritance:\n\nMost cases are sporadic and not inherited.\nRarely, partial trisomy may result from a balanced translocation in one parent.\n\n\nClinical Features\nEdward syndrome presents a constellation of physical, neurological, and systemic abnormalities, which are often apparent prenatally or at birth.\n\nPrenatal Features:\n\nSevere intrauterine growth restriction (IUGR)\nPolyhydramnios or oligohydramnios\nStructural anomalies detectable on fetal ultrasound (e.g., cardiac defects, clenched hands, and overlapping fingers)\n\nCraniofacial Features:\n\nMicrocephaly\nProminent occiput\nLow-set, malformed ears\nMicrognathia (undersized jaw)\nCleft lip and/or palate (less common)\n\nLimb and Skeletal Abnormalities:\n\nClenched hands with overlapping fingers\nRocker-bottom feet\nHypoplastic nails\nShort sternum\n\nNeurological Features:\n\nSevere intellectual disability\nHypotonia or hypertonia\nSeizures\n\nCardiac Abnormalities:\n\nPresent in 90–95% of cases\nThe most common defects are ventricular septal defects (VSD), atrial septal defects (ASD), and patent ductus arteriosus (PDA).\n\nOther Systemic Abnormalities:\n\nGastrointestinal: Omphalocele, esophageal atresia, or malrotation.\nRenal: Horseshoe kidney, hydronephrosis, or renal agenesis.\nRespiratory: Hypoplastic lungs in some cases.\n\nPostnatal Features:\n\nFailure to thrive due to feeding difficulties.\nPersistent respiratory infections.\nLimited spontaneous movement.\n\n\nInvestigations\nA combination of prenatal and postnatal diagnostic tools confirms Edward syndrome and identifies associated anomalies.\n\nPrenatal Investigations:\n\nUltrasound Findings:\n\nIUGR\nStructural anomalies (e.g., cardiac defects, clenched hands, omphalocele)\n\nMaternal Serum Screening:\n\nLow alpha-fetoprotein (AFP) levels, unconjugated estriol (uE3), and free β-hCG.\n\nNon-Invasive Prenatal Testing (NIPT):\n\nDetects fetal cell-free DNA in maternal blood with high sensitivity and specificity for trisomy 18\n\nInvasive Diagnostic Testing:\n\nAmniocentesis (after 15 weeks): Definitive karyotyping to confirm trisomy 18.\nChorionic Villus Sampling (CVS) (10–13 weeks): Early diagnostic confirmation\n\n\nPostnatal Investigations:\n\nCytogenetic Testing:\n\nKaryotyping remains the gold standard for diagnosis.\nFluorescence in situ hybridization (FISH) or chromosomal microarray analysis for rapid diagnosis.\n\nEchocardiogram:\n\nEssential to identify and evaluate congenital heart defects.\n\nRenal Ultrasound:\n\nDetects structural anomalies like horseshoe kidney or hydronephrosis.\n\nOther Tests:\n\nBrain imaging (MRI or CT) for structural abnormalities.\nHearing and vision screening.\n\n\n\nTreatment\nEdward syndrome does not have a curative treatment, and management focuses on supportive and palliative care to improve the quality of life. Treatment depends on the severity of symptoms and associated anomalies.\n\nNeonatal Care:\n\nSupport for feeding difficulties, often requiring nasogastric tube feeding.\nManagement of respiratory distress with oxygen therapy or mechanical ventilation.\n\nCardiac Care:\n\nSevere cardiac defects may require surgical intervention, but many families opt for conservative management due to the poor prognosis.\n\nSurgical Management:\n\nRepairs for gastrointestinal anomalies like esophageal atresia or omphalocele if compatible with survival.\n\nDevelopmental Support:\n\nPhysical, occupational, and speech therapy can be introduced to optimize motor skills and communication, although progress is often limited.\n\nPalliative Care:\n\nComfort-focused care is essential for managing pain, feeding issues, and respiratory infections.\nHospice care is often recommended for severe cases.\n\n\nCounselling\nCounseling is vital to managing Edward syndrome and providing support to families before and after diagnosis.\n\nPrenatal Counselling:\n\nInform parents about the diagnosis, prognosis, and potential outcomes.\nDiscuss available options, including continuation or termination of pregnancy.\nOffer psychological support and refer to genetic counseling\n\nPostnatal Counselling:\n\nEducate families on the medical challenges and potential interventions.\nProvide information on support systems and resources.\nEncourage the involvement of multidisciplinary teams, including neonatologists, geneticists, and social workers.\n\nGenetic Counselling:\n\nFor families with a history of Edward syndrome, offer genetic testing to identify potential translocations or chromosomal abnormalities in parents.\nExplain recurrence risks:\n\n&lt;1% for full trisomy 18 due to de novo events.\nHigher if a parent is a carrier of a balanced translocation.\n\n\nPsychosocial Support:\n\nAssist families in coping with grief and decision-making.\nConnect them with support groups and advocacy organizations\n\n\nConclusion\nEdward syndrome is a severe chromosomal disorder characterized by profound developmental and physical abnormalities, with a high risk of perinatal mortality. Advances in prenatal diagnostic techniques allow for early detection and informed decision-making. While there is no definitive cure, multidisciplinary care focusing on symptom management, supportive therapy, and counseling is critical in improving the quality of life for affected individuals and their families. Further research into the molecular mechanisms of trisomy 18 may offer insights into potential therapeutic strategies in the future.",
+    "text": "85.1 Introduction\nEdward syndrome, or Trisomy 18, is the second most common autosomal trisomy after Down syndrome, associated with a high rate of perinatal mortality and profound developmental abnormalities. First described by John Hilton Edward in 1960, the condition arises due to an extra copy of chromosome 18. The estimated prevalence is approximately 1 in 5,000 live births, but the actual incidence is higher due to early embryonic and fetal losses. Edward syndrome has a significant impact on physical, cognitive, and systemic development, with most affected infants demonstrating severe disability and reduced survival.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Common Syndrome</span>",
+      "<span class='chapter-number'>85</span>  <span class='chapter-title'>Edward's Syndrome</span>"
+    ]
+  },
+  {
+    "objectID": "synd-edwards.html#definition",
+    "href": "synd-edwards.html#definition",
+    "title": "85  Edward’s Syndrome",
+    "section": "85.2 Definition",
+    "text": "85.2 Definition\nEdward syndrome is a chromosomal disorder caused by the presence of an extra copy of chromosome 18, resulting in multisystem abnormalities. The condition is characterized by intrauterine growth restriction (IUGR), distinctive craniofacial and limb features, and major organ defects. Based on the cytogenetic findings, Edward syndrome is classified into:\n\nFull Trisomy 18 (90%): The extra chromosome 18 in all cells due to non-disjunction during meiosis.\nMosaic Trisomy 18 (5–10%): Some cells have a normal karyotype, while others exhibit trisomy 18 due to post-zygotic non-disjunction.\nPartial Trisomy 18 (&lt;1%): A part of chromosome 18 is duplicated and attached to another chromosome.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Common Syndrome</span>",
+      "<span class='chapter-number'>85</span>  <span class='chapter-title'>Edward's Syndrome</span>"
+    ]
+  },
+  {
+    "objectID": "synd-edwards.html#genetics",
+    "href": "synd-edwards.html#genetics",
+    "title": "85  Edward’s Syndrome",
+    "section": "85.3 Genetics",
+    "text": "85.3 Genetics\nThe underlying cause of Edward syndrome is the presence of three copies of chromosome 18, which leads to the overexpression of genes located on this chromosome. Chromosome 18 contains approximately 500–600 genes, many involved in critical developmental pathways.\n\nMechanism of Trisomy 18:\n\nThe most common cause is meiotic nondisjunction, particularly in maternal gametes.\nAdvanced maternal age is a significant risk factor, as with other trisomies.\n\nMosaicism occurs when nondisjunction occurs after fertilization, resulting in a mixture of normal and trisomic cells. Mosaic cases often have milder phenotypes than full trisomy.\nInheritance:\n\nMost cases are sporadic and not inherited.\nRarely, partial trisomy may result from a balanced translocation in one parent.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Common Syndrome</span>",
+      "<span class='chapter-number'>85</span>  <span class='chapter-title'>Edward's Syndrome</span>"
+    ]
+  },
+  {
+    "objectID": "synd-edwards.html#clinical-features",
+    "href": "synd-edwards.html#clinical-features",
+    "title": "85  Edward’s Syndrome",
+    "section": "85.4 Clinical Features",
+    "text": "85.4 Clinical Features\nEdward syndrome presents a constellation of physical, neurological, and systemic abnormalities, which are often apparent prenatally or at birth.\n\nPrenatal Features:\n\nSevere intrauterine growth restriction (IUGR)\nPolyhydramnios or oligohydramnios\nStructural anomalies detectable on fetal ultrasound (e.g., cardiac defects, clenched hands, and overlapping fingers)\n\nCraniofacial Features:\n\nMicrocephaly\nProminent occiput\nLow-set, malformed ears\nMicrognathia (undersized jaw)\nCleft lip and/or palate (less common)\n\nLimb and Skeletal Abnormalities:\n\nClenched hands with overlapping fingers\nRocker-bottom feet\nHypoplastic nails\nShort sternum\n\nNeurological Features:\n\nSevere intellectual disability\nHypotonia or hypertonia\nSeizures\n\nCardiac Abnormalities:\n\nPresent in 90–95% of cases\nThe most common defects are ventricular septal defects, atrial septal defects, and patent ductus arteriosus.\n\nOther Systemic Abnormalities:\n\nGastrointestinal: Omphalocele, esophageal atresia, or malrotation.\nRenal: Horseshoe kidney, hydronephrosis, or renal agenesis.\nRespiratory: Hypoplastic lungs in some cases.\n\nPostnatal Features:\n\nFailure to thrive due to feeding difficulties.\nPersistent respiratory infections.\nLimited spontaneous movement.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Common Syndrome</span>",
+      "<span class='chapter-number'>85</span>  <span class='chapter-title'>Edward's Syndrome</span>"
+    ]
+  },
+  {
+    "objectID": "synd-edwards.html#investigations",
+    "href": "synd-edwards.html#investigations",
+    "title": "85  Edward’s Syndrome",
+    "section": "85.5 Investigations",
+    "text": "85.5 Investigations\nA combination of prenatal and postnatal diagnostic tools confirms Edward syndrome and identifies associated anomalies.\n\nPrenatal Investigations:\n\nUltrasound Findings:\n\nIUGR\nStructural anomalies (e.g., cardiac defects, clenched hands, omphalocele)\n\nMaternal Serum Screening:\n\nLow alpha-fetoprotein (AFP) levels, unconjugated estriol (uE3), and free β-hCG.\n\nNon-Invasive Prenatal Testing (NIPT):\n\nDetects fetal cell-free DNA in maternal blood with high sensitivity and specificity for trisomy 18\n\nInvasive Diagnostic Testing:\n\nAmniocentesis (after 15 weeks): Definitive karyotyping to confirm trisomy 18.\nChorionic Villus Sampling (CVS) (10–13 weeks): Early diagnostic confirmation\n\n\nPostnatal Investigations:\n\nCytogenetic Testing:\n\nKaryotyping remains the gold standard for diagnosis.\nFluorescence in situ hybridization (FISH) or chromosomal microarray analysis for rapid diagnosis.\n\nEchocardiogram:\n\nEssential to identify and evaluate congenital heart defects.\n\nRenal Ultrasound:\n\nDetects structural anomalies like horseshoe kidney or hydronephrosis.\n\nOther Tests:\n\nBrain imaging (MRI or CT) for structural abnormalities.\nHearing and vision screening.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Common Syndrome</span>",
+      "<span class='chapter-number'>85</span>  <span class='chapter-title'>Edward's Syndrome</span>"
+    ]
+  },
+  {
+    "objectID": "synd-edwards.html#treatment",
+    "href": "synd-edwards.html#treatment",
+    "title": "85  Edward’s Syndrome",
+    "section": "85.6 Treatment",
+    "text": "85.6 Treatment\nEdward syndrome does not have a curative treatment, and management focuses on supportive and palliative care to improve the quality of life. Treatment depends on the severity of symptoms and associated anomalies.\n\nNeonatal Care: Support for feeding difficulties, often requiring nasogastric tube feeding. Management of respiratory distress with oxygen therapy or mechanical ventilation.\nCardiac Care: Severe cardiac defects may require surgical intervention, but many families opt for conservative management due to the poor prognosis.\nSurgical Management: Repairs for gastrointestinal anomalies like esophageal atresia or omphalocele if compatible with survival.\nDevelopmental Support: Physical, occupational, and speech therapy can be introduced to optimize motor skills and communication, although progress is often limited.\nPalliative Care: Comfort-focused care is essential for managing pain, feeding issues, and respiratory infections.\n\nHospice care is often recommended for severe cases.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Common Syndrome</span>",
+      "<span class='chapter-number'>85</span>  <span class='chapter-title'>Edward's Syndrome</span>"
+    ]
+  },
+  {
+    "objectID": "synd-edwards.html#counselling",
+    "href": "synd-edwards.html#counselling",
+    "title": "85  Edward’s Syndrome",
+    "section": "85.7 Counselling",
+    "text": "85.7 Counselling\nCounseling is vital to managing Edward syndrome and providing support to families before and after diagnosis.\n\nPrenatal Counselling:\n\nInform parents about the diagnosis, prognosis, and potential outcomes.\nDiscuss available options, including continuation or termination of pregnancy.\nOffer psychological support and refer to genetic counseling\n\nPostnatal Counselling:\n\nEducate families on the medical challenges and potential interventions.\nProvide information on support systems and resources.\nEncourage the involvement of multidisciplinary teams, including neonatologists, geneticists, and social workers.\n\nGenetic Counselling:\n\nFor families with a history of Edward syndrome, offer genetic testing to identify potential translocations or chromosomal abnormalities in parents.\nExplain recurrence risks:\n\n&lt;1% for full trisomy 18 due to de novo events.\nHigher if a parent is a carrier of a balanced translocation.\n\n\nPsychosocial Support:\n\nAssist families in coping with grief and decision-making.\nConnect them with support groups and advocacy organizations",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Common Syndrome</span>",
+      "<span class='chapter-number'>85</span>  <span class='chapter-title'>Edward's Syndrome</span>"
+    ]
+  },
+  {
+    "objectID": "synd-edwards.html#conclusion",
+    "href": "synd-edwards.html#conclusion",
+    "title": "85  Edward’s Syndrome",
+    "section": "85.8 Conclusion",
+    "text": "85.8 Conclusion\nEdward syndrome is a severe chromosomal disorder characterized by profound developmental and physical abnormalities, with a high risk of perinatal mortality. Advances in prenatal diagnostic techniques allow for early detection and informed decision-making. While there is no definitive cure, multidisciplinary care focusing on symptom management, supportive therapy, and counseling is critical in improving the quality of life for affected individuals and their families. Further research into the molecular mechanisms of trisomy 18 may offer insights into potential therapeutic strategies in the future.",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Common Syndrome</span>",
       "<span class='chapter-number'>85</span>  <span class='chapter-title'>Edward's Syndrome</span>"

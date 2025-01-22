@@ -3,24 +3,144 @@ title: "Infective Endocarditis"
 author: "Dr Samuel Blay Nguah"
 ---
 
-## Definition
+## **Definition**
 
-## Incidence/prevalence
+Infective endocarditis (IE) is an infection of the endocardial surface of the heart, typically
+involving one or more heart valves. It can be caused by bacteria, fungi, or other pathogens, leading
+to the formation of vegetation on the heart valves or endocardium. A serious condition that can
+result in significant morbidity and mortality without prompt diagnosis and treatment.
 
-## Aetiology
+## **Incidence/Prevalence**  
 
-## Pathophysiology
+Rare in children, with an estimated incidence of 0.05–0.12 cases per 1,000 pediatric hospital
+admissions. More common in children with underlying congenital heart disease (CHD), accounting for
+up to 80% of cases. Increasing prevalence due to improved survival rates of children with CHD and
+the use of indwelling central venous catheters. Higher incidence in children with prosthetic heart
+valves or those who have undergone cardiac surgery.
 
-## Signs and symptoms
+**Aetiology**
 
-## Investigations
+-   **Microorganisms**:
 
-## Treatment
+    -   Bacteria: Most common cause, including *Streptococcus viridans*, *Staphylococcus aureus*,
+        and *Enterococcus* species.
+    -   Fungi: Less common, but *Candida* and *Aspergillus* can cause IE, particularly in
+        immunocompromised patients
 
-## Complications
+-   **Risk Factors**:
 
-## Prognosis
+    -   Congenital heart defects, particularly cyanotic lesions.
+    -   Prosthetic heart valves.
+    -   Indwelling devices (e.g., pacemakers, central venous catheters).
+    -   Rheumatic heart disease (rare in developed countries).
+    -   Immunosuppression or intravenous drug use (less common in pediatrics).
 
-## Differential diagnosis
+**Pathophysiology**
 
-----------------------------------------------------------------------------------------------------
+-   Initial endothelial damage due to turbulent blood flow or direct trauma (e.g., from catheters).
+-   Formation of sterile thrombotic vegetations at the site of damage.
+-   Colonization of vegetations by microorganisms during transient bacteremia.
+-   Vegetations grow, consisting of microorganisms, fibrin, and platelets.
+-   Can result in local destruction of heart structures, systemic embolization, and immune-mediated
+    complications (e.g., glomerulonephritis).
+
+**Signs and Symptoms**
+
+-   **Non-specific symptoms**:
+
+    -   Fever (most common presenting symptom).
+    -   Fatigue, malaise, anorexia, weight loss
+
+-   **Cardiac manifestations**:
+
+    -   New or changing heart murmur.
+    -   Signs of heart failure (e.g., dyspnea, tachypnea, peripheral edema)
+
+-   **Systemic features**:
+
+    -   Petechiae, splinter hemorrhages.
+    -   Osler nodes (painful nodules on fingers/toes).
+    -   Janeway lesions (painless macules on palms/soles).
+    -   Roth spots (retinal hemorrhages with central clearing).
+
+-   **Embolic phenomena**:
+
+    -   Stroke or other neurologic deficits.
+    -   Splenic or renal infarction.
+    -   Pulmonary emboli in right-sided IE.
+
+-   Symptoms may be less pronounced in children, particularly in chronic or subacute presentations.
+
+**Investigations**
+
+-   **Blood cultures**:
+    -   Essential for diagnosis; obtain at least three sets before starting antibiotics.
+    -   May reveal causative organism in \>90% of cases if appropriately timed.
+-   **Echocardiography**:
+    -   Transthoracic echocardiography (TTE): Initial investigation; non-invasive.
+    -   Transesophageal echocardiography (TEE): Higher sensitivity, especially for prosthetic valves
+        or difficult-to-image cases
+-   **Laboratory tests**:
+    -   Full blood count: May show anemia, leukocytosis, or thrombocytopenia.
+    -   Inflammatory markers: Elevated C-reactive protein (CRP) and erythrocyte sedimentation rate
+        (ESR)
+    -   Renal function and urinalysis: May detect embolic phenomena or immune-mediated injury.
+-   **Imaging**:
+    -   Chest X-ray: Evaluate for heart failure or pulmonary embolism in right-sided IE
+    -   CT or MRI: Assess embolic complications (e.g., stroke, abscess).
+
+**Treatment**
+
+-   **Antimicrobial therapy**:
+    -   Empiric treatment with broad-spectrum antibiotics after blood cultures are drawn.
+    -   Tailor therapy based on culture results and sensitivity testing.
+    -   Prolonged intravenous antibiotics (typically 4–6 weeks).
+-   **Surgical intervention**:
+    -   Indicated for severe valvular damage, heart failure, abscess formation, or persistent
+        infection despite antibiotics.
+    -   Often required for prosthetic valve endocarditis.
+-   **Supportive care**:
+    -   Management of heart failure or other complications.
+    -   Anticoagulation generally avoided due to risk of embolization from vegetations
+
+**Complications**
+
+-   **Cardiac complications**:
+    -   Valvular dysfunction (regurgitation or stenosis).
+    -   Heart failure.
+    -   Perivalvular abscess.
+    -   Conduction disturbances (e.g., heart block).
+-   **Embolic events**:
+    -   Stroke, myocardial infarction, or organ infarctions.
+    -   Septic emboli causing abscesses.
+-   **Systemic complications**:
+    -   Immune complex-mediated glomerulonephritis.
+    -   Disseminated infection or sepsis
+-   **Prosthetic valve complications**:
+    -   Dehiscence or dysfunction requiring reoperation
+
+**Prognosis**
+
+-   Depends on the underlying cause, diagnosis timeliness, and treatment appropriateness.
+-   Mortality rates in children range from 10% to 25%, higher in fungal infections or prosthetic
+    valve IE.
+-   Early surgical intervention improves outcomes in high-risk cases.
+-   Long-term follow-up necessary for valve function and detection of late complications.
+
+**Differential Diagnosis**
+
+-   **Non-infective causes of endocarditis-like features**:
+    -   Non-bacterial thrombotic endocarditis (marantic endocarditis).
+    -   Libman-Sacks endocarditis (associated with systemic lupus erythematosus)
+-   **Conditions with overlapping symptoms**:
+    -   Rheumatic fever.
+    -   Systemic vasculitis (e.g., Kawasaki disease, polyarteritis nodosa).
+    -   Malignancy (e.g., leukemia).
+    -   Infectious diseases (e.g., osteomyelitis, septic arthritis, tuberculosis)
+-   **Other cardiac conditions**:
+    -   Myocarditis.
+    -   Pericarditis.
+    -   Congenital heart disease exacerbations.
+
+This outline provides a structured approach for understanding infective endocarditis in children and
+serves as a foundation for deeper study. Let me know if you need any sections expanded or clarified.

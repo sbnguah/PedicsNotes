@@ -3,25 +3,187 @@ title: "Endomyocardial Fibrosis"
 author: "Dr Samuel Blay Nguah"
 ---
 
-## Definition
+## **Definition**
 
-## Incidence/prevalence
+Endomyocardial fibrosis (EMF) is a progressive, restrictive cardiomyopathy characterized by fibrotic
+thickening of the endocardium, predominantly affecting the inflow tracts of the right and/or left
+ventricles. This leads to impaired diastolic filling, atrioventricular valve regurgitation, and
+ultimately heart failure. EMF is most commonly seen in tropical and subtropical regions, and it
+remains an important cause of pediatric heart failure in these areas.
 
-## Aetiology
+## **Incidence/Prevalence**
 
-## Pathophysiology
+-   EMF is primarily seen in tropical and subtropical regions, particularly in sub-Saharan Africa,
+    India, and parts of South America.
+-   It is estimated to affect 10 million people worldwide, with the highest burden in children and
+    young adults.
+-   The prevalence in endemic areas ranges from 10% to 20% of all heart diseases.
+-   The condition is more common in socioeconomically disadvantaged populations and is associated
+    with malnutrition and infections.
+-   While rare in developed countries, cases have been reported in immigrants from endemic regions.
 
-## Signs and symptoms
+## **Aetiology**
 
-## Investigations
+The exact cause of endomyocardial fibrosis remains unknown, but several contributing factors have
+been proposed, including:
 
-## Treatment
+1.  **Infectious Causes:**
+    -   Parasitic infections such as *Plasmodium falciparum* (malaria) and *Schistosoma* species
+        have been implicated in the pathogenesis.
+    -   Viral infections, including Epstein-Barr virus and Coxsackie virus, have also been
+        suggested.
+2.  **Autoimmune Mechanisms**
+    -   Immune system dysregulation leading to chronic inflammation and fibrosis.
+    -   Presence of eosinophilia in many patients suggests an allergic or immune-mediated response.
+3.  **Nutritional Deficiencies:**
+    -   Chronic malnutrition, specifically deficiencies in magnesium, selenium, and protein, may
+        predispose individuals to EMF.
+    -   Exposure to toxic dietary substances such as cassava, which contains cyanogenic glycosides,
+        is considered a potential factor
+4.  **Genetic Predisposition:**
+    -   Familial clustering has been noted in some endemic areas, suggesting a genetic
+        susceptibility to the disease.
+5.  **Environmental Factors:**
+    -   Living in rural, low-income areas with high exposure to infections and dietary toxins.
 
-## Complications
+**Pathophysiology**
 
-## Prognosis
+-   EMF predominantly affects the ventricular endocardium, leading to fibrosis that extends from the
+    apex toward the atrioventricular valves.
+-   **Right ventricular involvement** is more common than left, but both can be affected
+    (biventricular disease).
+-   Fibrosis results in:
+    1.  **Diastolic dysfunction:** The stiff ventricle cannot fill adequately, leading to elevated
+        atrial pressures.
+    2.  **Atrioventricular valve regurgitation:** Fibrosis and restriction of valve movement lead to
+        tricuspid or mitral regurgitation.
+    3.  **Thrombus formation:** The fibrotic endocardium is prone to thrombus development, which can
+        embolize systemically or to the lungs.
+    4.  **Myocardial dysfunction:** Though the myocardium is often spared early in the disease,
+        late-stage fibrosis can affect contractility and lead to heart failure.
 
-## \## Differential diagnosis
+**Signs and Symptoms**
 
-![Endomyocardial Fibrosis showing classical Egg-on-Stick appearance](images/cvs-emf.jpg){#fig-emf
-fig-align="center"}
+The clinical presentation of EMF in children varies depending on the extent of cardiac involvement
+and which ventricle is affected.
+
+**Right Ventricular EMF (Most Common Presentation):**
+
+-   Signs of right heart failure:
+    -   Hepatomegaly
+
+    -   Ascites
+
+    -   Peripheral edema
+
+    -   Elevated jugular venous pressure
+-   Fatigue and exercise intolerance
+-   Right upper quadrant pain due to liver congestion
+
+**Left Ventricular EMF:**
+
+-   Signs of left heart failure:
+    -   Pulmonary congestion (dyspnea, orthopnea)
+    -   Cough, hemoptysis (in advanced cases)
+    -   Fatigue and poor growth in children
+-   Systemic embolization (e.g., stroke) from left-sided thrombus formation
+
+**Biventricular Disease:**
+
+-   Severe heart failure with a combination of right- and left-sided symptoms
+-   Anasarca (generalized edema)
+-   Reduced cardiac output leading to shock in advanced case
+
+**General Symptoms:**
+
+-   Failure to thrive
+-   Recurrent respiratory infections
+-   Cyanosis (in severe cases)
+
+**Investigations**
+
+**1. Blood Tests:**
+
+-   Eosinophilia: Found in a subset of patients.
+-   Elevated inflammatory markers (CRP, ESR).
+-   Liver function tests: Abnormal in cases with severe right heart failure.
+-   Pro-BNP: Elevated in cases of heart failure.
+
+**2. Electrocardiogram (ECG):**
+
+-   Low voltage QRS complexes.
+-   Right or left atrial enlargement.
+-   Conduction abnormalities (e.g., atrioventricular block)
+
+**3. Echocardiography (Key Diagnostic Tool):**
+
+-   Thickened endocardium, especially in the apical region.
+-   Atrioventricular valve regurgitation.
+-   Restricted ventricular filling pattern.
+-   Intracardiac thrombus formation.
+-   Diastolic dysfunction with preserved systolic function in early stages.
+
+**4. Cardiac MRI:**
+
+-   Provides detailed imaging of fibrotic areas.
+-   Helps differentiate EMF from other restrictive cardiomyopathies.
+
+**5. Cardiac Catheterization:**
+
+-   Confirms restrictive physiology with elevated end-diastolic pressure
+
+**6. Endomyocardial Biopsy:**
+
+-   Rarely performed but can confirm fibrosis histologically.
+
+**Treatment**
+
+Treatment of endomyocardial fibrosis in children is primarily supportive and aimed at symptom
+relief.
+
+**1. Medical Management:**
+
+-   **Diuretics:** Reduce fluid overload and symptoms of heart failure.
+-   **Anticoagulation:** Indicated for patients with atrial fibrillation or intracardiac thrombi.
+-   **ACE inhibitors/ARBs:** Help reduce afterload and improve heart function.
+-   **Nutritional support:** Address malnutrition with appropriate supplementation.
+
+**2. Surgical Management:**
+
+-   Endocardial resection and valve repair or replacement in selected cases.
+-   High surgical risk with variable outcomes in children.
+
+**3. Symptomatic Care:**
+
+-   Management of complications such as arrhythmias and infections.
+-   Regular follow-up for disease progression and heart failure management.
+
+**Complications**
+
+-   **Heart Failure:** Progressive and refractory to medical therapy.
+-   **Thromboembolism:** Stroke, mesenteric ischemia, or pulmonary embolism.
+-   **Arrhythmias:** Atrial fibrillation or heart block leading to sudden cardiac death.
+-   **Growth retardation:** Due to chronic illness and malnutrition.
+-   **Infective endocarditis:** Due to damaged endocardial surfaces.
+
+**Prognosis**
+
+-   EMF is a chronic, progressive condition with a poor long-term prognosis.
+-   Early diagnosis and medical management can improve quality of life.
+-   In children, the prognosis is worse if diagnosed late or if biventricular involvement is
+    present.
+-   Surgical intervention provides limited benefit and carries high perioperative risks.
+
+**Differential Diagnosis**
+
+-   **Restrictive Cardiomyopathy:** Similar presentation but without endocardial fibrosis on
+    imaging.
+-   **Constrictive Pericarditis:** Presents with similar right heart failure symptoms but is
+    distinguished by pericardial thickening on imaging.
+-   **Rheumatic Heart Disease:** Can cause valvular regurgitation and heart failure but lacks
+    endocardial thickening.
+-   **Hypereosinophilic Syndrome:** Can mimic EMF but includes systemic involvement (e.g., skin,
+    lungs).
+
+![Endomyocardial Fibrosis showing classical Egg-on-Stick
+appearance](images/cvs-emf.jpg){#fig-emf fig-align="center"}

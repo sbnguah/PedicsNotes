@@ -3,7 +3,7 @@ title: "Edward's Syndrome"
 author: "xxx"
 ---
 
-**Introduction**
+## **Introduction**
 
 Edward syndrome, or Trisomy 18, is the second most common autosomal trisomy after Down syndrome,
 associated with a high rate of perinatal mortality and profound developmental abnormalities. First
@@ -13,7 +13,7 @@ due to early embryonic and fetal losses. Edward syndrome has a significant impac
 cognitive, and systemic development, with most affected infants demonstrating severe disability and
 reduced survival.
 
-**Definition**
+## **Definition**
 
 Edward syndrome is a chromosomal disorder caused by the presence of an extra copy of chromosome 18,
 resulting in multisystem abnormalities. The condition is characterized by intrauterine growth
@@ -27,11 +27,11 @@ the cytogenetic findings, Edward syndrome is classified into:
 3.  **Partial Trisomy 18 (\<1%)**: A part of chromosome 18 is duplicated and attached to another
     chromosome.
 
-**Genetics**
+## **Genetics**
 
 The underlying cause of Edward syndrome is the presence of three copies of chromosome 18, which
 leads to the overexpression of genes located on this chromosome. Chromosome 18 contains
-approximately 500–600 genes, many of which are involved in critical developmental pathways.
+approximately 500–600 genes, many involved in critical developmental pathways.
 
 1.  **Mechanism of Trisomy 18**:
     -   The most common cause is **meiotic nondisjunction**, particularly in maternal gametes.
@@ -42,7 +42,7 @@ approximately 500–600 genes, many of which are involved in critical developmen
     -   Most cases are sporadic and not inherited.
     -   Rarely, partial trisomy may result from a balanced translocation in one parent.
 
-**Clinical Features**
+## **Clinical Features**
 
 Edward syndrome presents a constellation of physical, neurological, and systemic abnormalities,
 which are often apparent prenatally or at birth.
@@ -69,8 +69,8 @@ which are often apparent prenatally or at birth.
     -   Seizures
 5.  **Cardiac Abnormalities**:
     -   Present in 90–95% of cases
-    -   The most common defects are ventricular septal defects (VSD), atrial septal defects (ASD),
-        and patent ductus arteriosus (PDA).
+    -   The most common defects are [ventricular septal defects](cvs-vsd.qmd), [atrial septal
+        defects](cvs-asd.qmd), and [patent ductus arteriosus](cvs-pda.qmd).
 6.  **Other Systemic Abnormalities**:
     -   **Gastrointestinal**: Omphalocele, esophageal atresia, or malrotation.
     -   **Renal**: Horseshoe kidney, hydronephrosis, or renal agenesis.
@@ -80,7 +80,7 @@ which are often apparent prenatally or at birth.
     -   Persistent respiratory infections.
     -   Limited spontaneous movement.
 
-**Investigations**
+## **Investigations**
 
 A combination of prenatal and postnatal diagnostic tools confirms Edward syndrome and identifies
 associated anomalies.
@@ -110,30 +110,25 @@ associated anomalies.
         -   Brain imaging (MRI or CT) for structural abnormalities.
         -   Hearing and vision screening.
 
-**Treatment**
+## **Treatment**
 
 Edward syndrome does not have a curative treatment, and management focuses on supportive and
 palliative care to improve the quality of life. Treatment depends on the severity of symptoms and
 associated anomalies.
 
-1.  **Neonatal Care**:
-    -   Support for feeding difficulties, often requiring nasogastric tube feeding.
-    -   Management of respiratory distress with oxygen therapy or mechanical ventilation.
-2.  **Cardiac Care**:
-    -   Severe cardiac defects may require surgical intervention, but many families opt for
-        conservative management due to the poor prognosis.
-3.  **Surgical Management**:
-    -   Repairs for gastrointestinal anomalies like esophageal atresia or omphalocele if compatible
-        with survival.
-4.  **Developmental Support**:
-    -   Physical, occupational, and speech therapy can be introduced to optimize motor skills and
-        communication, although progress is often limited.
-5.  **Palliative Care**:
-    -   Comfort-focused care is essential for managing pain, feeding issues, and respiratory
-        infections.
+1.  **Neonatal Care**: Support for feeding difficulties, often requiring nasogastric tube feeding.
+    Management of respiratory distress with oxygen therapy or mechanical ventilation.
+2.  **Cardiac Care**: Severe cardiac defects may require surgical intervention, but many families
+    opt for conservative management due to the poor prognosis.
+3.  **Surgical Management**: Repairs for gastrointestinal anomalies like esophageal atresia or
+    omphalocele if compatible with survival.
+4.  **Developmental Support**: Physical, occupational, and speech therapy can be introduced to
+    optimize motor skills and communication, although progress is often limited.
+5.  **Palliative Care**: Comfort-focused care is essential for managing pain, feeding issues, and
+    respiratory infections.
     -   Hospice care is often recommended for severe cases.
 
-**Counselling**
+## **Counselling**
 
 Counseling is vital to managing Edward syndrome and providing support to families before and after
 diagnosis.
@@ -157,7 +152,7 @@ diagnosis.
     -   Assist families in coping with grief and decision-making.
     -   Connect them with support groups and advocacy organizations
 
-**Conclusion**
+## **Conclusion**
 
 Edward syndrome is a severe chromosomal disorder characterized by profound developmental and
 physical abnormalities, with a high risk of perinatal mortality. Advances in prenatal diagnostic

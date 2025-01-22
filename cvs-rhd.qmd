@@ -3,80 +3,172 @@ title: "Rheumatic Heart Disease"
 author: "Dr Samuel Blay Nguah"
 ---
 
-## Definition
+## **Introduction**
 
-Rheumatic Heart Disease (RHD) is an acquired heart disease and the only permanent sequel of
-Rheumatic Fever (RF). Thus, it is acquired after an episode of RF. RHD should, therefore, be
-distinguished from RF as they are two different but closely related disease entities.
+Rheumatic heart disease (RHD) is a chronic condition resulting from acute rheumatic fever (ARF), an
+autoimmune response to group A beta-hemolytic streptococcal (GAS) pharyngitis. It is characterized
+by permanent damage to the heart valves, particularly the mitral and aortic valves, due to repeated
+episodes of inflammation and scarring. RHD remains a significant cause of morbidity and mortality
+among children and young adults in low- and middle-income countries. Early diagnosis and management
+of ARF and RHD are critical to prevent severe complications and improve outcomes.
 
-## Incidence/prevalence
+## **Incidence and Prevalence**
 
-RHD is the most common acquired heart disease in children, with a prevalence
+RHD affects approximately **40 million people worldwide**, with the highest burden in sub-Saharan
+Africa, South Asia, the Pacific Islands, and parts of Latin America. The global prevalence in
+children aged 5–15 years is estimated at **1–3 per 1,000**, but it can exceed **10 per 1,000** in
+high-risk populations. ARF, the precursor to RHD, occurs most commonly between **5 and 15 years** of
+age, with peak incidence following untreated or inadequately treated GAS pharyngitis.
 
-## Aetiology
+## **Etiology**
 
-## Pathophysiology
+The primary etiology of RHD is **recurrent ARF episodes** triggered by an **immune response to GAS
+infection**. The following factors contribute to its development:
 
-## Signs and symptoms
+1.   **Infectious Agent**: GAS infection, particularly of the throat, is necessary to initiate the
+    autoimmune process. Certain GAS strains (M-protein serotypes) are more rheumatogenic.
+2.  **Host Susceptibility**: Genetic predisposition plays a role, with family clustering observed in
+    affected individuals.
+3.  **Environmental Factors**: Overcrowding, poor hygiene, and limited access to healthcare increase
+    the risk of GAS infections and progression to ARF and RHD.
 
-## Investigations
+RHD develops through the following sequence:
 
-## Treatment
+1.  **GAS Pharyngitis**: GAS infection elicits an immune response involving antibodies and T-cells
+    targeting streptococcal antigens.
+2.  **Molecular Mimicry**: Cross-reactivity occurs between streptococcal antigens (e.g., M protein)
+    and human proteins in the heart, joints, brain, and skin. Autoimmune inflammation leads to
+    tissue damage.
+3.  **Acute Rheumatic Fever**: Pancarditis (endocarditis, myocarditis, and pericarditis) is the
+    hallmark of ARF. The endocardium is most affected, leading to valvulitis.
+4.  **Chronic RHD**: Recurrent inflammation and scarring cause permanent valvular damage,
+    predominantly affecting the mitral and aortic valves. Mitral stenosis is the most common lesion,
+    followed by mitral regurgitation and aortic regurgitation.
 
-## Complications
+## **Signs and Symptoms**
 
-## Prognosis
+The clinical presentation of RHD varies based on the severity of valvular involvement and associated
+complications.
 
-## Differential diagnosis
+1.  **Symptoms**:
+    -   Fatigue and exercise intolerance
+    -    Dyspnea, initially on exertion and later at rest
+    -   Palpitations due to arrhythmias (e.g., atrial fibrillation)
+    -   Cough and hemoptysis (in severe mitral stenosis)
+    -   Edema and signs of heart failure in advanced cases
+2.  **Signs**:
+    -   **Cardiac Murmurs**:
 
-Rheumatic fever (RF) is a significant public health concern, especially in developing countries.
-Here are some key points about its epidemiology:
+        -   Mitral stenosis: Low-pitched diastolic murmur with an opening snap.
+        -   Mitral regurgitation: holosystolic murmur at the apex
+        -   Aortic regurgitation: High-pitched diastolic murmur.
 
-### **Global Burden**
+    -   Cardiomegaly with a displaced apex beat
 
--   **Prevalence**: Approximately 33.4 million people worldwide are affected by rheumatic heart
-    disease (RHD), a complication of rheumatic fever.
--   **Incidence**: Around 300,000 to 500,000 new cases of rheumatic fever are reported annually,
-    with about 60% of these cases progressing to rheumatic heart disease.
+    -   Signs of pulmonary hypertension (e.g., loud pulmonary component of S2)
 
-### **Geographical Distribution**
+    -   Peripheral edema, hepatomegaly, and ascites in heart failure
+3.  **History of ARF**:
+    -   Clinical features such as migratory polyarthritis, carditis, chorea, subcutaneous nodules,
+        or erythema marginatum support prior episodes of ARF.
 
--   **High Burden Regions**: The African, South-East Asia, and Western Pacific regions have the
-    highest prevalence, accounting for 84% of all cases and 80% of deaths due to RHD.
--   **Specific Countries**: India has the highest global prevalence, followed by China and
-    indigenous populations in Australia, New Zealand, and the Pacific island states.
+## **Investigations**
 
-### **Demographics**
+The diagnosis of RHD involves clinical assessment, laboratory tests, and imaging studies.
 
--   **Age**: Rheumatic fever most commonly occurs in childhood.
--   **Gender**: Historically, females have been more affected than males, but recent reports suggest
-    a more balanced gender distribution in some regions.
+1.  **Laboratory Tests**:
+    -   **Throat Culture or Rapid Antigen Test**: To confirm GAS infection if suspected.
+    -   **Anti-Streptolysin O (ASO) Titer**: Elevated in recent GAS infections.
+    -   **C-reactive protein (CRP) and Erythrocyte Sedimentation Rate (ESR)**: Markers of
+        inflammation during ARF episodes.
+2.  **Imaging**:
+    -   **Echocardiography**:
+        -   Key diagnostic tool for detecting valvular lesions and assessing severity.
+        -   Common findings include leaflet thickening, restricted mobility, and regurgitation or
+            stenosis
+    -   **Chest X-Ray**:
+        -   Cardiomegaly and pulmonary congestion in advanced disease.
+    -   **Electrocardiogram (ECG)**:
+        -   Prolonged PR interval (first-degree heart block) in ARF.
+        -   Atrial fibrillation or other arrhythmias in chronic RHD
+3.  **Other Tests**:
+    -   Cardiac MRI in selected cases for detailed assessment of myocardial and valvular
+        involvement.
 
-### **Risk Factors**
+## **Treatment**
 
--   **Streptococcal Infections**: Rheumatic fever follows pharyngeal infection with Group A
-    Streptococcus (GAS).
--   **Genetic Susceptibility**: Individuals with certain genetic backgrounds are more susceptible to
-    developing rheumatic fever after a strep infection.
+Management of RHD aims to reduce symptoms, prevent disease progression, and address complications.
 
-### **Prevention and Control**
+1.  **Medical Management**:
+    -   **Antibiotic Prophylaxis**: Long-term benzathine penicillin G intramuscular injections every
+        3–4 weeks to prevent recurrent ARF episodes.
+    -   **Heart Failure Management**: Diuretics, ACE inhibitors, and beta-blockers for symptomatic
+        relief.
+    -   **Anticoagulation**: Warfarin for patients with atrial fibrillation or mechanical valve
+        replacement.
+    -   **Anti-Inflammatory Therapy**: Aspirin or corticosteroids for active carditis.
+2.  **Surgical and Interventional Treatment**:
+    -   **Valvuloplasty**:
+        -   Percutaneous balloon mitral valvotomy for mitral stenosis in suitable candidates
+    -   **Valve Repair or Replacement**:
+        -   Required for severe valvular dysfunction or when medical management fails.
 
--   **Early Detection and Treatment**: Prompt treatment of strep throat with antibiotics can prevent
-    rheumatic fever.
--   **Long-term Antibiotic Prophylaxis**: Regular antibiotic treatment is recommended for
-    individuals who have had rheumatic fever to prevent recurrence.
+## **Prevention**
 
-### **Challenges**
+The cornerstone of RHD prevention is the timely diagnosis and treatment of GAS pharyngitis and ARF.
 
--   **Data Gaps**: Reliable data on the incidence of acute rheumatic fever is lacking in many
-    regions, making it difficult to implement effective prevention measures.
--   **Healthcare Access**: Limited access to healthcare in low- and middle-income countries
-    contributes to the high burden of the disease.
+1.  **Primary Prevention**:
+    -   Early recognition and antibiotic treatment of streptococcal pharyngitis with penicillin or
+        amoxicillin.
+    -   Improved hygiene and reduced overcrowding to lower transmission risk.
+2.  **Secondary Prevention**:
+    -   Long-term antibiotic prophylaxis to prevent recurrent ARF.
+    -   Duration of prophylaxis:
+        -   At least 10 years after the last episode of ARF or until the patient is 21 years old,
+            whichever is longer.
+        -   Life-long prophylaxis for severe valvular disease or post-surgical cases
+3.  **Community Interventions**
+    -   Public health programs to increase awareness and access to healthcare in high-burden
+        regions.
 
-Rheumatic fever remains a major cause of morbidity and mortality, particularly among young people in
-developing nations. Efforts to improve early detection, treatment, and long-term management are
-crucial to reducing its impact.
+## **Complications**
 
-Would you like more information on any specific aspect of rheumatic fever or its management?
+RHD can lead to severe complications if not adequately managed:
+
+1.  **Heart Failure**: Due to progressive valvular dysfunction and increased cardiac workload.
+2.  **Atrial Fibrillation**: Common in mitral stenosis, leading to thromboembolic events like
+    stroke.
+3.  **Pulmonary Hypertension**: Resulting from chronic left-sided valvular disease.
+4.  **Infective Endocarditis**: Increased risk in patients with damaged valves.
+5.  **Pregnancy Complications**: Significant maternal and fetal risks due to increased hemodynamic
+    demands.
+
+## **Prognosis**
+
+The prognosis of RHD depends on the severity of valvular involvement, the effectiveness of secondary
+prophylaxis, and access to medical and surgical care. Without intervention, severe RHD can result in
+progressive heart failure, significant morbidity, and premature death. With timely diagnosis and
+appropriate management, many children can experience improved quality of life and survival.
+
+## **Differential Diagnosis**
+
+Several conditions can mimic the clinical presentation of RHD and should be considered:
+
+1.  **Congenital Heart Disease**: Examples include atrial septal defect, ventricular septal defect,
+    and patent ductus arteriosus.
+2.  **Infective Endocarditis**: Characterized by fever, new murmur, and signs of embolization.
+3.  **Kawasaki Disease**: Vasculitis with coronary artery involvement, fever, and mucocutaneous
+    inflammation.
+4.  **Myocarditis**: Viral or autoimmune causes leading to cardiac inflammation.
+5.  **Mitral Valve Prolapse**:
+    -   Can mimic mitral regurgitation murmurs
+
+## **Conclusion**
+
+Rheumatic heart disease remains a major public health challenge in developing countries,
+disproportionately affecting children and young adults. Early recognition and treatment of GAS
+pharyngitis and consistent secondary prophylaxis are essential to prevent the progression to RHD.
+Multidisciplinary care, including medical, surgical, and public health interventions, is crucial to
+improving outcomes and reducing the global burden of this preventable disease.
 
 ----------------------------------------------------------------------------------------------------
