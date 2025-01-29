@@ -1,4 +1,130 @@
 ---
 title: "DiGeorge Syndrome"
-author: "xxx"
+author: ""
 ---
+
+## Introduction
+
+DiGeorge Syndrome (DGS), or 22q11.2 deletion syndrome, is a rare genetic disorder with significant
+clinical variability. It affects multiple body systems, including the heart, immune system,
+endocrine organs, and facial structures. Due to its diverse presentations, this condition may go
+undiagnosed or misdiagnosed without appropriate genetic screening. Advances in medical research have
+improved the understanding and management of DiGeorge Syndrome, benefiting individuals and families
+impacted by this complex condition.
+
+## Definition
+
+DiGeorge Syndrome is a chromosomal disorder caused by the deletion of a small segment of chromosome
+22 at the q11.2 locus. It is characterized by congenital abnormalities affecting the heart, thymus,
+and parathyroid glands, leading to immune deficiency, hypocalcemia, and developmental delays. Also
+referred to as velocardiofacial syndrome (VCFS) or conotruncal anomaly face syndrome, DiGeorge
+Syndrome belongs to a spectrum of conditions grouped under 22q11.2 deletion syndromes.
+
+## Genetics
+
+DiGeorge Syndrome occurs due to a microdeletion on the long arm (q) of chromosome 22 at position
+11.2. This deletion results in the loss of approximately 30 to 40 genes. One of the most crucial
+genes affected is TBX1, which plays a vital role in embryonic development. The condition typically
+arises sporadically, although it can be inherited in an autosomal dominant manner. Inherited cases
+account for about 10% of all cases, meaning an affected individual has a 50% chance of passing the
+deletion to offspring. Most cases, however, result from de novo deletions during embryogenesis.
+
+## Clinical Features
+
+The manifestations of DiGeorge Syndrome are highly variable, even among affected members of the same
+family. Clinical features can range from mild to severe and may affect multiple organ systems.
+
+1.  **Cardiac Abnormalities**: Congenital heart defects are present in up to 75% of individuals.
+    Common defects include:
+    -   [Tetralogy of Fallot](cvs-tof.qmd)
+    -   Interrupted aortic arch
+    -   [Ventricular septal defects](cvs-vsd.qmd)
+    -   Truncus arteriosus
+2.  **Immune Dysfunction**: Hypoplasia or aplasia of the thymus results in impaired T-cell
+    production, leading to varying degrees of immune deficiency. Severe cases may resemble complete
+    DiGeorge Syndrome, which mimics severe combined immunodeficiency (SCID).
+3.  **Endocrine Abnormalities**: These include
+    -   Hypoparathyroidism causing hypocalcemia
+    -   Thyroid dysfunction in some cases
+4.  **Craniofacial Features**:
+    -   Cleft palate or submucosal cleft palate
+    -   Small or malformed ears
+    -   Long face with a prominent nasal bridge
+5.  **Neurodevelopmental and Psychiatric Disorders**:
+    -   Developmental delays, learning disabilities
+    -   Speech and language difficulties
+    -   Increased risk of psychiatric conditions such as schizophrenia and anxiety disorders
+6.  **Gastrointestinal and Renal Anomalies**:
+    -   Feeding difficulties in infancy
+    -   Structural abnormalities of the kidneys
+
+## Investigations
+
+A thorough clinical assessment is essential for diagnosing DiGeorge Syndrome. The following
+investigations aid in confirming the diagnosis and assessing disease severity:
+
+1.  **Genetic Testing**:
+
+    -   Fluorescence in situ hybridization (FISH) to detect the 22q11.2 deletion
+    -   Microarray analysis for more comprehensive chromosomal evaluation
+
+2.  **Immunological Studies**:
+
+    -   Lymphocyte subset analysis to evaluate T-cell function
+    -   Immunoglobulin level measurement
+
+3.  **Cardiac Imaging**:
+
+    -   Echocardiography to assess for congenital heart defects
+
+4.  **Calcium Levels**:
+
+    -   Serum calcium and parathyroid hormone (PTH) measurements
+
+5.  **Endocrine Evaluation**:
+
+    -   Thyroid function tests
+
+6.  **Radiological Imaging**:
+
+    -   Renal ultrasound for structural anomalies
+
+## Treatment
+
+Management of DiGeorge Syndrome requires a multidisciplinary approach tailored to each individual's
+needs. Early diagnosis and intervention significantly improve outcomes.
+
+1.  **Cardiac Care**:
+    -   Surgical correction of congenital heart defects when indicated
+2.  **Immune Management**:
+    -   Prophylactic antibiotics and immunoglobulin replacement in cases of immune deficiency
+    -   Thymus transplantation in severe cases
+3.  **Calcium and Endocrine Management**:
+    -   Calcium and vitamin D supplementation for hypocalcemia
+    -   Hormonal therapy for endocrine dysfunctions
+4.  **Speech and Developmental Support:**
+    -   Speech therapy for communication difficulties
+    -   Educational interventions for cognitive delays
+5.  **Psychiatric Care:**
+    -   Psychological counseling and psychiatric treatment for mental health conditions
+
+## Counseling
+
+Genetic counseling plays a pivotal role in helping affected individuals and families understand the
+nature of the condition, its inheritance patterns, and reproductive risks. Key counseling points
+include:
+
+1.  **Risk of Recurrence**: Parents of an affected child should be informed of the potential 50%
+    inheritance risk if a parent carries the deletion.
+2.  **Prenatal Diagnosis**: Options such as chorionic villus sampling (CVS) and amniocentesis can be
+    offered to at-risk couples.
+3.  **Support Services**: Families benefit from connections to support groups and advocacy
+    organizations to navigate the challenges associated with the condition.
+
+## Conclusion
+
+DiGeorge Syndrome is a complex genetic disorder with wide-ranging clinical manifestations. Advances
+in genetic testing have greatly improved diagnostic accuracy, enabling earlier interventions and
+better outcomes. Multidisciplinary care, including cardiac, immunological, developmental, and
+psychological support, is essential for managing the condition effectively. Through continued
+research and awareness, individuals living with DiGeorge Syndrome can achieved.
