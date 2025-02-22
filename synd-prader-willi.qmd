@@ -3,7 +3,7 @@ title: "Prada-Willi Syndrome"
 author: ""
 ---
 
-## Introduction 
+## Introduction
 
 Prader-Willi Syndrome (PWS) is a complex and rare genetic disorder that affects multiple systems in
 the body, leading to developmental, cognitive, and behavioral challenges. It is characterized by
@@ -11,14 +11,14 @@ hypotonia (low muscle tone), feeding difficulties in infancy, hyperphagia (exces
 childhood and adulthood, and obesity-related complications. With proper management, individuals with
 PWS can lead healthier and more fulfilling lives.
 
-## Definition 
+## Definition
 
 Prader-Willi Syndrome is a genetic disorder caused by the loss of function of specific genes on the
 paternal copy of chromosome 15 (15q11-q13). It is considered the most common genetic cause of
 life-threatening obesity. Individuals with PWS often exhibit a characteristic phenotype, including
 short stature, intellectual disability, behavioral issues, and endocrine abnormalities.
 
-## Genetics 
+## Genetics
 
 Prader-Willi Syndrome is most commonly caused by the absence of expression of paternally inherited
 genes on chromosome 15. Three main genetic mechanisms are responsible for PWS:
@@ -31,7 +31,7 @@ genes on chromosome 15. Three main genetic mechanisms are responsible for PWS:
     The region affected includes genes responsible for hypothalamic regulation, which plays a
     significant role in developing key features of the syndrome.
 
-## Clinical Features 
+## Clinical Features
 
 Prader-Willi Syndrome presents a wide spectrum of clinical features that evolve throughout an
 individual's life.
@@ -63,7 +63,7 @@ individual's life.
     -   Anxiety and mood instability
     -   Sleep disturbances
 
-## Investigations 
+## Investigations
 
 Clinical evaluation and genetic testing are essential for diagnosing Prader-Willi Syndrome.
 
@@ -73,7 +73,7 @@ Clinical evaluation and genetic testing are essential for diagnosing Prader-Will
         gene expression.
     -   Fluorescence In Situ Hybridization (FISH): Detects deletions on chromosome 15.
     -   DNA Microarray Analysis: Helps identify chromosomal abnormalities.
-    -    Uniparental Disomy Testing: Confirms cases due to maternal UPD.
+    -   Uniparental Disomy Testing: Confirms cases due to maternal UPD.
 
 2.  **Hormonal Assessment:**
 
@@ -88,7 +88,7 @@ Clinical evaluation and genetic testing are essential for diagnosing Prader-Will
 
     -   Brain MRI in cases with unusual neurological presentations
 
-## Treatment 
+## Treatment
 
 Management of Prader-Willi Syndrome requires a comprehensive, multidisciplinary approach.
 
@@ -96,7 +96,7 @@ Management of Prader-Willi Syndrome requires a comprehensive, multidisciplinary 
 
     -   Controlled dietary intake to prevent obesity
     -   Structured meal plans and avoidance of access to food
-    -    Close monitoring of weight and metabolic parameters
+    -   Close monitoring of weight and metabolic parameters
 
 2.  Growth Hormone Therapy (GHT):
 
@@ -130,7 +130,7 @@ Management of Prader-Willi Syndrome requires a comprehensive, multidisciplinary 
 
     -   Medications for mood stabilization, anxiety, or behavioral management when necessary
 
-## Counseling 
+## Counseling
 
 Genetic counseling plays a crucial role in supporting affected families and individuals.
 
@@ -148,7 +148,7 @@ Genetic counseling plays a crucial role in supporting affected families and indi
     -   Addressing emotional and mental health challenges faced by families
     -   Providing connections to support groups and advocacy organizations
 
-## Conclusion 
+## Conclusion
 
 Prader-Willi Syndrome is a complex genetic disorder that poses numerous challenges throughout an
 individual's life. However, advances in genetic testing, growth hormone therapy, and behavioral
