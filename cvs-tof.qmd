@@ -17,16 +17,11 @@ infundibular septum, giving rise to four components:
 
 ## Incidence/prevalence
 
-It is the most common cyanotic congenital heart disease. About 1 in 3500 babies born in the US are
-born with ToF. Accounts for 7–10% of all congenital cardiac malformations. More common in Males. In
-a series of echocardiograms done in Kumasi, Ghana ToF was the most common cyanotic congenital heart
-disease seen in 13% of all heart diseases. There was a significant male preponderance with a female
-vs male prevalence of 10% vs 15% respectively.
+It is the most common cyanotic congenital heart disease. About 1 in 3500 babies born in the US are born with ToF. Accounts for 7–10% of all congenital cardiac malformations. More common in Males. In a series of echocardiograms done in Kumasi, Ghana, ToF was the most common cyanotic congenital heart disease seen in 13% of all heart diseases. There was a significant male preponderance with a female vs male prevalence of 10% vs 15%, respectively.
 
 ## Aetiology
 
-Although there is no known definite cause as to why some babies develop ToF in utero, certain
-environmental and biological factors are known to increase the risk:
+Although there is no known definite cause as to why some babies develop ToF in utero, certain environmental and biological factors are known to increase the risk:
 
 -   **Genetic**: CHARGE syndrome, chromosome 22q11 microdeletion ([Di George
     syndrome](synd-digeorge.qmd)), [Down syndrome](), [Edward's syndrome](synd-edwards.qmd), or
@@ -43,11 +38,11 @@ environmental and biological factors are known to increase the risk:
     the proportion of the aorta overriding the VSD.
 -   The VSD is normally of a significant size, which causes the systolic pressures between the
     ventricles to equalize. In mild ToF, the left ventricular pressures remain higher than the right
-    ventricle, thus blood shunts from left to right through the VSD. These patients are normally
+    ventricle, thus, blood shunts from left to right through the VSD. These patients are normally
     acyanotic. In more severe diseases, due to increased right ventricular pressure (secondary to
-    Pulmonary Stenosis), the shunt direction reverses from right to left allowing the mixing of
+    Pulmonary Stenosis), the shunt direction reverses from right to left, allowing the mixing of
     deoxygenated and oxygenated blood. This results in lower oxygenated blood in the systemic
-    circulation; hence patients are cyanotic.
+    circulation, making patients cyanotic.
 -   Pulmonary stenosis can be classified according to its location. The commonest site is the
     infundibular septum (50%). The stenosis may also be valvular (10%) or a combination (30%). This
     results in impaired flow of deoxygenated blood into the main pulmonary artery. It may be severe
@@ -61,116 +56,77 @@ environmental and biological factors are known to increase the risk:
 
 ## Signs and symptoms
 
-Patients with Tof are often not born with cyanosis. This may lead to the diagnosis being missed at
-birth. However, progressive cyanosis occurs in the first year of life. They usually have little or
-no signs of [heart failure](cvs-heart-failure.qmd). Most will present with poor exercise tolerance
-which worsens as the child ages. In children who can walk, frequent squatting is observed in
-unrepaired ToF. Other features include poor feeding and poor weight gain.
+Patients with Tof are often not born with cyanosis. This may lead to the diagnosis being missed at birth. However, progressive cyanosis occurs in the first year of life. They usually have little or no signs of [heart failure](cvs-heart-failure.qmd). Most will present with poor exercise tolerance, which worsens as the child ages. In children who can walk, frequent squatting is observed in unrepaired ToF. Other features include poor feeding and poor weight gain.
 
-Physical examination of children with ToF may reveal digital clubbing of varying stages, central
-cyanosis, and plethora, usually seen in the hands and eyes. Auscultation classically reveals the
-first and second heart sounds with an ejection systolic murmur loudest at the upper to middle left
-sternal edge.
+Physical examination of children with ToF may reveal digital clubbing of varying stages, central cyanosis, and plethora, usually seen in the hands and eyes. Auscultation classically reveals the first and second heart sounds with an ejection systolic murmur loudest at the upper to middle left sternal edge.
 
 ## Investigations
 
-Bedside pulse oximetry often reveals an oxygen saturation of less than 90%. A chest X-ray shows a
-normal-sized heart with a classical boot shape and decreased pulmonary vascular markings. In about
-30% of the cases, a right arch is present.
+Bedside pulse oximetry often reveals an oxygen saturation of less than 90%. A chest X-ray shows a normal-sized heart with a classical boot shape and decreased pulmonary vascular markings. In about 30% of the cases, a right arch is present.
 
 ![Boot-shaped heart of Tetralogy of Fallot](images/cvs-Tof.jpg){#fig-ToF fig-align="center"}
 
-An electrocardiogram, though non-specific may show right axis deviation, right ventricular
+An electrocardiogram, though non-specific, may show right axis deviation, right ventricular
 hypertrophy, and right atrial enlargement.
 
-An echocardiogram is the most useful diagnostic modality. It delineates the defect by showing the
-anterior malalignment [Ventricular Septal Defect](cvs-vsd.qmd), degree of infundibular stenosis,
-state of the pulmonary artery and/or branches, and the overriding aortic arch sidedness. Other
-anatomical abnormalities that may co-exist eg. Atrioventricular Canal Defects, [Atrial Septal
-Defect](cvs-asd.qmd), and coronary artery abnormalities can also be obtained. A CT angiogram and
-Magnetic Resonance Angiography can be done in complex cases and preparation for surgery.
+An echocardiogram is the most useful diagnostic modality. It delineates the defect by showing the anterior malalignment [Ventricular Septal Defect](cvs-vsd.qmd), degree of infundibular stenosis, state of the pulmonary artery and/or branches, and the overriding aortic arch sidedness. Other anatomical abnormalities that may co-exist, eg, Atrioventricular Canal Defects, [Atrial Septal Defect](cvs-asd.qmd), and coronary artery abnormalities can also be obtained. A CT angiogram and Magnetic Resonance Angiography can be done in complex cases and in preparation for surgery.
 
 ## Treatment
 
-Since patients with ToF hardly experience [heart failure](cvs-heart-failure.qmd), antifailure
-medications are not the mainstay of treatment.
+Since patients with ToF hardly experience [heart failure](cvs-heart-failure.qmd), antifailure medications are not the mainstay of treatment.
 
-Untreated cyanotic congenital heart disease is associated chronic hypoxic state which leads to
-polycythemia. This leads to a high demand for iron and increases susceptibility to iron deficiency.
-Furthermore, it is well documented that iron deficiency increases the chance of a hypercyanotic
-spell and stroke. Iron treatment in ToF is therefore key in its outpatient management. Nutritional
-rehabilitation is done for chronically malnourished patients.
+Untreated cyanotic congenital heart disease is associated with a chronic hypoxic state, which leads to polycythemia. This leads to a high demand for iron and increases susceptibility to iron deficiency. Furthermore, it is well documented that iron deficiency increases the chance of a hypercyanotic spell and stroke. Iron treatment in ToF is therefore key in its outpatient management. Nutritional rehabilitation is done for chronically malnourished patients.
 
-Surgical therapy is the definitive treatment. A Blalock-Taussig shunt can be done to improve
-oxygenation. A stand can also be inserted in younger children when deemed necessary. Definitive
-corrective surgery should be done for all children with ToF.
+Surgical therapy is the definitive treatment. A Blalock-Taussig shunt can be done to improve oxygenation. A stand can also be inserted in younger children when deemed necessary. Definitive corrective surgery should be done for all children with ToF.
 
 ## Natural history
 
-Features of ToF are progressive if not corrected surgically. There is usually progressive dyspnoea
-on exertion and cyanosis as the child ages. However, some "pink tets" can live very well into
-adulthood. Untreated, approximately 50% will live to their 6th birthday.
+Features of ToF are progressive if not corrected surgically. There is usually progressive dyspnoea on exertion and cyanosis as the child ages. However, some "pink tets" can live very well into adulthood. Untreated, approximately 50% will live to their 6th birthday.
 
 ## Complications
 
-A feared presentation in untreated children with a ToF is the hypercyanotic spell (Tet spell). This
-is treated further below. Other complications can result from the emboli effect leading to stroke
-and cerebral abscess. High hematocrit may lead to hyperviscosity, headache, and dizziness.
-[Infective endocarditis](cvs-inf-endo.qmd) is another known complication. Long-term complications
-include right ventricular dysfunction, coagulopathy, and arrhythmias.
+A feared presentation in untreated children with a ToF is the hypercyanotic spell (Tet spell). This is treated further below. Other complications can result from the embolus effect, leading to stroke and cerebral abscess. High hematocrit may lead to hyperviscosity, headache, and dizziness. [Infective endocarditis](cvs-inf-endo.qmd) is another known complication. Long-term complications include right ventricular dysfunction, coagulopathy, and arrhythmias.
 
 ## Prognosis
 
-Repaired, the 25-year survival is about 95%.[@smith2019] Unrepaired most will die by their 10th
-birthday. This is especially so for those with other genetic syndromes and associated malformations.
+Repaired, the 25-year survival is about 95%.[@smith2019] Unrepaired, most will die by their 10th birthday. This is especially so for those with other genetic syndromes and associated malformations.
 
 ## Differential diagnosis
 
-Cyanosed ToF patients have a differential diagnosis of Transposition of the great arteries,
-Tricuspid atresia, pulmonary atresia, etc. Pink tets will have a differential diagnosis of a
-[Ventricular Septal Defect](cvs-vsd-qmd)
+Cyanosed ToF patients have a differential diagnosis of Transposition of the great arteries, Tricuspid atresia, pulmonary atresia, etc. Pink ToFs will have a differential diagnosis of a [Ventricular Septal Defect](cvs-vsd-qmd)
 
 ## Prevention
 
-There is no known prevention in ToF. However, it is always prudent for prospective mothers and those
-in the first trimester to avoid recreational drugs, alcohol, and some over-the-counter medications.
-Also, folic acid supplementation should encouraged.
+There is no known prevention for ToF. However, it is always prudent for prospective mothers and those in the first trimester to avoid recreational drugs, alcohol, and some over-the-counter medications. Also, folic acid supplementation should be encouraged.
 
 ## Hypercyanotic spell
 
-Hypercyanotic spell (tet spell) is an emergency in children with ToF and to a lesser extent, other
-cyanotic congenital heart diseases. It presents most commonly in children less than 2 years.
+A hypercyanotic spell (tet spell) is an emergency in children with ToF and, to a lesser extent, other cyanotic congenital heart diseases. It presents most commonly in children less than 2 years old.
 
 ### Presentation
 
-Children with hypercyanotic spells present with paroxysms of increased and deep breathing,
-irritability, prolonged, unsettled crying, increasing cyanosis, seizures, and decreased intensity of
-heart murmur. In untreated cases, this might lead to brain damage or death.
+Children with hypercyanotic spells present with paroxysms of increased and deep breathing, irritability, prolonged, unsettled crying, increasing cyanosis, seizures, and decreased intensity of the heart murmur. In untreated cases, this might lead to brain damage or death.
 
 ### Pathophysiology
 
-A hypercyanitic spell can have many precipitating factors. These may include fever, anemia,
-dehydration, prolonged crying, and eating. These precipitants lead to decreased blood flow to the
-lungs and progressively increase right-to-left shunting. This leads to increasing cyanosis,
-tachycardia, and reduced systemic vascular resistance. Carbon dioxide accumulation stimulates the
-central respiratory center leading to increased and deep breathing. All these unfortunately cause
-further right-to-left shunting thus perpetuating the hypoxia.
+A hypercyanitic spell can have many precipitating factors. These may include fever, anemia, dehydration, prolonged crying, and eating. These precipitants lead to decreased lung blood flow and progressively increase right-to-left shunting. This leads to increasing cyanosis, tachycardia, and reduced systemic vascular resistance. Carbon dioxide accumulation stimulates the
+central respiratory center, leading to increased and deep breathing. All these unfortunately cause further right-to-left shunting, thus perpetuating the hypoxia.
 
 ### Treatment
 
 The treatment goal is to increase preload and promote pulmonary blood flow.
 
 -   First, the child should be placed in a knee-chest position. This increases systemic vascular
-    resistance, temporarily raises the systemic pressure, and reduces the right to left shunting.
--   Oxygen can be administered though it is of limited value and should not be forced on the patient
+    resistance, temporarily raises the systemic pressure, and reduces the right-to-left shunting.
+-   Oxygen can be administered, though it is of limited value and should not be forced on the patient
     if he is combative.
--   Next volume expansion with intravenous fluids should be administered. This raises the preload,
-    and increases systemic pressure, thus aiding in reducing the right-to-left shunting.
+-   Next volume expansion with intravenous fluids should be administered. This raises the preload
+    and increases systemic pressure, thus reducing right-to-left shunting.
 -   Intramuscular or subcutaneous morphine can be administered. This aids in relaxing the
     infundibular muscle and thus promotes pulmonary blood flow. It also sedates the child, thus
     making him/her less acidotic. Acidosis perpetuates the hyperchaotic spell
--   Intravenous propranolol, esmolol, or metoprolol are administered to reduce the right ventricular
+-   Intravenous propranolol, esmolol, or metoprolol is administered to reduce the right ventricular
     outflow tract obstruction.
--   Some alpha-agonists such as Phenylephrine can be given to improve blood pressure in severe cases
+-   Some alpha-agonists, such as Phenylephrine, can be given to improve blood pressure in severe cases
 -   Long-term treatment may include oral propranolol for prophylaxis, iron supplementation, and
     surgical correction.
