@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -60,10 +60,10 @@ div.csl-indent {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-e2b3773e3f1901d9ab51466d3f9342eb.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -236,7 +236,7 @@ div.csl-indent {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./neo-newborn-feeding.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Newborn Feeding</span></span></a>
+ <span class="menu-text"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Breastfeeding – Theory and Practice</span></span></a>
   </div>
 </li>
       </ul>
@@ -253,7 +253,7 @@ div.csl-indent {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./resp-basics.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Asthma</span></span></a>
+ <span class="menu-text"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Basics</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -1073,7 +1073,7 @@ div.csl-indent {
 <section id="radiologic-investigations" class="level3" data-number="35.6.2">
 <h3 data-number="35.6.2" class="anchored" data-anchor-id="radiologic-investigations"><span class="header-section-number">35.6.2</span> Radiologic investigations</h3>
 <p>Children often have paucibacillary TB and therefore bacteriological yields are low. Various imaging modalities can be suggestive of TB. Chest X-ray is the most frequently used radiological imaging. The presence of hilar lymphadenopathy (<a href="#fig-id-cxr-ptb" class="quarto-xref">Figure&nbsp;<span>35.1</span></a>), effusions, and cavitations could all support the diagnosis of TB in children. Ultrasound, CT scan, and MRI all have roles in suspected extrapulmonary TB.</p>
-<div id="fig-id-cxr-ptb" class="quarto-float quarto-figure quarto-figure-center anchored" alt="CXR showing PTB" data-fig-align="center">
+<div id="fig-id-cxr-ptb" class="quarto-float quarto-figure quarto-figure-center anchored" data-fig-align="center" alt="CXR showing PTB">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-id-cxr-ptb-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <img src="images/id-cxr-ptb.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="CXR showing PTB" width="351">
@@ -1270,8 +1270,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -1382,7 +1380,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

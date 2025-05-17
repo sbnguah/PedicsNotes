@@ -211,8 +211,8 @@ This should include but not be restricted to
 
 Phototherapy is the use of visible light to treat high levels of serum bilirubin in the newborn.
 
-![Phototherapy Unit](images/neo-phototherapy.jpg){#fig-PhototherapyUnit fig-alt="Phototherapy Unit"
-fig-align="center"}
+![Phototherapy Unit](images/neo-phototherapy.jpg){#fig-PhototherapyUnit
+fig-alt="Phototherapy Unit" fig-align="center"}
 
 The dose of phototherapy is a key factor in how quickly it works. The dose in turn is determined by:
 
@@ -258,7 +258,8 @@ serum bilirubin high enough to warrant treatment should be managed in the hospit
 Provides a means of rapid reduction of circulating bilirubin in the blood. Involves manual removal
 of the baby's blood and simultaneously replacing it with compatible donor blood.
 
-![Exchange Blood Transfusion](images/neo-ebt.jpg){#fig-ExchangeBloodTransfusion
+![Exchange Blood
+Transfusion](images/neo-ebt.jpg){#fig-ExchangeBloodTransfusion
 fig-alt="Exchange blood transfusion" fig-align="center"}
 
 In addition to reducing bilirubin levels, EBT removes partially hemolyzed RBCs, RBCs coated with

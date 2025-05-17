@@ -462,15 +462,15 @@ laboratory monitoring will be needed to identify side effects early. There are a
 each group to substitute if a child on HAART experiences a major side effect.
 
 ::: {#tbl-arv-toxicities}
-|                                   |                                                                                                                                                                                                                                                      |
-|-------------------------|---------------------------------------------------------------------------|
-| **Haematological toxicity**       | Drug-induced bone marrow suppression is most commonly seen with AZT (anaemia, neutropenia).                                                                                                                                                          |
-| **Mitochondrial Dysfunction**     | Primarily seen with the NRTI drugs, including lactic acidosis, hepatic toxicity, pancreatitis, peripheral neuropathy, lipoatrophy, myopathy                                                                                                          |
-| **Renal Toxicity**                | Renal tubular dysfunction is associated with Tenofovir (TDF). ATV/r can also cause nephrolithiasis.                                                                                                                                                  |
+|  |  |
+|----|----|
+| **Haematological toxicity** | Drug-induced bone marrow suppression is most commonly seen with AZT (anaemia, neutropenia). |
+| **Mitochondrial Dysfunction** | Primarily seen with the NRTI drugs, including lactic acidosis, hepatic toxicity, pancreatitis, peripheral neuropathy, lipoatrophy, myopathy |
+| **Renal Toxicity** | Renal tubular dysfunction is associated with Tenofovir (TDF). ATV/r can also cause nephrolithiasis. |
 | **Other Metabolic Abnormalities** | More common with PIs and INSTIs. Include hyperlipidaemia, fat accumulation, insulin resistance, diabetes and osteopenia. Lipodystrophy is also associated with Zidovudine. The risk of cardiovascular events with Abacavir (ABC) is still debatable. |
-| **Allergic Reactions**            | Skin rashes and hypersensitivity reactions, are more common with the NNRTI drugs but also seen with certain NRTI drugs, such as ABC and some PIs.                                                                                                    |
-| **Hepatic Toxicity**              | Liver enzyme elevation with DTG especially in patients with HBV or HCV co-infection. DRV/r also causes liver enzyme elevation                                                                                                                        |
-| **Muscular Toxicity**             | Muscle weakness and sometimes rhabdomyolysis are seen with RAL                                                                                                                                                                                       |
+| **Allergic Reactions** | Skin rashes and hypersensitivity reactions, are more common with the NNRTI drugs but also seen with certain NRTI drugs, such as ABC and some PIs. |
+| **Hepatic Toxicity** | Liver enzyme elevation with DTG especially in patients with HBV or HCV co-infection. DRV/r also causes liver enzyme elevation |
+| **Muscular Toxicity** | Muscle weakness and sometimes rhabdomyolysis are seen with RAL |
 
 : Common ARV toxicities
 :::
