@@ -48,19 +48,19 @@ amounts could indicate underlying liver disease or injury.
 
 This is lipid soluble, can cross the blood-brain barrier and is toxic in high amounts to the brain.
 
-In very high concentrations, unconjugated bilirubin, which is lipid soluble, is toxic to the
-developing brain. Once it crosses the blood-brain barrier and binds to brain tissue and deposits in
+In very high concentrations, unconjugated bilirubin, which is lipid-soluble, is toxic to the
+developing brain. Once it crosses the blood-brain barrier, it binds to brain tissue and deposits in
 the developing brain. Since this is an irreversible process, it leads to long-term neurological
 issues and even death.
 
 ## Types of Jaundice
 
-There are two main types of jaundice:\
+There are two main types of jaundice:
 
 1.  Physiological jaundice and
 2.  Pathological jaundice.
 
-There are three main mechanisms for jaundice:\
+There are three main mechanisms for jaundice:
 
 1.  Increased bilirubin production
 2.  Decreased bilirubin clearance and

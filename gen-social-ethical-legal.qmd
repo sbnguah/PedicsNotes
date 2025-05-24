@@ -8,7 +8,7 @@ date: 2025-05-17
 
 Social, ethical, and legal considerations are vital components of holistic child healthcare.
 Understanding the child’s family, social background, and cultural context enables healthcare workers
-to diagnose and manage effectively. In Ghana, these issues are particularly pertinent due to diverse
+to diagnose and manage effectively. These issues are particularly pertinent in Ghanadue to diverse
 cultural beliefs, legal mandates, and socio-economic disparities. This chapter explores these themes
 with real-life illustrations to equip medical students with a broader understanding of child health
 practice.
@@ -19,12 +19,12 @@ By the end of this chapter, students should be able to:
 
 -   State the importance of contextualizing patients in family and social history
 -   Describe the major legal and ethical issues affecting children as patients
--   Define child abuse and state the key management issues
+-   Define child abuse and state the key management issues.
 -   Describe traditional practices in Ghana that affect children
 
 ## The Importance of Social Context in Clinical Practice
 
-Understanding the social context of a child is essential for effective diagnosis and treatment. For
+Understanding a child's social context is essential for effective diagnosis and treatment. For
 example, a child repeatedly brought to the clinic by a grandparent for 'fever' might be showing
 signs of more profound social or emotional distress rather than a physical illness. Medical students
 must go beyond clinical symptoms and explore the child's home environment, caregivers, schooling,
@@ -38,7 +38,7 @@ include:
 
 -   Who are the child’s primary caregivers?
 -   Who feeds and bathes the child?
--   Where does the child live, and are there known health risks in the environment?
+-   Where does the child live, and are there known environmental health risks?
 -   Are there any concerns about school attendance or performance?
 
 Medical students should also assess the reliability of the informant. If the history is provided by
@@ -47,9 +47,9 @@ informant's mental or physical capacity to provide accurate information.
 
 ## Legal and Ethical Considerations in Child Health
 
-The welfare of the child is a cornerstone of legal and ethical practice in paediatrics. According to
-Ghana’s Children's Act (Act 560, 1998), the best interest of the child must always be the paramount
-consideration in any matter affecting the child.
+Child welfare is a cornerstone of legal and ethical practice in paediatrics. According to Ghana’s
+Children's Act (Act 560, 1998), the child's best interest must always be the paramount consideration
+in any matter affecting the child.
 
 ### Key Legal Provisions
 
@@ -59,9 +59,9 @@ consideration in any matter affecting the child.
 
 In practice, clinicians may encounter complex dilemmas, such as parents refusing blood transfusions
 on religious grounds or the need for a court order involving treatment. In such cases, the principle
-of the child’s best interest must guide decisions. However, in some cases, the best interest of the
-child may not be obvious, or there may be more than one child in the situation with interests that
-do not coincide. An example of this would be where the parents of a child, upon admission, request
+of the child’s best interest must guide decisions. However, in some cases, the child's best interest
+may not be obvious, or there may be more than one child in the situation with interests that do not
+coincide. An example of this would be where the parents of a child, upon admission, request
 discharge because another child at home has no one to care for them.
 
 ## Child Abuse

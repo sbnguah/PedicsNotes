@@ -1,3 +1,467 @@
 ---
-title: "Immunization"
+title: "Childhood Immunization"
+author: "Prof. Emmanuel Otopa Danquah Addo-Yobo"
+date: 2025-05-25
 ---
+
+## Introduction
+
+Childhood immunization is a cornerstone of public health, offering lifesaving protection against
+infectious diseases. It is one of the most cost-effective strategies for reducing morbidity and
+mortality in children worldwide. Immunization is vital in achieving [Sustainable Development Goal
+(SDG) 3](https://sdgs.un.org/goals/goal3 "SDG 3"), which aims to reduce neonatal mortality to 12 per
+1000 live births and under-five mortality to 25 per 1000 live births by 2030. Despite its
+effectiveness, challenges such as parental misconceptions, healthcare accessibility, vaccine
+hesitancy, and logistical issues persist.
+
+## Key Immunization Concepts
+
+-   **Immunization**: The process of artificially conferring immunity against infectious diseases.
+-   **Vaccination**: The act of introducing an antigenic material into the body to stimulate an
+    immune response, leading to future protection upon exposure.
+-   **Vaccine**: A biological preparation that enhances active acquired immunity against specific
+    pathogens. Vaccines can be live-attenuated, inactivated, subunit, toxoid-based, or nucleic
+    acid-based.
+
+## Types of Vaccines
+
+Vaccines are classified based on their composition and mechanism:
+
+1.  **Live Attenuated Vaccines**: Contain weakened pathogens (e.g., Measles, Mumps, Rubella, BCG,
+    Yellow Fever, OPV).
+2.  **Killed/Inactivated Vaccines:** Pathogens are killed but retain their immunogenic properties
+    (e.g., Hepatitis A, Rabies, IPV).
+3.  **Toxoid-Based Vaccines**: Contain inactivated toxins to generate immunity (e.g., Tetanus,
+    Diphtheria).
+4.  **Subunit/Conjugate Vaccines**: Use fragments of pathogens for immunity (e.g., Pneumococcal,
+    Hib, Hepatitis B).
+5.  **Nucleic Acid-Based Vaccines**: Utilize mRNA or DNA to instruct cells to produce an immune
+    response (e.g., SARS-CoV-2 vaccines).
+
+## Expanded Programme on Immunization (EPI) in Ghana
+
+Ghana's routine immunization schedule includes:
+
+-   **Birth:** BCG, OPV (0)
+-   **6 Weeks:** Pentavalent (DTwP/HepB/Hib), OPV (1), PCV (1), Rotavirus (1)
+-   **10 Weeks:** Pentavalent (2), OPV (2), PCV (2), Rotavirus (2)
+-   **14 Weeks:** Pentavalent (3), OPV (3), IPV, PCV (3), Rotavirus (3)
+-   **6-7 Months:** RTS,S (Malaria vaccine)
+-   **9 Months:** Measles-Rubella (MR), Yellow Fever, RTS,S (3)
+-   **18 Months:** MR Booster, Meningococcal A, RTS,S (4)
+-   **Adolescents:** HPV vaccine for girls aged 10-13.
+
+## Principles of Immunization
+
+-   **Herd Immunity:** High vaccination coverage reduces disease transmission.
+-   **Cold Chain Management:** Essential for vaccine potency.
+-   **Missed Opportunities:** Ensuring timely vaccination enhances community protection.
+-   **Vaccine Safety:** Strict protocols ensure vaccines are safe and effective.
+
+## Contraindications to Vaccination
+
+While vaccines are generally safe, contraindications exist:
+
+-   **Live vaccines** should be avoided in **immunocompromised individuals**.
+-   **Severe allergic reactions** (anaphylaxis) to vaccine components.
+-   **Pregnancy** – Certain live vaccines (e.g., Yellow Fever, Measles) are contraindicated.
+
+## Vaccine-Preventable Diseases & Control Programs
+
+Immunization programs target several infectious diseases:
+
+-   **Tuberculosis (BCG):** Protects against severe TB forms in infants.
+-   **Polio:** Eradication efforts involve IPV and OPV.
+-   **Pneumococcal Disease (PCV13):** Prevents pneumonia, meningitis.
+-   **Rotavirus:** Reduces childhood diarrheal deaths.
+-   **Measles, Rubella, Mumps (MR/MMR):** Prevents severe complications.
+-   **Meningococcal Disease (Men A):** Prevents outbreaks.
+-   **Yellow Fever:** Essential for endemic regions.
+-   **HPV:** Prevents cervical cancer.
+
+## Challenges & Future Directions
+
+-   **Vaccine Hesitancy:** Addressing misinformation.
+-   **New Vaccine Development:** Ongoing innovations like mRNA vaccines.
+-   **Policy & Surveillance:** Strengthening disease monitoring to prevent outbreaks.
+
+## Specific vaccines
+
+### BCG Vaccine (Tuberculosis)
+
+-   **Pathogen:** *Mycobacterium tuberculosis* or *M. bovis* (Non-sporing, rod-shaped, acid-fast
+    bacillus)
+-   **Type:** Live attenuated, freeze-dried
+-   **Storage:** 2°C - 8°C (Never frozen)
+-   **Administration:** Intradermal (deltoid)
+-   **Shelf Life:** 12 - 18 months
+-   **Usage:** Do not shake to mix; use within 2 hours
+-   **Efficacy:**
+    -   0–80% for Pulmonary TB (PTB)
+    -   75–86% for Miliary TB & TB Meningitis
+-   **Indications:**
+    -   Infants, health personnel, and contacts with sputum-positive cases.
+    -   Suspected exposure? Perform a tuberculin test before immunization.
+    -   In cases of contact: Tuberculin test, repeat after 6 months. If positive ⇒ Chemoprophylaxis.
+-   **Notes:**
+    -   Duration of immunity is uncertain; it wanes over time.
+    -   Protects children against meningitis & disseminated TB but does not prevent primary
+        infection or reactivation.
+    -   Scar confirms vaccination but not protection. Absence of a scar may indicate the need for
+        testing and revaccination.
+    -   Up to 10% scar failure rate is acceptable in properly vaccinated individuals.
+    -   Tuberculin test: Uses Purified Protein Derivative (PPD) for Mantoux/Heaf test.
+
+### Polio Vaccines
+
+-   **Pathogen:** Poliovirus Types I, II, III.
+-   **Adults:** More prone to **inapparent paralytic infections**.
+-   **Virus Survival:** Inactivated at 55°C for 30 minutes (but inhibited by Mg++, milk, ice cream)
+-   **Types of Vaccines:**
+    -   **Inactivated Polio Vaccine (IPV)** – Salk (1956)
+    -   **Live Attenuated Oral Polio Vaccine (OPV)** – Sabin (1962)
+    -   **Variants:**
+    -   **tOPV (Trivalent OPV):** Contains live strains of all three virus types.
+    -   **bOPV (Bivalent OPV):** Contains live strains of Types I & III.
+    -   **nOPV (Novel OPV):** A modified strain of Type II with enhanced stability.
+-   **Efficacy:**
+    -   90% in industrialized nations.
+    -   72–98% in hot climates (**lower protection against Type III**).
+-   **Duration of Immunity:**
+    -   Lifelong if boosted by wild virus, otherwise shorter.
+-   **Vaccine-Associated Paralytic Poliomyelitis (VAPP):**
+-   Polio Type II in tOPV linked to **VAPP**, undermining eradication efforts.
+-   **Solution:** Withdraw Type II from OPV ⇒ Introduce bOPV + at least one IPV dose in routine
+    schedules.
+-   **Ghana (since June 2018):** bOPV + IPV at 14 weeks.
+-   nOPV introduced as a **more antigenically stable** next-gen Type II vaccine.
+
+### Pentavalent Vaccine ("PENTA")
+
+-   **Components:** Diphtheria, Whole-cell Pertussis, Hepatitis B, Hib (Haemophilus influenzae type
+-   **Introduced:** 2001; used in Ghana since March 2002.
+-   **Storage:**
+    -   Liquid DPT-HepB: Refrigerated at 2°C - 8°C (**not frozen**).
+    -   Lyophilized Hib: Stored at -20°C or refrigerated at +2 - 8°C.
+-   **Preservation:** Contains preservatives, allowing reconstitution for extended use.
+
+### Tetanus Vaccine
+
+-   **Pathogen:** *Clostridium tetani* (Toxin-producing)
+-   **Vaccine Type:** Toxoid (inactivated toxin)
+-   **Schedule:**
+    -   **Children & Adults:** 3 doses (one month apart); reinforced every 10 years with two doses
+        for lifelong immunity.
+    -   **Boosters:** Recommended at time of injury.
+    -   **Maternal immunization:** Protects against neonatal tetanus.
+
+### Hepatitis B Vaccine
+
+-   **Pathogen:** Hepadnavirus (Double-stranded DNA virus)
+-   **Carrier Rate:** 2 - 10% (higher in perinatal infections).
+-   **Transmission:** Highly infectious among carriers with **HBeAg**.
+-   **Vaccine:**
+    -   HBsAg adsorbed onto alum (adjuvant).
+    -   Produced via recombinant DNA in yeast cells.
+-   **Pre-exposure Immunization**
+    -   Universal infant immunization.
+    -   Catch-up vaccination for adolescents.
+    -   Healthcare workers, hemodialysis patients, blood recipients, drug abusers, transplant
+        candidates.
+-   **Post-exposure Prophylaxis:**
+    -   **HBIG (Hepatitis B Immunoglobulin):** Provides passive immunity (3-6 months).
+    -   Best protection: **HBIG + Hep B vaccine** within **24 hours** after exposure.
+    -   **Routine infant vaccination:** HB vaccine alone is sufficient.
+    -   Not needed for pre-transfusion prophylaxis due to modern blood screening.
+
+### Yellow Fever Vaccine
+
+-   **Pathogen:** *Flavivirus* (RNA virus); spread by *Aedes aegypti* mosquitoes.
+-   **Vaccine:** Live attenuated, freeze-dried (17D strain, grown in chick embryo).
+-   **Contains:** Neomycin, polymyxin.
+-   **Contraindications:** Allergy to components.
+
+### Measles-Rubella (MR) & MMR Vaccine
+
+-   **Viruses:**
+    -   Measles, Mumps (*Paramyxoviruses*, RNA)
+    -   Rubella (*Togavirus*, single-stranded RNA)
+-   **Purpose:** Prevent congenital rubella infection.
+-   **Variants**
+    -   MR (Measles-Rubella) – Used in Ghana.
+    -   MMR (Measles-Mumps-Rubella).
+-   **Presentation:** Freeze-dried.
+-   **Administration:** Subcutaneous injection.
+
+### Pneumococcal Disease & Vaccines
+
+-   **Pathogen:** *Streptococcus pneumoniae* (Gram-positive diplococcus).
+-   **Common Diseases:**
+    -   **Non-Invasive:** Otitis media, sinusitis, bronchitis.
+    -   **Invasive (IPD):** Pneumonia, Bacteraemia, Meningitis.
+
+<!-- -->
+
+-   **Vaccines**
+
+    -   **Polysaccharide (PPV23):** Short-lived immunity, recommended for high-risk individuals ≥2
+        years.
+    -   **Conjugate (PCV13):** Provides longer-lasting immunity and is effective against pneumonia.
+        Ghana uses PCV13 ("Prevenar")
+
+### Rotavirus Vaccine
+
+-   **Disease Impact:** Severe diarrheal illness in young children; major cause of dehydration.
+-   **Transmission:** Ubiquitous (water and sanitation improvements do not prevent infection).
+-   **Vaccine Options in Ghana:**
+-   **Rotavac (May 2021):** 3 doses (6, 10, 14 weeks).
+-   **Rotarix (GSK):** Monovalent, given orally in **two doses** (by 16 weeks, no later than 24
+    weeks).
+-   **Rotateq:** Bovine-human reassortant vaccine; **three doses** at 2, 4, 6 months.
+-   **RotaShield (Wyeth):** Withdrawn due to risk of **intussusception**.
+
+### Human Papillomavirus (HPV) Vaccine
+
+-   **Virus Type:** Small, double-stranded DNA virus.
+-   **High-Risk Oncogenic Strains:** Types **16 & 18** (cause 70% of cervical cancers).
+-   **Vaccines:**
+    -   **Quadrivalent (HPV 6, 11, 16, 18)** – Produced in yeast.
+    -   **Bivalent (HPV 16, 18).**
+-   **Target Age Group:** 10-13-year-old girls (not a standard vaccination group).
+-   **Catch-up Vaccination:** Not recommended in public health programs.
+
+### Malaria Vaccines and Immunization Strategy
+
+Malaria remains a significant global health challenge, particularly in endemic regions. The
+**Plasmodium falciparum life cycle** involves two distinct stages:
+
+1.  **Asexual Stage (Human Host)** – Sporozoites enter the bloodstream through mosquito bites,
+    travel to the liver, and mature into merozoites before infecting red blood cells.
+2.  **Sexual Stage (Mosquito Vector)** – Gametocytes ingested by mosquitoes undergo development,
+    enabling transmission.
+
+**RTS,S/AS01 Malaria Vaccine**
+
+The RTS,S/AS01 malaria vaccine provides partial protection against **Plasmodium falciparum**
+infection.
+
+-   **Mechanism of Action**:
+    -   Induces **antibody production** to block sporozoite entry into liver cells.
+    -   Activates **T-cell responses** to eliminate sporozoites that reach the liver.
+-   **Administration**:
+    -   **Four-dose series**:
+
+        -   **1st dose** at **5 months** (not recommended for infants
+        -   **2nd and 3rd doses** administered at **4-week intervals**.
+        -   **4th dose** given between **15–18 months**
+
+    -   Can be co-administered with other vaccines in **national immunization programs**
+-   **Efficacy**: Less than **50%**, but beneficial for reducing severe cases and mortality.
+-   **Recommendations**: Targeted for **high-malaria-burden African countries** with existing
+    control programs.
+
+### Rabies Vaccines and Post-Exposure Prophylaxis
+
+Rabies is a fatal viral zoonosis transmitted through the bite of infected animals (mainly carnivores
+and bats).
+
+-   **Disease Determinants**:
+    -   Severity of wound and viral inoculation.
+    -   Proximity of bite to central nervous system (higher risk if near head).
+    -   Timeliness of post-exposure prophylaxis (PEP).
+-   **Rabies Virus (RABV) Presence in Humans**:
+    -   Found in saliva, tears, urine, and nervous tissues.
+    -   Not detected in blood.
+-   **Incubation Period**: 1-3 months, but may extend up to 1 year
+
+**Post-Exposure Prophylaxis (PEP)**
+
+-   **Immediate wound cleansing**.
+-   **Rabies vaccine series initiation**.
+-   **Rabies immunoglobulin (Rabies IG)** infiltration around the wound (if indicated).
+
+**Rabies Vaccine Types**
+
+-   Cell Culture or Embryonated Egg Vaccines (CCEECV):
+    -   Live attenuated, freeze-dried (propagated in human diploid or chick embryo).
+    -   Administered intramuscularly (IM) or intradermally (ID) on Days 0, 3, 7, 14, and 28.
+    -   Preferred site of administration: Deltoid (adults) or anterolateral thigh (children)
+-   Nerve Tissue Vaccines (NTV) (Obsolete):
+-   Derived from animal brain tissue.
+-   Associated with Guillain-Barré Syndrome, encephalitis.
+-   Not recommended by WHO.
+
+**Note**: Chloroquine prophylaxis suppresses rabies vaccine antibody response, particularly when
+given intradermally.
+
+### Influenza and COVID-19 Vaccines
+
+#### Influenza Virus and Vaccine Development
+
+Influenza viruses undergo continuous genetic variations, requiring annual vaccine updates.
+
+-   Antigenic Drift – Small mutations producing minor variants (Influenza A, B) → epidemics.
+-   Antigenic Shift – Major genetic reassortments (Influenza A only) → pandemics.
+
+#### COVID-19 Vaccine Technologies
+
+-   **Inactivated or Weakened Virus** – Uses killed virus components.
+-   **Protein-Based Vaccines** – Uses harmless protein fragments to generate immunity.
+-   **Viral Vector Vaccines** – Genetically engineered virus produces spike proteins.
+-   **RNA/DNA Vaccines** – Uses mRNA/DNA encoding spike proteins (e.g., Moderna, Pfizer).
+
+## Vaccine Reactions and Adverse Events Following Immunization (AEFI)
+
+### Minor Vaccine Reactions
+
+-   Common reactions occur as part of the immune response:
+    -   Fever, injection-site swelling/pain, malaise.
+    -   Most frequent with DPT vaccines.
+    -   Symptoms self-resolve.
+-   Parents should be educated on symptom management.
+
+### Severe Reactions (Rare)
+
+-   Anaphylaxis (1 per million doses) – Requires urgent medical intervention (e.g., adrenaline).
+-   BCG Osteitis – Rare, vaccine-specific reaction.
+-   Vaccine-Induced Fainting – Common in adolescents, often misinterpreted as anaphylaxis.
+
+### AEFI Classification
+
+1.  **Vaccine Reaction** – Direct response to vaccine components.
+2.  **Program Error** – Due to improper vaccine handling/administration
+3.  **Coincidental** – Occurs post-immunization but is unrelated to vaccination.
+4.  **Injection Reaction** – Pain/anxiety linked to the injection process.
+5.  **Unknown Cause** – Unresolved cases
+
+## Vaccine Storage and Multidose Vial Policy
+
+-   **Cold Chain Maintenance**: Essential for vaccine efficacy and stability.
+-   **Heat Sensitivity**:
+    -   BCG, Measles, Polio can be frozen.
+    -   Diluent-containing vaccines (DPT, TT, HepB) must NOT be frozen.
+    -   Frozen vaccines may cause reduced immune response
+-   **Shelf Life**: Max 2 years under ideal storage.
+-   **Vaccine Vial Monitors (VVM)**:
+-   Monitor vaccine exposure to heat.
+-   Discard if VVM reaches critical stages.
+
+### Multidose Vial Policy (Current Guidelines)
+
+-   Vaccines usable for up to 4 weeks if:
+    -   Stored at 2–8°C.
+    -   Aseptic techniques are used for administration.
+    -   VVM remains intact.
+-   Reconstituted vaccines (BCG, Measles, Yellow Fever):
+-   Must be discarded after 6 hours or at the end of the session.
+
+**Contraindications to Vaccination**
+
+-   **Live vaccines contraindicated in**:
+    -   Immunocompromised individuals (HIV, malignancies).
+    -   Pregnant women (risk of teratogenicity).
+    -   Neurological disorders (avoid DPT in uncontrolled epilepsy).
+-   **Egg allergy**: Avoid Yellow Fever, Influenza, but alternative fibroblast-derived vaccines may
+    be used.
+
+## Vaccination in Special Populations
+
+### Preterm Infant Immunization
+
+-   Immunization response similar to term infants.
+-   Start immunization at 2 months, irrespective of prematurity.
+-   OPV delayed until discharge (reduces nursery transmission risks).
+
+### Adolescent Immunization
+
+-   HPV vaccine for girls aged 10–13.
+-   Booster doses for waning childhood immunity (e.g., Tetanus).
+-   Catch-up vaccination for missed/incomplete schedules.
+
+### Pregnancy and Vaccination
+
+-   Live viral vaccines generally avoided due to potential fetal risks.
+-   Tdap recommended in the third trimester to protect against pertussis.
+
+## Conclusion
+
+Immunization remains a cornerstone of preventive healthcare, reducing the infectious disease burden
+globally. Maintaining vaccine quality, storage protocols, and surveillance systems enhances safety
+and efficacy. Addressing vaccine hesitancy, logistical challenges, and misinformation remains
+crucial for improving immunization coverage. Future advancements, including next-generation
+vaccines, aim to strengthen global disease prevention efforts. This detailed narrative is tailored
+for a professional audience and integrates key immunization strategies, vaccine science, and best
+practices in public health. Let me know if you need further elaboration on any aspect!
+
+**References**
+
+1.  <https://www.who.int/teams/immunization-vaccines-and-biologicals/policies/position-papers>
+2.  WHO Vaccine safety course: [www.vaccine-safety-training.org](https://sdgs.un.org/goals/goal3)
+3.  [Immunization in
+    Practice](https://www.who.int/publications/i/item/immunization-in-practice-a-practical-guide-for-health-staff)
+4.  Pollard AJ, Bijker EM. A guide to vaccinology: from basic principles to new developments. Nat
+    Rev Immunol. 2021 Feb;21(2):83-100. doi: 10.1038/s41577-020-00479-7. Epub 2020 Dec
+    22.PMID: 33353987
+5.  Bangura JB, Xiao S, Qiu D, Ouyang F, Chen L. Barriers to childhood immunization in sub-Saharan
+    Africa: A systematic review. BMC Public Health. 2020 Jul 14;20(1):1108. doi:
+    10.1186/s12889-020-09169-4.
+
+## Practical work
+
+### Question
+
+A 4-month-old baby is presented with fever, cough, and rhinorrhoea of 2 days duration. O/E:  Active,
+healthy-looking child with occasional smiles; axillary temp 37.8 °C.  The baby is treated for the
+common cold.  Baby has no scar over the Left deltoid area and on enquiry has visited the
+immunization clinic two times since birth, but has misplaced the weighing card.
+
+-   Which vaccinations will the child require at that age?
+-   Which vaccinations are contraindicated?
+-   Which ones should the child receive before going home?
+-   When should the child be returned for follow-up vaccinations? And for which vaccines?
+-   What if the baby’s mother is HIV-positive?
+-   What if there is a parental history of SCD?
+
+### Answers
+
+The baby should have received several routine vaccinations at four months old according to Ghana’s
+Expanded Programme on Immunisation (EPI). Based on the standard schedule, the following vaccines are
+typically required at this age:
+
+**Vaccinations Required at Four Months**
+
+-   Oral Polio Vaccine (OPV) – Third dose
+-   Pentavalent Vaccine (DPT/HiB/HepB) – Third dose (protects against diphtheria, pertussis,
+    tetanus, Haemophilus influenzae type B, and hepatitis B)
+-   Pneumococcal Conjugate Vaccine (PCV) – Third dose
+-   Rotavirus Vaccine – Second dose
+
+**Contraindicated Vaccines**
+
+-   Live vaccines such as BCG (for tuberculosis) and Measles-Rubella (MR) may be contraindicated if
+    the child has certain immunodeficiencies, such as HIV/AIDS, or other medical conditions.
+    However, specific contraindications should be assessed by a healthcare provider.
+
+**Vaccines to Receive Before Going Home**
+
+-   Since the baby has visited the immunization clinic only twice and has no visible BCG scar,
+    verifying which vaccines have been missed is crucial. Before discharge, the baby should receive
+    any missed doses of the routine vaccines, particularly BCG if it was not previously
+    administered.
+
+**Follow-up Vaccinations and Schedule**
+
+The baby should return for the next scheduled vaccinations:
+
+-   **At 6 months** – Vitamin A supplementation
+-   **At 9 months** – Measles-Rubella (MR) and Yellow Fever vaccines
+-   **At 12 months** – Meningococcal vaccine (Men A) and second dose of Measles-Rubella (MR)
+
+**Considerations for Special Cases**
+
+-   If the mother is HIV-positive: The baby may require additional monitoring and possible
+    adjustments to the vaccination schedule. BCG may be contraindicated if the baby is symptomatic
+    or severely immunocompromised.
+-   If there is a parental history of Sickle Cell Disease (SCD): The baby should be screened for
+    sickle cell status. Additional precautions may be needed if diagnosed with SCD, including early
+    pneumococcal and meningococcal vaccines to prevent infections.

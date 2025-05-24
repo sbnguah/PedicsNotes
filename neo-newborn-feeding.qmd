@@ -8,11 +8,11 @@ date: 2025-05-17
 
 Breastfeeding is more than just a method of feeding infants; it is a sophisticated biological
 process that nurtures, protects, and connects both mother and child. Over recent decades, scientific
-discoveries have deepened our understanding of breastmilk's dynamic nature and the systemic benefits
-it offers. This chapter explores the theoretical underpinnings and practical applications of
+discoveries have deepened our understanding of breastmilk's dynamic nature and its systemic
+benefits. This chapter explores the theoretical underpinnings and practical applications of
 breastfeeding, focusing on its physiological, immunological, nutritional, and psychosocial
-dimensions. It also outlines strategies to overcome common challenges, ensuring that healthcare
-workers can support mothers effectively.
+dimensions. It also outlines strategies to overcome common challenges, ensuring healthcare workers
+can support mothers effectively.
 
 ## Learning Objectives
 
@@ -31,8 +31,8 @@ Ghana's policy promotes optimal breastfeeding practices, which include:
     breastfeeding within the first hour of life.
 -   Exclusive Breastfeeding for the first six months, with no other foods or liquids, not even
     water.
--   Appropriate Complementary Feeding through the introduction of nutrient-dense foods at six
-    months, while continuing to breastfeed.
+-   Appropriate Complementary Feeding by introducing nutrient-dense foods at six months, while
+    continuing to breastfeed.
 -   Continue breastfeeding for up to two years or even beyond, if this is desirable for both mother
     and baby
 
@@ -185,7 +185,7 @@ the home to continue breastfeeding. Breast pump technology has evolved over the 
 are, for example, wearable hands-free breast pumps which can discreetly pump breast milk whilst the
 mother is at work. However simple, correctly done hand expression of breast milk is very effective.
 Breast milk can then be stored at room temperature for 6 hours, in a good fridge with a temperature
-of 6-7 0C for 24 hours, and in a deep freezer or fridge freezer at a temperature of -17 ^0^C and
+of 6-7^o^C for 24 hours, and in a deep freezer or fridge freezer at a temperature of -17^o^C and
 below for 6 months. The milk can then be fed to the baby by cup by whoever is caring for the child.
 
 ## Counteracting Challenges to Breastfeeding
