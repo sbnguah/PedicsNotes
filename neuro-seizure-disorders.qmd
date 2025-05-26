@@ -3,28 +3,339 @@ title: "Seizure Disorders"
 author: "Dr Charles Hammond"
 ---
 
+## Introduction
+
+The term seizure vaguely refers to anything that “seizes” or “takes hold” of a person. These may be
+epileptic or non-epileptic events. In this chapter, unless otherwise specified, the term seizure is
+used to refer to epileptic events.
+
 ## Definitions
+
 ### Seizures
-### Convulsive vs. non-convulsive seizures
-### Prolonged seizures vs. status epilepticus
-### Epilepsy
-### Epileptic syndromes
-## Classification of seizures
-## Causes of seizures in children
+
+The International League Against Epilepsy (ILAE) defines epileptic seizure as a *transient
+occurrence of signs and/or symptoms due to abnormal, excessive, or synchronous neuronal activity in
+the brain.* These may manifest as paroxysmal motor, sensory, autonomic, and/or behavioral or
+cognitive function abnormalities or impaired consciousness.
+
+### Convulsions
+
+These are the motor manifestations of a seizure. These include tonic (stiffening), clonic (jerking),
+myoclonic (massive jerking), vibratory (trembling), or hypermotor (thrashing about). Seizures with
+no motor manifestations are termed non-convulsive and include motor arrest, e.g., unresponsive stare
+or drop attacks. Sensory disturbances during a seizure may include visual, auditory, or tactile
+disturbances. Some patients may describe changes in smell or taste.
+
+Non-epileptic seizures in children include many events such as cardiac syncope, vasovagal syncope,
+breath-holding spells, infantile gratification, shuddering spells, etc. These are sometimes referred
+to as seizure mimics.
+
+## Classification of Seizures
+
+The ILAE published its most recent classification of seizures in 2017. In this classification,
+seizures are broadly classified based on their onset within the brain as focal, generalized, or
+unknown onset.
+
+-   Focal-onset seizures originate from a focus within one hemisphere.
+-   Generalized-onset seizures originate from both hemispheres.
+-   Unknown onset – where the onset is not known at the time of the evaluation.
+
+**Focal-onset seizures** (previously known as partial seizures) are further subclassified based on
+whether awareness is preserved or lost during the seizure and secondary generalization.
+
+-   Focal seizures with intact awareness (or focal aware seizures): These are focal seizures in
+    which awareness is preserved. This was previously known as simple partial seizures.
+-   Focal seizures with loss of awareness (or focal unaware seizures): These are focal seizures in
+    which awareness is lost during the event. They were previously referred to as complex partial
+    seizures.
+-   Focal seizures evolving into bilateral tonic-clonic seizures: These are focal seizures that go
+    on to become generalized. They were previously referred to as focal seizures with secondary
+    generalization.
+
+**Generalised-onset seizures** are further subclassified based on their manifestations as:
+
+-   Clonic seizures: having repetitive jerky movements.
+-   Tonic seizures: characterised by increased tone.
+-   Tonic-clonic seizures: They have two phases: a tonic phase and a clonic phase.
+-   Tonic-clonic-tonic, or other combinations
+-   Atonic seizures: These are characterized by loss of muscle tone, leading to drop attacks.
+-   Myoclonic seizures: These are characterized by sudden jerks of a group of muscles.
+-   Absence seizures: These are characterized by blank stares during which the patient loses
+    awareness. They may be associated with lip-smacking or eyelid fluttering. A typical absence
+    seizure starts abruptly, lasts about 5-15 seconds, and ends abruptly with no postictal events.
+    An atypical absence may last \>15 seconds or may have a slow recovery. 
+-   Epileptic spasms: These are characterized by repetitive flexor (or extensor) jerks of the limbs
+    and trunk, occurring in clusters.
+
+![ILAE classification of
+seizures](images/neu-seizure-classification.jpg){#fig-SeizureClassification
+fig-align="center"}
+
 ## Febrile seizures
+
 ### Definition
-### Classification of febrile seizures
-### Common causes of febrile seizures
-## Prolonged seizures & status epilepticus
-### Definitions
-### General principles of management
-## Epilepsy
-### Definition
+
+A febrile seizure is accompanied by fever in a child aged 6 months to 6 years without intracranial
+infection/inflammation \[ref\]. It affects about 3% of all children between 6 months and 6 years
+old.
+
+Biological Basis
+
+The exact mechanism leading to febrile seizures is not clearly understood; biology is related to the
+immature brain in young children, fever, and genetic predisposition. The fever activates the
+cytokine networks (IL-1 alpha, IL-1 beta), increasing neuronal excitability. There is a complex
+inheritance involving multiple genes and environmental factors for children with genetic
+predisposition. Monozygotic twins have a higher concordance rate than dizygotic twins.
+
+The risk for a first febrile seizure in a child is increased in those with
+
+-   Delayed neonatal hospital discharge
+-   Slow neurological development as judged by the parent
+-   Family history of febrile seizures (especially in a first-degree relative)
+-   Attendance at day care
+
+### Etiology
+
+Common causes of febrile seizures include malaria, URTI, otitis media, pharyngitis, transient viral
+infections, and gastroenteritis. Some children develop a fever following vaccination with whole-cell
+DPT or measles vaccine.
+
 ### Classification
-### Causes of epilepsy
-### Approach to the child with epilepsy
-## Neonatal seizures
-### Common presentations
-### Causes and differential diagnosis
-### Management 
-### Seizure mimics in children
+
+Febrile seizures are classified as simple or complex. @tbl-simple-complex-seizure below shows the
+differences between simple and complex febrile seizures.
+
+::: {#tbl-simple-complex-seizure}
+| Feature            | Simple febrile seizure                    | Complex febrile seizure               |
+|--------------------|-------------------------------------------|---------------------------------------|
+| Seizure type       | Generalized                               | Maybe focal                           |
+| Duration           | Brief (\<15 min)                          | Prolonged                             |
+| Number of episodes | Single episode during the febrile illness | Repeated episodes in the same illness |
+| Outcomes           | Do not cause brain damage                 | Increased risk of brain damage        |
+
+: Simple versus Complex Febrile Seizures
+:::
+
+### Risk of recurrence
+
+In children with febrile seizures, the risk factors for recurrence are
+
+-   Young age at the time of the first febrile seizure (\< 15 months)
+-   Family history of febrile seizures (first-degree relative)
+-   Low temperature at the time of the seizure (\< 40 degrees)
+-   Short duration of illness before the seizure          \[Berg et al, 1997\]
+
+Having a complex febrile seizure and neurologic dysfunction are not consistent predictors of
+recurrence.
+
+### Risk of subsequent epilepsy
+
+The risk of epilepsy in children with febrile seizures is slightly higher than the incidence in the
+general population. The risk is increased with:
+
+-   Complex febrile seizures (focal, prolonged, repeated within a single illness)
+-   Developmental delay or neurologic dysfunction
+-   Family history of epilepsy                                                                     
+
+The number of febrile seizures is not a predictor of subsequent epilepsy.
+
+### Long-term cognitive and behavioural outcomes
+
+Febrile seizures are “benign”. Studies have shown that children with febrile seizures have the same
+academic progress, intellect, and behaviour as other children.  
+
+## Acute scenarios: prolonged seizures versus status epilepticus
+
+### Definitions:
+
+**Prolonged seizures:** Most convulsive seizures in children are brief (lasting \< 3 minutes).
+However, some may go on beyond 5 minutes. These are termed prolonged seizures.
+
+**Status epilepticus**, on the other hand, is a prolonged seizure lasting more than 30 minutes or
+multiple seizures without recovery of consciousness. This definition applies to convulsive seizures.
+The duration of non-convulsive seizures differs based on the seizure type.
+
+### Pathophysiology of status epilepticus
+
+In the initial seizure phase, the body undergoes autoregulation, leading to increased heart rate,
+cardiac output, and cerebral perfusion. This ensures that there is increased oxygen and glucose
+delivery to the brain. Also, increased cerebral perfusion helps remove carbon dioxide and metabolic
+waste, which build up in the brain during seizures. Beyond 30 minutes, this autoregulation breaks
+down, reducing cardiac output, decreasing systemic blood pressure, and decreasing cerebral
+perfusion. In the end, there is decreased oxygenation (hypoxia) and buildup of metabolic waste,
+which trigger a cascade of events with resultant neuronal deaths. This is why it is essential to
+stop any seizure from progressing into a status epilepticus.
+
+![Timing of seizures in the acute scenario and the clinical
+implications](images/neu-seizure-timing.jpg){#fig-SeizureTiming
+fig-align="center"}
+
+### The Do’s and Don’ts in acute scenarios
+
+In the first few minutes of a seizure, it is essential to undertake basic first aid measures to
+protect the patient. These are termed the **Do’s** and include:
+
+-   Protect the person from injury (eg, remove harmful objects from nearby, cushion their heads,
+    etc.)
+
+-   When the seizure is over, gently place the patient in recovery. This positioning aids breathing
+    by ensuring the patient does not choke on their secretions.
+
+-   Stay with the patient until the seizure is over.
+
+-   Stay calm and reassuring.
+
+Some traditional practices can be harmful and should be discouraged. These are referred to as the
+**Don’ts** and include:
+
+-   Do not restrain the person’s movements. Forcefully restraining their movement does not stop the
+    seizures and may instead result in needless injuries like fractures and dislocations. 
+
+-   Do not put anything in their mouth. This could lead to the patient biting on the spoon or
+    spatula and causing damage to their teeth, gums, or palate. Also, please do not put your finger
+    in their mouth. A forceful bite on your figure can lead to severe injuries, including
+    amputation.
+
+-   Do not try to move them unless they are in danger.
+
+-   Do not give them anything to eat or drink until they fully recover.
+
+-   Do not attempt to bring them around. Practices such as pouring cold water on the patient,
+    smearing them with garlic or other noxious substances are harmful and do not stop the seizures. 
+
+**Indications for bringing the patient to the emergency room** include:
+
+1.  If this is the person’s first seizure.
+
+2.  If the seizure continues for more than five minutes.
+
+3.  If one seizure follows another without the person regaining consciousness between seizures.
+
+4.  If the person is injured.
+
+5.  If you believe the person needs urgent medical attention.
+
+### General principles of management of Prolonged Seizures and Status Epilepticus
+
+In the first 5 minutes, critical interventions should include:
+
+-   General emergency measures including
+
+    -   A = airway
+    -   B = breathing
+    -   C = circulation
+    -   D = disability (such as hypoglycemia)
+    -   E = exposure
+
+-   Check blood glucose and correct hypoglycemia, if present.
+
+-   Remember the Do’s and Don’ts.
+
+If the seizure persists after 5 minutes, initiate drug management.
+
+-   1^st^ line drugs are benzodiazepines: these commonly include diazepam (rectal/IV, midazolam
+    (buccal/nasal), and lorazepam (IV/rectal). These may be repeated after 10 minutes if the seizure
+    persists.
+-   2^nd^ line drugs include phenobarbital (IV), phenytoin (IV), valproate (IV), or levetiracetam
+    (IV).
+-   3^rd^ line drugs include anesthetic agents and should be given in the intensive care unit or in
+    a center where the patient’s breathing can be supported. They include thiopentone, propofol, and
+    ketamine. Alternatively, continuous infusions of midazolam or repeated intravenous boluses of
+    phenobarbitone may be used.
+
+This stepwise approach to the management of ongoing seizures is illustrated in Table 2 below:
+
+::: {#tbl-stepwise-epilepticus}
++-----------------------+------------------------------------+------------------------------------+
+| **Time**              | **Action required**                | **Notes**                          |
++-----------------------+------------------------------------+------------------------------------+
+| t = 0 (seizure onset) | Ensure patient’s safety (remember  | Most seizures will stop on their   |
+|                       | the Do’s and Don’ts) Check the     | own within 3 minutes of onset.     |
+|                       | ABCDs.                             |                                    |
+|                       |                                    |                                    |
+|                       | -   Ensure airway patency.         |                                    |
+|                       | -   Monitor vitals (HR, RR, BP,    |                                    |
+|                       |     SpO2)                          |                                    |
+|                       | -   If SpO2 \<90%, give            |                                    |
+|                       |     supplemental O2                |                                    |
+|                       | -   Secure venous access           |                                    |
+|                       | -   Check RBS. If there is         |                                    |
+|                       |     hypoglycemia, correct with     |                                    |
+|                       |     dextrose.                      |                                    |
++-----------------------+------------------------------------+------------------------------------+
+| t = 5 min             | Start 1st line pharmacologic       | Commonly used benzodiazepines      |
+|                       | treatment with a benzodiazepine.   | include:                           |
+|                       |                                    |                                    |
+|                       |                                    | 1.  Diazepam (rectal or IV)        |
+|                       |                                    | 2.  Midazolam (buccal or nasal)    |
+|                       |                                    | 3.  Lorazepam (rectal or IV)       |
++-----------------------+------------------------------------+------------------------------------+
+| t = 15 min            | If seizure persists to time t = 15 | Benzodiazepines may be repeated    |
+|                       | min (10 minutes after the first    | once only. Avoid \>2 doses of      |
+|                       | benzodiazepine), repeat the dose   | benzodiazepines.                   |
+|                       | of benzodiazepine.                 |                                    |
++-----------------------+------------------------------------+------------------------------------+
+| t = 25 min            | Start the 2nd line pharmacologic   | Commonly used 2nd line drugs are:  |
+|                       | treatment.                         |                                    |
+|                       |                                    | -   Phenobarbitone (IV)            |
+|                       |                                    | -   Phenytoin (IV)                 |
+|                       |                                    | -   Sodium valproate (IV)          |
+|                       |                                    | -   Levetiracetam (IV)             |
++-----------------------+------------------------------------+------------------------------------+
+| t = 40-60 min         | Start the 3rd line pharmacologic   | This stage employs anesthetic      |
+|                       | treatment.                         | agents. It should be done in a     |
+|                       |                                    | center where the patient’s         |
+|                       |                                    | breathing can be supported.        |
++-----------------------+------------------------------------+------------------------------------+
+
+: Stepwise approach to status epilepticus
+:::
+
+### Prognosis of Status Epilepticus in Children
+
+In patients who present with convulsive status epilepticus (CSE), there is a mortality rate of 3-9%
+within 30 days of the CSE. The mortality rate is worse in low- and middle-income countries.
+
+In those who survive, the neurological sequelae depend on the type and duration of the seizure, the
+patient's age, and the underlying etiology.
+
+-   Duration of the SE – the single most important determinant of prognosis. Worse outcome for
+    prolonged SE.
+-   Age – worse neurological sequelae in infants (30% vs. 6% in older children)
+-   Seizure type – worse outcome for convulsive SE
+-   Underlying etiology
+
+## Epilepsy
+
+### Definition:
+
+Epilepsy is a disease of the brain defined by any of the following conditions:
+
+a.  At least two unprovoked seizures occurring \>24 hours apart.
+b.  One unprovoked seizure and an increased probability of further seizures
+c.  Diagnosis of an epileptic syndrome
+
+It affects over 50 million people worldwide, and 1 in 200 children worldwide.
+
+### Classification
+
+The ILAE classifies Epilepsy into four main types based on the seizure type (or types) \[3\]. These
+are:
+
+-   Focal epilepsy
+-   Generalised epilepsy
+-   Combined generalised and focal epilepsy
+-   Epilepsy with unknown seizure type(s)
+
+### Causes
+
+All causes of epilepsy can be grouped into six main categories as follows:
+
+a.  Structural: e.g., lissencephaly, tumours, calcifications, post-stroke, tuberous sclerosis
+    complex, etc.
+b.  Genetic: e.g., familial neonatal seizures, Dravet syndrome, etc.
+c.  Infections: e.g., neurocysticercosis, HIV, post-meningitis, etc.
+d.  Metabolic: e.g., hypoglycemia, electrolyte imbalance, inborn errors of metabolism, vitamin
+    deficiency, etc.
+e.  Immune-mediated: autoimmune encephalitis
+f.  Unknown 

@@ -2014,6 +2014,127 @@
     ]
   },
   {
+    "objectID": "id-sepsis.html",
+    "href": "id-sepsis.html",
+    "title": "34  Sepsis in Children",
+    "section": "",
+    "text": "34.1 Definition\nSepsis is a life-threatening condition characterized by organ dysfunction resulting from a dysregulated host response to infection. In children, it presents a range of disorders caused by bacterial, viral, fungal, or parasitic infections. Septic shock, a severe form of sepsis, is defined by persistent hypotension that requires vasopressors to maintain a mean arterial pressure (MAP) of ≥ 65 mmHg and a serum lactate level greater than 2 mmol/L, despite adequate fluid resuscitation.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Infectious Diseases</span>",
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>Sepsis in Children</span>"
+    ]
+  },
+  {
+    "objectID": "id-sepsis.html#incidence-and-prevalence",
+    "href": "id-sepsis.html#incidence-and-prevalence",
+    "title": "34  Sepsis in Children",
+    "section": "34.2 Incidence and Prevalence",
+    "text": "34.2 Incidence and Prevalence\nSepsis continues to be a major cause of morbidity and mortality in children around the globe. As stated by the World Health Organization (WHO), sepsis plays a significant role in childhood mortality, especially in low-resource environments. The incidence varies by region, with higher rates observed in neonates and infants due to their immature immune systems.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Infectious Diseases</span>",
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>Sepsis in Children</span>"
+    ]
+  },
+  {
+    "objectID": "id-sepsis.html#aetiology",
+    "href": "id-sepsis.html#aetiology",
+    "title": "34  Sepsis in Children",
+    "section": "34.3 Aetiology",
+    "text": "34.3 Aetiology\nSepsis can result from infections caused by bacteria, viruses, fungi, and parasites. The most common bacterial pathogens vary by age:\n\nEarly-Onset Neonatal Sepsis: Streptococcus agalactiae, Escherichia coli, Haemophilus influenzae, Listeria monocytogenes.\nInfant Sepsis: Haemophilus influenzae type b (Hib), Streptococcus pneumoniae, Neisseria meningitidis, Salmonella species.\nLate-Onset Neonatal Sepsis: Staphylococcus aureus, E. coli, Klebsiella species, Pseudomonas aeruginosa, Candida species.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Infectious Diseases</span>",
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>Sepsis in Children</span>"
+    ]
+  },
+  {
+    "objectID": "id-sepsis.html#pathogenesis",
+    "href": "id-sepsis.html#pathogenesis",
+    "title": "34  Sepsis in Children",
+    "section": "34.4 Pathogenesis",
+    "text": "34.4 Pathogenesis\nSepsis results from a dysregulated immune response to infection, leading to widespread tissue injury. The process involves:\n\nImmune Dysregulation: Excessive release of pro-inflammatory and anti-inflammatory mediators.\nMicrocirculatory Derangements: Increased vascular permeability, leading to hypotension and organ dysfunction.\nEnd-Organ Damage: Progression to multi-organ failure due to poor perfusion.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Infectious Diseases</span>",
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>Sepsis in Children</span>"
+    ]
+  },
+  {
+    "objectID": "id-sepsis.html#signs-and-symptoms",
+    "href": "id-sepsis.html#signs-and-symptoms",
+    "title": "34  Sepsis in Children",
+    "section": "34.5 Signs and Symptoms",
+    "text": "34.5 Signs and Symptoms\nEarly recognition is crucial, as sepsis can progress rapidly. Symptoms include:\n\nFever or Hypothermia\nTachycardia and Tachypnea\nAltered Mental Status\nHypotension\nCool Extremities\nPetechial or Purpuric Rash (suggestive of meningococcal sepsis)\nOliguria or Anuria (kidney dysfunction).",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Infectious Diseases</span>",
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>Sepsis in Children</span>"
+    ]
+  },
+  {
+    "objectID": "id-sepsis.html#investigations",
+    "href": "id-sepsis.html#investigations",
+    "title": "34  Sepsis in Children",
+    "section": "34.6 Investigations",
+    "text": "34.6 Investigations\nA thorough laboratory workup is essential for diagnosis:\n\nBlood Tests: Complete Blood Count (CBC), Blood Culture, Blood Gas Analysis (including lactate levels).\nUrine Analysis: Dipstick, Routine Examination, Culture.\nCerebrospinal Fluid (CSF) Analysis: Culture and Sensitivity.\nCoagulation Studies: To assess disseminated intravascular coagulation (DIC).\nInflammatory Markers: C-Reactive Protein (CRP), Procalcitonin (PCT), Interleukins (IL-1b, IL-6, IL-8), Tumor Necrosis Factor-alpha.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Infectious Diseases</span>",
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>Sepsis in Children</span>"
+    ]
+  },
+  {
+    "objectID": "id-sepsis.html#treatment",
+    "href": "id-sepsis.html#treatment",
+    "title": "34  Sepsis in Children",
+    "section": "34.7 Treatment",
+    "text": "34.7 Treatment\nEarly antibiotic therapy and fluid resuscitation are critical:\n\nEmpirical Broad-Spectrum Antibiotics: Based on suspected pathogens.\nFluid Resuscitation: Crystalloids (e.g., normal saline or Ringer’s lactate).\nVasopressors: If hypotension persists despite fluids.\nSupportive Care: Oxygen therapy, mechanical ventilation, renal replacement therapy if needed.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Infectious Diseases</span>",
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>Sepsis in Children</span>"
+    ]
+  },
+  {
+    "objectID": "id-sepsis.html#complications",
+    "href": "id-sepsis.html#complications",
+    "title": "34  Sepsis in Children",
+    "section": "34.8 Complications",
+    "text": "34.8 Complications\nSepsis can lead to multi-organ failure and death if untreated. Common complications include:\n\nAcute Respiratory Distress Syndrome (ARDS)\nDisseminated Intravascular Coagulation (DIC)\nRenal Failure\nCardiac Dysfunction\nNeurological Sequelae (e.g., cognitive impairment post-sepsis).",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Infectious Diseases</span>",
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>Sepsis in Children</span>"
+    ]
+  },
+  {
+    "objectID": "id-sepsis.html#prognosis",
+    "href": "id-sepsis.html#prognosis",
+    "title": "34  Sepsis in Children",
+    "section": "34.9 Prognosis",
+    "text": "34.9 Prognosis\nThe mortality rate varies based on early recognition and intervention. Neonatal sepsis has a higher fatality rate, especially in low-resource settings. Survivors may experience long-term complications, including neurodevelopmental delays.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Infectious Diseases</span>",
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>Sepsis in Children</span>"
+    ]
+  },
+  {
+    "objectID": "id-sepsis.html#differential-diagnosis",
+    "href": "id-sepsis.html#differential-diagnosis",
+    "title": "34  Sepsis in Children",
+    "section": "34.10 Differential Diagnosis",
+    "text": "34.10 Differential Diagnosis\nSepsis must be distinguished from other conditions with similar presentations:\n\nMeningitis\nSevere Pneumonia\nHemorrhagic Shock\nMetabolic Disorders\nAutoimmune Diseases.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Infectious Diseases</span>",
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>Sepsis in Children</span>"
+    ]
+  },
+  {
+    "objectID": "id-sepsis.html#references",
+    "href": "id-sepsis.html#references",
+    "title": "34  Sepsis in Children",
+    "section": "34.11 References",
+    "text": "34.11 References\n\nBone RC. The sepsis syndrome: definition and general approach to management. Clin Chest Med. 1996 Jun;17(2):175-81. Available here.\nAngus DC, van der Poll T. Severe sepsis and septic shock. N Engl J Med. 2013 Aug 29;369(9):840-51. Available here.\nGoldstein B, Giroir B, Randolph A; International Consensus Conference on Pediatric Sepsis. International pediatric sepsis consensus conference: definitions for sepsis and organ dysfunction in pediatrics. Pediatr Crit Care Med. 2005 Jan;6(1):2-8. Available here\n\n\n34.11.1 Clinical Scenario 1: Neonatal Sepsis\nA 5-day-old male infant presents with lethargy, poor feeding, respiratory distress, and a fever of 38.5°C. On examination, the infant appears jaundiced, with cool extremities and tachypnea. The mother had a prolonged rupture of membranes (&gt;18 hours) before delivery, and the infant had meconium-stained amniotic fluid.\nKey Considerations:\n\nEtiology: Early-onset neonatal sepsis, likely Streptococcus agalactiae (Group B Strep) or Escherichia coli.\nInvestigations: Blood cultures, CBC, CRP, procalcitonin, serum lactate, and lumbar puncture for CSF culture.\nManagement: Empirical IV antibiotics (Ampicillin + Gentamicin), fluid resuscitation, oxygen therapy, and supportive care.\nComplications: Risk of meningitis and multi-organ failure if untreated.\n\n\n\n34.11.2 Clinical Scenario 2: Pediatric Septic Shock\nA 6-year-old girl presents with a history of fever (40°C) for 3 days, altered mental status, and poor urine output. She is tachycardic (HR: 150 bpm), hypotensive (BP: 75/50 mmHg), and has delayed capillary refill (&gt;3 seconds). A petechial rash is noted on the lower extremities.\nKey Considerations:\n\nEtiology: Meningococcal sepsis (Neisseria meningitidis) suspected.\nInvestigations: Blood culture, CBC, coagulation studies, lactate, kidney function tests, and inflammatory markers.\nManagement: IV Ceftriaxone, aggressive fluid resuscitation, vasopressors if needed, and close monitoring in ICU.\nComplications: Disseminated Intravascular Coagulation (DIC), Acute Respiratory Distress Syndrome (ARDS), multi-organ failure",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Infectious Diseases</span>",
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>Sepsis in Children</span>"
+    ]
+  },
+  {
     "objectID": "id-tuberculosis.html",
     "href": "id-tuberculosis.html",
     "title": "35  Paediatric Tuberculosis",
@@ -2667,7 +2788,7 @@
     "href": "neuro-seizure-disorders.html",
     "title": "54  Seizure Disorders",
     "section": "",
-    "text": "54.1 Definitions",
+    "text": "54.1 Introduction\nThe term seizure vaguely refers to anything that “seizes” or “takes hold” of a person. These may be epileptic or non-epileptic events. In this chapter, unless otherwise specified, the term seizure is used to refer to epileptic events.",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Neurology</span>",
       "<span class='chapter-number'>54</span>  <span class='chapter-title'>Seizure Disorders</span>"
@@ -2677,8 +2798,8 @@
     "objectID": "neuro-seizure-disorders.html#definitions",
     "href": "neuro-seizure-disorders.html#definitions",
     "title": "54  Seizure Disorders",
-    "section": "",
-    "text": "54.1.1 Seizures\n\n\n54.1.2 Convulsive vs. non-convulsive seizures\n\n\n54.1.3 Prolonged seizures vs. status epilepticus\n\n\n54.1.4 Epilepsy\n\n\n54.1.5 Epileptic syndromes",
+    "section": "54.2 Definitions",
+    "text": "54.2 Definitions\n\n54.2.1 Seizures\nThe International League Against Epilepsy (ILAE) defines epileptic seizure as a transient occurrence of signs and/or symptoms due to abnormal, excessive, or synchronous neuronal activity in the brain. These may manifest as paroxysmal motor, sensory, autonomic, and/or behavioral or cognitive function abnormalities or impaired consciousness.\n\n\n54.2.2 Convulsions\nThese are the motor manifestations of a seizure. These include tonic (stiffening), clonic (jerking), myoclonic (massive jerking), vibratory (trembling), or hypermotor (thrashing about). Seizures with no motor manifestations are termed non-convulsive and include motor arrest, e.g., unresponsive stare or drop attacks. Sensory disturbances during a seizure may include visual, auditory, or tactile disturbances. Some patients may describe changes in smell or taste.\nNon-epileptic seizures in children include many events such as cardiac syncope, vasovagal syncope, breath-holding spells, infantile gratification, shuddering spells, etc. These are sometimes referred to as seizure mimics.",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Neurology</span>",
       "<span class='chapter-number'>54</span>  <span class='chapter-title'>Seizure Disorders</span>"
@@ -2688,19 +2809,8 @@
     "objectID": "neuro-seizure-disorders.html#classification-of-seizures",
     "href": "neuro-seizure-disorders.html#classification-of-seizures",
     "title": "54  Seizure Disorders",
-    "section": "54.2 Classification of seizures",
-    "text": "54.2 Classification of seizures",
-    "crumbs": [
-      "<span style='font-weight:bold; color: black;'>Neurology</span>",
-      "<span class='chapter-number'>54</span>  <span class='chapter-title'>Seizure Disorders</span>"
-    ]
-  },
-  {
-    "objectID": "neuro-seizure-disorders.html#causes-of-seizures-in-children",
-    "href": "neuro-seizure-disorders.html#causes-of-seizures-in-children",
-    "title": "54  Seizure Disorders",
-    "section": "54.3 Causes of seizures in children",
-    "text": "54.3 Causes of seizures in children",
+    "section": "54.3 Classification of Seizures",
+    "text": "54.3 Classification of Seizures\nThe ILAE published its most recent classification of seizures in 2017. In this classification, seizures are broadly classified based on their onset within the brain as focal, generalized, or unknown onset.\n\nFocal-onset seizures originate from a focus within one hemisphere.\nGeneralized-onset seizures originate from both hemispheres.\nUnknown onset – where the onset is not known at the time of the evaluation.\n\nFocal-onset seizures (previously known as partial seizures) are further subclassified based on whether awareness is preserved or lost during the seizure and secondary generalization.\n\nFocal seizures with intact awareness (or focal aware seizures): These are focal seizures in which awareness is preserved. This was previously known as simple partial seizures.\nFocal seizures with loss of awareness (or focal unaware seizures): These are focal seizures in which awareness is lost during the event. They were previously referred to as complex partial seizures.\nFocal seizures evolving into bilateral tonic-clonic seizures: These are focal seizures that go on to become generalized. They were previously referred to as focal seizures with secondary generalization.\n\nGeneralised-onset seizures are further subclassified based on their manifestations as:\n\nClonic seizures: having repetitive jerky movements.\nTonic seizures: characterised by increased tone.\nTonic-clonic seizures: They have two phases: a tonic phase and a clonic phase.\nTonic-clonic-tonic, or other combinations\nAtonic seizures: These are characterized by loss of muscle tone, leading to drop attacks.\nMyoclonic seizures: These are characterized by sudden jerks of a group of muscles.\nAbsence seizures: These are characterized by blank stares during which the patient loses awareness. They may be associated with lip-smacking or eyelid fluttering. A typical absence seizure starts abruptly, lasts about 5-15 seconds, and ends abruptly with no postictal events. An atypical absence may last &gt;15 seconds or may have a slow recovery. \nEpileptic spasms: These are characterized by repetitive flexor (or extensor) jerks of the limbs and trunk, occurring in clusters.\n\n\n\n\n\n\n\nFigure 54.1: ILAE classification of seizures",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Neurology</span>",
       "<span class='chapter-number'>54</span>  <span class='chapter-title'>Seizure Disorders</span>"
@@ -2711,40 +2821,29 @@
     "href": "neuro-seizure-disorders.html#febrile-seizures",
     "title": "54  Seizure Disorders",
     "section": "54.4 Febrile seizures",
-    "text": "54.4 Febrile seizures\n\n54.4.1 Definition\n\n\n54.4.2 Classification of febrile seizures\n\n\n54.4.3 Common causes of febrile seizures",
+    "text": "54.4 Febrile seizures\n\n54.4.1 Definition\nA febrile seizure is accompanied by fever in a child aged 6 months to 6 years without intracranial infection/inflammation [ref]. It affects about 3% of all children between 6 months and 6 years old.\nBiological Basis\nThe exact mechanism leading to febrile seizures is not clearly understood; biology is related to the immature brain in young children, fever, and genetic predisposition. The fever activates the cytokine networks (IL-1 alpha, IL-1 beta), increasing neuronal excitability. There is a complex inheritance involving multiple genes and environmental factors for children with genetic predisposition. Monozygotic twins have a higher concordance rate than dizygotic twins.\nThe risk for a first febrile seizure in a child is increased in those with\n\nDelayed neonatal hospital discharge\nSlow neurological development as judged by the parent\nFamily history of febrile seizures (especially in a first-degree relative)\nAttendance at day care\n\n\n\n54.4.2 Etiology\nCommon causes of febrile seizures include malaria, URTI, otitis media, pharyngitis, transient viral infections, and gastroenteritis. Some children develop a fever following vaccination with whole-cell DPT or measles vaccine.\n\n\n54.4.3 Classification\nFebrile seizures are classified as simple or complex. Table 54.1 below shows the differences between simple and complex febrile seizures.\n\n\n\nTable 54.1: Simple versus Complex Febrile Seizures\n\n\n\n\n\n\n\n\n\n\nFeature\nSimple febrile seizure\nComplex febrile seizure\n\n\n\n\nSeizure type\nGeneralized\nMaybe focal\n\n\nDuration\nBrief (&lt;15 min)\nProlonged\n\n\nNumber of episodes\nSingle episode during the febrile illness\nRepeated episodes in the same illness\n\n\nOutcomes\nDo not cause brain damage\nIncreased risk of brain damage\n\n\n\n\n\n\n\n\n54.4.4 Risk of recurrence\nIn children with febrile seizures, the risk factors for recurrence are\n\nYoung age at the time of the first febrile seizure (&lt; 15 months)\nFamily history of febrile seizures (first-degree relative)\nLow temperature at the time of the seizure (&lt; 40 degrees)\nShort duration of illness before the seizure          [Berg et al, 1997]\n\nHaving a complex febrile seizure and neurologic dysfunction are not consistent predictors of recurrence.\n\n\n54.4.5 Risk of subsequent epilepsy\nThe risk of epilepsy in children with febrile seizures is slightly higher than the incidence in the general population. The risk is increased with:\n\nComplex febrile seizures (focal, prolonged, repeated within a single illness)\nDevelopmental delay or neurologic dysfunction\nFamily history of epilepsy                                                                     \n\nThe number of febrile seizures is not a predictor of subsequent epilepsy.\n\n\n54.4.6 Long-term cognitive and behavioural outcomes\nFebrile seizures are “benign”. Studies have shown that children with febrile seizures have the same academic progress, intellect, and behaviour as other children.",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Neurology</span>",
       "<span class='chapter-number'>54</span>  <span class='chapter-title'>Seizure Disorders</span>"
     ]
   },
   {
-    "objectID": "neuro-seizure-disorders.html#prolonged-seizures-status-epilepticus",
-    "href": "neuro-seizure-disorders.html#prolonged-seizures-status-epilepticus",
+    "objectID": "neuro-seizure-disorders.html#acute-scenarios-prolonged-seizures-versus-status-epilepticus",
+    "href": "neuro-seizure-disorders.html#acute-scenarios-prolonged-seizures-versus-status-epilepticus",
     "title": "54  Seizure Disorders",
-    "section": "54.5 Prolonged seizures & status epilepticus",
-    "text": "54.5 Prolonged seizures & status epilepticus\n\n54.5.1 Definitions\n\n\n54.5.2 General principles of management",
+    "section": "54.5 Acute scenarios: prolonged seizures versus status epilepticus",
+    "text": "54.5 Acute scenarios: prolonged seizures versus status epilepticus\n\n54.5.1 Definitions:\nProlonged seizures: Most convulsive seizures in children are brief (lasting &lt; 3 minutes). However, some may go on beyond 5 minutes. These are termed prolonged seizures.\nStatus epilepticus, on the other hand, is a prolonged seizure lasting more than 30 minutes or multiple seizures without recovery of consciousness. This definition applies to convulsive seizures. The duration of non-convulsive seizures differs based on the seizure type.\n\n\n54.5.2 Pathophysiology of status epilepticus\nIn the initial seizure phase, the body undergoes autoregulation, leading to increased heart rate, cardiac output, and cerebral perfusion. This ensures that there is increased oxygen and glucose delivery to the brain. Also, increased cerebral perfusion helps remove carbon dioxide and metabolic waste, which build up in the brain during seizures. Beyond 30 minutes, this autoregulation breaks down, reducing cardiac output, decreasing systemic blood pressure, and decreasing cerebral perfusion. In the end, there is decreased oxygenation (hypoxia) and buildup of metabolic waste, which trigger a cascade of events with resultant neuronal deaths. This is why it is essential to stop any seizure from progressing into a status epilepticus.\n\n\n\n\n\n\nFigure 54.2: Timing of seizures in the acute scenario and the clinical implications\n\n\n\n\n\n54.5.3 The Do’s and Don’ts in acute scenarios\nIn the first few minutes of a seizure, it is essential to undertake basic first aid measures to protect the patient. These are termed the Do’s and include:\n\nProtect the person from injury (eg, remove harmful objects from nearby, cushion their heads, etc.)\nWhen the seizure is over, gently place the patient in recovery. This positioning aids breathing by ensuring the patient does not choke on their secretions.\nStay with the patient until the seizure is over.\nStay calm and reassuring.\n\nSome traditional practices can be harmful and should be discouraged. These are referred to as the Don’ts and include:\n\nDo not restrain the person’s movements. Forcefully restraining their movement does not stop the seizures and may instead result in needless injuries like fractures and dislocations. \nDo not put anything in their mouth. This could lead to the patient biting on the spoon or spatula and causing damage to their teeth, gums, or palate. Also, please do not put your finger in their mouth. A forceful bite on your figure can lead to severe injuries, including amputation.\nDo not try to move them unless they are in danger.\nDo not give them anything to eat or drink until they fully recover.\nDo not attempt to bring them around. Practices such as pouring cold water on the patient, smearing them with garlic or other noxious substances are harmful and do not stop the seizures. \n\nIndications for bringing the patient to the emergency room include:\n\nIf this is the person’s first seizure.\nIf the seizure continues for more than five minutes.\nIf one seizure follows another without the person regaining consciousness between seizures.\nIf the person is injured.\nIf you believe the person needs urgent medical attention.\n\n\n\n54.5.4 General principles of management of Prolonged Seizures and Status Epilepticus\nIn the first 5 minutes, critical interventions should include:\n\nGeneral emergency measures including\n\nA = airway\nB = breathing\nC = circulation\nD = disability (such as hypoglycemia)\nE = exposure\n\nCheck blood glucose and correct hypoglycemia, if present.\nRemember the Do’s and Don’ts.\n\nIf the seizure persists after 5 minutes, initiate drug management.\n\n1st line drugs are benzodiazepines: these commonly include diazepam (rectal/IV, midazolam (buccal/nasal), and lorazepam (IV/rectal). These may be repeated after 10 minutes if the seizure persists.\n2nd line drugs include phenobarbital (IV), phenytoin (IV), valproate (IV), or levetiracetam (IV).\n3rd line drugs include anesthetic agents and should be given in the intensive care unit or in a center where the patient’s breathing can be supported. They include thiopentone, propofol, and ketamine. Alternatively, continuous infusions of midazolam or repeated intravenous boluses of phenobarbitone may be used.\n\nThis stepwise approach to the management of ongoing seizures is illustrated in Table 2 below:\n\n\n\nTable 54.2: Stepwise approach to status epilepticus\n\n\n\n\n\n\n\n\n\n\nTime\nAction required\nNotes\n\n\nt = 0 (seizure onset)\nEnsure patient’s safety (remember the Do’s and Don’ts) Check the ABCDs.\n\nEnsure airway patency.\nMonitor vitals (HR, RR, BP, SpO2)\nIf SpO2 &lt;90%, give supplemental O2\nSecure venous access\nCheck RBS. If there is hypoglycemia, correct with dextrose.\n\nMost seizures will stop on their own within 3 minutes of onset.\n\n\nt = 5 min\nStart 1st line pharmacologic treatment with a benzodiazepine.\nCommonly used benzodiazepines include:\n\nDiazepam (rectal or IV)\nMidazolam (buccal or nasal)\nLorazepam (rectal or IV)\n\n\n\nt = 15 min\nIf seizure persists to time t = 15 min (10 minutes after the first benzodiazepine), repeat the dose of benzodiazepine.\nBenzodiazepines may be repeated once only. Avoid &gt;2 doses of benzodiazepines.\n\n\nt = 25 min\nStart the 2nd line pharmacologic treatment.\nCommonly used 2nd line drugs are:\n\nPhenobarbitone (IV)\nPhenytoin (IV)\nSodium valproate (IV)\nLevetiracetam (IV)\n\n\n\nt = 40-60 min\nStart the 3rd line pharmacologic treatment.\nThis stage employs anesthetic agents. It should be done in a center where the patient’s breathing can be supported.\n\n\n\n\n\n\n\n\n54.5.5 Prognosis of Status Epilepticus in Children\nIn patients who present with convulsive status epilepticus (CSE), there is a mortality rate of 3-9% within 30 days of the CSE. The mortality rate is worse in low- and middle-income countries.\nIn those who survive, the neurological sequelae depend on the type and duration of the seizure, the patient’s age, and the underlying etiology.\n\nDuration of the SE – the single most important determinant of prognosis. Worse outcome for prolonged SE.\nAge – worse neurological sequelae in infants (30% vs. 6% in older children)\nSeizure type – worse outcome for convulsive SE\nUnderlying etiology",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Neurology</span>",
       "<span class='chapter-number'>54</span>  <span class='chapter-title'>Seizure Disorders</span>"
     ]
   },
   {
-    "objectID": "neuro-seizure-disorders.html#epilepsy-1",
-    "href": "neuro-seizure-disorders.html#epilepsy-1",
+    "objectID": "neuro-seizure-disorders.html#epilepsy",
+    "href": "neuro-seizure-disorders.html#epilepsy",
     "title": "54  Seizure Disorders",
     "section": "54.6 Epilepsy",
-    "text": "54.6 Epilepsy\n\n54.6.1 Definition\n\n\n54.6.2 Classification\n\n\n54.6.3 Causes of epilepsy\n\n\n54.6.4 Approach to the child with epilepsy",
-    "crumbs": [
-      "<span style='font-weight:bold; color: black;'>Neurology</span>",
-      "<span class='chapter-number'>54</span>  <span class='chapter-title'>Seizure Disorders</span>"
-    ]
-  },
-  {
-    "objectID": "neuro-seizure-disorders.html#neonatal-seizures",
-    "href": "neuro-seizure-disorders.html#neonatal-seizures",
-    "title": "54  Seizure Disorders",
-    "section": "54.7 Neonatal seizures",
-    "text": "54.7 Neonatal seizures\n\n54.7.1 Common presentations\n\n\n54.7.2 Causes and differential diagnosis\n\n\n54.7.3 Management\n\n\n54.7.4 Seizure mimics in children",
+    "text": "54.6 Epilepsy\n\n54.6.1 Definition:\nEpilepsy is a disease of the brain defined by any of the following conditions:\n\nAt least two unprovoked seizures occurring &gt;24 hours apart.\nOne unprovoked seizure and an increased probability of further seizures\nDiagnosis of an epileptic syndrome\n\nIt affects over 50 million people worldwide, and 1 in 200 children worldwide.\n\n\n54.6.2 Classification\nThe ILAE classifies Epilepsy into four main types based on the seizure type (or types) [3]. These are:\n\nFocal epilepsy\nGeneralised epilepsy\nCombined generalised and focal epilepsy\nEpilepsy with unknown seizure type(s)\n\n\n\n54.6.3 Causes\nAll causes of epilepsy can be grouped into six main categories as follows:\n\nStructural: e.g., lissencephaly, tumours, calcifications, post-stroke, tuberous sclerosis complex, etc.\nGenetic: e.g., familial neonatal seizures, Dravet syndrome, etc.\nInfections: e.g., neurocysticercosis, HIV, post-meningitis, etc.\nMetabolic: e.g., hypoglycemia, electrolyte imbalance, inborn errors of metabolism, vitamin deficiency, etc.\nImmune-mediated: autoimmune encephalitis\nUnknown",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Neurology</span>",
       "<span class='chapter-number'>54</span>  <span class='chapter-title'>Seizure Disorders</span>"

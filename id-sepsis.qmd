@@ -1,3 +1,145 @@
 ---
-title: "Sepsis"
+title: "Sepsis in Children"
+author: "Prof Anthony Enimil"
+date: 2025-05-25
 ---
+
+## Definition
+
+Sepsis is a life-threatening condition characterized by organ dysfunction resulting from a
+dysregulated host response to infection. In children, it presents a range of disorders caused by
+bacterial, viral, fungal, or parasitic infections. Septic shock, a severe form of sepsis, is defined
+by persistent hypotension that requires vasopressors to maintain a mean arterial pressure (MAP) of ≥
+65 mmHg and a serum lactate level greater than 2 mmol/L, despite adequate fluid resuscitation.
+
+## Incidence and Prevalence
+
+Sepsis continues to be a major cause of morbidity and mortality in children around the globe. As
+stated by the World Health Organization (WHO), sepsis plays a significant role in childhood
+mortality, especially in low-resource environments. The incidence varies by region, with higher
+rates observed in neonates and infants due to their immature immune systems.
+
+## Aetiology
+
+Sepsis can result from infections caused by bacteria, viruses, fungi, and parasites. The most common
+bacterial pathogens vary by age:
+
+-   Early-Onset Neonatal Sepsis: *Streptococcus agalactiae*, *Escherichia coli*, *Haemophilus
+    influenzae*, *Listeria monocytogenes*.
+-   Infant Sepsis: *Haemophilus influenzae type b (Hib)*, *Streptococcus pneumoniae*, *Neisseria
+    meningitidis*, *Salmonella* species.
+-   Late-Onset Neonatal Sepsis: *Staphylococcus aureus*, *E. coli*, *Klebsiella* species,
+    *Pseudomonas aeruginosa*, *Candida* species.
+
+## Pathogenesis
+
+Sepsis results from a dysregulated immune response to infection, leading to widespread tissue
+injury. The process involves:
+
+1.  **Immune Dysregulation:** Excessive release of pro-inflammatory and anti-inflammatory mediators.
+2.  **Microcirculatory Derangements:** Increased vascular permeability, leading to hypotension and
+    organ dysfunction.
+3.  **End-Organ Damage:** Progression to multi-organ failure due to poor perfusion.
+
+## Signs and Symptoms
+
+Early recognition is crucial, as sepsis can progress rapidly. Symptoms include:
+
+-   Fever or Hypothermia
+-   Tachycardia and Tachypnea
+-   Altered Mental Status
+-   Hypotension
+-   Cool Extremities
+-   Petechial or Purpuric Rash (suggestive of meningococcal sepsis)
+-   Oliguria or Anuria (kidney dysfunction).
+
+## Investigations
+
+A thorough **laboratory workup** is essential for diagnosis:
+
+-   **Blood Tests:** Complete Blood Count (CBC), Blood Culture, Blood Gas Analysis (including
+    lactate levels).
+-   **Urine Analysis:** Dipstick, Routine Examination, Culture.
+-   **Cerebrospinal Fluid (CSF) Analysis:** Culture and Sensitivity.
+-   **Coagulation Studies:** To assess disseminated intravascular coagulation (DIC).
+-   **Inflammatory Markers:** C-Reactive Protein (CRP), Procalcitonin (PCT), Interleukins (IL-1b,
+    IL-6, IL-8), Tumor Necrosis Factor-alpha.
+
+## Treatment
+
+Early antibiotic therapy and fluid resuscitation are critical:
+
+-   **Empirical Broad-Spectrum Antibiotics:** Based on suspected pathogens.
+-   **Fluid Resuscitation:** Crystalloids (e.g., normal saline or Ringer’s lactate).
+-   **Vasopressors:** If hypotension persists despite fluids.
+-   **Supportive Care:** Oxygen therapy, mechanical ventilation, renal replacement therapy if
+    needed.
+
+## Complications
+
+Sepsis can lead to multi-organ failure and death if untreated. Common complications include:
+
+-   Acute Respiratory Distress Syndrome (ARDS)
+-   Disseminated Intravascular Coagulation (DIC)
+-   Renal Failure
+-   Cardiac Dysfunction
+-   Neurological Sequelae (e.g., cognitive impairment post-sepsis).
+
+## Prognosis
+
+The mortality rate varies based on early recognition and intervention. Neonatal sepsis has a higher
+fatality rate, especially in low-resource settings. Survivors may experience long-term
+complications, including neurodevelopmental delays.
+
+## Differential Diagnosis
+
+Sepsis must be distinguished from other conditions with similar presentations:
+
+-   Meningitis
+-   Severe Pneumonia
+-   Hemorrhagic Shock
+-   Metabolic Disorders
+-   Autoimmune Diseases.
+
+## References
+
+1.  Bone RC. The sepsis syndrome: definition and general approach to management. Clin Chest Med.
+    1996 Jun;17(2):175-81. Available here.
+2.  Angus DC, van der Poll T. Severe sepsis and septic shock. N Engl J Med. 2013 Aug
+    29;369(9):840-51. Available here.
+3.  Goldstein B, Giroir B, Randolph A; International Consensus Conference on Pediatric Sepsis.
+    International pediatric sepsis consensus conference: definitions for sepsis and organ
+    dysfunction in pediatrics. Pediatr Crit Care Med. 2005 Jan;6(1):2-8. Available here
+
+### Clinical Scenario 1: Neonatal Sepsis
+
+A 5-day-old male infant presents with lethargy, poor feeding, respiratory distress, and a fever of
+38.5°C. On examination, the infant appears jaundiced, with cool extremities and tachypnea. The
+mother had a prolonged rupture of membranes (\>18 hours) before delivery, and the infant had
+meconium-stained amniotic fluid.
+
+Key Considerations:
+
+-   **Etiology:** Early-onset neonatal sepsis, likely *Streptococcus agalactiae* (Group B Strep) or
+    *Escherichia coli*.
+-   **Investigations:** Blood cultures, CBC, CRP, procalcitonin, serum lactate, and lumbar puncture
+    for CSF culture.
+-   **Management:** **Empirical IV antibiotics** (Ampicillin + Gentamicin), fluid resuscitation,
+    oxygen therapy, and supportive care.
+-   **Complications:** Risk of meningitis and multi-organ failure if untreated.
+
+### Clinical Scenario 2: Pediatric Septic Shock
+
+A 6-year-old girl presents with a history of fever (40°C) for 3 days, altered mental status, and
+poor urine output. She is tachycardic (HR: 150 bpm), hypotensive (BP: 75/50 mmHg), and has delayed
+capillary refill (\>3 seconds). A petechial rash is noted on the lower extremities.
+
+Key Considerations:
+
+-   **Etiology:** Meningococcal sepsis (*Neisseria meningitidis*) suspected.
+-   **Investigations:** Blood culture, CBC, coagulation studies, lactate, kidney function tests, and
+    inflammatory markers.
+-   **Management:** **IV Ceftriaxone**, aggressive fluid resuscitation, vasopressors if needed, and
+    close monitoring in ICU.
+-   **Complications:** Disseminated Intravascular Coagulation (DIC), Acute Respiratory Distress
+    Syndrome (ARDS), multi-organ failure
