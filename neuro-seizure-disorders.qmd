@@ -1,6 +1,7 @@
 ---
 title: "Seizure Disorders"
 author: "Dr Charles Hammond"
+date: 2025-05-26
 ---
 
 ## Introduction
@@ -106,12 +107,18 @@ Febrile seizures are classified as simple or complex. @tbl-simple-complex-seizur
 differences between simple and complex febrile seizures.
 
 ::: {#tbl-simple-complex-seizure}
-| Feature            | Simple febrile seizure                    | Complex febrile seizure               |
-|--------------------|-------------------------------------------|---------------------------------------|
-| Seizure type       | Generalized                               | Maybe focal                           |
-| Duration           | Brief (\<15 min)                          | Prolonged                             |
-| Number of episodes | Single episode during the febrile illness | Repeated episodes in the same illness |
-| Outcomes           | Do not cause brain damage                 | Increased risk of brain damage        |
++-----------------------+-------------------------------------+----------------------------------+
+| Feature               | Simple febrile seizure              | Complex febrile seizure          |
++=======================+=====================================+==================================+
+| Seizure type          | Generalized                         | Maybe focal                      |
++-----------------------+-------------------------------------+----------------------------------+
+| Duration              | Brief (\<15 min)                    | Prolonged                        |
++-----------------------+-------------------------------------+----------------------------------+
+| Number of episodes    | Single episode during the febrile   | Repeated episodes in the same    |
+|                       | illness                             | illness                          |
++-----------------------+-------------------------------------+----------------------------------+
+| Outcomes              | Do not cause brain damage           | Increased risk of brain damage   |
++-----------------------+-------------------------------------+----------------------------------+
 
 : Simple versus Complex Febrile Seizures
 :::
@@ -243,12 +250,13 @@ If the seizure persists after 5 minutes, initiate drug management.
     ketamine. Alternatively, continuous infusions of midazolam or repeated intravenous boluses of
     phenobarbitone may be used.
 
-This stepwise approach to the management of ongoing seizures is illustrated in Table 2 below:
+This stepwise approach to the management of ongoing seizures is illustrated in
+@tbl-stepwise-epilepticus below:
 
 ::: {#tbl-stepwise-epilepticus}
 +-----------------------+------------------------------------+------------------------------------+
 | **Time**              | **Action required**                | **Notes**                          |
-+-----------------------+------------------------------------+------------------------------------+
++:======================+:===================================+:===================================+
 | t = 0 (seizure onset) | Ensure patient’s safety (remember  | Most seizures will stop on their   |
 |                       | the Do’s and Don’ts) Check the     | own within 3 minutes of onset.     |
 |                       | ABCDs.                             |                                    |
@@ -338,4 +346,307 @@ c.  Infections: e.g., neurocysticercosis, HIV, post-meningitis, etc.
 d.  Metabolic: e.g., hypoglycemia, electrolyte imbalance, inborn errors of metabolism, vitamin
     deficiency, etc.
 e.  Immune-mediated: autoimmune encephalitis
-f.  Unknown 
+f.  Unknown
+
+![ILAE classification of
+epilepsies](images/neu-classification-of-epilapsy.jpg){#fig-epilapsyClassification
+fig-align="center"}
+
+### Clinical evaluation of the child with epilepsy
+
+In evaluating a child with epilepsy, it is important to obtain a good history, perform a thorough
+physical examination, and then form a clinical diagnosis (or impression). Investigations are then
+employed to define the seizure type(s), confirm the clinical diagnosis, identify the underlying
+etiology, assess the effect of treatment, rule out differential diagnoses, and evaluate
+comorbidities.
+
+**History:** An eyewitness account is useful when taking the history of a child with epilepsy. Ask
+the older child for an account of the episodes. Home videos of the seizure episodes, if available,
+will complement the history. Key aspects of the seizure history should include:
+
+-   Age at onset: This is important in making an epilepsy syndrome diagnosis, as specific epilepsy
+    syndromes have different ages at onset.
+-   Patient’s baseline neurological status: This may differ from patient to patient and becomes
+    essential in clinical decision-making. For example, the approach to a 3-year-old previously
+    healthy child presenting with seizures will be different from that of a 3-year-old known with
+    cerebral palsy, which will also be different from another 3-year-old known with HIV infection.
+-   Seizure semiology: This is a detailed description of what happened during the seizure. It is
+    useful to describe the seizure semiology in terms of the different stages, namely the aura (if
+    any), the ictal event, and the postictal event.
+-   The aura is often a sensory feeling that the patient experiences at the start of the seizure. It
+    is seen in focal-onset seizures. Please note that younger children may not be able to describe
+    an aura.
+-   Description of the ictal event should include the seizure type (or types), non-motor
+    manifestations (such as behavioral arrest, autonomic dysfunctions, etc.), seizure progression
+    and duration, as well as timing of the events (e.g. shortly after going to sleep, during sleep,
+    on awakening, whilst watching television, etc.).
+-   Post-ictal events: This is a description of what the patient does after the seizures have
+    stopped. They include events such as falling into deep sleep, changes in behaviour or mood,
+    transient focal weakness (Todd paralysis), etc. Please note that some seizure types (e.g.,
+    absence seizures) have abrupt recovery with no post-ictal phase. If there are post-ictal events,
+    the duration should also be noted.
+-   Developmental/cognitive outcome and co-morbidities: The seizure history should describe the
+    patient’s development and any cognitive fallouts or neurobehavioral comorbidities noted since
+    the onset of the seizures.
+-   Drug history: This should include a detailed list of all anti-seizure medications used in the
+    past, their contribution to seizure control, and the reason for stopping the drug. Other
+    long-term medications (including herbs) and known allergies should also be described.
+-   Family history: If other family members have seizures, they should be described in detail,
+    including their relation to the index patient, the seizure type(s), response to treatment,
+    prognosis, etc. 
+
+**Physical examination**
+
+The purpose of the physical examination is to identify risk factors and comorbidities associated
+with epilepsy and evaluate treatment effectiveness. The initial examination should be comprehensive
+and include anthropometry, a skin examination for neurocutaneous manifestations, a detailed
+neurological assessment, a developmental evaluation, and an examination of other systems.
+
+### Investigations
+
+It is important to remember that the diagnosis of epilepsy is mostly clinical and that the clinician
+should not overrely on investigations. However, investigations may be useful in diagnosing epilepsy
+syndrome, identifying the underlying etiology, assessing the effect of treatment, ruling out
+differential diagnoses, and evaluating comorbidities.
+
+Basic investigations in the evaluation of the child with epilepsy include:
+
+-   Blood counts
+-   Serum electrolytes
+-   Liver function and renal function tests
+
+Advanced investigations include:
+
+-   Electroencephalogram (EEG)
+-   Neuroimaging (CT, MRI, SPECT, PET)
+-   Metabolic screening
+-   Autoimmune antibody assays
+-   Molecular genetic testing
+
+### Treatment of Epilepsy
+
+The various modalities for treating epilepsy include:
+
+1.  Medical treatment – traditional and newer Anti-seizure medications (ASMs)
+2.  Hormonal treatment – ACTH or Steroids (Prednisolone) for epileptic spasms
+3.  Vitamins – pyridoxine, folinic acid, and biotin for vitamin-responsive seizures
+4.  Surgical treatment
+5.  Dietary treatment (ketogenic diet) 
+
+**Medical treatment:** This uses traditional or newer Anti-Seizure Medications (ASMs). Not all
+children with epilepsy require ASM therapy. When needed, ASM selection should be based on seizure
+type, epilepsy syndrome, and potential side effects. In a low-resource country, availability and
+affordability should be considered in ASM selection.
+
+Monotherapy is always preferred. However, a few patients will require rational polypharmacy. It is
+essential to select ASM at the minimum dosage that provides reasonable seizure control with minimal
+adverse effects. ASM therapy may be discontinued after the patient has had 2 years of seizure
+freedom.
+
+ASMs have a variety of side effects. Some are dose-related and others are idiosyncratic (non-dose
+related)
+
+@tbl-classification-of-epilepsy below shows the traditional anti-seizure medications and their
+specific indications.
+
+::: {#tbl-classification-of-epilepsy}
++-----------------------+------------------------------------+------------------------------------+
+| **Drug**              | **Indications**                    | **Side Effects**                   |
++:======================+:===================================+:===================================+
+| Phenobarbitone        | Status epilepticus                 | **Dose-related:** Drowsiness,      |
+|                       |                                    | respiratory depression             |
+|                       | Neonatal seizures                  |                                    |
+|                       |                                    | **Idiosyncratic:** Rash,           |
+|                       | Epilepsy (both focal and           | Stevens-Johnson syndrome           |
+|                       | generalized seizures)              |                                    |
++-----------------------+------------------------------------+------------------------------------+
+| Phenytoin             | Status epilepticus                 | **Dose-related:** Drowsiness       |
+|                       |                                    |                                    |
+|                       | Neonatal seizures                  | **Chronic toxicity:** Gingival     |
+|                       |                                    | hyperplasia, coarse facial         |
+|                       | Peri-operative seizures            | features, hirsutism, neuropathy,   |
+|                       |                                    | megaloblastic anemia               |
+|                       |                                    |                                    |
+|                       |                                    | **Idiosyncratic:** Rash,           |
+|                       |                                    | Stevens-Johnson syndrome, serum    |
+|                       |                                    | sickness                           |
++-----------------------+------------------------------------+------------------------------------+
+| Sodium valproate      | Broad spectrum                     | **Dose-related:** Intention        |
+|                       |                                    | tremor, weight gain, polycystic    |
+|                       | Generalized seizures               | ovaries, teratogenicity (risk of   |
+|                       |                                    | neural tube defects)               |
+|                       | Absence seizures                   |                                    |
+|                       |                                    | **Idiosyncratic:** Hepatic         |
+|                       |                                    | failure, pancreatitis              |
++-----------------------+------------------------------------+------------------------------------+
+| Carbamazepine         | Focal seizures                     | **Dose-related:** Dizziness,       |
+|                       |                                    | drowsiness, diplopia, ataxia       |
+|                       | Avoid in the absence and myoclonic |                                    |
+|                       | seizures                           | **Idiosyncratic:** Aplastic        |
+|                       |                                    | anemia, rash, Stevens-Johnson      |
+|                       |                                    | syndrome                           |
++-----------------------+------------------------------------+------------------------------------+
+| Ethosuximide          | Absence seizures                   | **Dose-related:** Dizziness,       |
+|                       |                                    | nausea, weight loss                |
++-----------------------+------------------------------------+------------------------------------+
+
+: Traditional Anti-seizure medications (ASMs)
+:::
+
+Some newer ASMs include Lamotrigine, Topiramate, Levetiracetam, Clonazepam, Clobazam, Vigabatrin
+(for the treatment of epileptic spasms), Gabapentin, Pregabalin, Felbamate, Oxcarbazepine,
+Fosphenytoin, Lacosamide, Stiripentol, Tiagabine, and Zonisamide.
+
+**Hormonal therapy** in the treatment of epilepsy includes:
+
+-   Adrenocorticotropic hormone (ACTH) – for treatment of epileptic spasms
+-   Prednisone or prednisolone – for treatment of epileptic spasms, Landau-Kleffner syndrome, etc.
+
+**Vitamins** may be employed in the treatment of some epilepsies (known as vitamin-responsive or
+vitamin-dependent seizures). These include:
+
+-   Pyridoxine
+-   Folinic acid
+-   Biotin
+
+**Surgical treatment** of epilepsy includes:
+
+-   Focal resection
+-   Lobectomy
+-   Hemispherectomy
+-   Corpus callosotomy
+-   Vagus nerve stimulation
+
+**Ketogenic diet:** This employs high-fat, low-carbohydrate, and low-protein diets in treating
+patients with epilepsy. When used, the patient assumes a fasting state, and the brain relies on
+fatty acids instead of glucose as the primary source of energy. The exact mechanism of action is not
+known, but it leads to a reduction in seizure frequency and duration. It is effective for all
+seizure types.
+
+## Epilepsy syndromes
+
+An epilepsy syndrome is defined as a characteristic cluster of clinical and electroencephalographic
+(EEG) features, often supported by specific etiological findings (structural, genetic, metabolic,
+immune, and infectious) \[ILAE, 2022\]
+
+This is to say that some epilepsies can be clustered together as a syndrome based on their features,
+such as etiology, age at onset, seizure type(s), EEG findings, response to treatment, comorbidities,
+and long-term prognosis.
+
+Epilepsy syndromes often have age-dependent presentations, may have age-dependent remission, and are
+usually strongly correlated with other co-morbidities.
+
+Common epilepsy syndromes in children include:
+
+-   Early infantile epileptic encephalopathy (Ohtahara syndrome)
+-   Infantile epileptic spasms syndrome (West syndrome)
+-   Severe myoclonic epilepsy of infancy (Dravet syndrome)
+-   Lennox-Gastaut syndrome
+-   Myoclonic astatic epilepsy (Doose syndrome)
+-   Epilepsy-aphasia (Landau-Kleffner syndrome)
+-   Childhood absence epilepsy
+-   Juvenile absence epilepsy
+-   Self-limiting epilepsy with centro-temporal spikes (previously Benign Rolandic epilepsy)
+-   Juvenile myoclonic epilepsy
+
+## Neonatal Seizures
+
+### Definition
+
+These are seizures in newborns 0-28 days (up to 2 months in clinical practice). They are often
+poorly organized and difficult to distinguish from normal activity. Clinical patterns include:
+
+-   Tonic stiffening of the body
+-   Tonic deviation of the eyes
+-   Apnea
+-   Focal clonic movements of one limb or both limbs on one side
+-   Myoclonic jerks
+-   Paroxysmal laughing
+-   Cycling movement of the limbs
+
+Generalized tonic-clonic movements do not occur in the neonatal period.
+
+The term **subtle seizures** refers to all the different patterns without tonic or clonic movement
+of the limbs.
+
+### Causes of seizures in neonates by age
+
+Within 24 hours:
+
+-   Hypoxic-ischaemic encephalopathy
+-   Intrauterine infections
+-   Intracranial haemorrhage (IVH or SAH)
+-   Metabolic disorders (commonly pyridoxine deficiency)
+
+24 to 72 hours
+
+-   Neonatal sepsis (including meningitis)
+-   Drug withdrawal
+-   Metabolic disorders
+-   Congenital malformations (cerebral dysgenesis)
+
+After 72 hours
+
+-   Familial neonatal seizures
+-   Kernicterus
+-   Cerebral malformations
+-   Metabolic disorders                                  
+-   Congenital malformations (cerebral dysgenesis)
+
+### Management of neonatal seizures
+
+-   Remember ABCDs
+-   Phenobarbital is the first-line drug of choice
+-   Avoid benzodiazepine (unless in a specialist center with respiratory support)
+-   Repeated Phenobarbital, Phenytoin, or IV infusion of Midazolam may be used as 2^nd^ line or
+    3^rd^ line
+-   3^rd^ line: must be in the NICU where ventilators are available.
+-   Give vitamins for vitamin-responsive or vitamin-dependent seizures. These include pyridoxine,
+    biotin, and folinic acid.          
+-   Identify and treat the underlying cause.
+
+## Seizure mimics
+
+These are “events” that resemble seizures and may be misdiagnosed as seizures if not carefully
+evaluated. Common seizure mimics in neonates include:
+
+-   Benign sleep myoclonus
+-   Jitteriness
+-   Opisthotonos
+-   Apnea (especially in preterm newborns)
+
+In infants and older children, common seizure mimics include:
+
+-   Psychogenic non-epileptic seizures (PNES)
+-   Jitteriness
+-   Sandifer syndrome (GERD)
+-   Breath-holding spells
+-   Movement disorders (Tics, chorea, paroxysmal dyskinesias, etc.)
+-   Benign sleep myoclonus
+-   Opsoclonus myoclonus syndrome
+-   Migraine variants
+-   Parasomnias
+-   Syncope (vasovagal or cardiac)
+-   Self-gratification
+-   Hypnic jerks
+-   Hypertonicity in a patient with CP or anoxic brain injury
+-   Cataplexy
+
+## References
+
+1.  Fisher, R.S., van Emde Boas, W., Blume, W., Elger, C., Genton, P., Lee, P., Engel, J., 2005.
+    Epileptic seizures and epilepsy: definitions proposed by the International League Against
+    Epilepsy (ILAE) and the International Bureau for Epilepsy (IBE). Epilepsia 46, 470–472.
+
+2.  Fisher, R.S., Cross, J.H., French, J.A., Higurashi, N., Hirsch, E., Jansen, F.E., Lagae, L.,
+    Moshé, S.L., Peltola, J., Roulet Perez, E., Scheffer, I.E., Zuberi, S.M., 2017, Operational
+    classification of seizure types by the International League Against Epilepsy: Position Paper of
+    the ILAE Commission for Classification and Terminology. Epilepsia 58(4), 522- 530.
+
+3.  Fisher, R.S., Acevedo, C., Arzimanoglou, A., Bogacz, A., Cross, J.H., Elger, J.H., Engel, J.
+    Jr., Forsgren, L., French, J.A., Glynn, M., Hesdorffer, D.C., Lee, B.I., Mathern, G.W., Moshé,
+    S.L., Perucca, E., Scheffer, I.E., Tomson, T., Watanabe, M., Wiebe, S., 2014. ILAE official
+    report: a practical clinical definition of epilepsy. Epilepsia 55(4), 475-82
+
+4.  Newton, RW and Giles, A. Neurological Disorders. In: Lissauer and Carroll (ed). Illustrated
+    textbook of Paediatrics, 5th edition. Elsevier. 2018: 501-24
