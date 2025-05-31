@@ -1,6 +1,9 @@
 project:
   type: book
   output-dir: docs
+  preview: 
+    browser: true
+    port: 4200
 
 book:
   cover-image: images/pedics-notes-cover.jpg
@@ -166,4 +169,5 @@ format:
         - BookTheme.scss
   pdf:
     documentclass: scrreprt
+
 
