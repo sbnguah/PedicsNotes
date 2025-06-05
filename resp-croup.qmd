@@ -1,6 +1,6 @@
 ---
 title: "Croup"
-author: "Dr (Mrs) Sandra Kwarteng Owusu"
+date: 2025-06-05
 ---
 
 ## Introduction
@@ -13,7 +13,7 @@ is particularly important for medical students and healthcare providers in Ghana
 infections are a leading cause of childhood morbidity, particularly during the rainy season when
 viral infections peak.
 
-## Epidemiology 
+## Epidemiology
 
 -   **Age group**: Primarily affects children between **6 months and 5 years**. The peak incidence
     occurs around **2 years of age**.
@@ -85,26 +85,19 @@ Symptoms often **worsen at night**, leading to sudden parental concern.
 **Severity Classification:**
 
 1.  **Mild**:
-
     -   Occasional barking cough
     -   No stridor at rest
     -   No retractions
-
 2.  **Moderate**:
-
     -   Frequent cough
     -   Stridor at rest
     -   Mild to moderate chest wall retractions
-
 3.  **Severe**
-
     -   Marked stridor at rest
     -   Severe retractions
     -   Agitation or lethargy
     -   Hypoxia (SpO₂ \< 92%)
-
 4.  **Impending respiratory failure**:
-
     -   Decreased level of consciousness
     -   Fatigue
     -   Cyanosis
@@ -114,14 +107,14 @@ Symptoms often **worsen at night**, leading to sudden parental concern.
 
 Croup must be differentiated from other **causes of upper airway obstruction**:
 
-|  |  |
-|------------------------------|--------------------------------------------------------------------|
-| **Condition** |  **Key Differences** |
-| **Epiglottitis** | Sudden onset, high   fever, toxic appearance, drooling, "tripod" posture |
-| **Foreign body   aspiration** | Sudden choking   episode, unilateral breath sounds |
-| **Bacterial   tracheitis** | High fever, purulent   secretions, toxic look |
-| **Peritonsillar   abscess** | Older children,   muffled voice, difficulty opening mouth |
-| **Retropharyngeal   abscess** |    Neck stiffness,   drooling, visible swelling on imaging |
+|                             |                                                                        |
+|-----------------------------|------------------------------------------------------------------------|
+| **Condition**               | **Key Differences**                                                    |
+| **Epiglottitis**            | Sudden onset, high fever, toxic appearance, drooling, "tripod" posture |
+| **Foreign body aspiration** | Sudden choking episode, unilateral breath sounds                       |
+| **Bacterial tracheitis**    | High fever, purulent secretions, toxic look                            |
+| **Peritonsillar abscess**   | Older children, muffled voice, difficulty opening mouth                |
+| **Retropharyngeal abscess** | Neck stiffness, drooling, visible swelling on imaging                  |
 
 ## Diagnosis
 
