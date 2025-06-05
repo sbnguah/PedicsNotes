@@ -489,7 +489,7 @@
     "href": "neo-newborn-feeding.html",
     "title": "13  Breastfeeding – Theory and Practice",
     "section": "",
-    "text": "13.1 Introduction\nBreastfeeding is more than just a method of feeding infants; it is a sophisticated biological process that nurtures, protects, and connects both mother and child. Over recent decades, scientific discoveries have deepened our understanding of breastmilk’s dynamic nature and its systemic benefits. This chapter explores the theoretical underpinnings and practical applications of breastfeeding, focusing on its physiological, immunological, nutritional, and psychosocial dimensions. It also outlines strategies to overcome common challenges, ensuring healthcare workers can support mothers effectively.",
+    "text": "13.1 Introduction\nBreastfeeding is more than just a method of feeding infants; it is a sophisticated biological process that nurtures, protects, and connects both mother and child. Over recent decades, scientific discoveries have deepened our understanding of breastmilk’s dynamic nature and its systemic benefits. This chapter examines the theoretical foundations and practical applications of breastfeeding, focusing on its physiological, immunological, nutritional, and psychosocial aspects. It also outlines strategies to overcome common challenges, ensuring healthcare workers can support mothers effectively.",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Neonatology</span>",
       "<span class='chapter-number'>13</span>  <span class='chapter-title'>Breastfeeding – Theory and Practice</span>"
@@ -603,6 +603,138 @@
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Neonatology</span>",
       "<span class='chapter-number'>13</span>  <span class='chapter-title'>Breastfeeding – Theory and Practice</span>"
+    ]
+  },
+  {
+    "objectID": "resp-croup.html",
+    "href": "resp-croup.html",
+    "title": "17  Croup",
+    "section": "",
+    "text": "17.1 Introduction\nCroup, medically known as laryngotracheobronchitis, is a common acute upper respiratory illness in children, characterized by inspiratory stridor, a barking cough, and hoarseness. It typically results from a viral infection that causes inflammation of the larynx, trachea, and bronchi. Though it is usually self-limiting, it can occasionally lead to life-threatening airway obstruction. Croup is particularly important for medical students and healthcare providers in Ghana, where respiratory infections are a leading cause of childhood morbidity, particularly during the rainy season when viral infections peak.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Croup</span>"
+    ]
+  },
+  {
+    "objectID": "resp-croup.html#epidemiology",
+    "href": "resp-croup.html#epidemiology",
+    "title": "17  Croup",
+    "section": "17.2 Epidemiology",
+    "text": "17.2 Epidemiology\n\nAge group: Primarily affects children between 6 months and 5 years. The peak incidence occurs around 2 years of age.\nGender: Males are slightly more affected than females.\nSeasonality: Most cases occur during the rainy or cold seasons (June to October in Ghana), coinciding with an increase in viral respiratory infections.\nPrevalence: Although there is limited Ghana-specific data, studies across sub-Saharan Africa indicate that viral croup accounts for a significant proportion of paediatric respiratory admissions, particularly in urban areas such as Accra and Kumasi.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Croup</span>"
+    ]
+  },
+  {
+    "objectID": "resp-croup.html#etiology",
+    "href": "resp-croup.html#etiology",
+    "title": "17  Croup",
+    "section": "17.3 Etiology",
+    "text": "17.3 Etiology\nViral infections most commonly cause croup. The Parainfluenza virus type 1 is the most frequent cause globally and in Ghana.\nCommon viral agents:\n\nParainfluenza viruses (types 1, 2, 3)\nRespiratory syncytial virus (RSV)\nInfluenza A and B\nAdenoviruses\nRhinoviruses\nCoronavirus (including some SARS-CoV-2 variants)\n\nThese viruses infect and inflame the epithelial lining of the upper airway, leading to swelling, increased mucus, and narrowed air passages, especially in the subglottic region.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Croup</span>"
+    ]
+  },
+  {
+    "objectID": "resp-croup.html#pathophysiology",
+    "href": "resp-croup.html#pathophysiology",
+    "title": "17  Croup",
+    "section": "17.4 Pathophysiology",
+    "text": "17.4 Pathophysiology\nThe hallmark of croup is subglottic inflammation. In the paediatric airway, the narrowest part is the subglottic space, located just below the vocal cords. Viral infection triggers:\n\nMucosal oedema\nCellular infiltration\nIncreased mucus production\n\nThese changes reduce airway diameter, particularly during inspiration, leading to:\n\nStridor (turbulent airflow)\nBarking cough (from irritated vocal cords)\nRespiratory distress in severe cases\n\nYoung children are especially vulnerable due to their smaller airway diameter and less developed respiratory musculature.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Croup</span>"
+    ]
+  },
+  {
+    "objectID": "resp-croup.html#clinical-features",
+    "href": "resp-croup.html#clinical-features",
+    "title": "17  Croup",
+    "section": "17.5 Clinical Features",
+    "text": "17.5 Clinical Features\nThe classic presentation involves:\nProdromal Phase:\n\nBegins with non-specific upper respiratory symptoms:\n\nNasal congestion\nRhinorrhoea\nLow-grade fever\nMild cough\n\n\nCroup Syndrome:\n\nBarking cough (seal-like)\nHoarseness\nInspiratory stridor (worse with agitation or crying)\nRespiratory distress (tachypnoea, nasal flaring, retractions)\nFever (low to moderate)\n\nSymptoms often worsen at night, leading to sudden parental concern.\nSeverity Classification:\n\nMild:\n\nOccasional barking cough\nNo stridor at rest\nNo retractions\n\nModerate:\n\nFrequent cough\nStridor at rest\nMild to moderate chest wall retractions\n\nSevere\n\nMarked stridor at rest\nSevere retractions\nAgitation or lethargy\nHypoxia (SpO₂ &lt; 92%)\n\nImpending respiratory failure:\n\nDecreased level of consciousness\nFatigue\nCyanosis\nSilent chest",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Croup</span>"
+    ]
+  },
+  {
+    "objectID": "resp-croup.html#differential-diagnoses",
+    "href": "resp-croup.html#differential-diagnoses",
+    "title": "17  Croup",
+    "section": "17.6 Differential Diagnoses",
+    "text": "17.6 Differential Diagnoses\nCroup must be differentiated from other causes of upper airway obstruction:\n\n\n\n\n\n\n\nCondition\nKey Differences\n\n\nEpiglottitis\nSudden onset, high fever, toxic appearance, drooling, “tripod” posture\n\n\nForeign body aspiration\nSudden choking episode, unilateral breath sounds\n\n\nBacterial tracheitis\nHigh fever, purulent secretions, toxic look\n\n\nPeritonsillar abscess\nOlder children, muffled voice, difficulty opening mouth\n\n\nRetropharyngeal abscess\nNeck stiffness, drooling, visible swelling on imaging",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Croup</span>"
+    ]
+  },
+  {
+    "objectID": "resp-croup.html#diagnosis",
+    "href": "resp-croup.html#diagnosis",
+    "title": "17  Croup",
+    "section": "17.7 Diagnosis",
+    "text": "17.7 Diagnosis\nCroup is primarily a clinical diagnosis, especially in resource-limited settings like many areas in Ghana.\nClinical Evaluation:\n\nVital signs: look for tachypnoea, fever\nOxygen saturation (pulse oximetry)\nGeneral appearance: level of alertness, work of breathing\n\nInvestigations\n\nNeck X-ray (AP view): May reveal the classic “steeple sign” (subglottic narrowing), although it is not routinely needed.\nCBC, CRP: Not usually necessary unless bacterial superinfection is suspected.\nNasopharyngeal swabs: Can confirm viral aetiology, but are rarely done due to cost and availability.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Croup</span>"
+    ]
+  },
+  {
+    "objectID": "resp-croup.html#management",
+    "href": "resp-croup.html#management",
+    "title": "17  Croup",
+    "section": "17.8 Management",
+    "text": "17.8 Management\nManagement depends on severity. The key principles are:\n\nRelieve airway obstruction\nReduce inflammation\nMinimize agitation\nMonitor for deterioration\n\n\n17.8.1 General Measures:\n\nKeep the child calm: Crying worsens stridor.\nHumidified air: Traditionally used, though evidence is weak.\nSupplemental oxygen: For SpO₂ &lt; 92% or signs of hypoxia.\n\n\n\n17.8.2 Pharmacologic Treatment\n1. Corticosteroids\nMainstay of treatment, regardless of severity.\n\nDexamethasone (preferred):\n\nDose: 0.15–0.6 mg/kg PO/IM/IV (max 10 mg)\nLong half-life (~36–72 hours), a single dose is often enough\n\nPrednisolone (if dexamethasone unavailable):\n\nDose: 1 mg/kg/day PO for 3–5 days\n\n\nCorticosteroids reduce airway inflammation, decrease hospital admissions, and shorten the duration of illness.\n2. Nebulized Epinephrine (Racemic or L-epinephrine)\n\n Used for moderate to severe croup:\nDose: 0.5 mL of 2.25% racemic epinephrine or 5 mL of 1:1000 L-epinephrine via nebulizer.\nActs quickly but temporarily (1–2 hours), often used while waiting for the corticosteroid effect.\nObserve the child for 3–4 hours after administration for any rebound symptoms.\n\n3. Antibiotics\nNot indicated unless there is a suspicion of bacterial tracheitis or a secondary infection (high fever, toxic appearance, purulent secretions).\nMonitoring and Admission Criteria\nAdmit if:\n\n Persistent stridor at rest following epinephrine\nHypoxia (SpO₂ &lt; 92% on room air)\nSevere work of breathing\nInadequate oral intake\nAge under 6 months\nPre-existing comorbidities (e.g., sickle cell disease, malnutrition)\n\nIn Ghana, admission should also be considered if reliable follow-up is uncertain, especially in rural or underserved areas.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Croup</span>"
+    ]
+  },
+  {
+    "objectID": "resp-croup.html#complications",
+    "href": "resp-croup.html#complications",
+    "title": "17  Croup",
+    "section": "17.9 Complications",
+    "text": "17.9 Complications\n\nRespiratory failure\nSecondary bacterial tracheitis\nDehydration\nRarely, death (usually in severe, untreated cases)",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Croup</span>"
+    ]
+  },
+  {
+    "objectID": "resp-croup.html#prevention",
+    "href": "resp-croup.html#prevention",
+    "title": "17  Croup",
+    "section": "17.10 Prevention",
+    "text": "17.10 Prevention\n\nRoutine immunization: Influenza and measles vaccines reduce incidence\nHand hygiene and cough etiquette\nAvoid exposure to sick contacts, especially during viral seasons",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Croup</span>"
+    ]
+  },
+  {
+    "objectID": "resp-croup.html#public-health-considerations-in-ghana",
+    "href": "resp-croup.html#public-health-considerations-in-ghana",
+    "title": "17  Croup",
+    "section": "17.11 Public Health Considerations in Ghana",
+    "text": "17.11 Public Health Considerations in Ghana\n\nLimited access to nebulizers or corticosteroids in rural facilities may delay treatment.\nOvercrowding and poor ventilation increase the transmission of respiratory viruses.\nTraining community health workers in the recognition and referral of severecases is crucial.\nIntegration of Integrated Management of Childhood Illness (IMCI) strategies can help guide early treatment at the primary care level.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Croup</span>"
+    ]
+  },
+  {
+    "objectID": "resp-croup.html#conclusion",
+    "href": "resp-croup.html#conclusion",
+    "title": "17  Croup",
+    "section": "17.12 Conclusion",
+    "text": "17.12 Conclusion\nCroup is a common, self-limiting pediatric illness that can become life-threatening without prompt recognition and management. Medical students and practitioners in Ghana should be proficient in diagnosing croup based on clinical features and effectively managing it with corticosteroids and supportive care. Knowing when to escalate care is crucial, particularly in resource-constrained settings.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Croup</span>"
     ]
   },
   {

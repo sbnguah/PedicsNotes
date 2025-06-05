@@ -2,3 +2,229 @@
 title: "Croup"
 author: "Dr (Mrs) Sandra Kwarteng Owusu"
 ---
+
+## Introduction
+
+Croup, medically known as laryngotracheobronchitis, is a common acute upper respiratory illness in
+children, characterized by inspiratory stridor, a barking cough, and hoarseness. It typically
+results from a viral infection that causes inflammation of the larynx, trachea, and bronchi. Though
+it is usually self-limiting, it can occasionally lead to life-threatening airway obstruction. Croup
+is particularly important for medical students and healthcare providers in Ghana, where respiratory
+infections are a leading cause of childhood morbidity, particularly during the rainy season when
+viral infections peak.
+
+## Epidemiology 
+
+-   **Age group**: Primarily affects children between **6 months and 5 years**. The peak incidence
+    occurs around **2 years of age**.
+-   **Gender**: Males are slightly more affected than females.
+-   **Seasonality**: Most cases occur during the rainy or cold seasons (June to October in Ghana),
+    coinciding with an increase in viral respiratory infections.
+-   **Prevalence**: Although there is limited Ghana-specific data, studies across sub-Saharan Africa
+    indicate that viral croup accounts for a significant proportion of paediatric respiratory
+    admissions, particularly in urban areas such as Accra and Kumasi.
+
+## Etiology
+
+Viral infections most commonly cause croup. The **Parainfluenza virus type 1** is the most frequent
+cause globally and in Ghana.
+
+**Common viral agents:**
+
+-   **Parainfluenza viruses** (types 1, 2, 3)
+-   **Respiratory syncytial virus (RSV)**
+-   **Influenza A and B**
+-   **Adenoviruses**
+-   **Rhinoviruses**
+-   **Coronavirus (including some SARS-CoV-2 variants)**
+
+These viruses infect and inflame the epithelial lining of the **upper airway**, leading to swelling,
+increased mucus, and narrowed air passages, especially in the subglottic region.
+
+## Pathophysiology
+
+The hallmark of croup is **subglottic inflammation**. In the paediatric airway, the narrowest part
+is the **subglottic space**, located just below the vocal cords. Viral infection triggers:
+
+-   Mucosal oedema
+-   Cellular infiltration
+-   Increased mucus production
+
+These changes reduce airway diameter, particularly during **inspiration**, leading to:
+
+-   **Stridor** (turbulent airflow)
+-   **Barking cough** (from irritated vocal cords)
+-   **Respiratory distress** in severe cases
+
+Young children are especially vulnerable due to their **smaller airway diameter** and less developed
+respiratory musculature.
+
+## Clinical Features
+
+The classic presentation involves:
+
+**Prodromal Phase:**
+
+-   Begins with **non-specific upper respiratory symptoms**:
+
+    -   Nasal congestion
+    -   Rhinorrhoea
+    -   Low-grade fever
+    -   Mild cough
+
+**Croup Syndrome:**
+
+-   **Barking cough** (seal-like)
+-   **Hoarseness**
+-   **Inspiratory stridor** (worse with agitation or crying)
+-   **Respiratory distress** (tachypnoea, nasal flaring, retractions)
+-   **Fever** (low to moderate)
+
+Symptoms often **worsen at night**, leading to sudden parental concern.
+
+**Severity Classification:**
+
+1.  **Mild**:
+
+    -   Occasional barking cough
+    -   No stridor at rest
+    -   No retractions
+
+2.  **Moderate**:
+
+    -   Frequent cough
+    -   Stridor at rest
+    -   Mild to moderate chest wall retractions
+
+3.  **Severe**
+
+    -   Marked stridor at rest
+    -   Severe retractions
+    -   Agitation or lethargy
+    -   Hypoxia (SpO₂ \< 92%)
+
+4.  **Impending respiratory failure**:
+
+    -   Decreased level of consciousness
+    -   Fatigue
+    -   Cyanosis
+    -   Silent chest
+
+## Differential Diagnoses
+
+Croup must be differentiated from other **causes of upper airway obstruction**:
+
+|  |  |
+|------------------------------|--------------------------------------------------------------------|
+| **Condition** |  **Key Differences** |
+| **Epiglottitis** | Sudden onset, high   fever, toxic appearance, drooling, "tripod" posture |
+| **Foreign body   aspiration** | Sudden choking   episode, unilateral breath sounds |
+| **Bacterial   tracheitis** | High fever, purulent   secretions, toxic look |
+| **Peritonsillar   abscess** | Older children,   muffled voice, difficulty opening mouth |
+| **Retropharyngeal   abscess** |    Neck stiffness,   drooling, visible swelling on imaging |
+
+## Diagnosis
+
+Croup is primarily a **clinical diagnosis**, especially in resource-limited settings like many areas
+in Ghana.
+
+**Clinical Evaluation:**
+
+-   Vital signs: look for tachypnoea, fever
+-   Oxygen saturation (pulse oximetry)
+-   General appearance: level of alertness, work of breathing
+
+Investigations
+
+-   **Neck X-ray (AP view)**: May reveal the classic “steeple sign” (subglottic narrowing), although
+    it is not routinely needed.
+-   **CBC, CRP**: Not usually necessary unless bacterial superinfection is suspected.
+-   **Nasopharyngeal swabs**: Can confirm viral aetiology, but are rarely done due to cost and
+    availability.
+
+## Management
+
+Management depends on **severity**. The key principles are:
+
+-   Relieve airway obstruction
+-   Reduce inflammation
+-   Minimize agitation
+-   Monitor for deterioration
+
+### **General Measures:**
+
+-   **Keep the child calm**: Crying worsens stridor.
+-   **Humidified air**: Traditionally used, though evidence is weak.
+-   **Supplemental oxygen**: For SpO₂ \< 92% or signs of hypoxia.
+
+### **Pharmacologic Treatment**
+
+**1. Corticosteroids**
+
+Mainstay of treatment, regardless of severity.
+
+-   **Dexamethasone** (preferred):
+    -   Dose: 0.15–0.6 mg/kg PO/IM/IV (max 10 mg)
+    -   Long half-life (\~36–72 hours), a single dose is often enough
+-   **Prednisolone** (if dexamethasone unavailable):
+    -   Dose: 1 mg/kg/day PO for 3–5 days
+
+**Corticosteroids reduce airway inflammation, decrease hospital admissions, and shorten the duration
+of illness.**
+
+**2. Nebulized Epinephrine (Racemic or L-epinephrine)**
+
+-    Used for moderate to severe croup:
+-   Dose: 0.5 mL of 2.25% racemic epinephrine or 5 mL of 1:1000 L-epinephrine via nebulizer.
+-   Acts quickly but temporarily (1–2 hours), often used while waiting for the corticosteroid
+    effect.
+-   Observe the child for 3–4 hours after administration for any rebound symptoms.
+
+**3. Antibiotics**
+
+Not indicated unless there is a suspicion of bacterial tracheitis or a secondary infection (high
+fever, toxic appearance, purulent secretions).
+
+**Monitoring and Admission Criteria**
+
+**Admit if:**
+
+-    Persistent stridor at rest following epinephrine
+-   Hypoxia (SpO₂ \< 92% on room air)
+-   Severe work of breathing
+-   Inadequate oral intake
+-   Age under 6 months
+-   Pre-existing comorbidities (e.g., sickle cell disease, malnutrition)
+
+In Ghana, **admission should also be considered if reliable follow-up is uncertain**, especially in
+rural or underserved areas.
+
+## **Complications**
+
+-   Respiratory failure
+-   Secondary bacterial tracheitis
+-   Dehydration
+-   Rarely, death (usually in severe, untreated cases)
+
+## **Prevention**
+
+-   **Routine immunization**: Influenza and measles vaccines reduce incidence
+-   **Hand hygiene and cough etiquette**
+-   **Avoid exposure to sick contacts**, especially during viral seasons
+
+## **Public Health Considerations in Ghana**
+
+-   **Limited access to nebulizers or corticosteroids** in rural facilities may delay treatment.
+-   **Overcrowding and poor ventilation** increase the transmission of respiratory viruses.
+-   **Training** **community health workers** in the recognition and referral of severecases is
+    crucial.
+-   Integration of **Integrated Management of Childhood Illness (IMCI)** strategies can help guide
+    early treatment at the primary care level.
+
+## **Conclusion**
+
+Croup is a common, self-limiting pediatric illness that can become life-threatening without prompt
+recognition and management. Medical students and practitioners in Ghana should be proficient in
+diagnosing croup based on clinical features and effectively managing it with corticosteroids and
+supportive care. Knowing when to escalate care is crucial, particularly in resource-constrained
+settings.
