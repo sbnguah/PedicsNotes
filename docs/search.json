@@ -280,6 +280,146 @@
     ]
   },
   {
+    "objectID": "gen-acid-base.html",
+    "href": "gen-acid-base.html",
+    "title": "4  Acid-Base Disorders",
+    "section": "",
+    "text": "4.1 Introduction\nAcid-base balance is vital for normal cellular metabolism and physiological function. In children, acid-base disturbances can arise from a variety of causes and often signal serious underlying pathology. The developing physiology of infants and children also makes them particularly vulnerable to imbalances.\nThis guide aims to provide medical students, particularly in Ghana, with a comprehensive understanding of acid-base disorders, their causes, clinical manifestations, diagnosis, and management, with a focus on conditions commonly encountered in paediatric practice in resource-limited settings.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Acid-Base Disorders</span>"
+    ]
+  },
+  {
+    "objectID": "gen-acid-base.html#physiology-of-acid-base-balance",
+    "href": "gen-acid-base.html#physiology-of-acid-base-balance",
+    "title": "4  Acid-Base Disorders",
+    "section": "4.2 Physiology of Acid-Base Balance",
+    "text": "4.2 Physiology of Acid-Base Balance\n\n4.2.1 Normal pH and Buffer\n\nNormal arterial blood pH: 7.35 – 7.45\nKey buffer systems:\n\nBicarbonate buffer (HCO₃⁻ / H₂CO₃)\nPhosphate buffer\nProtein buffer (e.g., haemoglobin)\n\n\n\n\n4.2.2 Regulation Mechanisms\n\nLungs: Excrete CO₂ (volatile acid)\nKidneys: Reabsorb bicarbonate and excrete H⁺ (non-volatile acids)\nBuffers: Immediate but temporary pH regulation",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Acid-Base Disorders</span>"
+    ]
+  },
+  {
+    "objectID": "gen-acid-base.html#classification-of-acid-base-disorders",
+    "href": "gen-acid-base.html#classification-of-acid-base-disorders",
+    "title": "4  Acid-Base Disorders",
+    "section": "4.3 Classification of Acid-Base Disorders",
+    "text": "4.3 Classification of Acid-Base Disorders\nAcid-base disorders are classified as:\n\nMetabolic Acidosis\nMetabolic Alkalosis\nRespiratory Acidosis\nRespiratory Alkalosis\n\nEach has compensatory mechanisms that attempt to restore pH toward normal.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Acid-Base Disorders</span>"
+    ]
+  },
+  {
+    "objectID": "gen-acid-base.html#metabolic-acidosis",
+    "href": "gen-acid-base.html#metabolic-acidosis",
+    "title": "4  Acid-Base Disorders",
+    "section": "4.4 Metabolic Acidosis",
+    "text": "4.4 Metabolic Acidosis\n\n4.4.1 Definition\nCharacterized by decreased pH and bicarbonate (&lt; 22 mmol/L)\n\n\n4.4.2 Causes\nIn Ghana and other resource-limited settings, common causes include:\n\n\n\n\n\n\n\nHigh Anion Gap\nNormal Anion Gap (Hyperchloremic)\n\n\nDiabetic ketoacidosis (DKA)\nDiarrhea (bicarbonate loss)\n\n\nLactic acidosis (sepsis, hypoxia, severe anaemia)\nRenal tubular acidosis (RTA)\n\n\nInborn errors of metabolism\nEarly renal failure\n\n\nUraemia\nUse of carbonic anhydrase inhibitors\n\n\n\nAnion Gap (AG) = Na⁺ – (Cl⁻ + HCO₃⁻)\nNormal AG: 8 – 12 mmol/L\n\n\n4.4.3 Clinical Features\n\nKussmaul breathing (deep, rapid)\nLethargy, confusion\nHypotension\nSigns of dehydration\n\n\n\n4.4.4 Diagnosis\n\nArterial blood gas (ABG): ↓pH, ↓HCO₃⁻\nSerum electrolytes\nUrine analysis (in RTA)\nBlood glucose and ketones (in DKA)\n\n\n\n4.4.5 Management\n\nTreat the underlying cause\nRehydration (e.g., with normal saline)\nDKA: Insulin therapy, fluids, potassium replacement\nSevere acidosis (pH &lt; 7.1): Consider sodium bicarbonate cautiously\nMonitor electrolytes, especially K⁺",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Acid-Base Disorders</span>"
+    ]
+  },
+  {
+    "objectID": "gen-acid-base.html#metabolic-alkalosis",
+    "href": "gen-acid-base.html#metabolic-alkalosis",
+    "title": "4  Acid-Base Disorders",
+    "section": "4.5 Metabolic Alkalosis",
+    "text": "4.5 Metabolic Alkalosis\n\n4.5.1 Definition\nElevated pH and bicarbonate (&gt; 28 mmol/L)\n\n\n4.5.2 Causes\n\n\n\nChloride-Responsive\nChloride-Resistant\n\n\nVomiting or nasogastric suction\nPrimary hyperaldosteronism\n\n\nDiuretic therapy\nCongenital adrenal hyperplasia\n\n\nVolume depletion\nSevere hypokalemia\n\n\n\n\n\n4.5.3 Clinical Features\n\nMuscle cramps, weakness\nTetany (due to hypocalcemia)\nHypoventilation (compensatory)\nConfusion, seizures (severe)\n\n\n\n4.5.4 Diagnosis\n\nABG: ↑pH, ↑HCO₃⁻\nSerum electrolytes: Look for hypokalemia, hypochloremia\nUrine chloride\n\n\n\n4.5.5 Management\n\nVolume replacement with normal saline\nPotassium supplementation\nCorrect underlying cause\nIf resistant to saline: consider aldosterone antagonists (e.g., spironolactone)",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Acid-Base Disorders</span>"
+    ]
+  },
+  {
+    "objectID": "gen-acid-base.html#respiratory-acidosis",
+    "href": "gen-acid-base.html#respiratory-acidosis",
+    "title": "4  Acid-Base Disorders",
+    "section": "4.6 Respiratory Acidosis",
+    "text": "4.6 Respiratory Acidosis\n\n4.6.1 Definition\n↓pH and ↑pCO₂ (&gt; 45 mmHg)\n\n\n4.6.2 Causes\nDue to hypoventilation:\n\nCNS depression (head injury, infections)\nNeuromuscular disorders (e.g., Guillain-Barré syndrome)\nChest wall deformities\nAirway obstruction (e.g., asthma, foreign body)\nRespiratory muscle fatigue\n\n\n\n4.6.3 Clinical Features\n\nAltered mental status\nHeadache\nTachycardia\nCyanosis\nPapilledema (chronic)\n\n\n\n4.6.4 Diagnosis\n\nABG: ↓pH, ↑pCO₂\nEvaluate oxygenation (PaO₂)\nChest X-ray, pulmonary function tests (if available)\n\n\n\n4.6.5 Management\n\nSupport ventilation (e.g., oxygen, non-invasive or mechanical ventilation)\nTreat the underlying cause (e.g., bronchodilators for asthma)\nCaution: Over-oxygenation can suppress respiratory drive in chronic cases",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Acid-Base Disorders</span>"
+    ]
+  },
+  {
+    "objectID": "gen-acid-base.html#respiratory-alkalosis",
+    "href": "gen-acid-base.html#respiratory-alkalosis",
+    "title": "4  Acid-Base Disorders",
+    "section": "4.7 Respiratory Alkalosis",
+    "text": "4.7 Respiratory Alkalosis\n\n4.7.1 Definition\n\n↑pH and ↓pCO₂ (&lt; 35 mmHg)\n\n\n\n4.7.2 Causes\n\nAnxiety, pain (hyperventilation)\nFever\nSepsis\nSalicylate poisoning (early)\nCentral causes (e.g., meningitis)\nHigh altitude (rare in Ghana)\n\n\n\n4.7.3 Clinical Features\n\nLight-headedness, dizziness\nPerioral numbness\nMuscle cramps\nTachypnoea\n\n\n\n4.7.4 Diagnosis\n\nABG: ↑pH, ↓pCO₂\nSerum calcium and phosphate (often decreased)\n\n\n\n4.7.5 Management\n\nAddress the underlying cause\nCalm the child (rebreathing bag if appropriate)\nTreat fever or infections\nSedation may be necessary in extreme anxiety",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Acid-Base Disorders</span>"
+    ]
+  },
+  {
+    "objectID": "gen-acid-base.html#mixed-acid-base-disorders",
+    "href": "gen-acid-base.html#mixed-acid-base-disorders",
+    "title": "4  Acid-Base Disorders",
+    "section": "4.8 Mixed Acid-Base Disorders",
+    "text": "4.8 Mixed Acid-Base Disorders\nChildren can present with more than one disorder simultaneously, especially in critical illness.\nExamples:\n\nDKA with vomiting → Metabolic acidosis + metabolic alkalosis\nSepsis with respiratory failure → Metabolic acidosis + respiratory acidosis\n\nClues to Mixed Disorders:\n\npH is normal, but CO₂ and HCO₃⁻ are abnormal\nCompensation appears inadequate or excessive\n\nUse Winter’s formula to assess expected respiratory compensation in metabolic acidosis:\nExpected pCO₂ = (1.5 × HCO₃⁻) + 8 ± 2",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Acid-Base Disorders</span>"
+    ]
+  },
+  {
+    "objectID": "gen-acid-base.html#pediatric-considerations",
+    "href": "gen-acid-base.html#pediatric-considerations",
+    "title": "4  Acid-Base Disorders",
+    "section": "4.9 Pediatric Considerations",
+    "text": "4.9 Pediatric Considerations\n\nNeonates have immature kidneys → limited ability to excrete acid\nDehydration is a common cause of acid-base disturbances\nMalaria, severe diarrhoea, and pneumonia are leading paediatric conditions in Ghana that may present with acid-base imbalance",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Acid-Base Disorders</span>"
+    ]
+  },
+  {
+    "objectID": "gen-acid-base.html#laboratory-evaluation",
+    "href": "gen-acid-base.html#laboratory-evaluation",
+    "title": "4  Acid-Base Disorders",
+    "section": "4.10 Laboratory Evaluation",
+    "text": "4.10 Laboratory Evaluation\nKey investigations:\n\nABG Analysis\nSerum electrolytes (Na⁺, K⁺, Cl⁻, HCO₃⁻)\nAnion gap calculation\nUrine pH and electrolytes (in RTA)\nLactate, ketones, glucose",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Acid-Base Disorders</span>"
+    ]
+  },
+  {
+    "objectID": "gen-acid-base.html#approach-to-a-child-with-suspected-acid-base-disorder",
+    "href": "gen-acid-base.html#approach-to-a-child-with-suspected-acid-base-disorder",
+    "title": "4  Acid-Base Disorders",
+    "section": "4.11 Approach to a Child with Suspected Acid-Base Disorder",
+    "text": "4.11 Approach to a Child with Suspected Acid-Base Disorder\n\nAssess airway, breathing, and circulation (ABC)\nClinical history\n\nDiarrhoea, vomiting, fever, polyuria\nDiabetes, drug use\n\nExamination\n\nLevel of consciousness\nRespiratory pattern (Kussmaul, hypoventilation)\nSigns of dehydration or oedema\n\nABG + Electrolytes\nDetermine primary disorder and compensation\nTreat the cause and monitor",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Acid-Base Disorders</span>"
+    ]
+  },
+  {
+    "objectID": "gen-acid-base.html#resource-limited-considerations-ghana-context",
+    "href": "gen-acid-base.html#resource-limited-considerations-ghana-context",
+    "title": "4  Acid-Base Disorders",
+    "section": "4.12 Resource-Limited Considerations (Ghana Context)",
+    "text": "4.12 Resource-Limited Considerations (Ghana Context)\n\nABGs may not be widely available — rely on clinical signs, serum bicarbonate, venous blood gases\nIn emergencies, treat based on likely diagnosis (e.g., give fluids for suspected DKA even before lab confirmation)\nPoint-of-care testing (glucometers, lactate meters) can aid rapid decision-making",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Acid-Base Disorders</span>"
+    ]
+  },
+  {
+    "objectID": "gen-acid-base.html#summary-table",
+    "href": "gen-acid-base.html#summary-table",
+    "title": "4  Acid-Base Disorders",
+    "section": "4.13 Summary Table",
+    "text": "4.13 Summary Table\n\n\n\n\n\n\n\n\n\n\nDisorder\npH\nHCO₃⁻\npCO₂\nCompensation\n\n\nMetabolic Acidosis\n↓\n↓\n↓ (respiratory)\nHyperventilation\n\n\nMetabolic Alkalosis\n↑\n↑\n↑\nHypoventilation\n\n\nRespiratory Acidosis\n↓\n↑ (renal)\n↑\nRenal HCO₃⁻ retention\n\n\nRespiratory Alkalosis\n↑\n↓ (renal)\n↓\nRenal HCO₃⁻ loss",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Acid-Base Disorders</span>"
+    ]
+  },
+  {
+    "objectID": "gen-acid-base.html#conclusion",
+    "href": "gen-acid-base.html#conclusion",
+    "title": "4  Acid-Base Disorders",
+    "section": "4.14 Conclusion",
+    "text": "4.14 Conclusion\nUnderstanding acid-base disorders in children is crucial for early recognition and effective treatment, particularly in acute settings like emergency departments and paediatric wards. In Ghana, common contributors include dehydration from diarrhoea, infections, and diabetic ketoacidosis (DKA). A systematic clinical and laboratory approach allows timely diagnosis and management, even in resource-constrained environments.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Acid-Base Disorders</span>"
+    ]
+  },
+  {
     "objectID": "cc-critical-care.html",
     "href": "cc-critical-care.html",
     "title": "5  Paediatric Critical Care",
@@ -783,6 +923,149 @@
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Neonatology</span>",
       "<span class='chapter-number'>13</span>  <span class='chapter-title'>Breastfeeding – Theory and Practice</span>"
+    ]
+  },
+  {
+    "objectID": "resp-asthma.html",
+    "href": "resp-asthma.html",
+    "title": "15  Asthma",
+    "section": "",
+    "text": "15.1 Introduction\nAsthma is a chronic inflammatory disorder of the airways, characterized by variable and recurring symptoms, airflow obstruction, bronchial hyperresponsiveness, and underlying inflammation. It is one of the most common chronic diseases in children worldwide, including in Ghana. Effective management is essential in pediatric care, especially due to its impact on the quality of life, school attendance, and healthcare utilization.\nUnderstanding asthma in children is crucial for early diagnosis, effective management, and the prevention of complications. This note outlines the epidemiology, pathophysiology, clinical features, diagnosis, differential diagnoses, management, and public health implications of childhood asthma, with a focus on the context of Ghanaian healthcare.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Asthma</span>"
+    ]
+  },
+  {
+    "objectID": "resp-asthma.html#epidemiology",
+    "href": "resp-asthma.html#epidemiology",
+    "title": "15  Asthma",
+    "section": "15.2 Epidemiology",
+    "text": "15.2 Epidemiology\nAsthma affects an estimated 10-15% of children in Ghana, although its prevalence varies by region, urbanization, and environmental factors. Urban areas such as Accra and Kumasi report higher cases due to increased pollution, lifestyle changes, and indoor allergens.\nRisk Factors:\n\nGenetics: Family history of asthma or atopy (eczema, allergic rhinitis).\nEnvironmental exposures: Dust, smoke (including biomass fuel), pollution, and cockroach or mould allergens.\nInfections: Respiratory syncytial virus (RSV), influenza.\nSocioeconomic status: Overcrowded housing, poor ventilation.\nEarly weaning or formula feeding.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Asthma</span>"
+    ]
+  },
+  {
+    "objectID": "resp-asthma.html#pathophysiology",
+    "href": "resp-asthma.html#pathophysiology",
+    "title": "15  Asthma",
+    "section": "15.3 Pathophysiology",
+    "text": "15.3 Pathophysiology\nAsthma is mainly an inflammatory disease that affects the airways. In children, this airway inflammation is often eosinophilic and results in:\n\nAirway Hyperresponsiveness: Increased sensitivity to triggers such as cold air, dust, or exercise.\nBronchoconstriction: Constriction of bronchial smooth muscles causes narrowing of airways.\nAirway Remodelling (in chronic cases): Thickening of the basement membrane, increased mucus secretion, and smooth muscle hypertrophy.\n\nThese changes contribute to the classic symptoms: wheezing, cough, chest tightness, and shortness of breath.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Asthma</span>"
+    ]
+  },
+  {
+    "objectID": "resp-asthma.html#clinical-features",
+    "href": "resp-asthma.html#clinical-features",
+    "title": "15  Asthma",
+    "section": "15.4 Clinical Features",
+    "text": "15.4 Clinical Features\nThe presentation of asthma in children may vary based on age and severity. Key symptoms include:\n\nWheezing: High-pitched whistling sound, often during expiration.\nCoughing: Worse at night, early morning, or after exercise.\nShortness of breath: This is especially noticeable during exertion or with infections.\nChest tightness or pain.\n\nPatterns of Childhood Asthma:\n\nIntermittent asthma: Symptoms occur less than twice a week.\nPersistent asthma: Symptoms occur more frequently and may impact daily activities.\nExercise-induced asthma: Triggered by physical activity.\nNocturnal asthma: Symptoms worsen at night.\nViral-induced wheeze: Common in toddlers; often resolves with age.\n\nIn Ghana, children may also present late or with severe symptoms due to poor access to healthcare or misdiagnosis.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Asthma</span>"
+    ]
+  },
+  {
+    "objectID": "resp-asthma.html#diagnosis",
+    "href": "resp-asthma.html#diagnosis",
+    "title": "15  Asthma",
+    "section": "15.5 Diagnosis",
+    "text": "15.5 Diagnosis\nAsthma is primarily a clinical diagnosis in children, especially those under 5 years of age.\n1. History:\n\nRecurrent episodes of cough, wheeze, and breathlessness.\nFamily or personal history of allergies.\nSymptoms triggered by cold, dust, exercise, or smoke.\n\n2. Physical Examination:\n\nWheezing on auscultation.\nUse of accessory muscles in severe cases.\nHyperresonance on percussion in chronic cases.\n\n3. Investigations:\n\nSpirometry (in children &gt;5 years): Shows reversible airway obstruction (FEV1/FVC ratio &lt; 80%).\nPeak Expiratory Flow Rate (PEFR): Helps monitor asthma control.\nChest X-ray: To exclude other conditions (e.g., foreign body, pneumonia).\nAllergy testing: Useful in atopic children (skin prick or serum IgE)\n\nDiagnostic Challenge in Ghana:\n\nLimited access to spirometry in rural settings.\nReliance on clinical judgment.\nMisdiagnosis as pneumonia or bronchitis is common.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Asthma</span>"
+    ]
+  },
+  {
+    "objectID": "resp-asthma.html#differential-diagnosis",
+    "href": "resp-asthma.html#differential-diagnosis",
+    "title": "15  Asthma",
+    "section": "15.6 Differential Diagnosis",
+    "text": "15.6 Differential Diagnosis\n\nBronchiolitis: Common in infants; usually due to viral infections.\nForeign body aspiration: Sudden onset of wheeze with localized findings.\nPneumonia: Fever with cough; may have focal crepitations or consolidation.\nCongenital anomalies: E.g., tracheomalacia or vascular rings.\nTuberculosis: Chronic cough, weight loss, and a history of contact.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Asthma</span>"
+    ]
+  },
+  {
+    "objectID": "resp-asthma.html#management",
+    "href": "resp-asthma.html#management",
+    "title": "15  Asthma",
+    "section": "15.7 Management",
+    "text": "15.7 Management\n1. Education and Self-Management\n\nEducate caregivers and older children on:\n\nNature of asthma.\nAvoidance of triggers.\nProper inhaler technique.\nRecognition of early warning signs.\nImportance of medication adherence\n\n\n2. Pharmacologic Management\na. Reliever Medications:\n\nShort-acting beta2-agonists (SABA): e.g., Salbutamol.\n\nFirst-line for acute symptoms.\nDelivered via metered-dose inhaler (MDI) with a spacer.\n\n\nb. Controller Medications\n\nInhaled corticosteroids (ICS): e.g., Beclomethasone, Budesonide\n\nFirst-line for persistent asthma.\n\nLeukotriene receptor antagonists (LTRA): e.g., Montelukast.\n\nUseful for allergic or exercise-induced asthma.\n\nLong-acting beta2-agonists (LABA): Used in combination with ICS in older children with poor control.\n\nc. Systemic corticosteroids:\n\nPrednisolone for acute exacerbations (short course).\n\n3. Non-Pharmacological Measures\n\nAvoid known allergens (dust, cockroach, pet dander).\nReduce exposure to cigarette smoke and biomass fuel.\nImmunization (including flu vaccine where available).\nTreatment of comorbidities (e.g., allergic rhinitis).",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Asthma</span>"
+    ]
+  },
+  {
+    "objectID": "resp-asthma.html#acute-exacerbations",
+    "href": "resp-asthma.html#acute-exacerbations",
+    "title": "15  Asthma",
+    "section": "15.8 Acute Exacerbations",
+    "text": "15.8 Acute Exacerbations\nSigns:\n\nRapid breathing, use of accessory muscles.\nInability to speak in full sentences.\nCyanosis or drowsiness (life-threatening).\n\nManagement:\n\nAssess severity (mild, moderate, severe, life-threatening).\nOxygen therapy: Maintain SpO₂ &gt; 92%.\nNebulized SABA: e.g., Salbutamol every 20 minutes for 1 hour.\nOral corticosteroids: Prednisolone 1–2 mg/kg/day for 3–5 days.\nIpratropium bromide: In severe cases, combined with SABA.\nMagnesium sulphate IV: In very severe or unresponsive cases.\nReferral: If there is a poor response or worsening symptoms",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Asthma</span>"
+    ]
+  },
+  {
+    "objectID": "resp-asthma.html#monitoring-and-follow-up",
+    "href": "resp-asthma.html#monitoring-and-follow-up",
+    "title": "15  Asthma",
+    "section": "15.9 Monitoring and Follow-up",
+    "text": "15.9 Monitoring and Follow-up\n\nReview asthma control every 1–3 months.\nMonitor growth in children on long-term corticosteroids.\nPEFR monitoring for older children.\nStep-up or step-down therapy based on control.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Asthma</span>"
+    ]
+  },
+  {
+    "objectID": "resp-asthma.html#asthma-control-criteria-based-on-gina",
+    "href": "resp-asthma.html#asthma-control-criteria-based-on-gina",
+    "title": "15  Asthma",
+    "section": "15.10 Asthma Control Criteria (based on GINA):",
+    "text": "15.10 Asthma Control Criteria (based on GINA):\n\nDaytime symptoms ≤2 times/week.\nNo night waking.\nNo limitation of activity.\nMinimal reliever use.\nNo exacerbations.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Asthma</span>"
+    ]
+  },
+  {
+    "objectID": "resp-asthma.html#challenges-in-the-ghanaian-context",
+    "href": "resp-asthma.html#challenges-in-the-ghanaian-context",
+    "title": "15  Asthma",
+    "section": "15.11 Challenges in the Ghanaian Context",
+    "text": "15.11 Challenges in the Ghanaian Context\n\nLimited diagnostic tools: Lack of spirometry or PEFR in rural facilities.\nAccess to medication: Inhalers may be expensive or unavailable.\nCultural beliefs: Asthma is often attributed to spiritual causes.\nPoor adherence Due to a lack of understanding or medication side effects.\nStigma: Especially among school children using inhalers.\nEnvironmental triggers: Open burning, indoor smoke, and dust.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Asthma</span>"
+    ]
+  },
+  {
+    "objectID": "resp-asthma.html#public-health-interventions",
+    "href": "resp-asthma.html#public-health-interventions",
+    "title": "15  Asthma",
+    "section": "15.12 Public Health Interventions",
+    "text": "15.12 Public Health Interventions\n\nHealth education: Community sensitization on asthma and triggers.\nSchool health programs: Identification and management of asthma in schools.\nPolicy support: Include essential asthma medications in the National Health Insurance Scheme (NHIS).\nTraining healthcare providers: On asthma diagnosis and management.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Asthma</span>"
+    ]
+  },
+  {
+    "objectID": "resp-asthma.html#conclusion",
+    "href": "resp-asthma.html#conclusion",
+    "title": "15  Asthma",
+    "section": "15.13 Conclusion",
+    "text": "15.13 Conclusion\nAsthma in children is a significant public health issue in Ghana. Early recognition, accurate diagnosis, and comprehensive management can greatly enhance outcomes. Medical students need to be prepared to address asthma in both urban and rural environments, understand the unique challenges in Ghana, and advocate for improved care across all levels of the healthcare system.\nKey Takeaways for Medical Students:\n\nAlways consider asthma in a child with recurrent cough or wheeze.\nA detailed history and clinical examination are often sufficient for diagnosis.\nUse inhale corticosteroids for long-term control and SABAs for quick relief.\nEducate families and monitor regularly.\nAdvocate for improved access to asthma care in Ghana.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Asthma</span>"
     ]
   },
   {

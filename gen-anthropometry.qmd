@@ -141,14 +141,14 @@ These indices compare the child’s measurement with reference values to classif
 
 **Z-Score Interpretation:**
 
-|                    |                          |
-|--------------------|--------------------------|
-| **Z-score**        | **Classification**       |
-| ≥ –1 SD to ≤ +1 SD | Normal growth            |
-| \< –2 SD           |  Moderate malnutrition   |
-| \< –3 SD           | Severe malnutrition      |
-| \> +2 SD           | Overweight               |
-|  \> +3 SD          |  Obese                   |
+|                    |                       |
+|--------------------|-----------------------|
+| **Z-score**        | **Classification**    |
+| ≥ –1 SD to ≤ +1 SD | Normal growth         |
+| \< –2 SD           | Moderate malnutrition |
+| \< –3 SD           | Severe malnutrition   |
+| \> +2 SD           | Overweight            |
+| \> +3 SD           | Obese                 |
 
 **Z-scores** are preferred over percentiles for clinical and public health use because they are more
 statistically robust.
@@ -220,14 +220,14 @@ statistically robust.
 
 **Summary Table of Key Measures**
 
-|                    |               |                   |                     |                               |
-|--------------------|-----------------|----------------------|---------------------|--------------------------------|
-| **Measurement**    | **Age Group** | **Tool**          | **Indicator**       | **Interpretation**            |
-| Weight             | All           | Infant/Beam Scale | WFA, WFH, BMI       | Underweight, wasting, obesity |
-| Length             | \<2 yrs       | Infantometer      | HFA                 | Stunting                      |
-| Height             | ≥2 yrs        |  Stadiometer      | HFA, BMI            | Stunting, overweight          |
-| MUAC               | 6–59 months   | MUAC tape         |  Acute malnutrition | SAM, MAM                      |
-| Head Circumference | 0–2 yrs       | Measuring tape    | HC-for-age          | Micro/macrocephaly            |
+|                    |               |                   |                    |                               |
+|--------------------|---------------|-------------------|--------------------|-------------------------------|
+| **Measurement**    | **Age Group** | **Tool**          | **Indicator**      | **Interpretation**            |
+| Weight             | All           | Infant/Beam Scale | WFA, WFH, BMI      | Underweight, wasting, obesity |
+| Length             | \<2 yrs       | Infantometer      | HFA                | Stunting                      |
+| Height             | ≥2 yrs        | Stadiometer       | HFA, BMI           | Stunting, overweight          |
+| MUAC               | 6–59 months   | MUAC tape         | Acute malnutrition | SAM, MAM                      |
+| Head Circumference | 0–2 yrs       | Measuring tape    | HC-for-age         | Micro/macrocephaly            |
 
 ## Conclusion
 
