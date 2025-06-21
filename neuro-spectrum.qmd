@@ -1,10 +1,198 @@
 ---
-title: "Spectrum of Neurological Disorders"
-author: "Dr Charles Hammond"
+title: "Basic Neruroscience"
+author: "xxxx"
+date: 2026-06-09
 ---
 
-## Basic neurosciences
-## Pathological processes in neurology
-## Neurological signs and symptoms in children
-## Localization along the neuro-axis
-## Basic neurological investigations and procedures
+## **Introduction**
+
+Understanding paediatric neurology begins with grasping the fundamentals of the nervous system's
+anatomy and physiology. The nervous system in children is dynamic and continuously developing,
+exhibiting distinct features compared to that of adults.
+
+a.  **Structure and Development**
+    -   The **nervous system** comprises the **central nervous system (CNS)**—brain and spinal
+        cord—and the **peripheral nervous system (PNS)**—cranial and spinal nerves.
+    -   **Neural tube development** begins in the third week of gestation, giving rise to the brain
+        and spinal cord.
+    -   **Myelination**, the process of forming the myelin sheath around neurons, continues from the
+        prenatal stage into adolescence. In children, the degree of myelination affects neurological
+        function and should be taken into consideration during assessments.
+b.  **Brain Regions and Functions**
+    -   **Cerebrum**: Higher functions like cognition, voluntary movement, and perception.
+    -   **Cerebellum**: Coordination, balance, and motor control.
+    -   **Brainstem**: Regulates vital functions like respiration, heart rate, and consciousness.
+    -   **Spinal cord**: Conveys messages between the brain and the rest of the body.
+c.  **Peripheral Nervous System**
+    -   Consists of **motor, sensory**, and **autonomic** nerves.
+    -   Motor neurons control muscle activity, while sensory neurons transmit information like pain,
+        temperature, and proprioception.
+    -   Autonomic nerves regulate involuntary functions (e.g., heart rate, digestion).
+d.  **Neurotransmitters**
+    -   **Acetylcholine**, **dopamine**, **GABA**, and **glutamate** play crucial roles in neural
+        signalling.
+    -   Imbalances are implicated in various neurological disorders like epilepsy, movement
+        disorders, and developmental conditions.
+
+## Pathological Processes in Neurology
+
+Paediatric neurological diseases result from a variety of underlying mechanisms:
+
+a.  **Congenital Disorders**
+    -   Neural tube defects (NTDs), e.g., spina bifida and anencephaly, due to folate deficiency in
+        pregnancy. cy.
+    -   **Cerebral palsy (CP)**: A group of permanent movement disorders from non-progressive
+        disturbances in the developing foetal or infant brain.
+b.  **Genetic and Metabolic Disorders**
+    -   **Neurocutaneous syndromes**: e.g., Tuberous Sclerosis and Neurofibromatosis.
+    -   **Inborn errors of metabolism**: Can cause neurodegeneration or developmental delay (e.g.,
+        phenylketonuria, Tay-Sachs disease).
+c.  **Infectious Causes**
+    -   **Meningitis**, **encephalitis**, and **brain abscesses** are common in low-resource
+        settings.
+    -   Causative agents include *Neisseria meningitidis*, *Streptococcus pneumoniae*, *Herpes
+        Simplex Virus*, and *Plasmodium falciparum* (cerebral malaria).
+d.  **Inflammatory and Autoimmune Conditions**
+    -   **Acute disseminated encephalomyelitis (ADEM)**: Post-infectious or post-vaccination immune
+        response.
+    -   **Guillain-Barré Syndrome (GBS)**: Acute polyneuropathy causing weakness, often
+        post-infection.
+e.  **Epilepsy and Seizure Disorders**
+    -   **Febrile seizures** are common in Ghanaian children aged 6 months to 5 years.
+    -   **Epilepsy** can be idiopathic, structural, metabolic, or secondary to infection or trauma.
+f.  **Trauma**
+    -   Head injury from road traffic accidents or falls is a leading cause of morbidity.
+    -   May result in skull fractures, intracranial haemorrhage, or brain oedema.
+g.  **Tumours**
+    -   Paediatric CNS tumours include **medulloblastoma**, **astrocytoma**, and **ependymoma**.
+    -   Present with increased intracranial pressure, focal deficits, or seizures.
+
+## Neurological Signs and Symptoms in Children
+
+Children may not accurately describe their symptoms, so observation and parental history are
+crucial.
+
+a.  **Seizures**
+    -   Generalized (tonic-clonic, absence) or focal.
+    -   Observe the duration, type, postictal state, and presence of triggers (fever, sleep
+        deprivation).
+b.  **Developmental Delay**
+    -   Failure to achieve motor, cognitive, language, or social milestones.
+    -   Global developmental delay affects multiple domains.
+c.  **Headache**
+    -   Can result from infection (meningitis), intracranial pressure, or tension.
+    -   Red flags: morning headache, vomiting, visual changes, altered consciousness.
+d.  **Ataxia and Gait Abnormalities**
+    -   Unsteady gait or coordination problems can suggest cerebellar disease or vestibular
+        dysfunction.
+    -   Sudden onset may indicate infection, tumor, or intoxication.
+e.  **Altered Consciousness**
+    -   Ranges from drowsiness to coma.
+    -   Common causes: CNS infection, trauma, metabolic disturbances (e.g., hypoglycemia), or
+        seizures.
+f.  **Motor Weakness and Paralysis**
+    -   May be upper motor neuron (spasticity, brisk reflexes) or lower motor neuron (flaccidity,
+        fasciculations).
+    -   Acute flaccid paralysis is notifiable (e.g., poliomyelitis, GBS).
+g.  **Sensory Disturbances**
+    -   Less commonly reported in young children.
+    -   May include numbness, tingling, or loss of proprioception.
+h.  **Abnormal Movements**
+    -   Includes tremors, chorea, dystonia, or tics.
+    -   Seen in conditions like Sydenham chorea (post-streptococcal), dystonic CP, or genetic
+        syndromes.
+
+## Localization Along the Neuro-axis
+
+Understanding where a lesion is located helps narrow the differential diagnosis.
+
+a.  **Cerebral Cortex**
+    -   Lesions cause **hemiparesis**, **seizures**, or **language deficits**.
+    -   Can result from ischemia, trauma, infection, or malformations.
+b.  **Basal Ganglia**
+    -   Involved in movement control.
+    -   Disorders cause **involuntary movements** (e.g., chorea, dystonia).
+c.  **Brainstem**
+    -   Cranial nerve deficits (e.g., facial palsy), eye movement abnormalities, and vital sign
+        instability.
+    -   Lesions are often life-threatening.
+d.  **Cerebellum**
+    -   **Ataxia**, **dysmetria**, and **intention tremor**.
+    -   Tumours or infections like cerebellitis are common culprits.
+e.  **Spinal Cord**
+    -   **Motor and sensory level deficits**, reflex changes, and incontinence.
+    -   Trauma or transverse myelitis is a common cause.
+f.  **Peripheral Nerves**
+    -   Symmetrical weakness, absent reflexes, and distal sensory loss.
+    -   Seen in GBS or hereditary neuropathies.
+g.  **Neuromuscular Junction**
+    -   Fluctuating weakness, especially ocular and bulbar muscles.
+    -   Example: Myasthenia Gravis.
+h.  **Muscle**
+    -   Proximal weakness and hypotonia.
+    -   Seen in **muscular dystrophies**, **myopathies**, and metabolic muscle diseases.
+
+## Basic Neurological Investigations
+
+Timely and appropriate investigations help confirm clinical suspicion.
+
+a.  **Neuroimaging**
+    -   **CT scan**: Good for acute trauma or haemorrhages. Widely available in Ghana, but it has
+        been linked to radiation exposure.
+    -   **MRI**: Better for soft tissue detail, congenital malformations, or tumours. Less
+        accessible but ideal for subacute and chronic conditions.
+b.  **Electroencephalography (EEG)**
+    -   Assesses the brain’s electrical activity.
+    -   Useful in seizure evaluation, epilepsy classification, and encephalopathy.
+c.  **Lumbar Puncture**
+    -   Essential for evaluating CNS infections.
+    -   CSF analysis helps differentiate bacterial, viral, or tuberculous meningitis.
+    -   Ensure no signs of raised intracranial pressure before performing.
+d.  **Blood Tests**
+    -   **CBC**, **electrolytes**, **blood glucose**, **renal/liver function**, **malaria test**.
+    -   Metabolic screening for inborn errors if available.
+e.  **Nerve Conduction Studies (NCS)/Electromyography (EMG)**
+    -   Evaluate peripheral nerve and muscle function.
+    -   Useful in GBS, neuropathies, and myopathies.
+f.  **Genetic Testing**
+    -   For suspected inherited or syndromic conditions.
+    -   May be limited in availability and affordability.
+
+## Basic Neurological Procedures
+
+These are diagnostic and sometimes therapeutic.
+
+a.  **Lumbar Puncture (Spinal Tap)**
+    -   Performed in suspected meningitis, encephalitis, or to measure intracranial pressure.
+    -   Atraumatic technique is important. Avoid in cases of suspected elevated ICP or spinal
+        deformities.
+b.  **EEG Application**
+    -   Involves placing electrodes on the scalp using the 10-20 system.
+    -   Should be interpreted by trained personnel.
+c.  **Neuroimaging Requests**
+    -   Clinicians should provide clear clinical information and suspected diagnosis when requesting
+        CT/MRI.
+    -   Sedation may be required in children for MRI.
+d.  **Muscle Biopsy**
+    -   Used in diagnosing myopathies.
+    -   Requires sterile technique and histopathological expertise.
+e.  **Botulinum Toxin Injections**
+    -   Used for spasticity in conditions like CP.
+    -   Requires experience and is often performed under sedation.
+f.  **CSF Shunt Insertion**
+    -   Performed by neurosurgeons in hydrocephalus.
+    -   Ventriculoperitoneal (VP) shunt is common. Risks include infection and obstruction.
+
+## Final Notes for Medical Students in Ghana
+
+-   Paediatric neurological disorders are common, and early recognition is crucial for better
+    outcomes.
+-   Focus on **comprehensive history-taking** and **detailed neurological examination**.
+-   Understand the **developmental context**: some signs that are abnormal in adults are normal in
+    infants (e.g., primitive reflexes).
+-   Pay attention to **public health issues** like malaria, meningitis, malnutrition, and trauma,
+    which are common in Ghana and major contributors to paediatric neurological morbidity.
+-   Always consider **preventable causes**—promote antenatal care, immunizations (e.g., against
+    polio, Hib, pneumococcus), good nutrition, and road safety.
+-   Collaborate with neurology, paediatrics, radiology, and rehabilitation teams when managing
+    neurological cases.

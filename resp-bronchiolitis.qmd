@@ -1,4 +1,287 @@
 ---
 title: "Bronchiolitis"
-author: "Dr (Mrs) Sandra Kwarteng Owusu"
+date: 2025-05-30
 ---
+
+## Introduction
+
+Bronchiolitis is a common viral infection of the lower respiratory tract that primarily affects
+infants and young children. It is the leading cause of hospitalization for children under 2 years of
+age worldwide. In Ghana and other sub-Saharan African countries, bronchiolitis significantly
+contributes to infant morbidity and mortality, especially during the harmattan season when
+respiratory infections are more prevalent.
+
+Understanding bronchiolitis is essential for medical students, particularly in environments where
+diagnostic tools are scarce and treatment depends largely on clinical skills and supportive care.
+
+## Definition
+
+**Bronchiolitis** is defined as an **acute viral infection of the lower respiratory tract**,
+primarily affecting the **bronchioles**. It leads to inflammation, edema, and increased mucus
+production, resulting in **airway obstruction**, **wheezing**, and **respiratory distress**.
+
+## Epidemiology
+
+-   **Age group**: Primarily affects children **under 2 years**, most commonly **under 6 months**
+-   **Peak incidence**: During the **cold and dry months** (November to February in Ghana)
+-   **Transmission**: Highly contagious; spread via **respiratory droplets**, **direct contact**, or
+    **contaminated surfaces**
+-   **High-risk groups**:
+    -   Premature infants
+    -   Infants with congenital heart disease
+    -   Children with chronic lung disease
+    -   Immunocompromised children
+    -   Children exposed to tobacco smoke or indoor air pollution
+
+## Etiology (Causative Agents)
+
+The most common cause is **Respiratory Syncytial Virus (RSV)**, responsible for 50–80% of cases.
+
+**Other viruses:**
+
+-   Human metapneumovirus
+-   Parainfluenza virus
+-   Influenza virus
+-   Rhinovirus
+-   Adenovirus
+-   Coronavirus
+
+## Pathophysiology
+
+1.  **Viral infection** of the **nasal and lower respiratory epithelium**
+2.  Inflammation and edema of the bronchioles
+3.  Necrosis and sloughing of epithelial cells
+4.  Increased mucus production and plugging of small airways
+5.  Air trapping and **hyperinflation**, leading to:
+    -   Increased work of breathing
+    -   Impaired gas exchange
+    -   **Hypoxia** and, in severe cases, **respiratory failure**
+
+## Clinical Features
+
+**History**
+
+-   Starts as an **upper respiratory tract infection** (e.g., runny nose, mild cough)
+-   Progresses over 2–3 days to:
+    -   **Cough**
+    -   **Tachypnea**
+    -   **Wheezing**
+    -   **Poor feeding**
+    -   **Apnea** (especially in premature or very young infants)
+    -   **Fever** (may or may not be present
+
+**Examination**
+
+-   **Tachypnea**
+-   **Nasal flaring**
+-   **Chest retractions** (intercostal, subcostal, suprasternal)
+-   **Wheezing** and **crackles** on auscultation
+-   **Hypoxia** (low oxygen saturation)
+-   **Dehydration**
+-   **Cyanosis** in severe cases
+
+## Differential Diagnosis
+
+|  |  |
+|----|----|
+| **Condition** | **Key Features** |
+| Asthma | Older children (\>2 years), recurrent episodes, personal/family history of atopy |
+| Pneumonia | Fever, focal crackles, lobar consolidation on chest X-ray |
+| Foreign body aspiration | Sudden onset, localized wheeze, asymmetric breath sounds |
+| Congenital heart disease | Cyanosis, poor weight gain, murmur |
+| Pertussis | Paroxysmal cough, whoop, post-tussive vomiting |
+
+## Diagnosis
+
+**Clinical diagnosis is key in most settings, especially where investigations are limited.**
+
+**Investigations (if available)**
+
+-   **Pulse oximetry**: Assess oxygen saturation
+-   **Chest X-ray** (not routinely indicated): May show hyperinflation, peribronchial thickening,
+    patchy atelectasis
+-   **Nasopharyngeal swab** for viral testing (e.g., RSV) – rarely available in Ghana
+-   **Complete blood count**: To rule out bacterial infection if fever is high or toxic appearance
+-   **Serum electrolytes**: In severely ill or dehydrated children
+
+## Severity Assessment
+
+**Mild**
+
+-   Normal feeding
+-   Mild tachypnea, minimal retractions
+-   Oxygen saturation ≥ 92%
+
+**Moderate**
+
+-   Poor feeding
+-   Moderate tachypnea and retractions
+-   Wheezing or crackles
+-   Oxygen saturation 90–92%
+
+**Severe**
+
+-   Marked retractions, grunting, nasal flaring
+-   Apnea
+-   Cyanosis
+-   Oxygen saturation \< 90%
+-   Lethargy or altered mental status
+
+## Management
+
+### General Principles
+
+-   Most cases are **self-limiting** and can be managed with **supportive care**
+-   Hospitalization is required for:
+    -   Moderate to severe disease
+    -   Apnea
+    -   Inability to feed
+    -   Oxygen saturation \< 90%
+    -   High-risk infants
+
+### Outpatient (Home-Based) Management
+
+-   Ensure **adequate hydration** and feeding
+-   Educate caregivers on danger signs:
+    -   Rapid breathing
+    -   Chest in-drawing
+    -   Inability to feed
+    -   Cyanosis
+    -   Lethargy
+-   Clear nasal secretions with saline drops/suction
+-   Follow-up in 24–48 hours
+
+### Inpatient (Hospital) Management
+
+**1. Supportive Care**
+
+-   **Oxygen therapy**:
+    -   Give oxygen if SpO₂ \< 90%
+    -   Via nasal prongs or face mask
+-   **Hydration and nutrition**:
+    -   Encourage breastfeeding or oral feeds
+    -   NG tube feeding or IV fluids if unable to feed orally
+-   **Monitoring**:
+    -   Respiratory rate
+    -   Oxygen saturation
+    -   Fluid status
+    -   Level of consciousness
+
+### Medications (Avoid routine use)
+
+|  |  |
+|----|----|
+| **Medication** | **Recommendation** |
+| **Bronchodilators (e.g., salbutamol)** | Not routinely recommended; trial may be considered in wheezing children \>12 months |
+| **Steroids** | Not beneficial in uncomplicated bronchiolitis |
+| **Antibiotics** | Not indicated unless bacterial co-infection suspected (e.g., pneumonia, otitis media) |
+| **Nebulized hypertonic saline** | Limited evidence; not routinely used in Ghana |
+| **Antiviral agents** | Not routinely available or used in Ghana |
+
+## Complications
+
+-   **Apnea**
+-   **Respiratory failure**
+-   **Dehydration and poor nutrition**
+-   **Secondary bacterial infections**
+-   **Recurrent wheezing or asthma-like episodes** later in life
+-   **Death** (in severe, untreated cases, particularly in high-risk infants)
+
+## Prevention
+
+**1. Infection Control**
+
+-   **Hand hygiene**
+-   **Avoid crowding**, especially in daycares and nurseries
+-   Educate caregivers on **cough etiquette**
+
+**2. Breastfeeding**
+
+-   Exclusive breastfeeding for the first **6 months** provides protective antibodies
+
+**3. Avoid Smoke Exposure**
+
+-   Avoid smoking near infants
+-   Reduce indoor air pollution (e.g., smoke from firewood)
+
+**4. Immunization**
+
+-   Ensure up-to-date **vaccination**, especially:
+    -   **Influenza vaccine**
+    -   **Pneumococcal vaccine**
+    -   **Pertussis vaccine**
+
+**5. Prophylaxis (Palivizumab)**
+
+-   A monoclonal antibody used for **RSV prophylaxis**
+-   Expensive and not readily available in Ghana
+-   Considered only for **very high-risk infants** in specialized centers
+
+## Prognosis
+
+-   Most children **recover fully within 7–10 days**
+-   **Cough** may persist for 2–3 weeks
+-   Infants with severe disease may have **recurrent wheezing or asthma**
+
+## Special Considerations in Ghana
+
+-   **Overcrowded homes** and **poor air quality** increase risk
+-   Health-seeking behavior may be delayed due to cultural beliefs or access issues
+-   Resource limitations often mean:
+    -   Reliance on clinical diagnosis
+    -   Limited access to oxygen and pulse oximetry
+-   Need for **education of caregivers** about early signs of respiratory distress
+-   Emphasize **community-based health interventions** (e.g., CHPS compounds)
+
+## Case Scenario
+
+**Case: 4-month-old male infant**
+
+**Presentation:**
+
+-   3-day history of cough, runny nose, and poor feeding
+-   Developed fast breathing and wheezing today
+-   No fever
+-   No significant past medical history
+
+**On examination:**
+
+-   RR: 68 breaths/min
+-   Chest retractions present
+-   O₂ saturation: 88% on room air
+-   Nasal flaring, scattered wheeze
+
+**Diagnosis:**
+
+-   Likely **moderate to severe bronchiolitis**
+
+**Management:**
+
+-   Admit for supportive care
+-   Oxygen via nasal prongs
+-   NG tube feeding due to poor suck
+-   Monitor vitals and oxygen saturation
+-   Educate mother on hand hygiene and signs of deterioration
+
+## Summary Table
+
+|                       |                                                  |
+|-----------------------|--------------------------------------------------|
+| **Feature**           | **Bronchiolitis**                                |
+| Age group             | \< 2 years (commonest \< 6 months)               |
+| Onset                 | Gradual, following URTI                          |
+| Common virus          | RSV                                              |
+| Main symptoms         | Cough, wheeze, tachypnea, and feeding difficulty |
+| Diagnosis             | Clinical                                         |
+| Mainstay of treatment | Supportive care                                  |
+| Antibiotics           | Not routinely indicated                          |
+| Oxygen                | If SpO₂ \< 90%                                   |
+| Prognosis             | Excellent in most cases                          |
+
+## Conclusion
+
+Bronchiolitis is a common and potentially severe illness affecting infants and young children in
+Ghana. Early recognition and supportive management are essential to preventing complications.
+Medical students need to be familiar with its presentation, clinical evaluation, and evidence-based
+treatment, especially in resource-limited healthcare settings where advanced diagnostics may not be
+available.

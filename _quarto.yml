@@ -93,6 +93,7 @@ book:
     - part: "<span style='font-weight:bold; color: black;'>Neurology</span>"
       chapters: 
         - neuro-spectrum.qmd
+        - neuro-spectrum-2.qmd
         - neuro-cns-infections.qmd
         - neuro-cerebral-palsy.qmd
         - neuro-seizure-disorders.qmd
