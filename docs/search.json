@@ -3335,6 +3335,83 @@
     ]
   },
   {
+    "objectID": "onco-oncological-emergencies.html",
+    "href": "onco-oncological-emergencies.html",
+    "title": "39  Oncological Emergencies",
+    "section": "",
+    "text": "39.1 Introduction\nOncological emergencies are acute, potentially life-threatening conditions that affect patients with cancer, either due to the malignancy itself or as complications arising from its treatment. Early recognition and prompt intervention are crucial in preventing morbidity and mortality. Understanding these emergencies is essential for all healthcare professionals, particularly in resource-limited settings like Ghana, where delays in cancer diagnosis and treatment are prevalent. Oncological emergencies are generally classified into three categories:",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Oncology</span>",
+      "<span class='chapter-number'>39</span>  <span class='chapter-title'>Oncological Emergencies</span>"
+    ]
+  },
+  {
+    "objectID": "onco-oncological-emergencies.html#introduction",
+    "href": "onco-oncological-emergencies.html#introduction",
+    "title": "39  Oncological Emergencies",
+    "section": "",
+    "text": "Metabolic Emergencies\nHematological Emergencies\nStructural/Mechanical Emergencies",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Oncology</span>",
+      "<span class='chapter-number'>39</span>  <span class='chapter-title'>Oncological Emergencies</span>"
+    ]
+  },
+  {
+    "objectID": "onco-oncological-emergencies.html#metabolic-emergencies",
+    "href": "onco-oncological-emergencies.html#metabolic-emergencies",
+    "title": "39  Oncological Emergencies",
+    "section": "39.2 Metabolic Emergencies",
+    "text": "39.2 Metabolic Emergencies\n\n39.2.1 Tumor Lysis Syndrome (TLS)\nDefinition: A life-threatening condition that occurs when massive tumor cell lysis releases intracellular contents (potassium, phosphate, uric acid) into the bloodstream, leading to acute kidney injury and cardiac arrhythmias.\nCommon Causes:\n\nHigh-grade lymphomas (especially Burkitt lymphoma)\nAcute leukemias (e.g., ALL)\nSolid tumors with high tumor burden after chemotherapy\n\nClinical Features:\n\nNausea and vomiting\nLethargy\nMuscle cramps\nSeizures\nOliguria or anuria\nArrhythmias\n\nDiagnostic Criteria (Cairo-Bishop):\nLaboratory TLS involves ≥2 of the following:\n\nUric acid &gt; 476 μmol/L\nPotassium &gt; 6.0 mmol/L\nPhosphate &gt; 1.45 mmol/L\nCalcium &lt; 1.75 mmol/L\n\nManagement:\n\nAggressive IV hydratio\nAllopurinol or rasburicase (rasburicase preferred)\nCorrection of electrolyte imbalances\nDialysis for refractory cases\n\n\n\n39.2.2 Hypercalcemia of Malignancy\nDefinition: Elevated serum calcium level (usually &gt;2.6 mmol/L) due to malignancy.\nCommon Causes:\n\nBreast cancer\nMultiple myeloma\nLung cancer\nRenal cell carcinoma\nParathyroid hormone-related protein (PTHrP) production\n\nClinical Features:\n\nNausea, vomiting\nPolyuria, polydipsia\nConstipation\nConfusion, coma\nShortened QT interval\n\nManagement:\n\nIV hydration with normal saline\nBisphosphonates (e.g., zoledronic acid)\nCalcitonin for rapid reduction\nDialysis in severe cases\n\n\n\n39.2.3 Syndrome of Inappropriate Antidiuretic Hormone (SIADH)\nDefinition: Excessive release of antidiuretic hormone leads to water retention and hyponatremia.\nCommon Causes:\n\nSmall cell lung carcinoma\nCNS tumors\n\nClinical Features:\n\nHeadache\nConfusion\nSeizures\nComa\n\nManagement:\n\nFluid restriction\nHypertonic saline (3%) in severe hyponatremia\nDemeclocycline or vasopressin receptor antagonists in chronic cases",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Oncology</span>",
+      "<span class='chapter-number'>39</span>  <span class='chapter-title'>Oncological Emergencies</span>"
+    ]
+  },
+  {
+    "objectID": "onco-oncological-emergencies.html#hematological-emergencies",
+    "href": "onco-oncological-emergencies.html#hematological-emergencies",
+    "title": "39  Oncological Emergencies",
+    "section": "39.3 Hematological Emergencies",
+    "text": "39.3 Hematological Emergencies\n\n39.3.1 Febrile Neutropenia\nDefinition: Fever (&gt;38°C) with absolute neutrophil count (ANC) &lt; 0.5 × 10⁹/L in a cancer patient.\nCauses:\n\nChemotherapy-induced bone marrow suppression\n\nClinical Features:\n\nFever (often the only sign)\nSigns of infection may be subtle\n\nManagement:\n\nBroad-spectrum antibiotics within 1 hour (e.g., cefepime, piperacillin-tazobactam)\nRisk stratification (MASCC score)\nG-CSF in selected cases\nIsolate and monitor closely\n\n\n\n39.3.2 Disseminated Intravascular Coagulation (DIC)\nDefinition: Widespread activation of the coagulation system leads to the consumption of clotting factors and platelets, resulting in bleeding and thrombosis.\nCommon Causes:\n\nAcute promyelocytic leukemia (APL)\nMetastatic cancers\n\nClinical Features:\n\nBleeding (petechiae, ecchymosis, mucosal bleeding)\nThrombosis\nOrgan dysfunction\n\nLaboratory Findings:\n\nProlonged PT, aPTT\nLow fibrinogen\nElevated D-dimer\nThrombocytopenia\n\nManagement:\n\nTreat underlying cause (e.g., ATRA for APL)\nTransfusions (platelets, FFP)\nHeparin in cases with thrombosis\n\n\n\n39.3.3 Hyperviscosity Syndrome\nDefinition: Increased blood viscosity due to elevated cellular or protein components.\nCommon Causes:\n\nWaldenström’s macroglobulinemia (IgM)\nMultiple myeloma\nLeukemia with very high WBC\n\nClinical Features:\n\nVisual disturbances\nHeadache\nMucosal bleeding\nConfusion\nHeart failure\n\nManagement:\n\nPlasmapheresis\nHydration\nTreat underlying cancer",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Oncology</span>",
+      "<span class='chapter-number'>39</span>  <span class='chapter-title'>Oncological Emergencies</span>"
+    ]
+  },
+  {
+    "objectID": "onco-oncological-emergencies.html#structuralmechanical-emergencies",
+    "href": "onco-oncological-emergencies.html#structuralmechanical-emergencies",
+    "title": "39  Oncological Emergencies",
+    "section": "39.4 Structural/Mechanical Emergencies",
+    "text": "39.4 Structural/Mechanical Emergencies\n\n39.4.1 Superior Vena Cava (SVC) Syndrome\nDefinition:\nObstruction of blood flow through the superior vena cava, commonly due to external compression by tumors.\nCommon Causes:\n\nSmall cell lung cancer\nNon-Hodgkin lymphoma\nMetastatic mediastinal tumors\n\nClinical Features:\n\nFacial and upper limb swelling\nDyspnea\nDistended neck veins\nCyanosis\nCough and hoarseness\n\nDiagnosis:\n\nChest X-ray: mediastinal widening\nCT scan: to confirm compression\nBiopsy of mass (if unknown etiology)\n\nManagement:\n\nElevate the head\nSteroids to reduce edema\nRadiotherapy or chemotherapy, depending on etiology\nStenting in severe cases\n\n\n\n39.4.2 Spinal Cord Compression\nDefinition:\nCompression of the spinal cord due to a tumor, leading to neurological deficits.\nCommon Causes:\n\nBreast, prostate, and lung cancers\nLymphomas\nMyeloma\n\nClinical Features:\n\nBack pain (worsened by lying down)\nWeakness in limbs\nSensory loss\nBladder/bowel incontinence\n\nDiagnosis:\n\nMRI spine (preferred)\nNeurological exam\n\nManagement:\n\nHigh-dose corticosteroids (e.g., dexamethasone)\nEmergency radiotherapy or surgery\nRehabilitation\n\n\n\n39.4.3 Pericardial Tamponade\nDefinition:\nAccumulation of fluid in the pericardial sac impairs cardiac output.\nCommon Causes:\n\nLung and breast cancers\nLymphomas\nMetastatic cancers\n\nClinical Features:\n\nDyspnea\nChest discomfort\nHypotension\nElevated JVP\nMuffled heart sounds (Beck’s triad)\n\nDiagnosis:\n\nEchocardiography: diagnostic\nECG: low-voltage QRS or electrical alternans\n\nManagement:\n\nUrgent pericardiocentesis\nFluid resuscitation\nTreat underlying malignancy\n\n\n\n39.4.4 Intestinal Obstruction\nDefinition: Partial or complete blockage of the bowel lumen.\nCommon Causes:\n\nColorectal cancer\nOvarian cancer\nGastric cance\nPeritoneal metastases\n\nClinical Features:\n\nAbdominal distension\nVomiting\nConstipation\nColicky abdominal pain\n\nDiagnosis:\n\nAbdominal X-ray or CT scan\n\nManagement:\n\nNasogastric decompression\nIV fluids and electrolytes\nSurgery if obstruction is complete or complications arise\nStenting in selected cases",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Oncology</span>",
+      "<span class='chapter-number'>39</span>  <span class='chapter-title'>Oncological Emergencies</span>"
+    ]
+  },
+  {
+    "objectID": "onco-oncological-emergencies.html#increased-intracranial-pressure-icp",
+    "href": "onco-oncological-emergencies.html#increased-intracranial-pressure-icp",
+    "title": "39  Oncological Emergencies",
+    "section": "39.5 Increased Intracranial Pressure (ICP)",
+    "text": "39.5 Increased Intracranial Pressure (ICP)\nCauses:\n\nBrain metastases (lung, breast, melanoma)\nPrimary CNS tumors\nLeptomeningeal disease\n\nClinical Features:\n\nHeadache\nVomiting (projectile)\nSeizures\nAltered mental status\nPapilledema\n\nDiagnosis:\n\nBrain imaging (CT or MRI)\n\nManagement:\n\nCorticosteroids (dexamethasone)\nMannitol for acute relief\nNeurosurgical consultation\nRadiotherapy/chemotherapy, depending on the cause",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Oncology</span>",
+      "<span class='chapter-number'>39</span>  <span class='chapter-title'>Oncological Emergencies</span>"
+    ]
+  },
+  {
+    "objectID": "onco-oncological-emergencies.html#approach-to-the-patient-with-an-oncological-emergency",
+    "href": "onco-oncological-emergencies.html#approach-to-the-patient-with-an-oncological-emergency",
+    "title": "39  Oncological Emergencies",
+    "section": "39.6 Approach to the Patient with an Oncological Emergency",
+    "text": "39.6 Approach to the Patient with an Oncological Emergency\n1. ABCDE Approach\n\nAirway: Ensure patency, especially in patients with superior vena cava syndrome or airway tumors.\nBreathing: Provide oxygen if hypoxic.\nCirculation: Monitor for signs of shock (e.g., tamponade, disseminated intravascular coagulation).\nDisability: Assess for neurological compromise (e.g., spinal cord compression, raised ICP).\nExposure: Full examination to identify other signs (e.g., petechiae, masses).\n\n2. Laboratory and Imaging\n\nCBC, U&E, calcium, phosphate, uric acid\nCoagulation profile\nECG and echocardiography\nCT/MRI depending on clinical suspicion\n\n3. Specialist Referral\n\nOncology, surgery, radiotherapy, hematology, or palliative care, depending on diagnosis.\n\nChallenges in the Ghanaian Setting\n\nLimited access to imaging (CT/MRI)\nDelays in diagnosis and referral\nShortage of oncologists and hematologists\nLimited availability of drugs (e.g., rasburicase, bisphosphonates)\nInadequate supportive care facilities (ICU, dialysis)\n\nSummary Table: Common Oncological Emergencies\n\n\n\n\n\n\n\n\nEmergency\nMain Feature\nKey Management\n\n\nTumor Lysis Syndrome\nElectrolyte disturbances, renal failure\nHydration, rasburicase\n\n\nHypercalcemia\nConfusion, constipation\nHydration, bisphosphonate\n\n\nSIAD\nHyponatremia, confusion\nFluid restriction, hypertonic saline\n\n\nFebrile Neutropenia\nFever in neutropenia\nBroad-spectrum antibiotics\n\n\nDIC\nBleeding, low platelets\nTreat the cause, transfusion\n\n\nSVC Syndrome\nFacial swelling, JVP\nSteroids, radiotherapy\n\n\nSpinal Cord Compression\nBack pain, limb weakness\nSteroids, MRI, radiotherapy\n\n\nTamponade\nHypotension, JVP\nPericardiocentesis\n\n\nBowel Obstruction\nAbdominal pain, vomiting\nNG tube, fluids, and surgery\n\n\nIncreased ICP\nHeadache, vomiting\nSteroids, mannitol, imaging\n\n\n\nConclusion\nOncological emergencies require prompt identification and urgent management to prevent irreversible complications or death. In Ghana, with rising cancer incidence and limited resources, medical students and junior doctors must be adept at recognizing early signs and initiating life-saving interventions. Close collaboration with oncology, radiology, and surgical teams is essential for optimal outcomes.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Oncology</span>",
+      "<span class='chapter-number'>39</span>  <span class='chapter-title'>Oncological Emergencies</span>"
+    ]
+  },
+  {
     "objectID": "nep-hypertension.html",
     "href": "nep-hypertension.html",
     "title": "45  Hypertension",

@@ -1,5 +1,389 @@
 ---
 title: "Oncological Emergencies"
-author: "Dr (Mrs) Vivian Paintsil"
-author-meta: "Senior lecturer, <br> Dept of Child Health,KNUST <br> Pediatric Oncologist"
+date: 2025-06-20
 ---
+
+## Introduction
+
+Oncological emergencies are acute, potentially life-threatening conditions that affect patients with
+cancer, either due to the malignancy itself or as complications arising from its treatment. Early
+recognition and prompt intervention are crucial in preventing morbidity and mortality. Understanding
+these emergencies is essential for all healthcare professionals, particularly in resource-limited
+settings like Ghana, where delays in cancer diagnosis and treatment are prevalent. Oncological
+emergencies are generally classified into three categories:
+
+1.  **Metabolic Emergencies**
+2.  **Hematological Emergencies**
+3.  **Structural/Mechanical Emergencies**
+
+## Metabolic Emergencies
+
+### Tumor Lysis Syndrome (TLS)
+
+**Definition:** A life-threatening condition that occurs when massive tumor cell lysis releases
+intracellular contents (potassium, phosphate, uric acid) into the bloodstream, leading to acute
+kidney injury and cardiac arrhythmias.
+
+**Common Causes:**
+
+-   High-grade lymphomas (especially Burkitt lymphoma)
+-   Acute leukemias (e.g., ALL)
+-   Solid tumors with high tumor burden after chemotherapy
+
+**Clinical Features:**
+
+-   Nausea and vomiting
+-   Lethargy
+-   Muscle cramps
+-   Seizures
+-   Oliguria or anuria
+-   Arrhythmias
+
+**Diagnostic Criteria (Cairo-Bishop):**
+
+Laboratory TLS involves ≥2 of the following:
+
+-   Uric acid \> 476 μmol/L
+-   Potassium \> 6.0 mmol/L
+-   Phosphate \> 1.45 mmol/L
+-   Calcium \< 1.75 mmol/L
+
+**Management:**
+
+-   Aggressive IV hydratio
+-   Allopurinol or rasburicase (rasburicase preferred)
+-   Correction of electrolyte imbalances
+-   Dialysis for refractory cases
+
+### Hypercalcemia of Malignancy
+
+**Definition:** Elevated serum calcium level (usually \>2.6 mmol/L) due to malignancy.
+
+**Common Causes:**
+
+-   Breast cancer
+-   Multiple myeloma
+-   Lung cancer
+-   Renal cell carcinoma
+-   Parathyroid hormone-related protein (PTHrP) production
+
+**Clinical Features:**
+
+-   Nausea, vomiting
+-   Polyuria, polydipsia
+-   Constipation
+-   Confusion, coma
+-   Shortened QT interval
+
+**Management:**
+
+-   IV hydration with normal saline
+-   Bisphosphonates (e.g., zoledronic acid)
+-   Calcitonin for rapid reduction
+-   Dialysis in severe cases
+
+### Syndrome of Inappropriate Antidiuretic Hormone (SIADH)
+
+**Definition:** Excessive release of antidiuretic hormone leads to water retention and hyponatremia.
+
+**Common Causes:**
+
+-   Small cell lung carcinoma
+-   CNS tumors
+
+**Clinical Features:**
+
+-   Headache
+-   Confusion
+-   Seizures
+-   Coma
+
+**Management:**
+
+-   Fluid restriction
+-   Hypertonic saline (3%) in severe hyponatremia
+-   Demeclocycline or vasopressin receptor antagonists in chronic cases
+
+## Hematological Emergencies
+
+### Febrile Neutropenia
+
+**Definition:** Fever (\>38°C) with absolute neutrophil count (ANC) \< 0.5 × 10⁹/L in a cancer
+patient.
+
+**Causes:**
+
+-   Chemotherapy-induced bone marrow suppression
+
+**Clinical Features:**
+
+-   Fever (often the only sign)
+-   Signs of infection may be subtle
+
+**Management:**
+
+-   Broad-spectrum antibiotics within 1 hour (e.g., cefepime, piperacillin-tazobactam)
+-   Risk stratification (MASCC score)
+-   G-CSF in selected cases
+-   Isolate and monitor closely
+
+### Disseminated Intravascular Coagulation (DIC)
+
+**Definition:** Widespread activation of the coagulation system leads to the consumption of clotting
+factors and platelets, resulting in bleeding and thrombosis.
+
+**Common Causes:**
+
+-   Acute promyelocytic leukemia (APL)
+-   Metastatic cancers
+
+**Clinical Features:**
+
+-   Bleeding (petechiae, ecchymosis, mucosal bleeding)
+-   Thrombosis
+-   Organ dysfunction
+
+**Laboratory Findings:**
+
+-   Prolonged PT, aPTT
+-   Low fibrinogen
+-   Elevated D-dimer
+-   Thrombocytopenia
+
+**Management:**
+
+-   Treat underlying cause (e.g., ATRA for APL)
+-   Transfusions (platelets, FFP)
+-   Heparin in cases with thrombosis
+
+### Hyperviscosity Syndrome
+
+**Definition:** Increased blood viscosity due to elevated cellular or protein components.
+
+**Common Causes:**
+
+-   Waldenström’s macroglobulinemia (IgM)
+-   Multiple myeloma
+-   Leukemia with very high WBC
+
+**Clinical Features:**
+
+-   Visual disturbances
+-   Headache
+-   Mucosal bleeding
+-   Confusion
+-   Heart failure
+
+**Management:**
+
+-   Plasmapheresis
+-   Hydration
+-   Treat underlying cancer
+
+## Structural/Mechanical Emergencies
+
+### Superior Vena Cava (SVC) Syndrome
+
+**Definition:**
+
+Obstruction of blood flow through the superior vena cava, commonly due to external compression by
+tumors.
+
+**Common Causes:**
+
+-   Small cell lung cancer
+-   Non-Hodgkin lymphoma
+-   Metastatic mediastinal tumors
+
+**Clinical Features:**
+
+-   Facial and upper limb swelling
+-   Dyspnea
+-   Distended neck veins
+-   Cyanosis
+-   Cough and hoarseness
+
+**Diagnosis:**
+
+-   Chest X-ray: mediastinal widening
+-   CT scan: to confirm compression
+-   Biopsy of mass (if unknown etiology)
+
+**Management:**
+
+-   Elevate the head
+-   Steroids to reduce edema
+-   Radiotherapy or chemotherapy, depending on etiology
+-   Stenting in severe cases
+
+### Spinal Cord Compression
+
+**Definition:**
+
+Compression of the spinal cord due to a tumor, leading to neurological deficits.
+
+**Common Causes:**
+
+-   Breast, prostate, and lung cancers
+-   Lymphomas
+-   Myeloma
+
+**Clinical Features:**
+
+-   Back pain (worsened by lying down)
+-   Weakness in limbs
+-   Sensory loss
+-   Bladder/bowel incontinence
+
+**Diagnosis:**
+
+-   MRI spine (preferred)
+-   Neurological exam
+
+**Management:**
+
+-   High-dose corticosteroids (e.g., dexamethasone)
+-   Emergency radiotherapy or surgery
+-   Rehabilitation
+
+### Pericardial Tamponade
+
+**Definition:**
+
+Accumulation of fluid in the pericardial sac impairs cardiac output.
+
+**Common Causes:**
+
+-   Lung and breast cancers
+-   Lymphomas
+-   Metastatic cancers
+
+**Clinical Features:**
+
+-   Dyspnea
+-   Chest discomfort
+-   Hypotension
+-   Elevated JVP
+-   Muffled heart sounds (Beck's triad)
+
+**Diagnosis:**
+
+-   Echocardiography: diagnostic
+-   ECG: low-voltage QRS or electrical alternans
+
+**Management:**
+
+-   Urgent pericardiocentesis
+-   Fluid resuscitation
+-   Treat underlying malignancy
+
+### Intestinal Obstruction
+
+**Definition:** Partial or complete blockage of the bowel lumen.
+
+**Common Causes:**
+
+-   Colorectal cancer
+-   Ovarian cancer
+-   Gastric cance
+-   Peritoneal metastases
+
+**Clinical Features:**
+
+-   Abdominal distension
+-   Vomiting
+-   Constipation
+-   Colicky abdominal pain
+
+**Diagnosis:**
+
+-   Abdominal X-ray or CT scan
+
+**Management:**
+
+-   Nasogastric decompression
+-   IV fluids and electrolytes
+-   Surgery if obstruction is complete or complications arise
+-   Stenting in selected cases
+
+## Increased Intracranial Pressure (ICP)
+
+**Causes:**
+
+-   Brain metastases (lung, breast, melanoma)
+-   Primary CNS tumors
+-   Leptomeningeal disease
+
+**Clinical Features:**
+
+-   Headache
+-   Vomiting (projectile)
+-   Seizures
+-   Altered mental status
+-   Papilledema
+
+**Diagnosis:**
+
+-   Brain imaging (CT or MRI)
+
+**Management:**
+
+-   Corticosteroids (dexamethasone)
+-   Mannitol for acute relief
+-   Neurosurgical consultation
+-   Radiotherapy/chemotherapy, depending on the cause
+
+## Approach to the Patient with an Oncological Emergency
+
+**1. ABCDE Approach**
+
+-   **Airway:** Ensure patency, especially in patients with superior vena cava syndrome or airway
+    tumors.
+-   **Breathing:** Provide oxygen if hypoxic.
+-   **Circulation:** Monitor for signs of shock (e.g., tamponade, disseminated intravascular
+    coagulation).
+-   **Disability:** Assess for neurological compromise (e.g., spinal cord compression, raised ICP).
+-   **Exposure:** Full examination to identify other signs (e.g., petechiae, masses).
+
+**2. Laboratory and Imaging**
+
+-   CBC, U&E, calcium, phosphate, uric acid
+-   Coagulation profile
+-   ECG and echocardiography
+-   CT/MRI depending on clinical suspicion
+
+**3. Specialist Referral**
+
+-   Oncology, surgery, radiotherapy, hematology, or palliative care, depending on diagnosis.
+
+**Challenges in the Ghanaian Setting**
+
+-   Limited access to imaging (CT/MRI)
+-   Delays in diagnosis and referral
+-   Shortage of oncologists and hematologists
+-   Limited availability of drugs (e.g., rasburicase, bisphosphonates)
+-   Inadequate supportive care facilities (ICU, dialysis)
+
+**Summary Table: Common Oncological Emergencies**
+
+|  |  |  |
+|----------------------------------|----------------------------------|---------------------------------|
+| **Emergency** | **Main Feature** | **Key Management** |
+| Tumor Lysis Syndrome | Electrolyte disturbances, renal   failure | Hydration, rasburicase |
+| Hypercalcemia | Confusion, constipation | Hydration, bisphosphonate |
+|  SIAD | Hyponatremia, confusion | Fluid restriction, hypertonic   saline |
+| Febrile Neutropenia | Fever in neutropenia | Broad-spectrum antibiotics |
+| DIC | Bleeding, low platelets | Treat the cause, transfusion |
+| SVC Syndrome | Facial swelling, JVP | Steroids, radiotherapy |
+| Spinal Cord Compression | Back pain, limb weakness | Steroids, MRI, radiotherapy |
+| Tamponade | Hypotension, JVP | Pericardiocentesis |
+| Bowel Obstruction | Abdominal pain, vomiting |  NG tube, fluids, and surgery |
+| Increased ICP | Headache, vomiting | Steroids, mannitol, imaging |
+
+**Conclusion**
+
+Oncological emergencies require prompt identification and urgent management to prevent irreversible
+complications or death. In Ghana, with rising cancer incidence and limited resources, medical
+students and junior doctors must be adept at recognizing early signs and initiating life-saving
+interventions. Close collaboration with oncology, radiology, and surgical teams is essential for
+optimal outcomes.
