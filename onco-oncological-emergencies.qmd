@@ -366,19 +366,19 @@ Accumulation of fluid in the pericardial sac impairs cardiac output.
 
 **Summary Table: Common Oncological Emergencies**
 
-|  |  |  |
-|----------------------------------|----------------------------------|---------------------------------|
-| **Emergency** | **Main Feature** | **Key Management** |
-| Tumor Lysis Syndrome | Electrolyte disturbances, renal   failure | Hydration, rasburicase |
-| Hypercalcemia | Confusion, constipation | Hydration, bisphosphonate |
-|  SIAD | Hyponatremia, confusion | Fluid restriction, hypertonic   saline |
-| Febrile Neutropenia | Fever in neutropenia | Broad-spectrum antibiotics |
-| DIC | Bleeding, low platelets | Treat the cause, transfusion |
-| SVC Syndrome | Facial swelling, JVP | Steroids, radiotherapy |
-| Spinal Cord Compression | Back pain, limb weakness | Steroids, MRI, radiotherapy |
-| Tamponade | Hypotension, JVP | Pericardiocentesis |
-| Bowel Obstruction | Abdominal pain, vomiting |  NG tube, fluids, and surgery |
-| Increased ICP | Headache, vomiting | Steroids, mannitol, imaging |
+|                         |                                         |                                      |
+|-------------------------|-----------------------------------------|--------------------------------------|
+| **Emergency**           | **Main Feature**                        | **Key Management**                   |
+| Tumor Lysis Syndrome    | Electrolyte disturbances, renal failure | Hydration, rasburicase               |
+| Hypercalcemia           | Confusion, constipation                 | Hydration, bisphosphonate            |
+| SIAD                    | Hyponatremia, confusion                 | Fluid restriction, hypertonic saline |
+| Febrile Neutropenia     | Fever in neutropenia                    | Broad-spectrum antibiotics           |
+| DIC                     | Bleeding, low platelets                 | Treat the cause, transfusion         |
+| SVC Syndrome            | Facial swelling, JVP                    | Steroids, radiotherapy               |
+| Spinal Cord Compression | Back pain, limb weakness                | Steroids, MRI, radiotherapy          |
+| Tamponade               | Hypotension, JVP                        | Pericardiocentesis                   |
+| Bowel Obstruction       | Abdominal pain, vomiting                | NG tube, fluids, and surgery         |
+| Increased ICP           | Headache, vomiting                      | Steroids, mannitol, imaging          |
 
 **Conclusion**
 
