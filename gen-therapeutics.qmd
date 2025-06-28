@@ -1,3 +1,190 @@
 ---
 title: "Therapeutics"
+date: 2025-06-28
 ---
+
+## Introduction
+
+Pediatric therapeutics involves the art and science of prescribing medications and other treatments
+to children for disease management and prevention. Children are not just small adults; they possess
+unique physiological, metabolic, and developmental traits that affect how drugs are absorbed,
+distributed, metabolized, and excreted. Consequently, pediatric therapeutics demands a thorough
+understanding of child growth stages, dosing principles, safety issues, and the specific disease
+burden in the Ghanaian context.
+
+## Principles of Pediatric Therapeutics
+
+**a. Age-related Pharmacokinetics and Pharmacodynamics**
+
+-   **Absorption**: Gastric pH is higher (less acidic) in neonates, which affects drug solubility
+    and absorption. Gastric emptying is also slower.
+-   **Distribution**: Neonates have higher body water content, which affects water-soluble drugs
+    (e.g., gentamicin) and lower fat content, affecting lipophilic drugs.
+-   **Metabolism**: Liver enzyme activity is immature at birth and develops over time, altering drug
+    metabolism.
+-   **Excretion**: Renal clearance is reduced in neonates due to immature kidneys, necessitating
+    dose adjustments for renally-excreted drugs (e.g., aminoglycosides).
+
+**b. Dosing Principles**
+
+-   Pediatric dosing is usually weight-based (mg/kg) or surface-area-based (mg/m²). For example:
+    -   **Paracetamol**: 10–15 mg/kg per dose every 4–6 hours
+
+    -   **Amoxicillin**: 20–40 mg/kg/day in divided doses
+-   Always confirm doses with a pediatric formulary or guidelines.
+
+## Drug Formulations and Administration
+
+Children, especially infants and young kids, might not tolerate adult formulas (e.g., tablets,
+capsules). Pediatric options include:
+
+-   **Syrups and suspensions**: Easier to swallow; dose flexibility
+-   **Suppositories**: Useful for vomiting or unconscious children
+-   **Inhalers/spacers**: For respiratory conditions like asthma
+-   **Injectables**: Used in emergencies or when oral route is unsuitable
+
+**Tip**: Always ensure accurate dosing with oral syringes or calibrated spoons.
+
+## Commonly Used Drugs in Ghanaian Pediatric Practice
+
+**a. Antipyretics and Analgesics**
+
+-   **Paracetamol**: First-line for fever and mild-to-moderate pain
+-   **Ibuprofen**: Useful for inflammatory pain, but caution in dehydrated children due to renal
+    risks
+
+**b. Antibiotics**
+
+-   Used empirically or based on culture results. Indications include pneumonia, otitis media, and
+    sepsis.
+-   **First-line antibiotics**:
+    -   Amoxicillin
+    -   Cloxacillin (for skin/soft tissue infections)
+    -   Cefuroxime or Ceftriaxone for severe infections
+-   Rational use is essential to prevent resistance.
+
+**c. Antimalarials**
+
+-   Malaria is a leading cause of morbidity and mortality in children.
+
+-   **First-line treatment (per Ghana NMCP)**:
+
+    -   Artesunate-amodiaquine (ASAQ)
+    -   Artemether-lumefantrine (AL)
+    -   Injectable artesunate for severe malaria
+
+**d. Anthelmintics**
+
+-   Albendazole and mebendazole are used in deworming programs.
+-   Dosing is age-based and used regularly in public health programs.
+
+**e. Anticonvulsants**
+
+-   **Diazepam** (rectal or IV) for acute seizures
+-   **Phenobarbital** and **Carbamazepine** for chronic seizure management
+
+**f. Asthma Medications**
+
+-   **Salbutamol**: Short-acting beta-agonist (inhaler or nebulizer)
+-   **Beclomethasone**: Inhaled corticosteroid for maintenance
+-   Use of a spacer device improves drug delivery in children.
+
+## Rational Drug Use and Safety
+
+**a. Preventing Medication Errors**
+
+-   Double-check drug names, doses, and units (mg vs mL)
+-   Use weight-based dosing and avoid "teaspoon" measurements
+-   Monitor for adverse drug reactions (e.g., rashes, GI upset)
+
+**b. Drug Interactions**
+
+-   Be mindful of drugs that enhance or reduce each other’s effects (e.g., enzyme
+    inducers/inhibitors)
+-   Check compatibility, especially when using multiple IV medications
+
+**c. Avoid Contraindicated Medications**
+
+-   **Aspirin**: Avoid in febrile children due to risk of Reye's syndrome
+-   **Tetracyclines**: Not recommended in children \<8 years due to dental staining
+-   **Chloramphenicol**: Risk of "gray baby syndrome" in neonates
+
+## Therapeutics for Common Pediatric Conditions
+
+**a. Pneumonia**
+
+-   First-line: Amoxicillin
+-   Severe cases: Ceftriaxone or Benzylpenicillin + Gentamicin
+-   Supportive care: Oxygen, fluids, antipyretics
+
+**b. Acute Diarrhea**
+
+-   **Oral Rehydration Salts (ORS)**: Cornerstone of therapy
+-   **Zinc supplementation**: 10–20 mg/day for 10–14 days
+-   Avoid anti-diarrheal medications in children
+
+**c. Severe Acute Malnutrition (SAM)**
+
+-   **Therapeutic feeds**: F-75 and F-100
+-   **Antibiotics**: Empirical (e.g., amoxicillin) due to immune suppression
+-   **Micronutrients**: Vitamin A, iron (after stabilization), folate
+
+**d. HIV in Children**
+
+-   ART regimens are weight- and age-specific
+-   Use pediatric fixed-dose combinations (FDCs)
+-   Co-trimoxazole prophylaxis is essential
+
+## Immunization and Preventive Therapeutics
+
+Vaccination is one of the most cost-effective therapeutic interventions in pediatrics.
+
+**Ghana EPI (Expanded Programme on Immunization) Schedule includes:**
+
+-   BCG
+-   Pentavalent vaccine (DPT-HepB-Hib)
+-   OPV, IPV
+-   PCV (Pneumococcal vaccine)
+-   Rotavirus
+-   Measles-Rubella
+-   Yellow fever
+
+**Vitamin A Supplementation**
+
+-   Prevents blindness and improves immunity
+-   Given every 6 months starting at 6 months of age
+
+## Monitoring and Follow-up
+
+**a. Therapeutic Drug Monitoring (TDM)**
+
+-   Important for drugs with narrow therapeutic index (e.g., aminoglycosides, phenobarbital)
+-   Monitor renal and liver function where necessary
+
+**b. Adherence and Education**
+
+-   Educate caregivers on correct drug use
+-   Emphasize completing antibiotic courses
+-   Address barriers to adherence (e.g., taste, cost)
+
+## Ethical and Legal Considerations
+
+-   Obtain **informed consent** from parents/guardians before treatment
+-   Respect **cultural beliefs** and involve families in care
+-   Ensure **medication safety** and use only approved medications
+-   Maintain **documentation** of all treatments given
+
+## Conclusion
+
+Therapeutics in pediatrics involves more than simply prescribing medications. It requires an
+understanding of developmental physiology, rational drug use, dosing accuracy, and the sociocultural
+context of care. For medical students in Ghana, mastery of local treatment guidelines, National
+Standard Treatment Guidelines, and EPI protocols is essential for safe and effective pediatric
+practice.
+
+## Further Reading and Resources
+
+-   Ghana Standard Treatment Guidelines (2021)
+-   IMCI (Integrated Management of Childhood Illness) Guidelines
+-   BNF for Children
+-   WHO Pocket Book of Hospital Care for Children

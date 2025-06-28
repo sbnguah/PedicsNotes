@@ -5295,6 +5295,116 @@
     ]
   },
   {
+    "objectID": "gen-therapeutics.html",
+    "href": "gen-therapeutics.html",
+    "title": "97  Therapeutics",
+    "section": "",
+    "text": "97.1 Introduction\nPediatric therapeutics involves the art and science of prescribing medications and other treatments to children for disease management and prevention. Children are not just small adults; they possess unique physiological, metabolic, and developmental traits that affect how drugs are absorbed, distributed, metabolized, and excreted. Consequently, pediatric therapeutics demands a thorough understanding of child growth stages, dosing principles, safety issues, and the specific disease burden in the Ghanaian context.",
+    "crumbs": [
+      "<span class='chapter-number'>97</span>  <span class='chapter-title'>Therapeutics</span>"
+    ]
+  },
+  {
+    "objectID": "gen-therapeutics.html#principles-of-pediatric-therapeutics",
+    "href": "gen-therapeutics.html#principles-of-pediatric-therapeutics",
+    "title": "97  Therapeutics",
+    "section": "97.2 Principles of Pediatric Therapeutics",
+    "text": "97.2 Principles of Pediatric Therapeutics\na. Age-related Pharmacokinetics and Pharmacodynamics\n\nAbsorption: Gastric pH is higher (less acidic) in neonates, which affects drug solubility and absorption. Gastric emptying is also slower.\nDistribution: Neonates have higher body water content, which affects water-soluble drugs (e.g., gentamicin) and lower fat content, affecting lipophilic drugs.\nMetabolism: Liver enzyme activity is immature at birth and develops over time, altering drug metabolism.\nExcretion: Renal clearance is reduced in neonates due to immature kidneys, necessitating dose adjustments for renally-excreted drugs (e.g., aminoglycosides).\n\nb. Dosing Principles\n\nPediatric dosing is usually weight-based (mg/kg) or surface-area-based (mg/m²). For example:\n\nParacetamol: 10–15 mg/kg per dose every 4–6 hours\nAmoxicillin: 20–40 mg/kg/day in divided doses\n\nAlways confirm doses with a pediatric formulary or guidelines.",
+    "crumbs": [
+      "<span class='chapter-number'>97</span>  <span class='chapter-title'>Therapeutics</span>"
+    ]
+  },
+  {
+    "objectID": "gen-therapeutics.html#drug-formulations-and-administration",
+    "href": "gen-therapeutics.html#drug-formulations-and-administration",
+    "title": "97  Therapeutics",
+    "section": "97.3 Drug Formulations and Administration",
+    "text": "97.3 Drug Formulations and Administration\nChildren, especially infants and young kids, might not tolerate adult formulas (e.g., tablets, capsules). Pediatric options include:\n\nSyrups and suspensions: Easier to swallow; dose flexibility\nSuppositories: Useful for vomiting or unconscious children\nInhalers/spacers: For respiratory conditions like asthma\nInjectables: Used in emergencies or when oral route is unsuitable\n\nTip: Always ensure accurate dosing with oral syringes or calibrated spoons.",
+    "crumbs": [
+      "<span class='chapter-number'>97</span>  <span class='chapter-title'>Therapeutics</span>"
+    ]
+  },
+  {
+    "objectID": "gen-therapeutics.html#commonly-used-drugs-in-ghanaian-pediatric-practice",
+    "href": "gen-therapeutics.html#commonly-used-drugs-in-ghanaian-pediatric-practice",
+    "title": "97  Therapeutics",
+    "section": "97.4 Commonly Used Drugs in Ghanaian Pediatric Practice",
+    "text": "97.4 Commonly Used Drugs in Ghanaian Pediatric Practice\na. Antipyretics and Analgesics\n\nParacetamol: First-line for fever and mild-to-moderate pain\nIbuprofen: Useful for inflammatory pain, but caution in dehydrated children due to renal risks\n\nb. Antibiotics\n\nUsed empirically or based on culture results. Indications include pneumonia, otitis media, and sepsis.\nFirst-line antibiotics:\n\nAmoxicillin\nCloxacillin (for skin/soft tissue infections)\nCefuroxime or Ceftriaxone for severe infections\n\nRational use is essential to prevent resistance.\n\nc. Antimalarials\n\nMalaria is a leading cause of morbidity and mortality in children.\nFirst-line treatment (per Ghana NMCP):\n\nArtesunate-amodiaquine (ASAQ)\nArtemether-lumefantrine (AL)\nInjectable artesunate for severe malaria\n\n\nd. Anthelmintics\n\nAlbendazole and mebendazole are used in deworming programs.\nDosing is age-based and used regularly in public health programs.\n\ne. Anticonvulsants\n\nDiazepam (rectal or IV) for acute seizures\nPhenobarbital and Carbamazepine for chronic seizure management\n\nf. Asthma Medications\n\nSalbutamol: Short-acting beta-agonist (inhaler or nebulizer)\nBeclomethasone: Inhaled corticosteroid for maintenance\nUse of a spacer device improves drug delivery in children.",
+    "crumbs": [
+      "<span class='chapter-number'>97</span>  <span class='chapter-title'>Therapeutics</span>"
+    ]
+  },
+  {
+    "objectID": "gen-therapeutics.html#rational-drug-use-and-safety",
+    "href": "gen-therapeutics.html#rational-drug-use-and-safety",
+    "title": "97  Therapeutics",
+    "section": "97.5 Rational Drug Use and Safety",
+    "text": "97.5 Rational Drug Use and Safety\na. Preventing Medication Errors\n\nDouble-check drug names, doses, and units (mg vs mL)\nUse weight-based dosing and avoid “teaspoon” measurements\nMonitor for adverse drug reactions (e.g., rashes, GI upset)\n\nb. Drug Interactions\n\nBe mindful of drugs that enhance or reduce each other’s effects (e.g., enzyme inducers/inhibitors)\nCheck compatibility, especially when using multiple IV medications\n\nc. Avoid Contraindicated Medications\n\nAspirin: Avoid in febrile children due to risk of Reye’s syndrome\nTetracyclines: Not recommended in children &lt;8 years due to dental staining\nChloramphenicol: Risk of “gray baby syndrome” in neonates",
+    "crumbs": [
+      "<span class='chapter-number'>97</span>  <span class='chapter-title'>Therapeutics</span>"
+    ]
+  },
+  {
+    "objectID": "gen-therapeutics.html#therapeutics-for-common-pediatric-conditions",
+    "href": "gen-therapeutics.html#therapeutics-for-common-pediatric-conditions",
+    "title": "97  Therapeutics",
+    "section": "97.6 Therapeutics for Common Pediatric Conditions",
+    "text": "97.6 Therapeutics for Common Pediatric Conditions\na. Pneumonia\n\nFirst-line: Amoxicillin\nSevere cases: Ceftriaxone or Benzylpenicillin + Gentamicin\nSupportive care: Oxygen, fluids, antipyretics\n\nb. Acute Diarrhea\n\nOral Rehydration Salts (ORS): Cornerstone of therapy\nZinc supplementation: 10–20 mg/day for 10–14 days\nAvoid anti-diarrheal medications in children\n\nc. Severe Acute Malnutrition (SAM)\n\nTherapeutic feeds: F-75 and F-100\nAntibiotics: Empirical (e.g., amoxicillin) due to immune suppression\nMicronutrients: Vitamin A, iron (after stabilization), folate\n\nd. HIV in Children\n\nART regimens are weight- and age-specific\nUse pediatric fixed-dose combinations (FDCs)\nCo-trimoxazole prophylaxis is essential",
+    "crumbs": [
+      "<span class='chapter-number'>97</span>  <span class='chapter-title'>Therapeutics</span>"
+    ]
+  },
+  {
+    "objectID": "gen-therapeutics.html#immunization-and-preventive-therapeutics",
+    "href": "gen-therapeutics.html#immunization-and-preventive-therapeutics",
+    "title": "97  Therapeutics",
+    "section": "97.7 Immunization and Preventive Therapeutics",
+    "text": "97.7 Immunization and Preventive Therapeutics\nVaccination is one of the most cost-effective therapeutic interventions in pediatrics.\nGhana EPI (Expanded Programme on Immunization) Schedule includes:\n\nBCG\nPentavalent vaccine (DPT-HepB-Hib)\nOPV, IPV\nPCV (Pneumococcal vaccine)\nRotavirus\nMeasles-Rubella\nYellow fever\n\nVitamin A Supplementation\n\nPrevents blindness and improves immunity\nGiven every 6 months starting at 6 months of age",
+    "crumbs": [
+      "<span class='chapter-number'>97</span>  <span class='chapter-title'>Therapeutics</span>"
+    ]
+  },
+  {
+    "objectID": "gen-therapeutics.html#monitoring-and-follow-up",
+    "href": "gen-therapeutics.html#monitoring-and-follow-up",
+    "title": "97  Therapeutics",
+    "section": "97.8 Monitoring and Follow-up",
+    "text": "97.8 Monitoring and Follow-up\na. Therapeutic Drug Monitoring (TDM)\n\nImportant for drugs with narrow therapeutic index (e.g., aminoglycosides, phenobarbital)\nMonitor renal and liver function where necessary\n\nb. Adherence and Education\n\nEducate caregivers on correct drug use\nEmphasize completing antibiotic courses\nAddress barriers to adherence (e.g., taste, cost)",
+    "crumbs": [
+      "<span class='chapter-number'>97</span>  <span class='chapter-title'>Therapeutics</span>"
+    ]
+  },
+  {
+    "objectID": "gen-therapeutics.html#ethical-and-legal-considerations",
+    "href": "gen-therapeutics.html#ethical-and-legal-considerations",
+    "title": "97  Therapeutics",
+    "section": "97.9 Ethical and Legal Considerations",
+    "text": "97.9 Ethical and Legal Considerations\n\nObtain informed consent from parents/guardians before treatment\nRespect cultural beliefs and involve families in care\nEnsure medication safety and use only approved medications\nMaintain documentation of all treatments given",
+    "crumbs": [
+      "<span class='chapter-number'>97</span>  <span class='chapter-title'>Therapeutics</span>"
+    ]
+  },
+  {
+    "objectID": "gen-therapeutics.html#conclusion",
+    "href": "gen-therapeutics.html#conclusion",
+    "title": "97  Therapeutics",
+    "section": "97.10 Conclusion",
+    "text": "97.10 Conclusion\nTherapeutics in pediatrics involves more than simply prescribing medications. It requires an understanding of developmental physiology, rational drug use, dosing accuracy, and the sociocultural context of care. For medical students in Ghana, mastery of local treatment guidelines, National Standard Treatment Guidelines, and EPI protocols is essential for safe and effective pediatric practice.",
+    "crumbs": [
+      "<span class='chapter-number'>97</span>  <span class='chapter-title'>Therapeutics</span>"
+    ]
+  },
+  {
+    "objectID": "gen-therapeutics.html#further-reading-and-resources",
+    "href": "gen-therapeutics.html#further-reading-and-resources",
+    "title": "97  Therapeutics",
+    "section": "97.11 Further Reading and Resources",
+    "text": "97.11 Further Reading and Resources\n\nGhana Standard Treatment Guidelines (2021)\nIMCI (Integrated Management of Childhood Illness) Guidelines\nBNF for Children\nWHO Pocket Book of Hospital Care for Children",
+    "crumbs": [
+      "<span class='chapter-number'>97</span>  <span class='chapter-title'>Therapeutics</span>"
+    ]
+  },
+  {
     "objectID": "gen-social-ethical-legal.html",
     "href": "gen-social-ethical-legal.html",
     "title": "99  Social, Ethical and Legal Issues",
