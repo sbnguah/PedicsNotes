@@ -1,3 +1,292 @@
 ---
 title: "Liver Disorders"
 ---
+
+## Introduction
+
+Liver diseases in children represent a significant component of paediatric morbidity and mortality
+worldwide, including in Ghana. The liver plays a central role in metabolism, detoxification, bile
+production, and immunity. Pediatric liver diseases range from transient biochemical abnormalities to
+severe chronic liver failure. Understanding the pathophysiology, clinical presentation, diagnosis,
+and management is essential for early intervention and improved outcomes.
+
+## Anatomy and Physiology of the Pediatric Liver
+
+The liver is the largest solid organ in the body, comprising about 5% of the body weight in
+neonates. It performs vital functions, including:
+
+-   Carbohydrate, protein, and lipid metabolism
+-   Synthesis of coagulation factors and plasma proteins
+-   Bile production and excretion
+-   Detoxification of drugs and toxins
+-   Immune surveillance through Kupffer cells
+
+Due to its wide range of functions, liver dysfunction can present in multiple ways, ranging from
+jaundice to coagulopathy, growth failure, or encephalopathy.
+
+## Classification of Pediatric Liver Diseases
+
+Pediatric liver diseases can be broadly classified into:
+
+1.  Congenital/Genetic Disorders
+2.  Infectious Causes
+3.  Autoimmune Liver Diseases
+4.  Metabolic Liver Diseases
+5.  Toxic and Drug-Induced Hepatopathies
+6.  Cholestatic Liver Diseases
+7.  Liver Tumors
+
+Each category encompasses specific diseases with unique features, although overlaps may exist.
+
+Neonatal Cholestasis
+
+**Definition**: Neonatal cholestasis is defined as prolonged conjugated hyperbilirubinemia (\>1
+mg/dL if total bilirubin is \<5 mg/dL or \>20% of total bilirubin if \>5 mg/dL) lasting beyond 14
+days of life in term infants.
+
+**Common Causes:**
+
+-   Biliary atresia
+-   Neonatal hepatitis
+-   Metabolic diseases (e.g., galactosemia, alpha-1 antitrypsin deficiency)
+-   Infections (e.g., TORCH infections)
+
+### Biliary Atresia
+
+-   **Pathology**: Progressive fibro-obliterative disease of the bile ducts.
+-   **Presentation**: Jaundice, pale stools, dark urine, hepatomegaly.
+-   **Diagnosis**: Ultrasound, hepatobiliary iminodiacetic acid (HIDA) scan, liver biopsy.
+-   **Treatment**: Kasai portoenterostomy; liver transplant in advanced cases.
+
+### Neonatal Hepatitis
+
+-   May be idiopathic or secondary to infections.
+-   Histology shows giant cell transformation.
+-   Management includes supportive care and treating underlying causes.
+
+Acute Hepatitis
+
+Acute hepatitis in children can be viral, drug-induced, or autoimmune.
+
+**Viral Hepatitis**
+
+-   **Hepatitis A virus (HAV)**: Feco-oral transmission, self-limiting.
+-   **Hepatitis B virus (HBV)**: Perinatal transmission common in Ghana; can lead to chronic
+    infection.
+-   **Hepatitis C virus (HCV)**: Less common; vertical transmission possible.
+-   **Other viruses**: Epstein-Barr virus, cytomegalovirus.
+
+**Clinical Features**
+
+-   Jaundice
+-   Anorexia
+-   Vomiting
+-   Fever
+-   Tender hepatomegaly
+
+**Diagnosis**
+
+-   Liver function tests: Elevated AST, ALT, bilirubin
+-   Serological markers: HBsAg, anti-HAV IgM, anti-HCV
+
+**Management**
+
+-   Supportive care in most cases
+-   Antivirals in selected chronic HBV/HCV cases
+-   Immunization for prevention (e.g., hepatitis B vaccine)
+
+Chronic Hepatitis
+
+Persistent liver inflammation \>6 months is classified as chronic hepatitis.
+
+**Causes**
+
+-   Chronic HBV/HCV
+-   Autoimmune hepatitis
+-   Metabolic disorders (e.g., Wilson’s disease)
+
+### Autoimmune Hepatitis (AIH)
+
+-   More common in adolescents
+-   Autoantibodies: ANA, SMA, LKM-1
+-   Associated with other autoimmune diseases
+-   Requires immunosuppressive therapy (e.g., prednisolone and azathioprine)
+
+### Wilson’s Disease
+
+-   Autosomal recessive disorder of copper metabolism
+-   Presents with liver dysfunction, neuropsychiatric symptoms
+-   Low ceruloplasmin, elevated 24-hour urinary copper
+-   Treatment: Zinc, chelating agents (penicillamine)
+
+Metabolic Liver Diseases
+
+These are inherited disorders affecting liver metabolism.
+
+**Examples**
+
+-   **Galactosemia**: Deficiency of galactose-1-phosphate uridyl transferase; leads to liver
+    failure, cataracts, E. coli sepsis.
+-   **Hereditary fructose intolerance**
+-   **Tyrosinemia type 1**: Presents with hepatomegaly, coagulopathy; managed with nitisinone and
+    diet.
+
+These conditions are often diagnosed early due to symptoms like hypoglycemia, hepatomegaly, and
+failure to thrive.
+
+## Liver Failure
+
+**Acute Liver Failure (ALF)**
+
+Defined by rapid deterioration in liver function with encephalopathy and coagulopathy in a
+previously healthy child.
+
+**Causes**
+
+-   Viral hepatitis (especially HBV)
+-   Drugs (e.g., paracetamol overdose)
+-   Metabolic diseases
+-   Autoimmune hepatitis
+
+**Clinical Features**
+
+-   Jaundice
+-   Confusion or irritability
+-   Bleeding tendencies
+-   Ascites
+
+**Management**
+
+-   Supportive care in ICU
+-   Monitoring for cerebral edema, hypoglycemia
+-   Specific treatment depending on etiology (e.g., N-acetylcysteine for paracetamol poisoning)
+-   Liver transplant if unresponsive to therapy
+
+## Cirrhosis and Portal Hypertension
+
+Cirrhosis refers to end-stage liver disease with fibrosis and regenerative nodules. In children, it
+can arise from:
+
+-   Biliary atresia
+-   Chronic viral hepatitis
+-   Metabolic liver disease
+-   Autoimmune hepatitis
+
+**Portal Hypertension**
+
+Leads to complications such as:
+
+-   Splenomegaly
+-   Esophageal varices
+-   Ascites
+
+**Management**
+
+-   Beta-blockers to reduce portal pressure
+-   Endoscopic variceal ligation
+-   Diuretics for ascites
+-   Consideration for liver transplant
+
+## Liver Tumors
+
+Pediatric liver tumors are rare but important.
+
+**Hepatoblastoma**
+
+-   Most common malignant liver tumor in children \<3 years
+-   Presents with abdominal mass, weight loss
+-   Alpha-fetoprotein (AFP) often elevated
+-   Treatment includes surgery and chemotherapy
+
+**Hepatocellular Carcinoma (HCC)**
+
+-   More common in older children and those with chronic HBV
+-   Often presents late with poor prognosis
+
+## Drug and Toxin-Induced Liver Injury
+
+Numerous drugs and herbal preparations used in Ghana have hepatotoxic potential.
+
+**Common agents**
+
+-   Paracetamol overdose: Can cause acute liver failure.
+-   Antituberculous therapy (e.g., isoniazid, rifampicin)
+-   Herbal medications: Unregulated products may lead to hepatotoxicity.
+
+**Prevention and Management**
+
+-   Educating caregivers on safe medication use
+-   Early recognition of hepatotoxicity
+-   Withdrawal of offending agent
+-   Use of antidotes where available (e.g., NAC for paracetamol)
+
+## Liver Transplantation in Children
+
+In end-stage liver disease or irreversible acute liver failure, liver transplantation may be
+lifesaving.
+
+**Indications**
+
+-   Biliary atresia unresponsive to surgery
+-   Metabolic liver disease
+-   Acute liver failure not responsive to treatment
+-   Liver tumors not resectable
+
+Although liver transplantation is not widely available in Ghana, there are ongoing efforts to
+improve access through regional collaborations.
+
+## Clinical Evaluation of a Child with Suspected Liver Disease
+
+### History
+
+-   Duration and progression of jaundice
+-   Stool and urine color
+-   Family history of liver or metabolic diseases
+-   Drug and herbal intake
+-   Birth and feeding history
+
+### Physical Examination
+
+-   Jaundice
+-   Hepatosplenomegaly
+-   Ascites
+-   Encephalopathy
+-   Growth assessment
+
+### Laboratory Tests
+
+-   Liver function tests: AST, ALT, ALP, GGT, bilirubin
+-   Coagulation profile: PT, INR
+-   Serum albumin
+-   Viral markers
+-   Autoimmune profile
+-   Metabolic screens
+
+### Imaging
+
+-   Abdominal ultrasound
+-   Doppler studies of hepatic vasculature
+-   CT or MRI in selected cases
+
+### Liver Biopsy
+
+-   Helpful in diagnosing chronic hepatitis, metabolic and autoimmune diseases
+
+## Prevention and Public Health Implications
+
+In Ghana, a major proportion of the liver disease burden is preventable through:
+
+-   **Universal hepatitis B vaccination** at birth
+-   **Screening pregnant women** for HBV
+-   **Avoiding unnecessary use of hepatotoxic drugs and herbs**
+-   **Education on nutrition and infection prevention**
+-   **Early detection and referral** of children with jaundice, hepatomegaly, or growth faltering
+
+## Conclusion
+
+Liver diseases in children vary in cause and symptoms. A high level of suspicion, early diagnosis,
+and prompt treatment are vital for better outcomes. For medical students and healthcare providers in
+Ghana, understanding these conditions—including the role of local infections and cultural
+practices—is important for effective care and preventing long-term problems. Focusing on
+vaccination, health education, and improving diagnostic tools is a key national priority for
+managing paediatric liver diseases.

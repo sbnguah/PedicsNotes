@@ -1,4 +1,262 @@
 ---
 title: "Snake Bites"
-author: "Dr. Justice Sylverken"
+date: 2025-07-02
 ---
+
+## Introduction
+
+Snake bites are a significant public health concern in many parts of the world, particularly in
+rural, tropical, and subtropical regions. Ghana, with its mix of rural populations and
+agriculture-based livelihoods, is home to both venomous and non-venomous snakes. Children are
+particularly vulnerable due to their small body size, curious nature, and increased exposure during
+play or farm-related activities. In children, envenomation may have more severe effects compared to
+adults, necessitating prompt and effective clinical management.
+
+This note aims to provide medical students in Ghana with a comprehensive overview of snake bites in
+children, covering epidemiology, pathophysiology, clinical features, diagnosis, management,
+complications, and preventive strategies.
+
+## Epidemiology
+
+-   **Global Burden:** The World Health Organization (WHO) estimates over 5 million snake bites per
+    year globally, leading to over 100,000 deaths and 400,000 amputations or other permanent
+    disabilities.
+-   **Africa and Ghana:** Sub-Saharan Africa accounts for a significant portion of these bites. In
+    Ghana, rural areas, including the Northern, Upper East, Volta, Ashanti, and Brong-Ahafo regions,
+    report high incidences of snakebites.
+-   **Age Distribution:** Children under 15 years are at high risk, especially boys who may assist
+    in farming or play outdoors.
+
+## Common Venomous Snakes in Ghana
+
+In Ghana, the major venomous snakes include:
+
+|  |  |  |  |
+|------------------------|----------------------------|------------------------|------------------------|
+| **Snake Family** | **Example** | **Type of Venom** | **Effects** |
+|  **Elapidae** | Cobra (e.g., *Naja nigricollis*) | Neurotoxic | Paralysis, respiratory failure |
+|  | Mamba (*Dendroaspis* spp.) | Neurotoxic | Rapid-onset paralysis |
+|   **Viperidae** | Puff Adder (*Bitis arietans*) | Cytotoxic and Hemotoxic | Swelling, bleeding, necrosis |
+|  | Gaboon Viper (*Bitis gabonica*) | Hemotoxi | Severe local effects, shock |
+
+Non-venomous snakes also exist and are often mistaken for dangerous species, leading to unnecessary
+anxiety and medical attention.
+
+## Pathophysiology of Snake Envenomation
+
+**Types of Venom**
+
+1.  **Neurotoxic Venom (e.g., mambas, cobras):**
+    -   Acts on neuromuscular junctions
+
+    -   Leads to paralysis and respiratory arrest
+2.  **Cytotoxic Venom (e.g., puff adder):**
+    -   Causes tissue destruction and necrosis
+    -   Leads to local swelling, blistering, and potential amputation
+3.  **Hemotoxic Venom (e.g., vipers)**
+    -   Disrupts blood clotting
+    -   Causes internal bleeding, hypotension, and shoc
+
+**Factors Influencing Severity in Children**
+
+-   Smaller body mass increases the venom-to-weight ratio
+-   Delayed presentation to healthcare
+-   Inappropriate first aid (e.g., tourniquets)
+
+## Clinical Features
+
+**Local Effects**
+
+-   Pain and swelling at the bite site
+-   Bruising and blister formation
+-   Tissue necrosis (especially with cytotoxic venom)
+-   Fang marks (may be single or double puncture wounds)
+
+**Systemic Effects**
+
+**Neurotoxic Bites:**
+
+-   Ptosis (drooping eyelids)
+-   Dysphagia (difficulty swallowing)
+-   Respiratory distress
+-   Flaccid paralysis
+
+**Hemotoxic Bites:**
+
+-   Bleeding from gums, nose, or bite site
+-   Hematuria
+-   Hypotension and shock
+-   Disseminated intravascular coagulation (DIC)
+
+**Other Signs:**
+
+-   Fever
+-   Vomiting
+-   Abdominal pain
+-   Shock
+
+## First Aid and Pre-Hospital Management
+
+**Do’s:**
+
+-   Keep the child calm and still (to slow the venom spread)
+-   Immobilize the bitten limb using a splint
+-   Remove any tight clothing or jewelry near the bite
+-   Transport to a healthcare facility quickly
+
+**Don’ts**
+
+-   Do not apply a tourniquet
+-   Do not suck the venom
+-   Do not cut the wound
+-   Do not apply traditional medicines
+
+## Hospital Evaluation and Diagnosis
+
+History**:**
+
+-   Time and place of bite
+-   Activity at the time of bite
+-   Description or photo of the snake (if available)
+-   Symptoms since the bite
+
+Physical Examination**:**
+
+-   Vital signs: hypotension, tachypnea, hypoxia
+-   Site inspection: swelling, necrosis, fang marks
+-   Neurologic assessment: cranial nerves, motor strength
+-   Bleeding manifestations
+
+Laboratory Investigations**:**
+
+-   Full blood count (for anemia, leukocytosis, thrombocytopenia)
+-   Clotting profile (PT, aPTT, 20-minute whole blood clotting test)
+-   Renal function tests (serum urea, creatinine)
+-   Urinalysis (hematuria, myoglobinuria)
+-   Crossmatch for transfusion if necessary
+
+**20-Minute Whole Blood Clotting Test (20WBCT):**
+
+-   Simple bedside test using a clean, dry glass tube
+-   Failure to clot within 20 minutes suggests coagulopathy (common in viper bites)
+
+## Antivenom Therapy
+
+**Indications:**
+
+-   Rapidly progressive swelling
+-   Systemic signs: neurotoxicity, coagulopathy, hypotension
+-   Evidence of hemolysis or bleeding
+-   Children with severe pain or systemic deterioration
+
+**Types of Antivenom:**
+
+-   **Polyvalent antivenoms** are commonly used in Ghana and are effective against several species.
+-   Supplied by institutions like the Ministry of Health and the WHO.
+
+**Administrations**
+
+-   Test for hypersensitivity (some centers do not recommend skin testing)
+-   Administer IV over 30-60 minutes
+-   Monitor for anaphylaxis (rash, bronchospasm, hypotension)
+
+**Side Effects:**
+
+-   Early reactions: urticaria, itching, anaphylaxis
+-   Late reactions: serum sickness (fever, rash, arthritis)
+
+## Supportive Management
+
+-   **Airway and Breathing:** Intubation and ventilation if neurotoxic paralysis occurs
+-   **Circulation:** IV fluids for shock, blood transfusions for anemia or coagulopathy
+-   **Pain Control:** Paracetamol; avoid NSAIDs due to bleeding risk
+-   **Tetanus Prophylaxis**
+-   **Antibiotics:** Only if signs of secondary infection; snakebite wounds are generally not
+    sterile
+-   **Wound Care:** Debridement if necrosis develops; monitor for compartment syndrome
+
+## Complications
+
+-   **Acute Kidney Injury (AKI):** Hemoglobinuria or hypotension may lead to renal damage
+
+-   **Compartment Syndrome:** Due to excessive swelling; requires surgical fasciotomy
+
+-   **Limb Loss:** From severe necrosis or gangrene
+
+-   **Shock:** From venom or sepsis
+
+-   **Chronic Sequelae:**
+
+    -   Disfigurement
+    -   Reduced limb function
+    -   Psychosocial issues
+
+## Prognosis
+
+-   Prognosis depends on:
+    -   Type of snake
+    -   Time to hospital presentation
+    -   Child’s nutritional status and comorbidities
+-   Early intervention greatly improves outcomes.
+-   Mortality rates can be significantly reduced with appropriate antivenom and supportive care.
+
+## Prevention Strategies
+
+**Community Education:**
+
+-   Teach children to avoid snake-infested areas
+-   Use of protective clothing (boots, gloves)
+-   Awareness about seeking early medical care
+
+**Environmental Measures:**
+
+-   Keep surroundings clear of bushes and rodents (which attract snakes)
+-   Use of mosquito nets (many bites occur at night)
+
+**Government and Health Policy**
+
+-   Ensure a consistent supply of antivenoms
+-   Train rural healthcare workers in snakebite management
+-   Integrate snakebite education in school curricula
+
+## Special Considerations in Ghana
+
+-   Traditional beliefs often delay hospital treatment
+-   Transportation difficulties in rural areas
+-   Cost of antivenom, though often subsidized, remains a barrier
+-   Lack of access to ventilators in some facilities hinders care for neurotoxic bites
+
+## Case Study (Example)
+
+**Patient:** 7-year-old boy from Brong-Ahafo\
+**Presentation:** Bitten on the left foot while walking through the grass to school\
+**Symptoms:** Pain, swelling up to the knee, bleeding from the gums\
+**Findings:** Fang marks present, 20WBCT abnormal, hematuria\
+**Management:**
+
+-   IV fluids
+
+-   Polyvalent antivenom (2 vials)
+
+-   Paracetamol for pain
+
+-   Close monitoring in the pediatric ward
+
+    **Outcome:** Swelling reduced by day 3, discharged on day 5 with normal clotting time
+
+## Summary
+
+-   Snake bites are a medical emergency in children, especially in rural Ghana.
+-   Prompt immobilization and transportation to a health facility are critical.
+-   Antivenom is the cornerstone of treatment for venomous bites.
+-   Supportive care and complication management improve survival and reduce the risk of disability.
+-   Preventive education and community engagement are essential.
+
+## Key Points
+
+1.  Always suspect a venomous bite in a symptomatic child from an endemic area.
+2.  Do not delay administering antivenom if systemic signs or rapid local progression are present.
+3.  Monitor vital signs and watch for early and late antivenom reactions.
+4.  Avoid outdated or potentially harmful first-aid practices, such as using tourniquets or making
+    incisions.
+5.  Educate families and communities about snakebite prevention, early care, and treatment.
