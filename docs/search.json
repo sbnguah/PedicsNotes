@@ -4468,6 +4468,204 @@
     ]
   },
   {
+    "objectID": "home-paracetamol.html",
+    "href": "home-paracetamol.html",
+    "title": "76  Paracetamol Poisoning",
+    "section": "",
+    "text": "76.1 Introduction\nParacetamol (also known as acetaminophen) is one of the most commonly used over-the-counter medications for fever and pain in children. While generally safe at therapeutic doses, paracetamol poisoning can lead to life-threatening hepatotoxicity if taken in excessive amounts.\nIn Ghana and similar settings, where self-medication and delayed health-seeking behaviors are common, cases of accidental or intentional ingestion are frequently encountered. This makes it essential for every medical student to understand the presentation, pathophysiology, diagnosis, and management of paracetamol poisoning.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Home Accidents</span>",
+      "<span class='chapter-number'>76</span>  <span class='chapter-title'>Paracetamol Poisoning</span>"
+    ]
+  },
+  {
+    "objectID": "home-paracetamol.html#epidemiology",
+    "href": "home-paracetamol.html#epidemiology",
+    "title": "76  Paracetamol Poisoning",
+    "section": "76.2 Epidemiology",
+    "text": "76.2 Epidemiology\n\nCommon cause of drug overdose in children globally.\nIn children under 6, most cases are accidental.\nIn adolescents, intentional ingestion may indicate suicidal ideation.\nEasy availability and parental unawareness of correct dosing contribute to risk.\nLiquid formulations (e.g., syrups) and tablets are common sources.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Home Accidents</span>",
+      "<span class='chapter-number'>76</span>  <span class='chapter-title'>Paracetamol Poisoning</span>"
+    ]
+  },
+  {
+    "objectID": "home-paracetamol.html#toxic-dose",
+    "href": "home-paracetamol.html#toxic-dose",
+    "title": "76  Paracetamol Poisoning",
+    "section": "76.3 Toxic Dose",
+    "text": "76.3 Toxic Dose\nTherapeutic dose:\n\n10–15 mg/kg per dose, up to 60 mg/kg/day in children.\n\nToxic dose:\n\nSingle ingestion of ≥150 mg/kg in children is considered potentially toxic.\nIn neonates and infants, even lower doses may cause toxicity due to immature liver metabolism.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Home Accidents</span>",
+      "<span class='chapter-number'>76</span>  <span class='chapter-title'>Paracetamol Poisoning</span>"
+    ]
+  },
+  {
+    "objectID": "home-paracetamol.html#pathophysiology",
+    "href": "home-paracetamol.html#pathophysiology",
+    "title": "76  Paracetamol Poisoning",
+    "section": "76.4 Pathophysiology",
+    "text": "76.4 Pathophysiology\nParacetamol is primarily metabolized in the liver by\n\nGlucuronidation and sulfation → Non-toxic metabolites (90%)\nCytochrome P450 enzyme (CYP2E1) → Minor pathway forms a toxic metabolite called NAPQI (N-acetyl-p-benzoquinone imine)\n\nIn therapeutic doses\n\nNAPQI is rapidly detoxified by glutathione\n\nIn overdose:\n\nGlutathione stores are depleted\nNAPQI accumulates → Hepatocellular damage, centrilobular necrosis\nSevere cases can lead to acute liver failure, coagulopathy, and death",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Home Accidents</span>",
+      "<span class='chapter-number'>76</span>  <span class='chapter-title'>Paracetamol Poisoning</span>"
+    ]
+  },
+  {
+    "objectID": "home-paracetamol.html#clinical-features",
+    "href": "home-paracetamol.html#clinical-features",
+    "title": "76  Paracetamol Poisoning",
+    "section": "76.5 Clinical Features",
+    "text": "76.5 Clinical Features\nParacetamol toxicity has a four-phase clinical progression:\nPhase I (0–24 hours) – Asymptomatic or mild GI symptoms\n\nNausea, vomiting\nAnorexia\nPallor, lethargy\nMost children appear well\n\nPhase II (24–72 hours) – Hepatic injury begins\n\nRight upper quadrant pain or tenderness\nElevated liver enzymes (ALT, AST)\nProlonged prothrombin time (PT)\nOliguria (renal involvement)\n\nPhase III (72–96 hours) – Maximum hepatotoxicity\n\nJaundice\nHepatic encephalopathy\nBleeding (coagulopathy)\nHypoglycemia\nAcute kidney injury\nMulti-organ failure\n\nPhase IV (4–14 days) – Recovery or death\n\nComplete recovery in survivors\nLiver regeneration may take weeks",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Home Accidents</span>",
+      "<span class='chapter-number'>76</span>  <span class='chapter-title'>Paracetamol Poisoning</span>"
+    ]
+  },
+  {
+    "objectID": "home-paracetamol.html#risk-factors-for-severe-poisoning",
+    "href": "home-paracetamol.html#risk-factors-for-severe-poisoning",
+    "title": "76  Paracetamol Poisoning",
+    "section": "76.6 Risk Factors for Severe Poisoning",
+    "text": "76.6 Risk Factors for Severe Poisoning\n\nDelayed presentation (&gt;8 hours)\nRepeated supratherapeutic dosing\nMalnutrition (reduced glutathione reserves)\nPre-existing liver disease (e.g., hepatitis B)\nConcomitant use of enzyme inducers (e.g., anti-TB drugs)",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Home Accidents</span>",
+      "<span class='chapter-number'>76</span>  <span class='chapter-title'>Paracetamol Poisoning</span>"
+    ]
+  },
+  {
+    "objectID": "home-paracetamol.html#diagnosis",
+    "href": "home-paracetamol.html#diagnosis",
+    "title": "76  Paracetamol Poisoning",
+    "section": "76.7 Diagnosis",
+    "text": "76.7 Diagnosis\nClinical history:\n\nTime, dose, and formulation of paracetamol ingested\nNumber of tablets or volume of syrup\nCo-ingestants (e.g., alcohol, antihistamines)\nSymptoms since ingestion\n\nPhysical examination\n\nVital signs, signs of hepatic dysfunction\nAbdominal tenderness (RUQ)\nJaundice, mental status (encephalopathy)\n\nLaboratory investigations:\n\nSerum paracetamol level (at 4 hours post-ingestion)\nLiver function tests (LFTs): ALT, AST, bilirubin\nProthrombin time / INR\nSerum creatinine and urea (renal function)\nBlood glucose\nElectrolytes\nArterial blood gas (if acidosis suspected)",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Home Accidents</span>",
+      "<span class='chapter-number'>76</span>  <span class='chapter-title'>Paracetamol Poisoning</span>"
+    ]
+  },
+  {
+    "objectID": "home-paracetamol.html#rumack-matthew-nomogram",
+    "href": "home-paracetamol.html#rumack-matthew-nomogram",
+    "title": "76  Paracetamol Poisoning",
+    "section": "76.8 Rumack-Matthew Nomogram",
+    "text": "76.8 Rumack-Matthew Nomogram\nUsed to interpret serum paracetamol levels and determine need for antidote.\n\nPlot serum paracetamol level against time since ingestion (only valid for single acute ingestions)\nA level above the “treatment line” (150 µg/mL at 4 hours) indicates need for N-acetylcysteine (NAC)\n\nNot applicable for\n\nIngestion &lt;4 hours or &gt;24 hours ago\nRepeated supratherapeutic ingestion\nExtended-release formulations",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Home Accidents</span>",
+      "<span class='chapter-number'>76</span>  <span class='chapter-title'>Paracetamol Poisoning</span>"
+    ]
+  },
+  {
+    "objectID": "home-paracetamol.html#management",
+    "href": "home-paracetamol.html#management",
+    "title": "76  Paracetamol Poisoning",
+    "section": "76.9 Management",
+    "text": "76.9 Management\n\n76.9.1 Initial Stabilization\n\nAirway, Breathing, Circulation (ABCs)\nVital signs monitoring\nIV access\nActivated charcoal:\n\nIndicated if child presents within 1 hour of ingestion\nDose: 1 g/kg (maximum 50 g)\nOnly if airway is protected",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Home Accidents</span>",
+      "<span class='chapter-number'>76</span>  <span class='chapter-title'>Paracetamol Poisoning</span>"
+    ]
+  },
+  {
+    "objectID": "home-paracetamol.html#antidote-n-acetylcysteine-nac",
+    "href": "home-paracetamol.html#antidote-n-acetylcysteine-nac",
+    "title": "76  Paracetamol Poisoning",
+    "section": "76.10 Antidote – N-Acetylcysteine (NAC)",
+    "text": "76.10 Antidote – N-Acetylcysteine (NAC)\nMechanism:\n\nReplenishes glutathione stores\nEnhances non-toxic metabolism of NAPQI\n\nIndications:\n\nSerum level above treatment line on nomogram\nUnknown ingestion time + raised LFTs\nClinical signs of hepatotoxicity\nSuspected ingestion &gt;150 mg/kg\n\nNAC Administration\nIV Route (preferred in children):\n\nLoading dose: 150 mg/kg over 1 hour\nThen: 50 mg/kg over 4 hours\nThen: 100 mg/kg over 16 hours (total = 300 mg/kg over 21 hours)\n\nOral Route (if IV not available):\n\n140 mg/kg loading dose\nThen 70 mg/kg every 4 hours × 17 doses (total = 1330 mg/kg over 72 hours)\nUnpalatable and may induce vomiting",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Home Accidents</span>",
+      "<span class='chapter-number'>76</span>  <span class='chapter-title'>Paracetamol Poisoning</span>"
+    ]
+  },
+  {
+    "objectID": "home-paracetamol.html#supportive-care",
+    "href": "home-paracetamol.html#supportive-care",
+    "title": "76  Paracetamol Poisoning",
+    "section": "76.11 Supportive Care",
+    "text": "76.11 Supportive Care\n\nIV fluids: for dehydration or shock\nGlucose: to prevent/treat hypoglycemia\nVitamin K or FFP: for coagulopathy\nDialysis: for renal failure or severe acidosis\nLiver transplant: in fulminant hepatic failure (not readily available in Ghana)",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Home Accidents</span>",
+      "<span class='chapter-number'>76</span>  <span class='chapter-title'>Paracetamol Poisoning</span>"
+    ]
+  },
+  {
+    "objectID": "home-paracetamol.html#monitoring",
+    "href": "home-paracetamol.html#monitoring",
+    "title": "76  Paracetamol Poisoning",
+    "section": "76.12 Monitoring",
+    "text": "76.12 Monitoring\n\nLiver enzymes every 12–24 hours\nINR, glucose, renal function\nMental status (for encephalopathy)\nContinue NAC until clinical and biochemical improvement",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Home Accidents</span>",
+      "<span class='chapter-number'>76</span>  <span class='chapter-title'>Paracetamol Poisoning</span>"
+    ]
+  },
+  {
+    "objectID": "home-paracetamol.html#disposition",
+    "href": "home-paracetamol.html#disposition",
+    "title": "76  Paracetamol Poisoning",
+    "section": "76.13 Disposition",
+    "text": "76.13 Disposition\n\n\n\n\n\n\n\nScenario\nAction\n\n\nIngestion &lt;150 mg/kg, asymptomatic\nObserve for 4–6 hours, discharge if well\n\n\nIngestion &gt;150 mg/kg, &lt;8 hours ago\nBegin NAC\n\n\nIngestion &gt;24 hours ago, symptomatic\nTreat as hepatic injury, give NAC\n\n\nIntentional overdose\nAdmit, psychiatric evaluation",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Home Accidents</span>",
+      "<span class='chapter-number'>76</span>  <span class='chapter-title'>Paracetamol Poisoning</span>"
+    ]
+  },
+  {
+    "objectID": "home-paracetamol.html#prevention-strategies",
+    "href": "home-paracetamol.html#prevention-strategies",
+    "title": "76  Paracetamol Poisoning",
+    "section": "76.14 Prevention Strategies",
+    "text": "76.14 Prevention Strategies\n\nPublic education: About correct pediatric dosing\nChild-proof containers\nProper labeling of medications\nAvoid overlapping medications with paracetamol content (e.g., cold and pain meds)\nEducate parents to seek medical attention early after overdose",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Home Accidents</span>",
+      "<span class='chapter-number'>76</span>  <span class='chapter-title'>Paracetamol Poisoning</span>"
+    ]
+  },
+  {
+    "objectID": "home-paracetamol.html#special-considerations-in-ghana",
+    "href": "home-paracetamol.html#special-considerations-in-ghana",
+    "title": "76  Paracetamol Poisoning",
+    "section": "76.15 Special Considerations in Ghana",
+    "text": "76.15 Special Considerations in Ghana\n\nLimited access to serum paracetamol assays: clinical judgment and reported dose guide treatment\nNAC may not always be readily available – advocate for stocking in district and regional hospitals\nTraditional medicines may contain unknown paracetamol content – careful history is important\nEarly transfer to higher-level facilities for severe cases\nCommunity education on risks of overmedication and self-medication",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Home Accidents</span>",
+      "<span class='chapter-number'>76</span>  <span class='chapter-title'>Paracetamol Poisoning</span>"
+    ]
+  },
+  {
+    "objectID": "home-paracetamol.html#case-scenario",
+    "href": "home-paracetamol.html#case-scenario",
+    "title": "76  Paracetamol Poisoning",
+    "section": "76.16 Case Scenario",
+    "text": "76.16 Case Scenario\nCase 1: 3-year-old girl\nPresentation:\n\nMother reports child accidentally drank 10 teaspoons of paracetamol syrup (120 mg/5 ml) ≈ 1200 mg\nWeight: 12 kg → Toxic dose = 1800 mg (150 mg/kg)\nChild appears well; ingestion occurred 2 hours ago\n\nAction:\n\nCalculate dose: 1200 mg ÷ 12 kg = 100 mg/kg\nBelow toxic threshold → Observe for 4–6 hours\nNo NAC needed\nEducate mother on correct dosing\n\nCase 2: 13-year-old girl (suicidal ingestion)\nPresentation:\n\nTook 20 x 500 mg tablets (10,000 mg) 4 hours ago\nWeight: 40 kg → Dose = 250 mg/kg (toxic)\nNausea, abdominal pain\nStart IV NAC\nCheck LFTs, INR, glucose\nAdmit and arrange psychiatric evaluation",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Home Accidents</span>",
+      "<span class='chapter-number'>76</span>  <span class='chapter-title'>Paracetamol Poisoning</span>"
+    ]
+  },
+  {
+    "objectID": "home-paracetamol.html#summary-table",
+    "href": "home-paracetamol.html#summary-table",
+    "title": "76  Paracetamol Poisoning",
+    "section": "76.17 Summary Table",
+    "text": "76.17 Summary Table\n\n\n\nParameter\nValue\n\n\nSafe dose\n10–15 mg/kg/dose\n\n\nMaximum daily dose\n60 mg/kg/day\n\n\nToxic dose\n&gt;150 mg/kg (single ingestion)\n\n\nAntidote\nN-acetylcysteine (NAC)\n\n\nNAC IV dose\n300 mg/kg over 21 hours\n\n\nSerum level interpretation\nRumack-Matthew nomogram\n\n\nOnset of liver injury\n24–72 hours post-ingestion\n\n\nOutcome\nExcellent if treated early",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Home Accidents</span>",
+      "<span class='chapter-number'>76</span>  <span class='chapter-title'>Paracetamol Poisoning</span>"
+    ]
+  },
+  {
+    "objectID": "home-paracetamol.html#conclusion",
+    "href": "home-paracetamol.html#conclusion",
+    "title": "76  Paracetamol Poisoning",
+    "section": "76.18 Conclusion",
+    "text": "76.18 Conclusion\nParacetamol poisoning is common, preventable, and potentially fatal if not recognized and treated early. Prompt administration of N-acetylcysteine can prevent liver failure even in significant overdoses. In Ghana, clinical assessment remains the cornerstone due to limited laboratory resources. Medical students must be vigilant, advocate for early treatment, and educate caregivers on safe medication practices.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Home Accidents</span>",
+      "<span class='chapter-number'>76</span>  <span class='chapter-title'>Paracetamol Poisoning</span>"
+    ]
+  },
+  {
     "objectID": "bite-snake.html",
     "href": "bite-snake.html",
     "title": "82  Snake Bites",

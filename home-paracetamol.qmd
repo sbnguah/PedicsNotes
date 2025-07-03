@@ -1,4 +1,267 @@
 ---
 title: "Paracetamol Poisoning"
-author: "Dr. Justice Sylverken"
+date: 2025-07-02
 ---
+
+## Introduction
+
+Paracetamol (also known as acetaminophen) is one of the most commonly used over-the-counter
+medications for fever and pain in children. While generally safe at therapeutic doses, **paracetamol
+poisoning** can lead to **life-threatening hepatotoxicity** if taken in excessive amounts.
+
+In Ghana and similar settings, where self-medication and delayed health-seeking behaviors are
+common, cases of **accidental or intentional ingestion** are frequently encountered. This makes it
+essential for every medical student to understand the presentation, pathophysiology, diagnosis, and
+management of paracetamol poisoning.
+
+## Epidemiology
+
+-   Common cause of **drug overdose in children** globally.
+-   In children under 6, most cases are **accidental**.
+-   In adolescents, intentional ingestion may indicate **suicidal ideation**.
+-   Easy availability and parental unawareness of correct dosing contribute to risk.
+-   Liquid formulations (e.g., syrups) and tablets are common sources.
+
+## Toxic Dose
+
+**Therapeutic dose:**
+
+-   **10–15 mg/kg per dose**, up to **60 mg/kg/day** in children.
+
+**Toxic dose:**
+
+-   **Single ingestion of ≥150 mg/kg** in children is considered **potentially toxic**.
+-   In neonates and infants, even **lower doses may cause toxicity** due to immature liver
+    metabolism.
+
+## Pathophysiology
+
+Paracetamol is primarily metabolized in the liver by
+
+1.  **Glucuronidation** and **sulfation** → Non-toxic metabolites (90%)
+2.  **Cytochrome P450 enzyme (CYP2E1)** → Minor pathway forms a **toxic metabolite** called **NAPQI
+    (N-acetyl-p-benzoquinone imine)**
+
+**In therapeutic doses**
+
+-   NAPQI is rapidly detoxified by **glutathione**
+
+**In overdose:**
+
+-   Glutathione stores are **depleted**
+-   NAPQI accumulates → **Hepatocellular damage**, centrilobular necrosis
+-   Severe cases can lead to **acute liver failure**, **coagulopathy**, and **death**
+
+## Clinical Features
+
+Paracetamol toxicity has a **four-phase clinical progression**:
+
+**Phase I (0–24 hours) – *Asymptomatic or mild GI symptoms***
+
+-   Nausea, vomiting
+-   Anorexia
+-   Pallor, lethargy
+-   Most children appear **well**
+
+**Phase II (24–72 hours) – *Hepatic injury begins***
+
+-   Right upper quadrant pain or tenderness
+-   Elevated liver enzymes (ALT, AST)
+-   Prolonged prothrombin time (PT)
+-   Oliguria (renal involvement)
+
+**Phase III (72–96 hours) – *Maximum hepatotoxicity***
+
+-   Jaundice
+-   Hepatic encephalopathy
+-   Bleeding (coagulopathy)
+-   Hypoglycemia
+-   Acute kidney injury
+-   Multi-organ failure
+
+**Phase IV (4–14 days) – *Recovery or death***
+
+-   Complete recovery in survivors
+-   Liver regeneration may take weeks
+
+## Risk Factors for Severe Poisoning
+
+-   **Delayed presentation (\>8 hours)**
+-   **Repeated supratherapeutic dosing**
+-   Malnutrition (reduced glutathione reserves)
+-   Pre-existing liver disease (e.g., hepatitis B)
+-   Concomitant use of enzyme inducers (e.g., anti-TB drugs)
+
+## Diagnosis
+
+**Clinical history:**
+
+-   Time, dose, and formulation of paracetamol ingested
+-   Number of tablets or volume of syrup
+-   Co-ingestants (e.g., alcohol, antihistamines)
+-   Symptoms since ingestion
+
+**Physical examination**
+
+-   Vital signs, signs of hepatic dysfunction
+-   Abdominal tenderness (RUQ)
+-   Jaundice, mental status (encephalopathy)
+
+**Laboratory investigations:**
+
+-   **Serum paracetamol level** (at 4 hours post-ingestion)
+-   **Liver function tests (LFTs)**: ALT, AST, bilirubin
+-   **Prothrombin time / INR**
+-   **Serum creatinine and urea** (renal function)
+-   **Blood glucose**
+-   **Electrolytes**
+-   **Arterial blood gas** (if acidosis suspected)
+
+## Rumack-Matthew Nomogram
+
+Used to interpret **serum paracetamol levels** and determine need for **antidote**.
+
+-   Plot serum paracetamol level against time since ingestion (only valid for **single acute
+    ingestions**)
+-   A level **above the "treatment line"** (150 µg/mL at 4 hours) indicates need for
+    **N-acetylcysteine (NAC)**
+
+Not applicable for
+
+-   Ingestion \<4 hours or \>24 hours ago
+-   Repeated supratherapeutic ingestion
+-   Extended-release formulations
+
+## Management
+
+### Initial Stabilization
+
+1.  **Airway, Breathing, Circulation (ABCs)**
+2.  **Vital signs monitoring**
+3.  **IV access**
+4.  **Activated charcoal**:
+    -   Indicated if child presents **within 1 hour** of ingestion
+    -   Dose: 1 g/kg (maximum 50 g)
+    -   Only if **airway is protected**
+
+## Antidote – N-Acetylcysteine (NAC)
+
+**Mechanism:**
+
+-   Replenishes **glutathione stores**
+-   Enhances non-toxic metabolism of NAPQI
+
+**Indications:**
+
+-   Serum level above treatment line on nomogram
+-   Unknown ingestion time + raised LFTs
+-   Clinical signs of hepatotoxicity
+-   Suspected ingestion \>150 mg/kg
+
+**NAC Administration**
+
+**IV Route (preferred in children):**
+
+-   **Loading dose**: 150 mg/kg over 1 hour
+-   **Then**: 50 mg/kg over 4 hours
+-   **Then**: 100 mg/kg over 16 hours (total = 300 mg/kg over 21 hours)
+
+**Oral Route (if IV not available):**
+
+-   140 mg/kg loading dose
+-   Then 70 mg/kg every 4 hours × 17 doses (total = 1330 mg/kg over 72 hours)
+-   Unpalatable and may induce vomiting
+
+## Supportive Care
+
+-   **IV fluids**: for dehydration or shock
+-   **Glucose**: to prevent/treat hypoglycemia
+-   **Vitamin K** or FFP: for coagulopathy
+-   **Dialysis**: for renal failure or severe acidosis
+-   **Liver transplant**: in fulminant hepatic failure (not readily available in Ghana)
+
+## Monitoring
+
+-   **Liver enzymes** every 12–24 hours
+-   **INR**, **glucose**, **renal function**
+-   Mental status (for encephalopathy)
+-   Continue NAC until clinical and biochemical improvement
+
+## Disposition
+
+|                                       |                                          |
+|---------------------------------------|------------------------------------------|
+| **Scenario**                          | **Action**                               |
+| Ingestion \<150 mg/kg, asymptomatic   | Observe for 4–6 hours, discharge if well |
+| Ingestion \>150 mg/kg, \<8 hours ago  | Begin NAC                                |
+| Ingestion \>24 hours ago, symptomatic | Treat as hepatic injury, give NAC        |
+| Intentional overdose                  | Admit, psychiatric evaluation            |
+
+## Prevention Strategies
+
+-   **Public education**: About correct pediatric dosing
+-   **Child-proof containers**
+-   **Proper labeling** of medications
+-   **Avoid overlapping medications** with paracetamol content (e.g., cold and pain meds)
+-   Educate parents to **seek medical attention early** after overdose
+
+## Special Considerations in Ghana
+
+-   Limited access to **serum paracetamol assays**: clinical judgment and reported dose guide
+    treatment
+-   NAC may not always be readily available – advocate for stocking in **district and regional
+    hospitals**
+-   **Traditional medicines** may contain unknown paracetamol content – careful history is important
+-   Early transfer to **higher-level facilities** for severe cases
+-   Community education on **risks of overmedication and self-medication**
+
+## Case Scenario
+
+**Case 1: 3-year-old girl**
+
+**Presentation:**
+
+-   Mother reports child accidentally drank 10 teaspoons of paracetamol syrup (120 mg/5 ml) ≈ 1200
+    mg
+-   Weight: 12 kg → Toxic dose = 1800 mg (150 mg/kg)
+-   Child appears well; ingestion occurred 2 hours ago
+
+**Action:**
+
+-   Calculate dose: 1200 mg ÷ 12 kg = 100 mg/kg
+-   Below toxic threshold → Observe for 4–6 hours
+-   No NAC needed
+-   Educate mother on correct dosing
+
+**Case 2: 13-year-old girl (suicidal ingestion)**
+
+**Presentation:**
+
+-   Took 20 x 500 mg tablets (10,000 mg) 4 hours ago
+-   Weight: 40 kg → Dose = 250 mg/kg (toxic)
+-   Nausea, abdominal pain
+-   Start IV NAC
+-   Check LFTs, INR, glucose
+-   Admit and arrange psychiatric evaluation
+
+## Summary Table
+
+|                            |                                |
+|----------------------------|--------------------------------|
+| **Parameter**              | **Value**                      |
+| Safe dose                  | 10–15 mg/kg/dose               |
+| Maximum daily dose         | 60 mg/kg/day                   |
+| Toxic dose                 | \>150 mg/kg (single ingestion) |
+| Antidote                   | N-acetylcysteine (NAC)         |
+| NAC IV dose                | 300 mg/kg over 21 hours        |
+| Serum level interpretation | Rumack-Matthew nomogram        |
+| Onset of liver injury      | 24–72 hours post-ingestion     |
+| Outcome                    | Excellent if treated early     |
+
+## Conclusion
+
+Paracetamol poisoning is **common, preventable**, and **potentially fatal** if not recognized and
+treated early. Prompt administration of **N-acetylcysteine** can prevent liver failure even in
+significant overdoses. In Ghana, clinical assessment remains the cornerstone due to limited
+laboratory resources. Medical students must be vigilant, advocate for early treatment, and educate
+caregivers on safe medication practices.

@@ -1,6 +1,5 @@
 ---
 title: "Growth and Development"
-author: "xxx"
 date: 2025-06-06
 ---
 

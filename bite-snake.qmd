@@ -32,11 +32,11 @@ complications, and preventive strategies.
 In Ghana, the major venomous snakes include:
 
 |  |  |  |  |
-|------------------------|----------------------------|------------------------|------------------------|
+|----|----|----|----|
 | **Snake Family** | **Example** | **Type of Venom** | **Effects** |
-|  **Elapidae** | Cobra (e.g., *Naja nigricollis*) | Neurotoxic | Paralysis, respiratory failure |
+| **Elapidae** | Cobra (e.g., *Naja nigricollis*) | Neurotoxic | Paralysis, respiratory failure |
 |  | Mamba (*Dendroaspis* spp.) | Neurotoxic | Rapid-onset paralysis |
-|   **Viperidae** | Puff Adder (*Bitis arietans*) | Cytotoxic and Hemotoxic | Swelling, bleeding, necrosis |
+| **Viperidae** | Puff Adder (*Bitis arietans*) | Cytotoxic and Hemotoxic | Swelling, bleeding, necrosis |
 |  | Gaboon Viper (*Bitis gabonica*) | Hemotoxi | Severe local effects, shock |
 
 Non-venomous snakes also exist and are often mistaken for dangerous species, leading to unnecessary
