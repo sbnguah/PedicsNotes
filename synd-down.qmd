@@ -210,3 +210,84 @@ expectancy and quality of life for individuals with Down syndrome. However, ongo
 the genetic and molecular basis of the condition holds promise for novel therapeutic interventions.
 Holistic care, including medical, developmental, and psychosocial support, is crucial in empowering
 individuals with Down syndrome to lead fulfilling lives.
+
+## Review Schedule
+
++--------------------------------+--------------------------------+--------------------------------+
+| **Age:** *Focus Areas*         | **Assessments & Follow-Up**    | **Referral/Intervention**      |
++--------------------------------+--------------------------------+--------------------------------+
+| **Birth – 1:**                 | -   Confirm karyotype          | -   Refer to cardiology if CHD |
+|                                | -   Physical exam for          |     is suspected               |
+| *Month: Initial Screening*     |     congenital anomalies       | -   Audiology                  |
+|                                | -   Cardiac exam (Echo)        | -   Endocrine if thyroid       |
+|                                | -   Hearing screen- Vision     |     abnormal                   |
+|                                |     screen- Thyroid (TSH/T4)   | -   Genetic counselling        |
+|                                | -   Feeding and weight         |                                |
+|                                |     monitoring                 |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| **1 – 6 Months:**              | -   Growth (weight, length,    | -   Physiotherapy              |
+|                                |     head circumference)        | -   Feeding team               |
+| Early Development              | -   Neurodevelopment           | -   Early intervention         |
+|                                | -   ENT exam                   |     programs                   |
+|                                | -   Repeat hearing if needed   |                                |
+|                                | -   Monitor for feeding issues |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| **6 – 12 Months:** Development | -   Developmental milestone    | -   Refer to ophthalmology if  |
+| & Screening                    |     check                      |     strabismus or visual       |
+|                                | -   ENT/hearing follow-up      |     issues                     |
+|                                | -   Vision assessment          | -   OT/speech therapy          |
+|                                | -   Thyroid screen at 6 months |                                |
+|                                | -   Monitor for constipation,  |                                |
+|                                |     reflux                     |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| **1 – 2 Years:** Cognitive &   | -   Annual thyroid (TSH/T4)    | -   ENT for sleep apnea        |
+| Physical Growth                | -   Hearing test every 6       | -   Nutrition/dietitian        |
+|                                |     months                     | -   Developmental therapist    |
+|                                | -   Vision annually            |                                |
+|                                | -   CBC if not yet done (risk  |                                |
+|                                |     of leukemia)               |                                |
+|                                | -   Monitor sleep apnea        |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| **2 – 5 Years:** School        | -   Annual thyroid             | -   Enroll in an inclusive     |
+| Readiness                      | -   Hearing test annually      |     preschool                  |
+|                                | -   Vision annually            | -   Speech & language therapy  |
+|                                | -   Growth charts for DS       | -   Audiologist, ENT, dentist  |
+|                                | -   Screen for ASD/ADHD        |                                |
+|                                | -   Dental exam every 6 months |                                |
+|                                | -   Behavioral assessment      |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| **5 – 10 Years:** Academic,    | -   Thyroid annually           | -   Psychologist or special    |
+| Social, and Health Monitoring  | -   Vision & hearing annually  |     educator                   |
+|                                | -   Dental care every 6 months | -   Sleep study if suspected   |
+|                                | -   Check for atlantoaxial     |     OSA                        |
+|                                |     instability (C-spine X-ray | -   Orthopedic review for      |
+|                                |     before sports)             |     signs of instability       |
+|                                | -   Behaviour/school           |                                |
+|                                |     performance                |                                |
+|                                | -   Sleep & snoring screening  |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| **10 – 13 Years:** Puberty &   | -   Annual thyroid             | -   Adolescent counselor       |
+| Social Development             | -   Vision, hearing and ,      | -   Gynecology referral if     |
+|                                |     dental                     |     needed                     |
+|                                | -   Growth and puberty         |                                |
+|                                |     assessment                 |                                |
+|                                | -   Discuss menstrual hygiene  |                                |
+|                                |     (girls)                    |                                |
+|                                | -   Sexual education           |                                |
+|                                |     (age-appropriate)- Screen  |                                |
+|                                |     for depression/anxiety     |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| **13 – 16 Years:** Transition  | -   Continue yearly thyroid,   | -   Social services            |
+| Planning                       |     vision, and hearing        | -   Vocational/skills training |
+|                                | -   Discuss vocational goals   | -   Mental health services     |
+|                                | -   Encourage independence &   |                                |
+|                                |     self-care                  |                                |
+|                                | -   Monitor for obesity,       |                                |
+|                                |     diabetes signs             |                                |
+|                                | -   Behavioral and mental      |                                |
+|                                |     health check               |                                |
++--------------------------------+--------------------------------+--------------------------------+
+
+|     |
+|-----|
+|     |
