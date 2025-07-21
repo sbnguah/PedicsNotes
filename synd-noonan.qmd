@@ -96,3 +96,123 @@ mild or no learning difficulties do not require special education but can integr
 mainstream schools. Families of affected children should be linked to support groups. Patients with
 bleeding disorders must be advised against the use of aspirin and aspirin-containing products or
 other medications that may interfere with coagulation or platelet function.
+
+## Review schedule
+
+**Birth – 1 Month**
+
+-   Confirm diagnosis (clinical or genetic testing)
+-   Full physical examination (facial features, webbed neck, pectus deformity)
+-   Echocardiogram (commonly pulmonary valve stenosis or hypertrophic cardiomyopathy)
+-   Renal ultrasound (identify structural anomalies)
+-   Feeding and growth assessment
+-   Hematologic evaluation (coagulation profile due to bleeding diathesis)
+-   Referrals:
+    -   Cardiology
+    -   Nephrology
+    -   Genetic counseling
+    -   Nutritionist (if feeding difficulties)
+
+**1 – 6 Months**
+
+-   Monitor growth, weight, and development
+-   Repeat echocardiogram if initial findings abnormal
+-   Assess for feeding problems, reflux
+-   Ophthalmologic evaluation (strabismus, refractive errors)
+-   Hearing screen (sensorineural or conductive hearing loss risk)
+-   Coagulation profile if surgical procedure is planned
+-   Referrals:
+    -   ENT for hearing concerns
+    -   Ophthalmology
+    -   Developmental services if delays are present
+
+**6 – 12 Months**
+
+-   Track developmental milestones
+-   Monitor growth using NS-specific growth charts if available
+-   Repeat vision and hearing assessment
+-   Screen for neuromotor or cognitive delay
+-   Evaluate for bleeding/bruising
+-   Begin early intervention therapies if delays
+-   Continue feeding and nutrition support
+
+**1 – 2 Years**
+
+-   Annual:
+    -   Hearing
+    -   Vision
+    -   Coagulation profile if needed
+    -   Cardiac follow-up if heart defect presen
+-   Monitor:
+    -   Growth velocity
+    -   Milestone achievement
+    -   Behavioral or speech delays
+-   Consider speech therapy if language is delayed
+-   Dental evaluation (high arched palate, crowded teeth)
+
+**2 – 5 Years**
+
+-   Annual:
+    -   Vision, hearing, and cardiac exams
+    -   Thyroid function (especially if sluggish growth)
+-   Track growth and nutritional status
+-   Evaluate for:
+    -   Speech delays
+    -   Behavioral concerns (ADHD, anxiety)
+-   Monitor for bleeding/bruising during procedures
+-   Begin preschool/school readiness assessment
+-   Referrals:
+    -   Speech/language therapy
+    -   Child psychologist if behavioral issues arise
+
+**5 – 10 Years**
+
+-   Annual:
+    -   Echocardiogram (especially for hypertrophic cardiomyopathy)
+    -   Vision, hearing, and dental
+    -   Developmental and behavioral assessment
+-   Monitor:
+    -   Learning difficulties and school performance
+    -   Emotional and social development
+-   Assess for short stature and consider growth hormone therapy if growth failure persists
+-   Continue monitoring for bleeding diathesis
+-   Referrals:
+    -   Special educator
+    -   Developmental pediatrician
+    -   Endocrinologist for GH evaluation
+
+**10 – 13 Years (Early Adolescence)**
+
+-   Annual:
+    -   Thyroid function
+    -   Vision and hearing
+    -   Echocardiogram or cardiac MRI
+    -   Dental and orthodontic evaluation
+-   Monitor:
+    -   Pubertal development (may be delayed)
+    -   Psychosocial and emotional development
+    -   School performance and peer interaction
+-   Evaluate for:
+    -   Menstrual issues (girls)
+    -   Fertility discussions (if appropriate)
+-   Continue growth hormone if previously initiated
+-   Provide psychological counseling if needed
+
+**13 – 16 Years (Mid-Adolescence)**
+
+-   Continue annually:
+    -   Cardiac imaging
+    -   Thyroid, hearing, vision
+    -   Behavioural and emotional health assessments
+-   Monitor:
+    -   Final height
+    -   Completion of puberty
+    -   Menstrual regularity and fertility counseling
+-   Discuss:
+    -   Transition to adult care
+    -   Career and vocational planning
+-   Referrals:
+    -   Adolescent medicine or gynecology
+    -   Endocrinology
+    -   Mental health support
+    -   Social services

@@ -1,6 +1,6 @@
 ---
 title: "Down Syndrome"
-author: "xxx"
+date: 2025-07-10
 ---
 
 ## Introduction
@@ -216,18 +216,18 @@ individuals with Down syndrome to lead fulfilling lives.
 +--------------------------------+--------------------------------+--------------------------------+
 | **Age:** *Focus Areas*         | **Assessments & Follow-Up**    | **Referral/Intervention**      |
 +--------------------------------+--------------------------------+--------------------------------+
-| **Birth – 1:**                 | -   Confirm karyotype          | -   Refer to cardiology if CHD |
-|                                | -   Physical exam for          |     is suspected               |
-| *Month: Initial Screening*     |     congenital anomalies       | -   Audiology                  |
+| **Birth – 1 Month:** *Initial  | -   Confirm karyotype          | -   Refer to cardiology if CHD |
+| Screening*                     | -   Physical exam for          |     is suspected               |
+|                                |     congenital anomalies       | -   Audiology                  |
 |                                | -   Cardiac exam (Echo)        | -   Endocrine if thyroid       |
 |                                | -   Hearing screen- Vision     |     abnormal                   |
 |                                |     screen- Thyroid (TSH/T4)   | -   Genetic counselling        |
 |                                | -   Feeding and weight         |                                |
 |                                |     monitoring                 |                                |
 +--------------------------------+--------------------------------+--------------------------------+
-| **1 – 6 Months:**              | -   Growth (weight, length,    | -   Physiotherapy              |
-|                                |     head circumference)        | -   Feeding team               |
-| Early Development              | -   Neurodevelopment           | -   Early intervention         |
+| **1 – 6 Months:** Early        | -   Growth (weight, length,    | -   Physiotherapy              |
+| Development                    |     head circumference)        | -   Feeding team               |
+|                                | -   Neurodevelopment           | -   Early intervention         |
 |                                | -   ENT exam                   |     programs                   |
 |                                | -   Repeat hearing if needed   |                                |
 |                                | -   Monitor for feeding issues |                                |
@@ -282,8 +282,8 @@ individuals with Down syndrome to lead fulfilling lives.
 |                                | -   Discuss vocational goals   | -   Mental health services     |
 |                                | -   Encourage independence &   |                                |
 |                                |     self-care                  |                                |
-|                                | -   Monitor for obesity,       |                                |
-|                                |     diabetes signs             |                                |
+|                                | -   Monitor for obesity and    |                                |
+|                                |     diabetes signs.            |                                |
 |                                | -   Behavioral and mental      |                                |
 |                                |     health check               |                                |
 +--------------------------------+--------------------------------+--------------------------------+

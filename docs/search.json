@@ -926,6 +926,127 @@
     ]
   },
   {
+    "objectID": "resp-basics.html",
+    "href": "resp-basics.html",
+    "title": "14  Basics",
+    "section": "",
+    "text": "14.1 Introduction\nPediatric pulmonology is a vital subspecialty of pediatrics that focuses on the structure and function of the lungs and respiratory tract in infants, children, and adolescents. To understand pediatric respiratory diseases and their clinical manifestations, a solid grasp of the anatomical, physiological, embryological, biochemical, and pathophysiological underpinnings of the pediatric respiratory system is essential.\nThis foundational knowledge enables clinicians to recognize what is normal, anticipate how and why diseases develop, and determine appropriate investigations and interventions. This write-up provides a focused introduction to these aspects, tailored to the context of medical education in Ghana.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Basics</span>"
+    ]
+  },
+  {
+    "objectID": "resp-basics.html#anatomy-of-the-pediatric-respiratory-system",
+    "href": "resp-basics.html#anatomy-of-the-pediatric-respiratory-system",
+    "title": "14  Basics",
+    "section": "14.2 Anatomy of the Pediatric Respiratory System",
+    "text": "14.2 Anatomy of the Pediatric Respiratory System\nThe pediatric respiratory system consists of the upper airway, lower airway, and lungs, with supporting structures including the thoracic cage and diaphragm.\n\n14.2.1 Upper Airway:\nIncludes:\n\nNasal cavity – filters, humidifies, and warms inspired air\nNasopharynx, oropharynx, and laryngopharynx – direct airflow toward the larynx\nLarynx – houses the vocal cords; functions in phonation and protection during swallowing\n\nClinical relevance: Infants are obligate nose breathers. Even mild nasal congestion can lead to significant respiratory distress.\n\n\n14.2.2 Lower Airway:\nIncludes:\n\nTrachea – extends from the cricoid cartilage to the carina\nBronchi – right main bronchus is shorter and more vertical\nBronchioles – terminal and respiratory\nAlveolar ducts and alveoli – site of gas exchange\n\nAge-related note: The airway diameter in neonates is narrow, which increases resistance and the risk of obstruction.\n\n\n14.2.3 Lungs:\n\nRight lung has three lobes, left lung has two lobes\nLungs are surrounded by a pleural membrane\nRichly supplied with blood vessels and lymphatics\n\n\n\n14.2.4 Thoracic Cage and Diaphragm:\n\nRibs are more horizontal in infants\nDiaphragm is the main muscle of respiration; intercostal muscles assist with increasing age",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Basics</span>"
+    ]
+  },
+  {
+    "objectID": "resp-basics.html#physiology-of-the-pediatric-respiratory-system",
+    "href": "resp-basics.html#physiology-of-the-pediatric-respiratory-system",
+    "title": "14  Basics",
+    "section": "14.3 Physiology of the Pediatric Respiratory System",
+    "text": "14.3 Physiology of the Pediatric Respiratory System\nRespiratory physiology involves ventilation, perfusion, and gas exchange, as well as control of breathing and defense mechanisms.\n\n14.3.1 Ventilation:\nThe process of moving air into and out of the lungs.\n\nTidal volume (VT): Volume of air moved in and out per breath (~6–8 mL/kg in children)\nMinute ventilation: VT × respiratory rate\nCompliance: Children have high chest wall compliance, meaning it deforms easily, but low lung compliance, especially in neonates\n\nClinical note: High compliance of the chest wall predisposes neonates to respiratory fatigue.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Basics</span>"
+    ]
+  },
+  {
+    "objectID": "resp-basics.html#gas-exchange",
+    "href": "resp-basics.html#gas-exchange",
+    "title": "14  Basics",
+    "section": "14.4 Gas Exchange:",
+    "text": "14.4 Gas Exchange:\nOccurs at the alveolar-capillary interface:\n\nOxygen (O₂) diffuses from alveoli to blood\nCarbon dioxide (CO₂) diffuses from blood to alveoli\n\nDependent on:\n\nSurface area of alveoli\nThickness of the alveolar-capillary membrane\nAdequate ventilation-perfusion (V/Q) matching",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Basics</span>"
+    ]
+  },
+  {
+    "objectID": "resp-basics.html#control-of-breathing",
+    "href": "resp-basics.html#control-of-breathing",
+    "title": "14  Basics",
+    "section": "14.5 Control of Breathing:",
+    "text": "14.5 Control of Breathing:\nControlled by centers in the medulla and pons, modulated by:\n\nChemoreceptors (central: respond to CO₂; peripheral: respond to O₂)\nStretch receptors in the lungs\nVoluntary control is limited in neonates\n\nAge-specific physiology:\n\nInfants have periodic breathing and are prone to apneas\nImmature respiratory drive increases risk of hypoventilation\n\n\n14.5.1 Defense Mechanisms:\n\nNasal hairs and mucosa trap particles\nMucociliary clearance moves mucus upward toward the oropharynx\nCough reflex clears lower airways\nImmune defense: IgA in secretions, macrophages in alveoli",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Basics</span>"
+    ]
+  },
+  {
+    "objectID": "resp-basics.html#embryology-of-the-respiratory-system",
+    "href": "resp-basics.html#embryology-of-the-respiratory-system",
+    "title": "14  Basics",
+    "section": "14.6 Embryology of the Respiratory System",
+    "text": "14.6 Embryology of the Respiratory System\n\n14.6.1 Development Timeline:\n\nWeek 4: Respiratory diverticulum (lung bud) arises from foregut endoderm\nWeek 5–7: Formation of primary, secondary, and tertiary bronchi\nWeek 16: Terminal bronchioles formed\nWeek 24: Respiratory bronchioles begin to develop\nWeek 28–36: Alveolar ducts and primitive alveoli form\nBirth to 8 years: Postnatal alveolar multiplication (from ~20 million at birth to ~300 million)\n\n\n\n14.6.2 Embryological Germ Layers:\n\nEndoderm: Forms the epithelium of the airways and alveoli\nMesoderm: Forms connective tissue, cartilage, smooth muscle, and blood vessels\n\n\n\n14.6.3 Lung Maturation Stages:\n\nPseudoglandular (weeks 5–17): Branching of airways; no gas exchange possible\nCanalicular (weeks 16–25): Formation of airspaces; capillary network appears\nSaccular (weeks 24–36): Terminal sacs form; beginning of surfactant production\nAlveolar (week 36 to 8 years): Alveoli mature and multiply\n\n\n\n14.6.4 Surfactant:\nProduced by type II pneumocytes from ~week 24, with sufficient amounts by ~week 34.\nFunction: Reduces surface tension in alveoli, preventing collapse during expiration\nClinical relevance: Premature infants often lack surfactant, a substance that can lead to respiratory distress.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Basics</span>"
+    ]
+  },
+  {
+    "objectID": "resp-basics.html#biochemistry-of-the-respiratory-system",
+    "href": "resp-basics.html#biochemistry-of-the-respiratory-system",
+    "title": "14  Basics",
+    "section": "14.7 Biochemistry of the Respiratory System",
+    "text": "14.7 Biochemistry of the Respiratory System\n\n14.7.1 Gas Transport:\n\nOxygen Transport:\n\n98% carried by hemoglobin\nOxyhemoglobin dissociation curve describes the relation between PaO₂ and SaO₂\nFetal hemoglobin (HbF) has a higher affinity for oxygen than adult hemoglobin\n\nCarbon Dioxide Transport:\n\nDissolved in plasma (~10%)\nBound to hemoglobin as carbaminohemoglobin (~20%)\nAs bicarbonate ions (~70%) via carbonic anhydrase reaction:",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Basics</span>"
+    ]
+  },
+  {
+    "objectID": "resp-basics.html#acid-base-balance",
+    "href": "resp-basics.html#acid-base-balance",
+    "title": "14  Basics",
+    "section": "14.8 Acid-Base Balance:",
+    "text": "14.8 Acid-Base Balance:\n\nLungs regulate pH by excreting CO₂\nRespiratory acidosis: from hypoventilation (↑CO₂)\nRespiratory alkalosis: from hyperventilation (↓CO₂)\n\nMaintaining proper ventilation is crucial to acid-base homeostasis in children.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Basics</span>"
+    ]
+  },
+  {
+    "objectID": "resp-basics.html#surfactant-biochemistry",
+    "href": "resp-basics.html#surfactant-biochemistry",
+    "title": "14  Basics",
+    "section": "14.9 Surfactant Biochemistry:",
+    "text": "14.9 Surfactant Biochemistry:\n\nComposed mainly of phospholipids (especially dipalmitoylphosphatidylcholine - DPPC)\nAlso contains surfactant proteins (SP-A, SP-B, SP-C, SP-D) that help spread and regulate surfactant\n\nSynthesis is cortisol-dependent, which is why maternal corticosteroids are given antenatally in preterm labor.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Basics</span>"
+    ]
+  },
+  {
+    "objectID": "resp-basics.html#pathophysiology-of-the-pediatric-respiratory-system",
+    "href": "resp-basics.html#pathophysiology-of-the-pediatric-respiratory-system",
+    "title": "14  Basics",
+    "section": "14.10 Pathophysiology of the Pediatric Respiratory System",
+    "text": "14.10 Pathophysiology of the Pediatric Respiratory System\nPathophysiology describes the functional changes that occur in response to disease or injury. Understanding these responses helps to explain signs such as wheezing, cough, hypoxia, and tachypnea.\n\n14.10.1 Airway Obstruction:\n\nCan occur extrathoracically (e.g., larynx) or intrathoracically (e.g., bronchioles)\nNarrow pediatric airways mean even minor swelling or secretions cause significant resistance\nLeads to increased work of breathing, wheezing, or stridor\n\n\n\n14.10.2 Ventilation-Perfusion (V/Q) Mismatch:\n\nIdeal: ventilation matches perfusion\nIn disease (e.g., mucus plugging, consolidation), mismatch occurs\n\nLow V/Q: alveoli are perfused but not ventilated → hypoxemia\nHigh V/Q: alveoli are ventilated but not perfused → wasted ventilation\n\n\n\n\n14.10.3 Hypoventilation:\n\nDue to fatigue, CNS depression, or neuromuscular disease\nLeads to hypercapnia and respiratory acidosis\n\n\n\n14.10.4 Surfactant Deficiency:\n\nCauses alveolar collapse (atelectasis)\nReduces lung compliance\nSeen in premature infants or inactivation by infection/inflammation\n\n\n\n14.10.5 Immature Immune System:\n\nNeonates have limited production of IgA, poor neutrophil function\nMakes them vulnerable to respiratory infections",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Basics</span>"
+    ]
+  },
+  {
+    "objectID": "resp-basics.html#conclusion",
+    "href": "resp-basics.html#conclusion",
+    "title": "14  Basics",
+    "section": "14.11 Conclusion",
+    "text": "14.11 Conclusion\nThe pediatric respiratory system is uniquely structured and regulated, necessitating a comprehensive understanding of its anatomy, development, biochemistry, physiology, and response to disease. Medical students should appreciate how these fundamental sciences interact in the context of health and disease. This understanding lays the groundwork for clinical reasoning, diagnosis, and management of respiratory illnesses in children.\nIn Ghana, where pediatric respiratory conditions are prevalent, this foundational knowledge becomes particularly crucial. As a future clinician, you are encouraged to integrate basic science with clinical practice to improve child health outcomes.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Pulmonology</span>",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Basics</span>"
+    ]
+  },
+  {
     "objectID": "resp-asthma.html",
     "href": "resp-asthma.html",
     "title": "15  Asthma",
@@ -4934,7 +5055,7 @@
     "href": "synd-down.html#review-schedule",
     "title": "85  Down Syndrome",
     "section": "85.9 Review Schedule",
-    "text": "85.9 Review Schedule\n\n\n\n\n\n\n\n\nAge: Focus Areas\nAssessments & Follow-Up\nReferral/Intervention\n\n\nBirth – 1:\nMonth: Initial Screening\n\nConfirm karyotype\nPhysical exam for congenital anomalies\nCardiac exam (Echo)\nHearing screen- Vision screen- Thyroid (TSH/T4)\nFeeding and weight monitoring\n\n\nRefer to cardiology if CHD is suspected\nAudiology\nEndocrine if thyroid abnormal\nGenetic counselling\n\n\n\n1 – 6 Months:\nEarly Development\n\nGrowth (weight, length, head circumference)\nNeurodevelopment\nENT exam\nRepeat hearing if needed\nMonitor for feeding issues\n\n\nPhysiotherapy\nFeeding team\nEarly intervention programs\n\n\n\n6 – 12 Months: Development & Screening\n\nDevelopmental milestone check\nENT/hearing follow-up\nVision assessment\nThyroid screen at 6 months\nMonitor for constipation, reflux\n\n\nRefer to ophthalmology if strabismus or visual issues\nOT/speech therapy\n\n\n\n1 – 2 Years: Cognitive & Physical Growth\n\nAnnual thyroid (TSH/T4)\nHearing test every 6 months\nVision annually\nCBC if not yet done (risk of leukemia)\nMonitor sleep apnea\n\n\nENT for sleep apnea\nNutrition/dietitian\nDevelopmental therapist\n\n\n\n2 – 5 Years: School Readiness\n\nAnnual thyroid\nHearing test annually\nVision annually\nGrowth charts for DS\nScreen for ASD/ADHD\nDental exam every 6 months\nBehavioral assessment\n\n\nEnroll in an inclusive preschool\nSpeech & language therapy\nAudiologist, ENT, dentist\n\n\n\n5 – 10 Years: Academic, Social, and Health Monitoring\n\nThyroid annually\nVision & hearing annually\nDental care every 6 months\nCheck for atlantoaxial instability (C-spine X-ray before sports)\nBehaviour/school performance\nSleep & snoring screening\n\n\nPsychologist or special educator\nSleep study if suspected OSA\nOrthopedic review for signs of instability\n\n\n\n10 – 13 Years: Puberty & Social Development\n\nAnnual thyroid\nVision, hearing and , dental\nGrowth and puberty assessment\nDiscuss menstrual hygiene (girls)\nSexual education (age-appropriate)- Screen for depression/anxiety\n\n\nAdolescent counselor\nGynecology referral if needed\n\n\n\n13 – 16 Years: Transition Planning\n\nContinue yearly thyroid, vision, and hearing\nDiscuss vocational goals\nEncourage independence & self-care\nMonitor for obesity, diabetes signs\nBehavioral and mental health check\n\n\nSocial services\nVocational/skills training\nMental health services",
+    "text": "85.9 Review Schedule\n\n\n\n\n\n\n\n\nAge: Focus Areas\nAssessments & Follow-Up\nReferral/Intervention\n\n\nBirth – 1 Month: Initial Screening\n\nConfirm karyotype\nPhysical exam for congenital anomalies\nCardiac exam (Echo)\nHearing screen- Vision screen- Thyroid (TSH/T4)\nFeeding and weight monitoring\n\n\nRefer to cardiology if CHD is suspected\nAudiology\nEndocrine if thyroid abnormal\nGenetic counselling\n\n\n\n1 – 6 Months: Early Development\n\nGrowth (weight, length, head circumference)\nNeurodevelopment\nENT exam\nRepeat hearing if needed\nMonitor for feeding issues\n\n\nPhysiotherapy\nFeeding team\nEarly intervention programs\n\n\n\n6 – 12 Months: Development & Screening\n\nDevelopmental milestone check\nENT/hearing follow-up\nVision assessment\nThyroid screen at 6 months\nMonitor for constipation, reflux\n\n\nRefer to ophthalmology if strabismus or visual issues\nOT/speech therapy\n\n\n\n1 – 2 Years: Cognitive & Physical Growth\n\nAnnual thyroid (TSH/T4)\nHearing test every 6 months\nVision annually\nCBC if not yet done (risk of leukemia)\nMonitor sleep apnea\n\n\nENT for sleep apnea\nNutrition/dietitian\nDevelopmental therapist\n\n\n\n2 – 5 Years: School Readiness\n\nAnnual thyroid\nHearing test annually\nVision annually\nGrowth charts for DS\nScreen for ASD/ADHD\nDental exam every 6 months\nBehavioral assessment\n\n\nEnroll in an inclusive preschool\nSpeech & language therapy\nAudiologist, ENT, dentist\n\n\n\n5 – 10 Years: Academic, Social, and Health Monitoring\n\nThyroid annually\nVision & hearing annually\nDental care every 6 months\nCheck for atlantoaxial instability (C-spine X-ray before sports)\nBehaviour/school performance\nSleep & snoring screening\n\n\nPsychologist or special educator\nSleep study if suspected OSA\nOrthopedic review for signs of instability\n\n\n\n10 – 13 Years: Puberty & Social Development\n\nAnnual thyroid\nVision, hearing and , dental\nGrowth and puberty assessment\nDiscuss menstrual hygiene (girls)\nSexual education (age-appropriate)- Screen for depression/anxiety\n\n\nAdolescent counselor\nGynecology referral if needed\n\n\n\n13 – 16 Years: Transition Planning\n\nContinue yearly thyroid, vision, and hearing\nDiscuss vocational goals\nEncourage independence & self-care\nMonitor for obesity and diabetes signs.\nBehavioral and mental health check\n\n\nSocial services\nVocational/skills training\nMental health services",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Common Syndrome</span>",
       "<span class='chapter-number'>85</span>  <span class='chapter-title'>Down Syndrome</span>"
@@ -5183,6 +5304,17 @@
     ]
   },
   {
+    "objectID": "synd-turners.html#review-schedule",
+    "href": "synd-turners.html#review-schedule",
+    "title": "88  Turner’s Syndrome",
+    "section": "88.9 Review Schedule",
+    "text": "88.9 Review Schedule\nBirth – 1 Month\n\nConfirm diagnosis with karyotype\nFull physical examination (check for webbed neck, lymphedema)\nEchocardiogram to assess for:\n\nCoarctation of the aorta\nBicuspid aortic valve\n\nRenal ultrasound to detect congenital anomalies\nAssess feeding, weight gain, and growth\nBegin Turner-specific growth charting\nReferrals:\n\nPediatric cardiology\nPediatric nephrology\nGenetic counseling\n\n\n1 – 6 Months\n\nMonitor growth and development\nRepeat cardiac evaluation if abnormalities found\nThyroid function test (TSH and T4)\nHearing screen\nFirst ophthalmologic (eye) exam\nMonitor for:\n\nFeeding difficulties\nConstipation\n\nReferrals:\n\nEndocrinologist\nAudiologist\nOphthalmologist\n\n\n6 – 12 Months\n\nTrack developmental milestones\nMonitor growth using TS-specific charts\nRepeat hearing test if needed\nScreen for recurrent otitis media\nBegin early intervention if developmental delays are noted\nReferral to ENT if frequent ear infections\n\n1 – 2 Years\n\nAnnual thyroid function testing\nMonitor growth velocity\nRepeat cardiac evaluation if previously abnormal\nBegin dental evaluation\nContinue hearing and speech assessment\nConsider initiating Growth Hormone Therapy (GH) around 2–5 years\nReferral to:\n\nSpeech therapist\nEndocrinologist\n\n\n2 – 5 Years\n\nMeasure height and weight every 3–6 months\nAnnual:\n\nHearing test\nVision exam\nThyroid function\n\nENT review for chronic ear infections\nCardiac re-evaluation every 3–5 years\nContinue/Start Growth Hormaone therapy.\nRegular dental check-ups every 6 months\nBegin developmental and learning support if needed\n\n5 – 10 Years\n\nAnnual:\n\nThyroid, vision, hearing, dental exams\n\nBone age x-ray every 1–2 years\nMonitor for signs of puberty\nScreen for learning and behavioral issues\nCheck blood pressure annually\nContinued GH therapy\nReferrals:\n\nPsychologist or special educator\nNeurodevelopmental team for learning difficulties\n\n\n10 – 13 Years (Early Adolescence)\n\nAssess for pubertal development\n\nIf absent by 12–13 years, begin estrogen replacement\n\nAnnual:\n\nThyroid\nHearing\nVision\nLiver function and lipid profile\n\nDEXA scan if available to assess bone health\nCardiac MRI or echocardiogram if CHD present\nContinue GH if appropriate\nBegin psychosocial counseling\n\n13 – 16 Years (Mid-Adolescence)\n\nContinue estrogen therapy\n\nIntroduce progesterone if uterus is present\n\nAnnual:\n\nThyroid\nLiver function\nLipid profile\n\nDiscuss:\n\nFertility options\nSexual health education\n\nMonitor for emotional well-being, social adjustment\nReferrals:\n\nGynecologist or adolescent endocrinologist\nMental health support\nCareer and vocational guidance",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Common Syndrome</span>",
+      "<span class='chapter-number'>88</span>  <span class='chapter-title'>Turner's Syndrome</span>"
+    ]
+  },
+  {
     "objectID": "synd-noonan.html",
     "href": "synd-noonan.html",
     "title": "89  Noonan Syndrome",
@@ -5265,6 +5397,17 @@
     "title": "89  Noonan Syndrome",
     "section": "89.8 Notes on counselling",
     "text": "89.8 Notes on counselling\nParents need to be counselled regarding recurrence risk with each pregnancy in familial cases and prenatal diagnosis offered. Families of affected children need to be informed that although there is no definitive cure for NS, the various associations and complications can be managed very well by a multidisciplinary team to ensure the child has an excellent quality of life. Affected children with mild or no learning difficulties do not require special education but can integrate well into mainstream schools. Families of affected children should be linked to support groups. Patients with bleeding disorders must be advised against the use of aspirin and aspirin-containing products or other medications that may interfere with coagulation or platelet function.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Common Syndrome</span>",
+      "<span class='chapter-number'>89</span>  <span class='chapter-title'>Noonan Syndrome</span>"
+    ]
+  },
+  {
+    "objectID": "synd-noonan.html#review-schedule",
+    "href": "synd-noonan.html#review-schedule",
+    "title": "89  Noonan Syndrome",
+    "section": "89.9 Review schedule",
+    "text": "89.9 Review schedule\nBirth – 1 Month\n\nConfirm diagnosis (clinical or genetic testing)\nFull physical examination (facial features, webbed neck, pectus deformity)\nEchocardiogram (commonly pulmonary valve stenosis or hypertrophic cardiomyopathy)\nRenal ultrasound (identify structural anomalies)\nFeeding and growth assessment\nHematologic evaluation (coagulation profile due to bleeding diathesis)\nReferrals:\n\nCardiology\nNephrology\nGenetic counseling\nNutritionist (if feeding difficulties)\n\n\n1 – 6 Months\n\nMonitor growth, weight, and development\nRepeat echocardiogram if initial findings abnormal\nAssess for feeding problems, reflux\nOphthalmologic evaluation (strabismus, refractive errors)\nHearing screen (sensorineural or conductive hearing loss risk)\nCoagulation profile if surgical procedure is planned\nReferrals:\n\nENT for hearing concerns\nOphthalmology\nDevelopmental services if delays are present\n\n\n6 – 12 Months\n\nTrack developmental milestones\nMonitor growth using NS-specific growth charts if available\nRepeat vision and hearing assessment\nScreen for neuromotor or cognitive delay\nEvaluate for bleeding/bruising\nBegin early intervention therapies if delays\nContinue feeding and nutrition support\n\n1 – 2 Years\n\nAnnual:\n\nHearing\nVision\nCoagulation profile if needed\nCardiac follow-up if heart defect presen\n\nMonitor:\n\nGrowth velocity\nMilestone achievement\nBehavioral or speech delays\n\nConsider speech therapy if language is delayed\nDental evaluation (high arched palate, crowded teeth)\n\n2 – 5 Years\n\nAnnual:\n\nVision, hearing, and cardiac exams\nThyroid function (especially if sluggish growth)\n\nTrack growth and nutritional status\nEvaluate for:\n\nSpeech delays\nBehavioral concerns (ADHD, anxiety)\n\nMonitor for bleeding/bruising during procedures\nBegin preschool/school readiness assessment\nReferrals:\n\nSpeech/language therapy\nChild psychologist if behavioral issues arise\n\n\n5 – 10 Years\n\nAnnual:\n\nEchocardiogram (especially for hypertrophic cardiomyopathy)\nVision, hearing, and dental\nDevelopmental and behavioral assessment\n\nMonitor:\n\nLearning difficulties and school performance\nEmotional and social development\n\nAssess for short stature and consider growth hormone therapy if growth failure persists\nContinue monitoring for bleeding diathesis\nReferrals:\n\nSpecial educator\nDevelopmental pediatrician\nEndocrinologist for GH evaluation\n\n\n10 – 13 Years (Early Adolescence)\n\nAnnual:\n\nThyroid function\nVision and hearing\nEchocardiogram or cardiac MRI\nDental and orthodontic evaluation\n\nMonitor:\n\nPubertal development (may be delayed)\nPsychosocial and emotional development\nSchool performance and peer interaction\n\nEvaluate for:\n\nMenstrual issues (girls)\nFertility discussions (if appropriate)\n\nContinue growth hormone if previously initiated\nProvide psychological counseling if needed\n\n13 – 16 Years (Mid-Adolescence)\n\nContinue annually:\n\nCardiac imaging\nThyroid, hearing, vision\nBehavioural and emotional health assessments\n\nMonitor:\n\nFinal height\nCompletion of puberty\nMenstrual regularity and fertility counseling\n\nDiscuss:\n\nTransition to adult care\nCareer and vocational planning\n\nReferrals:\n\nAdolescent medicine or gynecology\nEndocrinology\nMental health support\nSocial services",
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Common Syndrome</span>",
       "<span class='chapter-number'>89</span>  <span class='chapter-title'>Noonan Syndrome</span>"

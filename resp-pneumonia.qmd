@@ -1,4 +1,4 @@
 ---
 title: "Pneumonia"
-author: "Dr (Mrs) Sandra Kwarteng Owusu"
+date: 2025-07-21
 ---

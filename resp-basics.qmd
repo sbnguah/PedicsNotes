@@ -1,5 +1,214 @@
 ---
 title: "Basics"
-author: "Dr (Mrs) Sandra Kwarteng Owusu"
-date: 1111-11-11
+date: 2025-07-21
 ---
+
+## Introduction
+
+Pediatric pulmonology is a vital subspecialty of pediatrics that focuses on the structure and
+function of the lungs and respiratory tract in infants, children, and adolescents. To understand
+pediatric respiratory diseases and their clinical manifestations, a solid grasp of the
+**anatomical**, **physiological**, **embryological**, **biochemical**, and **pathophysiological**
+underpinnings of the pediatric respiratory system is essential.
+
+This foundational knowledge enables clinicians to recognize what is normal, anticipate how and why
+diseases develop, and determine appropriate investigations and interventions. This write-up provides
+a focused introduction to these aspects, tailored to the context of medical education in Ghana.
+
+## Anatomy of the Pediatric Respiratory System
+
+The pediatric respiratory system consists of the **upper airway**, **lower airway**, and **lungs**,
+with supporting structures including the thoracic cage and diaphragm.
+
+### Upper Airway:
+
+Includes:
+
+-   **Nasal cavity** – filters, humidifies, and warms inspired air
+-   **Nasopharynx, oropharynx, and laryngopharynx** – direct airflow toward the larynx
+-   **Larynx** – houses the vocal cords; functions in phonation and protection during swallowing
+
+**Clinical relevance:** Infants are obligate nose breathers. Even mild nasal congestion can lead to
+significant respiratory distress.
+
+### Lower Airway:
+
+Includes:
+
+-   **Trachea** – extends from the cricoid cartilage to the carina
+-   **Bronchi** – right main bronchus is shorter and more vertical
+-   **Bronchioles** – terminal and respiratory
+-   **Alveolar ducts and alveoli** – site of gas exchange
+
+**Age-related note:** The airway diameter in neonates is narrow, which increases resistance and the
+risk of obstruction.
+
+### Lungs:
+
+-   Right lung has **three lobes**, left lung has **two lobes**
+-   Lungs are surrounded by a pleural membrane
+-   Richly supplied with blood vessels and lymphatics
+
+### Thoracic Cage and Diaphragm:
+
+-   Ribs are more horizontal in infants
+-   Diaphragm is the main muscle of respiration; intercostal muscles assist with increasing age
+
+## Physiology of the Pediatric Respiratory System
+
+Respiratory physiology involves **ventilation**, **perfusion**, and **gas exchange**, as well as
+**control of breathing** and **defense mechanisms**.
+
+### Ventilation:
+
+The process of moving air into and out of the lungs.
+
+-   **Tidal volume (VT):** Volume of air moved in and out per breath (\~6–8 mL/kg in children)
+-   **Minute ventilation:** VT × respiratory rate
+-   **Compliance:** Children have **high chest wall compliance**, meaning it deforms easily, but
+    **low lung compliance**, especially in neonates
+
+**Clinical note:** High compliance of the chest wall predisposes neonates to respiratory fatigue.
+
+## Gas Exchange:
+
+Occurs at the alveolar-capillary interface:
+
+-   **Oxygen (O₂)** diffuses from alveoli to blood
+-   **Carbon dioxide (CO₂)** diffuses from blood to alveoli
+
+Dependent on:
+
+-   Surface area of alveoli
+-   Thickness of the alveolar-capillary membrane
+-   Adequate ventilation-perfusion (V/Q) matching
+
+## Control of Breathing:
+
+Controlled by centers in the **medulla** and **pons**, modulated by:
+
+-   **Chemoreceptors** (central: respond to CO₂; peripheral: respond to O₂)
+-   **Stretch receptors** in the lungs
+-   Voluntary control is limited in neonates
+
+**Age-specific physiology:**
+
+-   Infants have periodic breathing and are prone to apneas
+-   Immature respiratory drive increases risk of hypoventilation
+
+### Defense Mechanisms:
+
+-   **Nasal hairs and mucosa** trap particles
+-   **Mucociliary clearance** moves mucus upward toward the oropharynx
+-   **Cough reflex** clears lower airways
+-   **Immune defense:** IgA in secretions, macrophages in alveoli
+
+## Embryology of the Respiratory System
+
+### Development Timeline:
+
+-   **Week 4**: Respiratory diverticulum (lung bud) arises from foregut endoderm
+-   **Week 5–7**: Formation of primary, secondary, and tertiary bronchi
+-   **Week 16**: Terminal bronchioles formed
+-   **Week 24**: Respiratory bronchioles begin to develop
+-   **Week 28–36**: Alveolar ducts and primitive alveoli form
+-   **Birth to 8 years**: Postnatal alveolar multiplication (from \~20 million at birth to \~300
+    million)
+
+### Embryological Germ Layers:
+
+-   **Endoderm**: Forms the epithelium of the airways and alveoli
+-   **Mesoderm**: Forms connective tissue, cartilage, smooth muscle, and blood vessels
+
+### Lung Maturation Stages:
+
+1.  **Pseudoglandular (weeks 5–17):** Branching of airways; no gas exchange possible
+2.  **Canalicular (weeks 16–25):** Formation of airspaces; capillary network appears
+3.  **Saccular (weeks 24–36):** Terminal sacs form; beginning of surfactant production
+4.  **Alveolar (week 36 to 8 years):** Alveoli mature and multiply
+
+### Surfactant:
+
+Produced by **type II pneumocytes** from \~week 24, with sufficient amounts by \~week 34.
+
+**Function:** Reduces surface tension in alveoli, preventing collapse during expiration
+
+**Clinical relevance:** Premature infants often lack surfactant, a substance that can lead to
+respiratory distress.
+
+## Biochemistry of the Respiratory System
+
+### Gas Transport:
+
+-   **Oxygen Transport:**
+    -   98% carried by hemoglobin
+    -   Oxyhemoglobin dissociation curve describes the relation between PaO₂ and SaO₂
+    -   Fetal hemoglobin (HbF) has a **higher affinity** for oxygen than adult hemoglobin
+-   **Carbon Dioxide Transport:**
+    -   Dissolved in plasma (\~10%)
+    -   Bound to hemoglobin as carbaminohemoglobin (\~20%)
+    -   As **bicarbonate ions** (\~70%) via carbonic anhydrase reaction:
+
+## Acid-Base Balance:
+
+-   **Lungs regulate pH** by excreting CO₂
+-   **Respiratory acidosis**: from hypoventilation (↑CO₂)
+-   **Respiratory alkalosis**: from hyperventilation (↓CO₂)
+
+Maintaining proper ventilation is crucial to acid-base homeostasis in children.
+
+## Surfactant Biochemistry:
+
+-   Composed mainly of **phospholipids** (especially **dipalmitoylphosphatidylcholine  - DPPC**)
+-   Also contains **surfactant proteins (SP-A, SP-B, SP-C, SP-D)** that help spread and regulate
+    surfactant
+
+**Synthesis is cortisol-dependent**, which is why maternal corticosteroids are given antenatally in
+preterm labor.
+
+## Pathophysiology of the Pediatric Respiratory System
+
+Pathophysiology describes the **functional changes** that occur in response to disease or injury.
+Understanding these responses helps to explain signs such as **wheezing**, **cough**, **hypoxia**,
+and **tachypnea**.
+
+### Airway Obstruction:
+
+-   Can occur **extrathoracically** (e.g., larynx) or **intrathoracically** (e.g., bronchioles)
+-   Narrow pediatric airways mean even minor swelling or secretions cause significant resistance
+-   Leads to increased work of breathing, wheezing, or stridor
+
+### Ventilation-Perfusion (V/Q) Mismatch:
+
+-   Ideal: ventilation matches perfusion
+-   In disease (e.g., mucus plugging, consolidation), mismatch occurs
+    -   **Low V/Q**: alveoli are perfused but not ventilated → hypoxemia
+    -   **High V/Q**: alveoli are ventilated but not perfused → wasted ventilation
+
+### Hypoventilation:
+
+-   Due to fatigue, CNS depression, or neuromuscular disease
+-   Leads to **hypercapnia** and **respiratory acidosis**
+
+### Surfactant Deficiency:
+
+-   Causes alveolar collapse (atelectasis)
+-   Reduces lung compliance
+-   Seen in premature infants or inactivation by infection/inflammation
+
+### Immature Immune System:
+
+-   Neonates have limited production of IgA, poor neutrophil function
+-   Makes them vulnerable to respiratory infections
+
+## Conclusion
+
+The pediatric respiratory system is uniquely structured and regulated, necessitating a comprehensive
+understanding of its **anatomy**, **development**, **biochemistry**, **physiology**, and **response
+to disease**. Medical students should appreciate how these fundamental sciences interact in the
+context of health and disease. This understanding lays the groundwork for clinical reasoning,
+diagnosis, and management of respiratory illnesses in children.
+
+In Ghana, where pediatric respiratory conditions are prevalent, this foundational knowledge becomes
+particularly crucial. As a future clinician, you are encouraged to integrate basic science with
+clinical practice to improve child health outcomes.
