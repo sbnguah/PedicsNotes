@@ -220,7 +220,7 @@ statistically robust.
 **Summary Table of Key Measures**
 
 |                    |               |                   |                    |                               |
-|-------------------|-------------------|-------------------|-------------------|------------------------|
+|--------------------|---------------|-------------------|--------------------|-------------------------------|
 | **Measurement**    | **Age Group** | **Tool**          | **Indicator**      | **Interpretation**            |
 | Weight             | All           | Infant/Beam Scale | WFA, WFH, BMI      | Underweight, wasting, obesity |
 | Length             | \<2 yrs       | Infantometer      | HFA                | Stunting                      |

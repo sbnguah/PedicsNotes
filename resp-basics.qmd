@@ -159,7 +159,7 @@ Maintaining proper ventilation is crucial to acid-base homeostasis in children.
 
 ## Surfactant Biochemistry:
 
--   Composed mainly of **phospholipids** (especially **dipalmitoylphosphatidylcholine  - DPPC**)
+-   Composed mainly of **phospholipids** (especially **dipalmitoylphosphatidylcholine - DPPC**)
 -   Also contains **surfactant proteins (SP-A, SP-B, SP-C, SP-D)** that help spread and regulate
     surfactant
 
