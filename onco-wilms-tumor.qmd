@@ -1,4 +1,182 @@
 ---
-title: "Wilm's Tumor"
-author: "Dr (Mrs) Vivian Paintsil"
+title: "Nephroblastoma (Wilms’ Tumour)"
+author: "xxx"
+date: 2025-06-20
 ---
+
+## Introduction
+
+Nephroblastoma, commonly known as **Wilms’ tumour**, is the most common malignant renal tumour in
+childhood. It arises from embryonic renal tissue and typically presents between ages 2 and 5 years.
+The tumour has contributed greatly to the success story of paediatric oncology, with survival rates
+improving significantly due to advances in surgery, chemotherapy, and radiotherapy.\
+Although relatively rare compared to infections or malnutrition, nephroblastoma remains an important
+cause of morbidity and mortality in paediatrics, particularly in low- and middle-income countries
+where late presentation is common.
+
+## Incidence and Prevalence
+
+Wilms’ tumour accounts for about **6–8% of all childhood cancers**.\
+- The annual incidence is approximately **8 cases per million children** under 15 years.\
+- Peak age of presentation: **3–4 years**.\
+- Slight female predominance.\
+- Bilateral disease occurs in about **5–7%** of cases.
+
+In sub-Saharan Africa, including Ghana, the incidence is comparable to global figures, but outcomes
+are poorer due to late presentation, limited access to multimodal therapy, and higher rates of
+advanced disease at diagnosis.
+
+## Aetiology
+
+Most cases are sporadic, but both **genetic** and **environmental** factors play roles.
+
+-   **Genetic factors**:
+    -   Mutations in WT1 (chromosome 11p13) and WT2 (11p15) are implicated.
+    -   Other genes: WTX (X chromosome), CTNNB1 (beta-catenin pathway).
+-   **Syndromic associations**:
+    -   WAGR syndrome (Wilms tumour, Aniridia, Genitourinary anomalies, mental Retardation).
+    -   Denys–Drash syndrome (gonadal dysgenesis, nephropathy, Wilms tumour).
+    -   Beckwith–Wiedemann syndrome (organomegaly, hemihypertrophy, increased tumour risk).
+-   **Familial predisposition**: Rare but recognised, with siblings sometimes affected.
+-   **Environmental factors**: No strong evidence, though intrauterine exposures have been explored.
+
+## Pathophysiology
+
+Wilms’ tumour develops from **persistent metanephric blastema**, the embryonic renal precursor
+tissue that fails to differentiate normally.\
+- The tumour is typically a **triphasic neoplasm**, consisting of:\
+- **Blastemal cells** (small round blue cells).\
+- **Stromal elements** (spindle cells, connective tissue).\
+- **Epithelial components** (tubules, glomeruloid structures).\
+- Some tumours may be monophasic, dominated by one component.\
+- Tumour growth can distort the kidney, invade renal vessels, extend into the inferior vena cava,
+and metastasize, commonly to lungs, liver, and lymph nodes.
+
+A subset of tumours shows **anaplasia**, which carries a poorer prognosis and resistance to therapy.
+
+## Clinical Features
+
+Presentation depends on tumour size, stage, and presence of metastases.
+
+-   **Most common feature**:
+    -   Painless **abdominal mass**, often noticed by parents during bathing or dressing.
+-   Other features:
+    -   Abdominal pain or discomfort.
+    -   Hematuria (gross or microscopic).
+    -   Hypertension (due to increased renin secretion).
+    -   Anemia (from haemorrhage or bone marrow suppression).
+    -   Weight loss, anorexia, malaise (less common).\
+-   Advanced disease:
+    -   Cough, dyspnea (lung metastases).
+    -   Hepatomegaly (liver metastases).
+
+Unlike neuroblastoma, Wilms’ tumour rarely crosses the midline in the abdomen.
+
+## Differential Diagnosis
+
+Important conditions to consider when a child presents with an abdominal mass:\
+- **Neuroblastoma** (usually crosses midline, calcification common).\
+- Multicystic dysplastic kidney.\
+- Hydronephrosis.\
+- Mesoblastic nephroma (in neonates).\
+- Renal cell carcinoma (rare in children).\
+- Hepatoblastoma or hepatomegaly from other causes.
+
+## Investigations
+
+Workup aims at confirming diagnosis, assessing extent, and staging.
+
+-   **Laboratory tests**:
+    -   CBC (anemia, baseline counts).
+    -   Renal function tests (creatinine, electrolytes).
+    -   Liver function tests.
+    -   Urinalysis (hematuria).\
+-   **Imaging**:
+    -   **Abdominal ultrasound**: First-line; identifies renal origin of mass.
+    -   **CT or MRI of abdomen**: Defines tumour extent, contralateral kidney involvement, vascular
+        invasion.
+    -   **Chest X-ray/CT**: Evaluate for lung metastases.
+-   **Histology**: Usually obtained after nephrectomy or biopsy in bilateral/advanced disease.
+
+## Staging
+
+The **National Wilms’ Tumor Study (NWTS)** staging system is widely used:\
+- Stage I: Limited to kidney, completely resected.\
+- Stage II: Extends beyond kidney but completely resected.\
+- Stage III: Residual tumour confined to abdomen (lymph nodes, peritoneal spillage).\
+- Stage IV: Hematogenous metastases (lung, liver, bone, brain).\
+- Stage V: Bilateral renal involvement.
+
+## Treatment
+
+Successful management requires a **multimodal approach**: surgery, chemotherapy, and sometimes
+radiotherapy.
+
+### Emergency Management
+
+-   Stabilise child if anaemic, hypertensive, or in respiratory distress.
+-   Treat severe hypertension with antihypertensives.
+-   Blood transfusion for anaemia.
+-   Manage tumour rupture (can present with acute abdomen).
+
+### Definitive and Ongoing Treatment
+
+-   **Surgery**: Radical nephrectomy is standard for unilateral disease.
+-   **Chemotherapy**: Regimens typically include vincristine, actinomycin D, and doxorubicin
+    (depending on stage and histology).
+-   **Radiotherapy**: Reserved for higher-stage disease or anaplastic histology.
+-   **Bilateral disease (Stage V)**: Initial chemotherapy to shrink tumour, followed by
+    nephron-sparing surgery.
+
+### Preparation for Discharge
+
+-   Educate caregivers on:
+    -   Medication adherence.
+    -   Infection prevention during chemotherapy.
+    -   Monitoring for hypertension and renal function.
+    -   Nutrition and follow-up visits.
+
+### Long-Term Management
+
+-   Regular follow-up for recurrence surveillance.
+-   Monitor growth and development.
+-   Monitor renal function (risk of chronic kidney disease, especially in bilateral disease).
+-   Monitor for late effects of chemotherapy/radiotherapy (cardiotoxicity, infertility, secondary
+    malignancies).
+
+## Complications
+
+-   Tumour rupture leading to haemorrhage and peritonitis.
+-   Hypertension due to renin production.
+-   Metastasis (lungs, liver).
+-   Chemotherapy-related: myelosuppression, mucositis, cardiotoxicity.
+-   Chronic renal impairment in bilateral disease.
+-   Psychological and social impact on family.
+
+## Prognosis
+
+Wilms’ tumour is one of the **paediatric oncology success stories**:\
+- Overall survival exceeds **85%** in high-income countries.\
+- Prognosis depends on:\
+- Stage at diagnosis.\
+- Histology (anaplastic variants worse).\
+- Age of child.\
+- In sub-Saharan Africa, survival is significantly lower (20–50%) due to late presentation, limited
+resources, and treatment abandonment.
+
+## Prevention
+
+There are no established preventive measures for sporadic cases. However:\
+- **Genetic counselling** for families with syndromic or familial cases.\
+- **Surveillance imaging** (ultrasound every 3 months until age 7) for high-risk children (e.g.,
+WAGR, Denys–Drash, Beckwith–Wiedemann, bilateral disease).\
+- Early detection and treatment significantly improve outcomes.
+
+## Conclusion
+
+Nephroblastoma is the most common childhood renal malignancy and a leading cause of paediatric
+abdominal masses. It exemplifies how combined surgery, chemotherapy, and radiotherapy can yield
+excellent outcomes when implemented effectively. For Ghana and similar settings, the major challenge
+remains late presentation and limited access to oncology services. Strengthening health systems,
+raising community awareness, and improving access to multimodal therapy are essential to bridge the
+survival gap.

@@ -1,5 +1,177 @@
 ---
 title: "General Principles"
-author: "Dr (Mrs) Vivian Paintsil"
+author: "xxx"
 author-meta: "Senior lecturer, <br> Dept of Child Health,KNUST <br> Pediatric Oncologist"
+date: 2025-09-28
 ---
+
+## Introduction
+
+Paediatric oncology is the branch of medicine that deals with the diagnosis, treatment, and
+long-term follow-up of cancers in children and adolescents. Although cancer is less common in
+children compared to adults, it remains a significant cause of morbidity and mortality worldwide. In
+many low- and middle-income countries, including those in sub-Saharan Africa, paediatric cancers are
+increasingly recognised due to improved awareness and diagnostic facilities.
+
+Understanding the general principles of paediatric oncology is essential for medical students, as it
+forms the foundation for appreciating the biology, clinical behaviour, and management of childhood
+cancers.
+
+## Epidemiology of Childhood Cancers
+
+-   Childhood cancers account for about **1–4% of all cancers worldwide**.\
+-   The incidence is approximately **100–150 cases per million children per year**.\
+-   In high-income countries, survival rates exceed **80%**, but in low- and middle-income regions,
+    survival may be **20–40%** due to late presentation, limited resources, and treatment
+    abandonment.\
+-   The most common paediatric cancers include:
+    -   **Leukaemias** (especially acute lymphoblastic leukaemia).\
+    -   **Brain tumours** (medulloblastoma, astrocytoma).\
+    -   **Lymphomas** (Burkitt’s lymphoma, Hodgkin lymphoma).\
+    -   **Solid tumours** (Wilms’ tumour, neuroblastoma, retinoblastoma).
+
+## Biology of Childhood Cancers
+
+Unlike adult cancers, childhood malignancies:\
+- Often arise from **embryonal tissues** or primitive cells rather than epithelial tissues.\
+- Show **fewer environmental associations** (e.g., smoking, alcohol, carcinogens).\
+- Are more commonly associated with **genetic predispositions** (e.g., RB1 mutations in
+retinoblastoma, TP53 in Li-Fraumeni syndrome).\
+- Tend to have **rapid growth rates**, making them highly responsive to chemotherapy and
+radiotherapy.
+
+## Clinical Presentation
+
+Children with cancer may present with vague, non-specific symptoms that mimic common infections.
+High suspicion is necessary.
+
+### General warning signs of cancer in children (commonly remembered by the acronym **CHILD CANCER**):
+
+-   **C**ontinued, unexplained weight loss.\
+-   **H**eadaches with early morning vomiting.\
+-   **I**ncreased swelling or pain in bones/joints.\
+-   **L**ump or mass in abdomen, chest, or neck.\
+-   **D**evelopment of excessive bruising, bleeding, or rash.\
+-   **C**onstant infections.\
+-   **A** whitish glow in the eye (leukocoria).\
+-   **N**eurological symptoms (seizures, persistent dizziness).\
+-   **C**hanges in vision.\
+-   **E**nlarged lymph nodes or persistent fever.\
+-   **R**ecurrent unexplained fevers.
+
+## Diagnosis and Staging
+
+Diagnosis of childhood cancer requires a **multidisciplinary approach**.
+
+1.  **Clinical evaluation** – thorough history and examination, with attention to family history of
+    cancers or syndromes.\
+2.  **Laboratory tests** – complete blood count, peripheral smear, biochemical markers (e.g., LDH,
+    uric acid).\
+3.  **Imaging** – X-rays, ultrasound, CT, MRI, and PET scans depending on tumour location.\
+4.  **Histopathology** – biopsy for tissue diagnosis (except for retinoblastoma where clinical
+    diagnosis is usually made).\
+5.  **Molecular and cytogenetic studies** – identification of chromosomal translocations (e.g.,
+    t(8;14) in Burkitt’s lymphoma, t(12;21) in ALL).\
+6.  **Staging** – determines the extent of disease, using systems like:
+    -   Ann Arbor staging for lymphomas.\
+    -   INSS (International Neuroblastoma Staging System).\
+    -   TNM classification for some solid tumours.
+
+## Principles of Treatment
+
+Treatment is multidisciplinary, involving oncologists, surgeons, radiation oncologists,
+pathologists, radiologists, nurses, and psychosocial support teams.
+
+### 1. **Surgery**
+
+-   Plays a key role in diagnosis (biopsy) and treatment (resection of tumour).\
+-   Examples: nephrectomy in Wilms’ tumour, enucleation in advanced retinoblastoma.
+
+### 2. **Chemotherapy**
+
+-   Mainstay of treatment for most paediatric cancers.\
+-   Uses cytotoxic drugs targeting rapidly dividing cells.\
+-   Often given in **cycles** to allow normal tissues to recover.\
+-   Commonly used agents: vincristine, doxorubicin, cyclophosphamide, methotrexate, cytarabine.\
+-   Side effects: bone marrow suppression, alopecia, nausea, infections.
+
+### 3. **Radiotherapy**
+
+-   Used in selected cancers (e.g., brain tumours, Hodgkin lymphoma).\
+-   Careful dosing required to avoid long-term growth and developmental complications.\
+-   Increasingly replaced by more precise modalities such as proton therapy where available.
+
+### 4. **Stem Cell Transplantation**
+
+-   Indicated in high-risk or relapsed cases (e.g., relapsed leukaemia).\
+-   May involve autologous or allogeneic transplantation.
+
+### 5. **Targeted Therapy and Immunotherapy**
+
+-   Monoclonal antibodies (e.g., rituximab in B-cell lymphomas).\
+-   Tyrosine kinase inhibitors (e.g., imatinib in Philadelphia chromosome-positive ALL).\
+-   CAR-T cell therapy emerging in refractory cases.
+
+## Supportive Care
+
+Equally important as definitive treatment, supportive care ensures the child tolerates therapy.
+
+-   **Infection prevention and treatment**: use of antibiotics, antifungals, and sometimes
+    prophylaxis.\
+-   **Blood product support**: transfusions for anaemia and thrombocytopenia.\
+-   **Nutritional support**: maintaining adequate nutrition to aid recovery.\
+-   **Pain management**: opioids and adjuvants as required.\
+-   **Psychological support**: counselling for child and family.\
+-   **Management of treatment complications**: tumour lysis syndrome, neutropenic sepsis.
+
+## Emergency Presentations in Paediatric Oncology
+
+Certain cancer-related emergencies require immediate recognition and intervention:\
+- **Febrile neutropenia** – life-threatening infection during chemotherapy-induced
+immunosuppression.\
+- **Tumour lysis syndrome** – rapid cell breakdown causing hyperkalaemia, hyperuricaemia, renal
+failure.\
+- **Mediastinal mass** – airway compression in lymphomas or leukaemia.\
+- **Spinal cord compression** – neuroblastoma or vertebral metastases.\
+- **Severe anaemia or bleeding** – marrow infiltration by leukaemia.
+
+## Long-Term Follow-Up and Survivorship
+
+With improved survival, focus has shifted to long-term outcomes:\
+- **Late effects of therapy**:\
+- Growth retardation from cranial irradiation.\
+- Cardiomyopathy from anthracyclines.\
+- Infertility from alkylating agents.\
+- Secondary malignancies.\
+- **Rehabilitation and reintegration**: ensuring schooling and social development.\
+- **Psychological support**: addressing anxiety, depression, and stigma.
+
+## Prevention and Early Detection
+
+-   Unlike adult cancers, **primary prevention is limited** in childhood cancers.\
+-   However, measures include:
+    -   Avoiding unnecessary exposure to ionising radiation in pregnancy and childhood.\
+    -   Vaccination against viruses that can indirectly influence cancer risk (e.g., HBV to reduce
+        hepatocellular carcinoma).\
+    -   Screening in high-risk families with known cancer syndromes (e.g., RB1 mutation carriers).\
+-   Public health education on early signs of cancer is vital in improving outcomes in low-resource
+    settings.
+
+## Prognosis
+
+-   Prognosis depends on:
+    -   Type of cancer.\
+    -   Stage at diagnosis.\
+    -   Response to therapy.\
+    -   Availability of supportive care.\
+-   Survival is excellent in conditions like Hodgkin lymphoma (\>90%) but poorer in advanced
+    neuroblastoma or late-presenting retinoblastoma.
+
+## Conclusion
+
+Paediatric oncology integrates principles of cell biology, clinical medicine, and multidisciplinary
+care. While outcomes have improved remarkably in high-resource settings, challenges remain in low-
+and middle-income countries, where late presentation and limited infrastructure hinder survival. For
+medical students, an appreciation of the **unique biology, presentation, and management** of
+childhood cancers is essential in recognising cases early, guiding families, and contributing to
+improved outcomes in resource-constrained environments.

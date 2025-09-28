@@ -1,0 +1,242 @@
+---
+title: "Other Pediatric Tumours"
+author: "xxx"
+author-meta: "Senior lecturer, <br> Dept of Child Health,KNUST <br> Pediatric Oncologist"
+date: 2025-09-24
+---
+
+## Introduction
+
+Childhood cancers represent a diverse group of diseases distinct from adult malignancies in their
+biology, clinical behaviour, and response to treatment. While leukaemias, lymphomas, nephroblastoma,
+and retinoblastoma are among the most common, several other solid tumours also contribute
+significantly to paediatric cancer morbidity and mortality worldwide.
+
+Understanding these conditions is crucial for early recognition, appropriate referral, and timely
+management. This chapter will cover neuroblastoma, hepatic tumours, sarcomas, bone tumours, brain
+tumours, and germ cell tumours, as well as selected rare entities.
+
+## Neuroblastoma
+
+### Introduction and Epidemiology
+
+Neuroblastoma is the most common **extracranial solid tumour of childhood**, arising from neural
+crest cells of the sympathetic nervous system.\
+- Accounts for about **8–10% of childhood cancers**.\
+- Median age at diagnosis: **2 years**.\
+- Rare after 10 years.\
+- Common sites: adrenal medulla (40%), paraspinal sympathetic chain, posterior mediastinum.
+
+### Pathophysiology
+
+-   Originates from neural crest cells that fail to differentiate.\
+-   Tumour behaviour is highly variable: can spontaneously regress (especially in infants) or
+    progress aggressively with widespread metastases.\
+-   Genetic features: amplification of **MYCN oncogene** is associated with poor prognosis.
+
+### Clinical Features
+
+-   Abdominal mass (often firm, irregular, crossing midline).\
+-   Symptoms due to local invasion: constipation, urinary obstruction.\
+-   Metastases: bone pain, periorbital ecchymoses (“raccoon eyes”), hepatomegaly.\
+-   Paraneoplastic features: hypertension, diarrhoea (due to vasoactive intestinal peptide).
+
+### Investigations
+
+-   Imaging: ultrasound, CT/MRI of abdomen.\
+-   MIBG scan: identifies tumour sites.\
+-   Biopsy for histology.\
+-   Elevated urinary catecholamines (VMA, HVA) in \>90%.
+
+### Management
+
+-   Depends on risk stratification.\
+-   Low-risk: Surgery alone may cure.\
+-   Intermediate-risk: surgery + chemotherapy.\
+-   High-risk: intensive chemotherapy, surgery, radiotherapy, stem cell transplant, immunotherapy.
+
+### Prognosis
+
+-   Variable. Infants with localised disease may do very well.\
+-   High-risk disease has poorer survival despite aggressive therapy.
+
+## Hepatic Tumours
+
+### Hepatoblastoma
+
+-   Most common **primary liver tumour in children**.\
+-   Usually diagnosed in children under **3 years**.\
+-   Associated with prematurity and some genetic syndromes (e.g., Beckwith–Wiedemann).
+
+**Clinical Features**:\
+- Painless abdominal mass.\
+- Abdominal distension.\
+- Elevated **alpha-fetoprotein (AFP)** in most cases.
+
+**Diagnosis**:\
+- Ultrasound/CT scan showing liver mass.\
+- Biopsy for confirmation.
+
+**Treatment**:\
+- Surgical resection (hepatectomy).\
+- Neoadjuvant/adjuvant chemotherapy (cisplatin-based).\
+- Liver transplant if unresectable.
+
+**Prognosis**:\
+- Good if complete surgical removal is possible.
+
+### Hepatocellular Carcinoma (HCC)
+
+-   Less common in children but important in sub-Saharan Africa due to **hepatitis B infection**.\
+-   Presents in older children and adolescents.\
+-   AFP is elevated but less consistently than hepatoblastoma.\
+-   Prognosis is generally poor, as tumours are often unresectable.
+
+## Rhabdomyosarcoma and Other Soft Tissue Sarcomas
+
+### Rhabdomyosarcoma (RMS)
+
+-   Most common **soft tissue sarcoma in children**.\
+-   Arises from primitive mesenchymal cells committed to skeletal muscle lineage.\
+-   Common sites: head and neck (orbit, nasopharynx), genitourinary tract, extremities.
+
+**Clinical Features**:\
+- Mass on the affected site.\
+- Proptosis (orbital).\
+- Nasal obstruction, epistaxis (nasopharyngeal).\
+- Haematuria or vaginal bleeding (genitourinary).
+
+**Diagnosis**:\
+- Imaging (MRI).\
+- Biopsy with histology (embryonal, alveolar, pleomorphic subtypes).\
+- Immunohistochemistry (desmin, myogenin positive).
+
+**Treatment**:\
+- Multimodal: surgery, chemotherapy, radiotherapy.
+
+**Prognosis**:\
+- Better in embryonal type.\
+- Depends on site, size, and extent.
+
+### Other Soft Tissue Sarcomas
+
+-   Include fibrosarcoma, synovial sarcoma, and malignant peripheral nerve sheath tumour.\
+-   Less common but managed similarly with surgery, chemotherapy, and radiotherapy.
+
+## Bone Tumours
+
+### Osteosarcoma
+
+-   Most common **primary malignant bone tumour** in children and adolescents.\
+-   Peak in adolescence during rapid bone growth.\
+-   Common sites: metaphyses of long bones (femur, tibia, humerus).
+
+**Clinical Features**:\
+- Localised bone pain (worse at night).\
+- Swelling, mass, limitation of movement.\
+- Pathological fractures may occur.
+
+**Investigations**:\
+- X-ray: mixed lytic-sclerotic lesion, periosteal reaction (“sunburst” appearance, Codman
+triangle).\
+- MRI: local extent.\
+- Biopsy confirms diagnosis.
+
+**Treatment**:\
+- Neoadjuvant chemotherapy, limb-sparing surgery (or amputation), adjuvant chemotherapy.
+
+**Prognosis**:\
+- Improved with multimodal therapy.\
+- Presence of metastases (lung) worsens outlook.
+
+### Ewing Sarcoma
+
+-   Second most common bone tumour in children.\
+-   Arises from primitive neuroectodermal cells.\
+-   Typically affects diaphysis of long bones and pelvis.\
+-   Associated with **t(11;22) translocation**.
+
+**Clinical Features**:\
+- Pain, swelling, systemic symptoms (fever, weight loss).\
+- Can mimic infection (osteomyelitis).
+
+**Investigations**:\
+- X-ray: “onion-skin” periosteal reaction.\
+- MRI: extent of disease.\
+- Biopsy for histology and cytogenetics.
+
+**Treatment**:\
+- Chemotherapy, surgery, and/or radiotherapy.
+
+**Prognosis**:\
+- Fair with localised disease.\
+- Poor with metastases.
+
+## Brain Tumours
+
+Brain tumours are the most common **solid tumours of childhood**.
+
+### Medulloblastoma
+
+-   Most common malignant brain tumour in children.\
+-   Originates in cerebellum.\
+-   Highly radiosensitive.
+
+**Features**: headache, vomiting, ataxia, papilloedema.\
+**Treatment**: surgery + craniospinal irradiation + chemotherapy.
+
+### Astrocytomas
+
+-   Low-grade astrocytomas (e.g., pilocytic astrocytoma) have excellent prognosis after surgical
+    removal.\
+-   High-grade astrocytomas are aggressive and carry poorer outcomes.
+
+### Ependymomas
+
+-   Arise from ependymal cells lining ventricles.\
+-   Commonly present with hydrocephalus due to obstruction.\
+-   Treatment: surgery and radiotherapy.
+
+## Germ Cell Tumours
+
+### Overview
+
+-   Can occur in gonads (testis, ovary) or extragonadal sites (sacrococcygeal, mediastinum,
+    retroperitoneum).\
+-   Derived from primordial germ cells.
+
+### Clinical Features
+
+-   Testicular: painless testicular mass.\
+-   Ovarian: abdominal mass, pain, precocious puberty.\
+-   Sacrococcygeal: mass at base of spine, sometimes visible externally.
+
+### Diagnosis
+
+-   Imaging (ultrasound, CT/MRI).\
+-   Serum tumour markers: AFP, β-HCG.\
+-   Biopsy (except in some gonadal cases where orchiectomy/oophorectomy is primary treatment).
+
+### Treatment
+
+-   Surgery + chemotherapy (cisplatin-based).\
+-   Prognosis generally good, especially for localised disease.
+
+## Other Rare Paediatric Tumours
+
+-   **Adrenocortical tumours**: may present with virilisation or Cushing’s syndrome.\
+-   **Thyroid carcinoma**: uncommon, but papillary carcinoma can occur, sometimes associated with
+    prior radiation exposure.\
+-   **Malignant rhabdoid tumour of the kidney or brain**: rare and aggressive.
+
+## Conclusion
+
+Beyond leukaemia, lymphoma, nephroblastoma, and retinoblastoma, several other paediatric
+malignancies play a significant role in the spectrum of childhood cancer. These include
+neuroblastoma, hepatic tumours, sarcomas, bone tumours, brain tumours, and germ cell tumours.
+Although they differ in biology and clinical behaviour, successful management relies on **early
+diagnosis, multidisciplinary care, and supportive management**.
+
+In resource-limited settings such as Ghana, improving survival will require increased awareness of
+early signs, timely referral, access to diagnostic facilities, and strengthening of paediatric
+oncology units.

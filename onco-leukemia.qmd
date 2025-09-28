@@ -1,5 +1,168 @@
 ---
-title: "Leukemia"
-author: "Dr (Mrs) Vivian Paintsil"
+title: "Leukaemia"
+author: "xxx"
 author-meta: "Senior lecturer, <br> Dept of Child Health,KNUST <br> Pediatric Oncologist"
+date: 2025-09-28
 ---
+
+Leukaemia is the most common childhood malignancy, representing about one-third of all cancers
+diagnosed in children. It is a malignant disorder of the blood and bone marrow characterised by
+uncontrolled proliferation of abnormal white blood cells. These immature cells crowd the marrow,
+impairing the production of normal blood cells and leading to anaemia, thrombocytopenia, and
+neutropenia. For medical students, understanding leukaemia requires an integrated view of its
+epidemiology, aetiology, pathophysiology, clinical presentation, diagnosis, treatment, and outcomes.
+
+## Introduction
+
+Leukaemia in children is a heterogeneous group of disorders arising from the malignant
+transformation of haematopoietic precursor cells. It is broadly divided into **acute lymphoblastic
+leukaemia (ALL)**, the most common type, and **acute myeloid leukaemia (AML)**. Chronic leukaemias
+are rare in childhood. The disease disrupts normal bone marrow function and causes systemic
+manifestations due to infiltration of organs by leukaemic cells.
+
+## Incidence and Prevalence
+
+-   Childhood leukaemia accounts for approximately **25–35% of all paediatric cancers**.
+-   The global incidence is about **3–4 per 100,000 children per year**.
+-   ALL is more common than AML, with a peak incidence between ages **2 and 5 years**.
+-   There is a slight male predominance and variation across ethnicities, with higher rates in
+    high-income countries.
+-   Improvements in treatment have markedly increased survival, with 5-year survival rates for ALL
+    exceeding **80%** in developed settings.
+
+## Aetiology
+
+The exact cause of leukaemia remains unclear, but multiple interacting factors have been implicated:
+
+-   **Genetic predisposition**:
+    -   Children with syndromes such as Down syndrome, Li-Fraumeni syndrome, and Fanconi anaemia are
+        at higher risk.
+-   **Chromosomal abnormalities**: Translocations such as *t(12;21)* in ALL or *t(8;21)* in AML are
+    common.
+-   **Environmental factors**: Ionising radiation, certain chemotherapeutic agents, and exposure to
+    benzene.
+-   **Infections and immune dysregulation**: Delayed immune development and abnormal immune
+    responses to infections have been proposed.
+-   **Familial risk**: Having a sibling with leukaemia increases the risk modestly.
+
+## Pathophysiology
+
+Leukaemia results from genetic mutations in haematopoietic stem or progenitor cells leading to:
+
+1.  **Uncontrolled proliferation** of abnormal blasts.
+2.  **Failure of differentiation**, with accumulation of immature cells.
+3.  **Bone marrow failure**, causing:
+    -   Anaemia → fatigue, pallor.
+    -   Neutropenia → infections.
+    -   Thrombocytopenia → bleeding.
+4.  **Tissue infiltration** by leukaemic cells:
+    -   Hepatosplenomegaly.
+    -   Lymphadenopathy.
+    -   CNS involvement (headache, vomiting, cranial nerve palsies).
+    -   Bone pain from marrow expansion.
+
+## Signs and Symptoms
+
+Children typically present with non-specific symptoms, making early recognition challenging.
+
+-   **General symptoms**: Fatigue, fever, anorexia, weight loss.
+-   **Bone marrow failure manifestations**:
+    -   Pallor, tachycardia, and lethargy from anaemia.
+    -   Easy bruising, petechiae, and mucosal bleeding from thrombocytopenia.
+    -   Recurrent infections due to neutropenia.
+-   **Organ infiltration**:
+    -   Lymphadenopathy, hepatomegaly, splenomegaly.
+    -   Bone or joint pain, limp.
+    -   CNS signs: vomiting, seizures, headaches.
+    -   Testicular enlargement (especially in ALL).
+
+## Differential Diagnosis
+
+Conditions that mimic leukaemia include:
+
+-   **Aplastic anaemia**.
+-   **Infectious causes**: EBV, HIV, tuberculosis.
+-   **Other malignancies**: Lymphomas, neuroblastoma.
+-   **Rheumatological disorders**: Juvenile idiopathic arthritis.
+-   **Storage disorders** with hepatosplenomegaly.
+
+## Investigations
+
+Workup includes both laboratory and imaging studies:
+
+-   **Initial tests**:
+    -   Full blood count (FBC) often shows anaemia, thrombocytopenia, leukocytosis or leukopenia.
+    -   Blood film reveals circulating blasts.
+-   **Confirmatory tests**:
+    -   Bone marrow aspiration and biopsy showing \>25% blasts.
+    -   Flow cytometry for immunophenotyping (B-cell vs T-cell ALL, AML subtypes).
+-   **Cytogenetics and molecular studies**: Prognostic significance (e.g., *t(9;22)* Philadelphia
+    chromosome).
+-   **Additional workup**:
+    -   Lumbar puncture for CNS involvement.
+    -   Chest X-ray to check for mediastinal mass.
+    -   Biochemistry: uric acid, LDH, renal and liver function.
+
+## Treatment
+
+Management of leukaemia is complex and requires a multidisciplinary team. It can be categorised into
+stages:
+
+### Emergency Management (at presentation)
+
+-   Stabilisation: Manage anaemia, thrombocytopenia, and infections.
+-   Blood product support: Packed RBCs, platelets.
+-   Treatment of tumour lysis syndrome: Hydration, allopurinol or rasburicase.
+-   Empirical antibiotics for febrile neutropenia.
+
+### Ongoing Management (definitive therapy)
+
+-   **Chemotherapy** is the backbone of treatment:
+    -   Induction → achieve remission.
+    -   Consolidation/intensification → eradicate residual disease.
+    -   Maintenance → prevent relapse.
+-   **CNS prophylaxis** with intrathecal methotrexate.
+-   AML requires more intensive regimens.
+-   Targeted therapies (e.g., tyrosine kinase inhibitors for BCR-ABL positive ALL).
+
+### 3. Preparation for Discharge
+
+-   Education of caregivers about infection prevention, medication adherence, and follow-up.
+-   Arrangements for outpatient chemotherapy and monitoring.
+-   Psychosocial support for the child and family.
+
+### 4. Long-Term Management
+
+-   Monitoring for relapse with clinical exam and minimal residual disease testing.
+-   Managing late effects of chemotherapy: growth retardation, infertility, cardiotoxicity.
+-   Vaccinations and infection prophylaxis.
+-   Consideration of stem cell transplant in high-risk or relapsed cases.
+
+## Complications
+
+-   **Early**: Tumour lysis syndrome, febrile neutropenia, bleeding, sepsis.
+-   **During therapy**: Chemotherapy toxicity (mucositis, hepatotoxicity, cardiotoxicity).
+-   **Late**: Relapse, secondary malignancies, growth and endocrine abnormalities, learning
+    difficulties.
+
+## Prevention
+
+-   Currently, there are no definitive preventive strategies for most cases.
+-   Avoidance of unnecessary radiation and known chemical carcinogens is recommended.
+-   Genetic counselling for families with hereditary cancer syndromes.
+
+## Prognosis
+
+-   Prognosis depends on age, initial white cell count, cytogenetic abnormalities, and response to
+    therapy.
+-   **ALL**: 5-year survival \>80% in developed countries, lower in resource-limited settings.
+-   **AML**: Lower survival (\~60%), requires more intensive therapy.
+-   Relapse remains a major challenge, with outcomes poorer after recurrence.
+
+## Conclusion
+
+Childhood leukaemia, though the most common paediatric cancer, is a highly treatable condition with
+modern chemotherapy protocols. A good understanding of its presentation, investigations, and
+treatment approach is essential for practitioners, particularly in Ghana, where delayed diagnosis
+and limited resources pose challenges. With early recognition, appropriate supportive care, and
+treatment adherence, survival rates continue to improve globally.

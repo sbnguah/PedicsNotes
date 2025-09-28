@@ -81,6 +81,7 @@ book:
         - onco-lymphoma.qmd
         - onco-retinoblastoma.qmd
         - onco-wilms-tumor.qmd
+        - onco-other-tumours.qmd
     - part: "<span style='font-weight:bold; color: black;'>Nephrology</span>"
       chapters: 
         - nep-renal-disorders.qmd

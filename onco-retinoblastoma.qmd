@@ -1,5 +1,177 @@
 ---
 title: "Retinoblastoma"
-author: "Dr (Mrs) Vivian Paintsil"
+author: "xxx"
 author-meta: "Senior lecturer, <br> Dept of Child Health,KNUST <br> Pediatric Oncologist"
+date: 2025-09-28
 ---
+
+## Introduction
+
+Retinoblastoma is the most common **primary intraocular malignancy of childhood**, arising from the
+retina. It typically presents before the age of 5 years and carries major implications for vision,
+survival, and quality of life. The disease has become a paradigm for cancer genetics, as the RB1
+tumour suppressor gene was the first tumour gene identified in humans.
+
+Early diagnosis and treatment are critical: retinoblastoma is highly curable if detected early, but
+advanced disease can be fatal. In high-income countries, survival exceeds 95%, while in many low-
+and middle-income countries—including Ghana—delayed diagnosis often results in poorer outcomes.
+
+## Incidence and Prevalence
+
+-   Global incidence: about **1 in 15,000–20,000 live births**.
+-   Accounts for **3–4% of all childhood cancers**.
+-   Peak age:
+    -   Unilateral disease: 2–3 years.
+    -   Bilateral disease: diagnosed earlier, often before 1 year.
+-   No sex predilection.
+-   In Ghana and other sub-Saharan countries, children frequently present late, often with
+    extraocular spread, which worsens survival rates.
+
+## Aetiology
+
+The development of retinoblastoma is intimately linked to the **RB1 gene** on chromosome 13q14.
+
+-   **Heritable form** (40% of cases):
+    -   Germline mutation in one allele of RB1 gene is inherited.
+    -   Second hit occurs somatically in retinal cells.
+    -   Usually bilateral and multifocal.
+    -   Associated with increased risk of secondary malignancies (e.g., osteosarcoma).
+-   **Non-heritable form** (60% of cases):
+    -   Both RB1 mutations occur somatically.
+    -   Usually unilateral and unifocal.
+
+Rarely, retinoblastoma may arise from **MYCN amplification** even without RB1 mutation.
+
+## Pathophysiology
+
+The RB1 gene product regulates the **G1–S checkpoint** of the cell cycle. Loss of both functional
+RB1 alleles leads to uncontrolled retinal cell proliferation.
+
+-   Tumours originate from **retinal progenitor cells**.
+-   Can grow in various patterns:
+    -   **Endophytic**: growing into the vitreous.
+    -   **Exophytic**: growing beneath the retina, leading to retinal detachment.
+    -   **Diffuse infiltrating**: rare, spreading through the retina without forming a discrete
+        mass.
+-   Spread:
+    -   Local invasion (into optic nerve, choroid, sclera).
+    -   Extraocular spread (orbit, brain via optic nerve, systemic metastasis to bone marrow,
+        liver).
+
+## Clinical Features
+
+Presentation varies depending on stage and extent of disease.
+
+-   **Most common presenting sign**:
+    -   **Leukocoria** (white pupillary reflex), often noticed in photographs with flash.
+-   Other features:
+    -   Strabismus (misalignment of eyes).
+    -   Red, painful eye (from secondary glaucoma, uveitis, or tumour necrosis).
+    -   Poor vision or blindness.
+    -   Hyphema (blood in anterior chamber).
+    -   Orbital swelling or proptosis (extraocular disease).
+    -   Rare systemic symptoms in metastatic disease (bone pain, weight loss, fever).
+
+## Differential Diagnosis
+
+-   Coats’ disease (retinal telangiectasia with exudation).
+-   Persistent hyperplastic primary vitreous.
+-   Congenital cataract.
+-   Toxocariasis.
+-   Retinal detachment.
+-   Medulloepithelioma of the ciliary body.
+
+## Investigations
+
+-   **Ocular examination**:
+    -   Indirect ophthalmoscopy under anaesthesia (definitive for diagnosis).
+-   **Imaging**:
+    -   **Ultrasound B-scan**: reveals intraocular mass with calcification.
+    -   **CT scan**: useful for calcifications but limited due to radiation risk.
+    -   **MRI of orbits and brain**: preferred for local extension (optic nerve, CNS).
+-   **Laboratory tests**: not diagnostic, but baseline bloods useful before chemotherapy.
+-   **Genetic testing**:
+    -   Detects RB1 mutation.
+    -   Guides family counselling and screening of siblings.
+
+Biopsy of the eye is avoided due to risk of tumour spread.
+
+## Staging
+
+Two main systems:
+
+1.  **International Intraocular Retinoblastoma Classification (IIRC)** – based on disease extent
+    within the eye (Groups A–E).
+2.  **International Retinoblastoma Staging System (IRSS)** – for post-enucleation staging, including
+    extraocular spread and metastasis.
+
+## Treatment
+
+Treatment depends on whether the disease is unilateral or bilateral, intraocular or extraocular, and
+the aim (life preservation, eye salvage, vision preservation).
+
+### Emergency Care
+
+-   Treat secondary glaucoma for pain relief.
+-   Manage raised intracranial pressure in cases of optic nerve invasion.
+
+### Definitive and Ongoing Management
+
+-   **Enucleation**: removal of the affected eye. Standard for unilateral advanced disease.
+-   **Focal therapies** (for small tumours):
+    -   Laser photocoagulation.
+    -   Cryotherapy.
+    -   Thermotherapy.
+-   **Chemotherapy**:
+    -   Systemic chemotherapy (vincristine, carboplatin, etoposide) for chemoreduction.
+    -   Intra-arterial chemotherapy (direct to ophthalmic artery).
+    -   Intravitreal chemotherapy (for vitreous seeds).
+-   **Radiotherapy**:
+    -   External beam (rare now, due to risk of secondary tumours in heritable cases).
+    -   Plaque brachytherapy for selected cases.
+-   **Bilateral disease**: efforts made to preserve at least one eye with useful vision.
+
+### Preparation for Discharge
+
+-   Educate parents on prosthesis care after enucleation.
+-   Importance of follow-up for recurrence detection.
+-   Genetic counselling for families with heritable disease.
+
+### Long-Term Management
+
+-   Regular ophthalmologic examinations under anaesthesia.
+-   Screening for second malignancies in heritable cases.
+-   Monitoring growth, vision development, and psychosocial adjustment.
+
+## Complications
+
+-   Local recurrence within the eye or orbit.
+-   Extraocular spread with poor prognosis.
+-   Metastases to CNS, bone marrow, or distant organs.
+-   Vision loss, especially in bilateral disease.
+-   Cosmetic issues after enucleation.
+-   Secondary malignancies in heritable retinoblastoma, particularly osteosarcoma and soft tissue
+    sarcomas (especially after radiotherapy).
+
+## Prognosis
+
+-   In high-income countries: \>95% survival.
+-   In sub-Saharan Africa: survival often \<40%, mainly due to late presentation, extraocular
+    disease, and limited treatment resources.
+-   Prognosis is best with early detection, small intraocular tumours, and access to multimodal
+    therapy.
+
+## Prevention
+
+-   No known prevention for sporadic cases.
+-   **Genetic counselling and testing**: vital in families with heritable retinoblastoma.
+-   Screening of at-risk infants (regular eye exams from birth to 5 years).
+-   Avoid unnecessary exposure to ionising radiation in heritable cases.
+
+## Conclusion
+
+Retinoblastoma is a highly curable childhood malignancy when detected early. The disease highlights
+the importance of integrating **clinical suspicion, imaging, genetic counselling, and multimodal
+therapy** in management. In Ghana and similar settings, community education to recognise leukocoria
+early, improved access to ophthalmic oncology, and support for families can dramatically improve
+survival and quality of life.

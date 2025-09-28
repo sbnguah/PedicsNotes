@@ -1,5 +1,191 @@
 ---
 title: "Lymphoma"
-author: "Dr (Mrs) Vivian Paintsil"
+author: "xxx"
 author-meta: "Senior lecturer, <br> Dept of Child Health,KNUST <br> Pediatric Oncologist"
+date: 2025-09-20
 ---
+
+Lymphomas are malignant neoplasms arising from the lymphoid tissues and are the **third most common
+childhood cancer** after leukaemia and brain tumours. They account for approximately 10–15% of
+childhood malignancies. Lymphomas are broadly classified into **Hodgkin lymphoma (HL)** and
+**non-Hodgkin lymphoma (NHL)**, with the latter being more frequent in children. Among NHL subtypes,
+**Burkitt’s lymphoma** is particularly common in tropical Africa, including Ghana, where it is one
+of the leading childhood cancers.
+
+Understanding the epidemiology, aetiology, pathophysiology, clinical features, and treatment of
+childhood lymphoma is vital for medical students, as early diagnosis and timely intervention
+significantly improve outcomes.
+
+## Introduction
+
+Lymphoma is a malignancy of the lymphoid system, originating from either **B lymphocytes** or **T
+lymphocytes** at various stages of differentiation. In children, the disease behaves more
+aggressively compared to adult lymphomas, but it is also more curable with modern treatment
+protocols.
+
+-   **Hodgkin lymphoma (HL)**: Characterised by the presence of Reed-Sternberg cells. Typically
+    presents in older children and adolescents.
+-   **Non-Hodgkin lymphoma (NHL)**: Includes Burkitt’s lymphoma, lymphoblastic lymphoma, and large
+    cell lymphoma. These are high-grade tumours with rapid proliferation.
+
+## Incidence and Prevalence
+
+-   Lymphomas account for 10–15% of childhood cancers worldwide.
+-   NHL is more common in children than HL, particularly in those under 10 years of age.
+-   In sub-Saharan Africa, **Burkitt’s lymphoma is endemic** and accounts for up to **50% of
+    childhood cancers in some regions**.
+-   Peak age for Burkitt’s lymphoma: **5–10 years**.
+-   Hodgkin lymphoma is less common in African children but occurs worldwide, often peaking in
+    adolescence.
+-   There is a slight male predominance, particularly in the case of NHL.
+
+## Aetiology
+
+The development of lymphoma is multifactorial and involves both genetic and environmental
+influences.
+
+-   **Genetic predisposition**: Mutations affecting oncogenes and tumour suppressor genes (e.g.,
+    *MYC* translocation in Burkitt’s lymphoma).
+-   **Infectious agents**:
+    -   Epstein–Barr virus (EBV) is strongly associated with Burkitt’s lymphoma and some cases of
+        HL.
+    -   Human immunodeficiency virus (HIV) predisposes to NHL.
+-   **Immunodeficiency states**: Congenital (e.g., Wiskott–Aldrich syndrome) or acquired (HIV/AIDS,
+    post-transplant immunosuppression).
+-   **Environmental factors**: Chronic malaria infection in endemic regions contributes to immune
+    dysregulation, facilitating EBV-driven oncogenesis in Burkitt’s lymphoma.
+
+## Pathophysiology
+
+Lymphomas arise from **clonal proliferation of lymphoid cells**.
+
+-   **Hodgkin lymphoma**:
+    -   Originates from germinal centre B-cells that become transformed into Reed-Sternberg cells.
+    -   These cells secrete cytokines that recruit inflammatory cells, explaining the prominent
+        systemic symptoms.
+-   **Non-Hodgkin lymphoma**:
+    -   High-grade and rapidly proliferating.
+    -   Burkitt’s lymphoma is characterised by a translocation involving the *MYC* gene on
+        chromosome 8 (t(8;14) most common).
+    -   Malaria-induced chronic immune stimulation reduces T-cell control over EBV-infected B-cells,
+        facilitating malignant transformation.
+-   **Organ infiltration**: Lymphomas can spread to extranodal sites such as the bone marrow, CNS,
+    and abdominal viscera.
+-   The hallmark of Burkitt’s lymphoma in Africa is **jaw involvement**, though abdominal
+    presentations are also common.
+
+## Signs and Symptoms
+
+The presentation of lymphoma varies depending on the subtype and site of involvement.
+
+-   **General features**:
+    -   Fever, weight loss, night sweats (“B symptoms”).
+    -   Fatigue, anorexia.
+-   **Hodgkin lymphoma**:
+    -   Painless lymphadenopathy (often cervical or supraclavicular).
+    -   Mediastinal mass causing cough, dyspnoea, or SVC obstruction.
+    -   Hepatosplenomegaly.
+-   **Non-Hodgkin lymphoma**:
+    -   Rapidly enlarging lymph nodes, often extranodal.
+    -   Abdominal involvement: distension, pain, palpable mass, intussusception, or bowel
+        obstruction.
+    -   CNS infiltration: seizures, cranial nerve palsies, spinal cord compression.\
+    -   **Burkitt’s lymphoma**:
+        -   Endemic type: jaw/facial bone swelling, often bilateral.
+        -   Sporadic type: abdominal masses, ileocecal involvement.
+
+## Differential Diagnosis
+
+Conditions that mimic childhood lymphoma include:
+
+-   **Infectious diseases**: Tuberculosis, HIV lymphadenopathy, EBV infection.
+-   **Other malignancies**: Leukaemia, neuroblastoma, Wilms’ tumour.
+-   **Rheumatological disorders**: Juvenile idiopathic arthritis, systemic lupus erythematosus.
+-   **Benign causes of lymphadenopathy**: Reactive hyperplasia, cat-scratch disease.
+
+## Investigations
+
+Evaluation of suspected lymphoma requires a combination of laboratory, imaging, and histological
+studies.
+
+-   **Laboratory tests**:
+    -   Full blood count: may reveal anaemia, cytopenias if marrow involvement.
+    -   ESR and LDH: often elevated.
+    -   Uric acid and renal function: to assess for tumour lysis risk.
+-   **Imaging**:
+    -   Chest X-ray: mediastinal mass.
+    -   Ultrasound/CT/MRI: delineate abdominal or nodal masses.
+-   **Histology**:
+    -   Excisional lymph node biopsy is the gold standard.
+    -   Reed-Sternberg cells → Hodgkin lymphoma.
+    -   “Starry sky” appearance → Burkitt’s lymphoma.
+-   **Bone marrow aspiration and biopsy**: To check for infiltration.\
+-   **Lumbar puncture**: Especially for Burkitt’s lymphoma and lymphoblastic lymphoma to detect CNS
+    disease.
+
+## Treatment
+
+Management depends on subtype, stage, and extent of disease. Multidisciplinary care is essential.
+
+### Emergency Management
+
+-   Stabilise airway, breathing, circulation.
+-   Manage tumour lysis syndrome: hydration, allopurinol or rasburicase.
+-   Empirical antibiotics for febrile neutropenia.
+-   Blood products as required.
+
+### Definitive (Ongoing) Therapy
+
+-   **Chemotherapy** is the mainstay:
+    -   HL: ABVD (adriamycin, bleomycin, vinblastine, dacarbazine) or equivalent protocols.
+    -   NHL: intensive multiagent regimens (e.g., cyclophosphamide, vincristine, doxorubicin,
+        methotrexate, cytarabine).
+    -   Burkitt’s lymphoma responds dramatically to short, intensive chemotherapy cycles.\
+-   **Radiotherapy**: Occasionally used in HL but less so in children due to long-term side effects.
+-   **CNS prophylaxis**: Intrathecal chemotherapy for NHL.
+-   **Stem cell transplantation**: Considered in refractory or relapsed cases.
+
+### Preparation for Discharge
+
+-   Educate caregivers on infection prevention, adherence to chemotherapy, and recognition of
+    complications.
+-   Ensure follow-up schedules are clear.
+-   Provide psychosocial and nutritional support.
+
+### Long-Term Management
+
+-   Monitor for relapse with clinical examination and imaging as indicated.
+-   Surveillance for late effects: growth disturbances, infertility, cardiotoxicity, secondary
+    malignancies.
+-   Ongoing psychosocial support and school reintegration.
+
+## Complications
+
+-   **Early**: Tumour lysis syndrome, airway obstruction from mediastinal masses, sepsis.
+-   **During therapy**: Chemotherapy toxicities (mucositis, myelosuppression, cardiotoxicity).
+-   **Late**: Relapse, secondary cancers, endocrine dysfunction, infertility, psychosocial issues.
+
+## Prevention
+
+-   No definitive primary prevention strategies exist.
+-   Reducing malaria transmission may indirectly lower Burkitt’s lymphoma incidence.
+-   HIV prevention and treatment help reduce NHL burden.
+-   Early recognition and referral are key to improving survival.
+
+## Prognosis
+
+-   Prognosis depends on subtype, stage, and response to therapy.
+-   **Hodgkin lymphoma**: Excellent prognosis with \>90% 5-year survival in early-stage disease.
+-   **Non-Hodgkin lymphoma**: Cure rates of 70–90% with appropriate therapy.
+-   **Burkitt’s lymphoma**: Rapidly fatal if untreated, but highly curable with intensive
+    short-course chemotherapy. Survival is significantly improved when diagnosed early and managed
+    promptly.
+
+## Conclusion
+
+Childhood lymphoma is a significant health problem, particularly in sub-Saharan Africa, where
+**Burkitt’s lymphoma is endemic**. It is an aggressive but highly treatable malignancy. For medical
+students, key learning points include recognition of clinical presentations, understanding the role
+of EBV and malaria in endemic Burkitt’s lymphoma, and appreciating the importance of early diagnosis
+and intensive chemotherapy. With improved healthcare infrastructure, supportive care, and public
+health measures, outcomes for children with lymphoma can continue to improve.
