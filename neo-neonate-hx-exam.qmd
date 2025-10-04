@@ -1,3 +1,226 @@
 ---
 title: "Neonatal History & Examination"
+date: 2025-09-29
 ---
+
+## Introduction
+
+The newborn period, defined as the first 28 days of life, is a critical phase in human development.
+It represents a time of rapid physiological adaptation from intrauterine to extrauterine life, with
+major changes occurring in respiration, circulation, nutrition, and thermoregulation. During this
+period, morbidity and mortality are highest compared to any other stage of childhood, particularly
+in low- and middle-income countries such as Ghana.
+
+For clinicians, the neonatal history and examination are essential tools in identifying normal
+adaptation, detecting abnormalities early, and guiding timely interventions. A detailed assessment
+requires not only the direct clinical examination of the neonate but also a careful review of
+maternal, antenatal, intrapartum, and immediate postnatal events.
+
+## Importance of Neonatal History and Examination
+
+-   Early diagnosis of congenital anomalies – many conditions can be subtle at birth but become
+    evident on detailed examination.
+-   Assessment of perinatal risk factors – including maternal illnesses, infections, complications
+    of labour, and prematurity.
+-   Establishing baseline health status – for growth monitoring and subsequent follow-up.
+-   Building rapport with the mother and family – ensuring continuity of care.
+-   Guiding preventive strategies – such as immunisation, exclusive breastfeeding, and infection
+    control.
+
+## Components of Neonatal History
+
+The neonatal history is unique in that it depends heavily on information from the mother and
+available records, since the newborn cannot communicate symptoms. The history should be systematic
+and include the following areas:
+
+### Maternal History
+
+**Demographic and Social Factors**
+
+1.  Maternal age: Teenage and advanced maternal age pregnancies carry an increased risk.
+2.  Parity and gravidity: Provide context about reproductive history.
+3.  Socioeconomic status: influences access to care and nutrition.
+4.  Occupational exposures: Such as chemicals or radiation.
+
+**Maternal Medical History**
+
+1.  Chronic illnesses: Diabetes, hypertension, renal disease, HIV, tuberculosis, and epilepsy.
+2.  Medications during pregnancy: Some drugs (e.g., anticonvulsants, ACE inhibitors) are
+    teratogenic.
+3.  Substance use: Alcohol, tobacco, herbal medications, or recreational drugs.
+4.  Family history: Genetic disorders, congenital anomalies, consanguinity.
+
+### Antenatal History
+
+**Antenatal Care**
+
+1.  Number and timing of visits.
+2.  Use of supplements (iron, folic acid, tetanus immunisation).
+
+**Maternal Illnesses in Pregnancy**
+
+1.  Infections: TORCH (toxoplasmosis, rubella, cytomegalovirus, herpes, syphilis), malaria, urinary
+    tract infections.
+2.  Gestational diabetes and pre-eclampsia.
+3.  Antepartum haemorrhage or polyhydramnios/oligohydramnios.
+
+**Fetal Wellbeing**
+
+1.  Results of ultrasound scans (growth, anomalies, multiple gestation, amniotic fluid volume).
+2.  Reduced fetal movements.
+
+### Intrapartum History
+
+**Labour and Delivery**
+
+1.  Place of delivery (home, health centre, hospital).
+2.  Duration and course of labour.
+3.  Prolonged rupture of membranes (risk of infection).
+4.  Use of intrapartum medications or anaesthesia.
+5.  Mode of delivery: spontaneous vaginal delivery, assisted delivery, or caesarean section.
+
+**Condition of Baby at Birth**
+
+1.  Apgar scores at 1 and 5 minutes.
+2.  Need for resuscitation.
+3.  Cord events (e.g., prolapse, nuchal cord).
+4.  Meconium-stained amniotic fluid (risk of aspiration).
+
+### Immediate Postnatal History
+
+-   Cry at birth (immediate and vigorous or delayed).
+-   Initiation of breastfeeding and feeding adequacy.
+-   Passage of urine and meconium.
+-   Neonatal resuscitation or admission to neonatal intensive care unit (NICU).
+-   Administration of vitamin K, eye prophylaxis, and immunisations (BCG, OPV, Hepatitis B).
+
+## Components of Neonatal Examination
+
+A thorough neonatal examination should ideally be conducted within the first 24 hours and repeated
+before discharge. It involves general observation, measurement of growth parameters, a head-to-toe
+physical examination, and a functional systems review.
+
+### General Considerations
+
+-   Conduct in a warm, well-lit environment to avoid hypothermia.
+-   Wash hands thoroughly and maintain asepsis.
+-   Involve the mother to reduce stress and promote bonding.
+-   Examine systematically from head to toe.
+
+### General Observation
+
+-   Appearance: alert, active, lethargic, floppy.
+-   Colour: pink, pale, jaundiced, cyanosed.
+-   Cry: strong and lusty vs weak or absent.
+-   Breathing pattern: regular or irregular, presence of grunting, nasal flaring, or retractions.
+-   Movements: spontaneous, symmetrical, abnormal posturing.
+
+### Anthropometric Measurements
+
+-   Weight: normal term 2.5–4.0 kg.
+-   Length: 48–52 cm.
+-   Head circumference: 33–35 cm.
+-   Chest circumference: slightly less than head circumference. These values are plotted on neonatal
+    growth charts.
+
+### Skin and Subcutaneous Tissue
+
+-   Look for vernix caseosa, lanugo hair, birthmarks (Mongolian spots, café-au-lait spots), and
+    congenital anomalies.
+-   Assess for jaundice, petechiae, cyanosis, or dehydration.
+-   Palpate for oedema (suggests renal or cardiac disease).
+
+### Head and Face
+
+-   Shape and size: microcephaly, macrocephaly, cranial swellings (caput succedaneum,
+    cephalohaematoma).
+-   Fontanelles and sutures: size, tension (bulging may indicate raised intracranial pressure).
+-   Eyes: red reflex (absent in congenital cataract or retinoblastoma), discharge, conjunctival
+    haemorrhage.
+-   Ears: position, size, and anomalies (low-set ears suggest chromosomal syndromes).
+-   Nose: patency (choanal atresia if blocked).
+-   Mouth: cleft lip/palate, Epstein pearls, ankyloglossia.
+
+### Neck
+
+-   Masses such as cystic hygroma.
+-   Neck mobility (torticollis).
+
+### Chest
+
+-   Inspection: chest shape, symmetry, retractions.
+-   Auscultation: breath sounds equal? murmurs present?
+-   Palpation: heart apex position, thrills, or heaves.
+
+### Abdomen
+
+-   Shape: scaphoid, distended.
+-   Umbilical cord: number of vessels, infection, hernia.
+-   Palpation: liver (normally 1–2 cm below costal margin), spleen, kidneys, masses.
+-   Auscultation: bowel sounds.
+
+### Genitalia and Anus
+
+-   Male: testicular descent, hypospadias, phimosis.
+-   Female: labial size, vaginal discharge (may be normal pseudo-menstruation).
+-   Anus: patency, imperforate anus.
+
+### Musculoskeletal System
+
+-   Assess posture, limb movements, joint stability.
+-   Look for polydactyly, syndactyly, clubfoot.
+-   Check clavicles for fracture.
+-   Hip stability (Ortolani and Barlow manoeuvres).
+
+### Neurological Examination
+
+-   Tone: normal flexor tone vs hypotonia or hypertonia.
+-   Primitive reflexes:
+    -   Moro reflex
+    -   Rooting reflex
+    -   Sucking reflex
+    -   Palmar grasp
+    -   Stepping reflex
+-   Behaviour: alertness, consolability, irritability.
+
+## Special Considerations in Preterm Infants
+
+Preterm babies (\<37 weeks) require special attention. History should highlight maternal risk
+factors for preterm labour, and examination must assess:
+
+-   Skin thin and translucent with little subcutaneous fat.
+-   Lanugo hair more abundant. - Ear cartilage soft, pinna remains folded.
+-   Breast buds small or absent.
+-   Genitalia: undescended testes in males, prominent labia minora in females.
+-   Poor muscle tone and weak reflexes.
+
+## Neonatal Screening and Preventive Measures
+
+In many centres, neonatal assessment is complemented by screening tests:
+
+1.  Metabolic screening: for congenital hypothyroidism, phenylketonuria (where available).
+2.  Hearing screening: Otoacoustic emission tests.
+3.  Pulse oximetry: to detect critical congenital heart disease.
+4.  Blood sugar: in infants of diabetic mothers or small/large for gestational age.
+
+## Documentation and Communication
+
+-   Findings must be documented systematically in the neonatal record.
+-   Abnormal findings should be clearly communicated to senior clinicians and to the parents in a
+    sensitive manner.
+-   Recommendations for follow-up, investigations, or referrals must be made.
+
+## Challenges in Resource-Limited Settings
+
+-   Inadequate access to prenatal care records.
+-   Limited diagnostic facilities for neonatal screening.
+-   High burden of home deliveries without skilled attendants.
+-   Cultural practices influencing early care and feeding.
+
+## Conclusion
+
+The neonatal history and examination form the foundation of paediatric practice. They provide
+critical information about the newborn’s adaptation, detect congenital anomalies, and guide early
+interventions. For medical students and clinicians in Ghana, mastering these skills is essential in
+reducing neonatal morbidity and mortality. A systematic approach, attention to detail, and
+sensitivity to family concerns are the cornerstones of effective neonatal assessment.
