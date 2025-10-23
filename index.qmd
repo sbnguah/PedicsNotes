@@ -1,12 +1,5 @@
 ## Preface {.unnumbered}
 
-Medical knowledge has evolved tremendously over the past century. With the advent of the internet,
-sharing medical knowledge has become very easy. However, most medical literature available
-originates from developed countries, thus devoid of the relevant local content for many
-underdeveloped regions. This is critical for medical education and practice in that these texts
-often do not consider the cultural relevance of these pathologies, disease patterns and risks, local
-treatment options and idiosyncrasies of the medical delivery systems. Undoubtedly, these have
-significant effects on medical education and practice.
+Medical knowledge has evolved tremendously over the past century. With the advent of the internet, sharing medical knowledge has become very easy. However, most medical literature available originates from developed countries, thus devoid of the relevant local content for many underdeveloped regions. This is critical for medical education and practice in that these texts often do not consider the cultural relevance of these pathologies, disease patterns and risks, local treatment options and idiosyncrasies of the medical delivery systems. Undoubtedly, these have significant effects on medical education and practice.
 
-This text was birthed out of the need to bridge this gap. Though the content is primarily directed
-at undergraduate medical teaching, it can be beneficial to postgraduate trainees as well.
+This text was birthed out of the need to bridge this gap. Though the content is primarily directed at undergraduate medical teaching, it can be beneficial to postgraduate trainees as well.

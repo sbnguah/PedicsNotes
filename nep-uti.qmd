@@ -1,4 +1,225 @@
 ---
 title: "Urinary Tract Infection"
-author: "Prof. Sampson Antwi"
+date: 2025-10-12
+---
+
+## Introduction
+Urinary tract infection (UTI) is one of the most frequent bacterial infections in childhood, second only to respiratory infections. It represents an invasion of the urinary tract by pathogenic microorganisms, most commonly *Escherichia coli*.  
+In children, UTI can occur at any age and often presents with non-specific symptoms, especially in neonates and infants. Because the infection may indicate underlying structural or functional abnormalities of the urinary tract, careful diagnosis and follow-up are essential.  
+
+Globally, and in Ghana, UTI contributes significantly to paediatric morbidity and can lead to long-term complications such as renal scarring, hypertension, and chronic kidney disease if not promptly treated.
+
+## Epidemiology
+The incidence of UTI in children varies with age and sex:
+- In the **neonatal period**, UTIs are more common in boys, particularly those who are uncircumcised.
+- After infancy, the **female-to-male ratio** increases sharply because of the shorter urethra and its proximity to the anus.
+- Approximately **8% of girls and 2% of boys** experience at least one symptomatic UTI before 7 years of age.
+- Recurrence rates may reach **30–40%**, especially among those with vesicoureteral reflux (VUR) or bladder dysfunction.
+
+In low- and middle-income countries such as Ghana, poor hygiene, delayed treatment of fever, and limited access to imaging services may contribute to underdiagnosis and recurrent infections.
+
+## Aetiology and Risk Factors
+
+### Microbiology
+- **Gram-negative bacilli** are predominant:
+  - *Escherichia coli* (responsible for 70–90% of cases)
+  - *Klebsiella*, *Proteus*, *Enterobacter*, *Pseudomonas*  
+- **Gram-positive organisms** such as *Enterococcus faecalis* and *Staphylococcus saprophyticus* are less common.
+- In neonates, *Group B Streptococcus* and *Staphylococcus aureus* may be isolated.
+
+### Predisposing Factors
+1. **Anatomical abnormalities** — posterior urethral valves, vesicoureteral reflux, hydronephrosis.
+2. **Functional abnormalities** — neurogenic bladder, constipation, dysfunctional voiding.
+3. **Incomplete bladder emptying** or **obstruction**.
+4. **Poor perineal hygiene** and **urinary stasis**.
+5. **Uncircumcised males** — foreskin colonization increases bacterial adherence.
+6. **Instrumentation** — catheterization or cystoscopy.
+7. **Systemic conditions** — diabetes mellitus, immunodeficiency, malnutrition.
+8. **Dehydration** and inadequate fluid intake.
+
+## Pathophysiology
+UTI occurs when microorganisms colonize the periurethral area and ascend through the urethra into the bladder (cystitis) and, in some cases, further to the kidneys (pyelonephritis).  
+
+### Mechanisms
+- **Ascending infection:** the most common pathway; bacteria migrate from the perineum, facilitated by poor hygiene or reflux.
+- **Hematogenous spread:** less common; seen in neonates or immunocompromised children with bacteremia.
+- **Lymphatic spread:** rare and of uncertain significance.
+
+**Virulence factors** of uropathogens include:
+- **Fimbriae (pili):** enhance adherence to uroepithelial cells.
+- **Capsular polysaccharides:** resist phagocytosis.
+- **Hemolysins and toxins:** cause epithelial injury.
+- **Biofilm formation:** enables persistence and recurrence.
+
+**Host defenses** such as urine flow, mucosal IgA, and epithelial turnover normally prevent infection. When these defenses are impaired, infection takes hold.
+
+## Classification
+UTIs are classified based on location, severity, and recurrence.
+
+### Based on Location
+- **Lower UTI (Cystitis):** infection confined to bladder and urethra.
+- **Upper UTI (Pyelonephritis):** infection involves renal parenchyma, usually with systemic features.
+
+### Based on Severity
+- **Uncomplicated:** infection in an otherwise healthy urinary tract.
+- **Complicated:** associated with structural/functional abnormalities or systemic illness.
+
+### Based on Recurrence
+- **Recurrent UTI:** ≥2 episodes in six months or ≥3 within a year.
+- **Relapse:** infection by same organism within two weeks of treatment.
+- **Reinfection:** infection by a new organism after successful therapy.
+
+## Clinical Features
+The presentation varies with age, making clinical suspicion critical.
+
+### Neonates and Infants
+- Fever (may be absent in neonates)
+- Poor feeding, vomiting, lethargy
+- Jaundice
+- Failure to thrive
+- Hypothermia or irritability
+
+### Older Children
+- Dysuria, frequency, urgency
+- Suprapubic pain
+- Foul-smelling or cloudy urine
+- Hematuria
+- Fever and flank pain (if pyelonephritis)
+
+### School-Age and Adolescents
+- Classic lower tract symptoms (frequency, dysuria)
+- Abdominal or flank pain
+- Occasionally incontinence or enuresis
+
+Because symptoms are often non-specific, any child with unexplained fever, particularly under 2 years of age, should be evaluated for UTI.
+
+## Differential Diagnosis
+- Viral cystitis  
+- Vulvovaginitis or balanitis  
+- Appendicitis  
+- Gastroenteritis  
+- Renal stones  
+- Glomerulonephritis (if hematuria and proteinuria present)  
+- Fever of unknown origin  
+
+## Investigations
+
+### Urine Collection Methods
+Accurate diagnosis depends on obtaining a clean sample.
+- **Clean-catch midstream urine** (toilet-trained children).
+- **Catheterization** or **suprapubic aspiration** (infants).
+- **Urine bag collection** — often contaminated; used only for screening.
+
+### Laboratory Evaluation
+1. **Urinalysis**
+   - **Leukocyte esterase and nitrite tests:** simple bedside screening.
+   - **Microscopy:** ≥5–10 WBCs per high-power field suggests infection; presence of bacteria reinforces diagnosis.
+
+2. **Urine Culture**
+   - Gold standard for diagnosis.
+   - Significant growth:  
+     - ≥10⁵ CFU/mL (clean catch)  
+     - ≥10⁴ CFU/mL (catheter specimen)
+   - Identifies organism and antibiotic sensitivity.
+
+3. **Blood Tests**
+   - Full blood count (raised WBC count).
+   - ESR or CRP (elevated in pyelonephritis).
+   - Renal function tests (urea, creatinine, electrolytes).
+
+4. **Imaging Studies**
+   - **Renal and bladder ultrasound:** after first febrile UTI to detect structural anomalies.
+   - **Micturating cystourethrogram (MCUG):** for recurrent or atypical cases to identify vesicoureteral reflux.
+   - **DMSA scan:** assesses renal scarring and differential renal function.
+
+### Diagnostic Criteria
+Diagnosis requires both **clinical features** and **microbiological evidence**.  
+In infants, UTI should be suspected in any febrile illness without an obvious focus, and confirmed through culture before or soon after antibiotic initiation.
+
+## Management
+Prompt diagnosis and appropriate therapy are crucial to prevent renal damage.
+
+### 1. Acute (Emergency) Management
+Children presenting with fever, dehydration, vomiting, or systemic toxicity should be hospitalized and started on parenteral antibiotics after urine collection.
+- **Initial antibiotics (parenteral):**
+  - Cefotaxime, ceftriaxone, or gentamicin (adjust to local resistance patterns).
+- **Supportive care:**
+  - Adequate hydration (IV or oral).
+  - Antipyretics and pain relief.
+  - Monitor urine output and renal function.
+
+### 2. Oral Therapy for Stable Patients
+For older or less ill children with uncomplicated cystitis:
+- **Oral agents:** amoxicillin-clavulanate, cefixime, or cotrimoxazole (guided by culture).
+- Duration:  
+  - Cystitis — 5–7 days  
+  - Pyelonephritis — 10–14 days  
+Adjust antibiotics based on sensitivity results.
+
+### 3. Follow-Up and Ongoing Management
+- Reassess clinical response within 48–72 hours.
+- Repeat urinalysis and culture after completion of therapy.
+- Persistent fever or bacteriuria warrants imaging for obstruction or reflux.
+- Evaluate for underlying abnormalities after first febrile UTI, especially in children <2 years.
+
+### 4. Management of Recurrent UTI
+- Identify and treat predisposing factors such as constipation, dysfunctional voiding, or vesicoureteral reflux.
+- Prophylactic low-dose antibiotics (e.g., nightly nitrofurantoin or trimethoprim) may be considered for high-risk patients.
+- Encourage regular voiding and adequate hydration.
+- Periodic urine monitoring.
+
+### 5. Management of Complicated UTI
+Complicated cases (e.g., with obstruction, abscess, or sepsis) require:
+- Hospitalization
+- IV antibiotics (broader spectrum)
+- Possible urologic intervention
+- Multidisciplinary care with paediatric nephrology/urology teams.
+
+## Complications
+Untreated or recurrent UTI can lead to:
+- **Renal scarring** and cortical atrophy.
+- **Hypertension** (secondary to scarring).
+- **Proteinuria and CKD.**
+- **Perinephric abscess.**
+- **Urosepsis**, especially in neonates.
+- **Growth retardation** in chronic cases.
+
+## Prevention
+Preventive measures are essential, especially in endemic and resource-limited settings.
+
+### Behavioural and Hygiene Measures
+- Encourage frequent voiding and complete bladder emptying.
+- Ensure adequate hydration.
+- Teach proper perineal hygiene (front-to-back wiping for girls).
+- Avoid prolonged use of tight or synthetic clothing.
+- Manage constipation promptly.
+
+### Medical Measures
+- Early treatment of bladder dysfunction or obstruction.
+- Circumcision may reduce risk in recurrent UTI among boys.
+- Prophylactic antibiotics in selected high-risk children.
+- Immunization and prompt care of febrile illness.
+
+### Community and Public Health Measures
+- Improve sanitation and access to clean water.
+- Educate parents and caregivers on recognizing early signs of UTI.
+- Integrate UTI screening into child health programs.
+
+## Prognosis
+With early diagnosis and appropriate management, most children recover fully without long-term sequelae.  
+However, risk of renal damage increases with:
+- Delayed treatment (>48 hours of fever)
+- Recurrent infections
+- Presence of vesicoureteral reflux or obstruction
+- Poor adherence to therapy  
+
+Regular follow-up and imaging, where feasible, are key to preserving renal function.
+
+## Summary
+UTI in children is a common but potentially serious infection. The clinical picture varies with age, making early recognition essential.  
+Diagnosis requires proper urine collection and culture confirmation.  
+Treatment should be prompt, guided by local bacterial sensitivity patterns, and followed by evaluation for underlying structural abnormalities.  
+
+In Ghana and other similar settings, emphasis must be placed on hygiene, caregiver education, and accessible diagnostic services. Preventing renal damage through timely treatment remains the ultimate goal of managing childhood UTI.
+
 ---

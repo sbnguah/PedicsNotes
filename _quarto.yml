@@ -46,6 +46,7 @@ book:
     - part: "<span style='font-weight:bold; color: black;'>Pulmonology</span>"
       chapters: 
         - resp-basics.qmd
+        - resp_respiratory_failure.qmd
         - resp-asthma.qmd
         - resp-bronchiolitis.qmd
         - resp-croup.qmd

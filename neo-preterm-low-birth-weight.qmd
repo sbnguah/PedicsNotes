@@ -1,3 +1,219 @@
 ---
 title: "Preterm and Low Birth Weight"
+date: 2025-10-20
 ---
+
+## Introduction
+
+Preterm birth and low birth weight are major contributors to neonatal morbidity and mortality worldwide, particularly in low- and middle-income countries such as Ghana. Advances in perinatal care, antenatal monitoring, and neonatal intensive care have improved survival; however, the burden remains high. Both conditions often overlap — most low birth weight (LBW) babies are preterm, but some are born at term and small for gestational age due to intrauterine growth restriction (IUGR). Understanding their causes, physiology, complications, and management is crucial for improving outcomes.
+
+---
+
+## Definitions
+
+**Preterm birth** refers to any birth occurring before **37 completed weeks of gestation** (less than 259 days from the first day of the last menstrual period).
+
+Preterm infants are further categorized as:
+- **Late preterm:** 34 to <37 weeks  
+- **Moderate preterm:** 32 to <34 weeks  
+- **Very preterm:** 28 to <32 weeks  
+- **Extremely preterm:** <28 weeks
+
+**Low Birth Weight (LBW)** is defined by the World Health Organization as a birth weight **less than 2500 grams**, irrespective of gestational age.
+
+Subcategories include:
+- **Very Low Birth Weight (VLBW):** <1500 g  
+- **Extremely Low Birth Weight (ELBW):** <1000 g
+
+---
+
+## Epidemiology and Global Burden
+
+Globally, about 15 million babies are born preterm every year — roughly 11% of all live births. Over 60% occur in South Asia and sub-Saharan Africa. In Ghana, preterm delivery rates range from 10–15%, with low birth weight accounting for approximately 9–12% of births. Both conditions contribute significantly to neonatal deaths, particularly from respiratory distress, sepsis, and hypothermia.
+
+Factors such as inadequate antenatal care, infections, poor maternal nutrition, multiple pregnancies, and adolescent pregnancy increase the risk. Neonatal care resources — such as incubators, surfactant therapy, and continuous positive airway pressure (CPAP) — are often limited, worsening outcomes in resource-constrained settings.
+
+---
+
+## Embryological and Physiological Considerations
+
+Normal fetal growth depends on adequate **placental function**, **maternal nutrition**, and **fetal genetic potential**. Disruption of any of these can impair fetal growth or lead to premature birth.
+
+- **Placental development:** The placenta serves as the interface for nutrient and oxygen exchange. Abnormal trophoblastic invasion or uteroplacental insufficiency can limit nutrient delivery, resulting in intrauterine growth restriction.
+- **Lung development:** The fetal lungs undergo several stages — embryonic, pseudoglandular, canalicular, saccular, and alveolar. Infants born before 34 weeks have surfactant deficiency, leading to respiratory distress.
+- **Thermoregulation:** Preterm infants have a large surface area-to-weight ratio, thin skin, and minimal subcutaneous fat, predisposing them to hypothermia.
+- **Metabolic adaptation:** Immature hepatic enzymes, low glycogen stores, and poor feeding contribute to hypoglycaemia and metabolic instability.
+- **Neurological immaturity:** Poor reflexes (suck, swallow, gag) and underdeveloped autonomic control affect feeding and cardiorespiratory stability.
+
+---
+
+## Aetiology and Risk Factors
+
+### Maternal Factors
+- Poor nutritional status and anaemia  
+- Infections such as malaria, urinary tract infection, or HIV  
+- Hypertensive disorders of pregnancy (preeclampsia, eclampsia)  
+- Smoking, alcohol, or substance abuse  
+- Short inter-pregnancy intervals  
+- Low socioeconomic status  
+- Teenage or advanced maternal age  
+
+### Fetal Factors
+- Multiple gestations (twins, triplets)  
+- Congenital anomalies or chromosomal abnormalities  
+- Intrauterine infections (TORCH, syphilis)  
+
+### Placental Factors
+- Placenta previa or abruption  
+- Placental insufficiency  
+- Umbilical cord anomalies  
+
+---
+
+## Pathophysiology
+
+The underlying mechanism varies depending on whether the infant is **preterm**, **small for gestational age**, or both.
+
+- **Preterm birth** results from early initiation of labour due to uterine overdistension, infection, or hormonal imbalance.
+- **Low birth weight due to IUGR** stems from chronic hypoxia and nutrient deprivation secondary to placental insufficiency.
+- **Combined preterm and growth restriction** exacerbate vulnerability to hypoxia, sepsis, and metabolic instability.
+
+Physiologically, the immature organs of a preterm infant — lungs, brain, gut, kidneys, and liver — are unable to perform their functions optimally. The result is a cascade of complications such as respiratory distress, patent ductus arteriosus, necrotizing enterocolitis, and intraventricular haemorrhage.
+
+---
+
+## Clinical Features
+
+**Preterm infants** are typically:
+- Small, thin, with less subcutaneous fat  
+- Skin reddish and translucent  
+- Large head relative to body  
+- Weak cry and poor tone  
+- Incomplete flexion of limbs  
+- Absent or weak primitive reflexes (suck, grasp, Moro)  
+
+**Low birth weight infants (IUGR)** may appear:
+- Small but mature (if term)  
+- With wasted muscles, loose skin, and relatively large head  
+- Sometimes meconium-stained due to chronic hypoxia  
+
+---
+
+## Complications
+
+Complications may be **immediate**, **early neonatal**, or **long-term**.
+
+### Early Complications
+- Respiratory distress syndrome (RDS)
+- Apnoea of prematurity
+- Hypothermia
+- Hypoglycaemia
+- Electrolyte imbalance
+- Sepsis
+- Necrotizing enterocolitis
+- Jaundice (due to immature liver conjugation)
+- Patent ductus arteriosus
+- Intraventricular haemorrhage
+
+### Long-Term Complications
+- Chronic lung disease (bronchopulmonary dysplasia)
+- Retinopathy of prematurity
+- Neurodevelopmental delay or cerebral palsy
+- Growth failure
+- Learning disabilities and visual or hearing impairment
+
+---
+
+## Diagnosis and Assessment
+
+### Determination of Gestational Age
+- **Maternal history:** Last menstrual period, early ultrasound  
+- **New Ballard Score:** Based on neuromuscular and physical maturity  
+- **Anthropometry:** Weight, length, and head circumference  
+
+### Investigations
+- Blood glucose, electrolytes, calcium  
+- Full blood count and CRP (if infection suspected)  
+- Chest X-ray for respiratory distress  
+- Cranial ultrasound for intraventricular haemorrhage  
+- Screening for congenital infections if indicated  
+
+---
+
+## Management
+
+Management involves **stabilization, supportive care, and prevention of complications**.  
+The guiding principles are **warmth, feeding, infection prevention, and monitoring**.
+
+### 1. Immediate Stabilization at Birth
+- Dry and wrap the baby immediately to prevent hypothermia  
+- Assess breathing and initiate resuscitation if necessary  
+- Maintain airway and oxygenation  
+- Early cord clamping if stable  
+
+### 2. Temperature Regulation
+- Use of incubator or radiant warmer  
+- Kangaroo mother care (skin-to-skin contact) is highly effective and feasible in low-resource settings  
+
+### 3. Feeding and Nutrition
+- Encourage early breastfeeding if the baby can suck  
+- Expressed breast milk via cup or nasogastric tube for immature infants  
+- Parenteral nutrition if gut immaturity prevents enteral feeding  
+- Monitor glucose and electrolytes closely  
+
+### 4. Prevention of Infection
+- Strict hand hygiene and aseptic techniques  
+- Avoid unnecessary invasive procedures  
+- Antibiotic therapy for suspected or proven sepsis  
+
+### 5. Monitoring
+- Regular temperature, respiratory rate, and heart rate  
+- Daily weight and urine output  
+- Observation for apnoea or feeding intolerance  
+
+### 6. Management of Specific Complications
+- Surfactant replacement and CPAP for RDS  
+- Phototherapy for jaundice  
+- Caffeine for apnoea  
+- Blood transfusion for anaemia if needed  
+
+---
+
+## Discharge Planning and Follow-Up
+
+**Discharge Criteria:**
+- Stable temperature in open cot for 24–48 hours  
+- Feeding well and gaining weight  
+- No apnoea or cardiorespiratory instability  
+- Parents trained in home care, including kangaroo care  
+
+**Follow-Up:**
+- Weekly or biweekly reviews until adequate weight gain  
+- Monitor for developmental milestones, vision, hearing, and growth  
+- Immunizations per national schedule (adjusted for weight and age as necessary)
+
+---
+
+## Prevention
+
+- Adequate **antenatal care** and early detection of high-risk pregnancies  
+- **Maternal nutrition** and treatment of infections (especially malaria and syphilis)  
+- **Prevention of teenage pregnancy** and family planning  
+- **Antenatal corticosteroids** for women at risk of preterm delivery  
+- **Tocolytic therapy** to delay labour when feasible  
+- **Facility-based delivery** with neonatal resuscitation readiness  
+
+---
+
+## Prognosis
+
+Survival depends on gestational age, birth weight, and available neonatal care.  
+- Infants >32 weeks or >1500 g have good survival with appropriate support.  
+- Extremely preterm (<28 weeks) and ELBW infants have high mortality and morbidity, especially in low-resource settings.  
+- Long-term outcomes include growth failure, cognitive delay, and chronic lung disease, emphasizing the need for continuous follow-up.
+
+---
+
+## Conclusion
+
+Preterm birth and low birth weight remain major challenges in neonatal care, particularly in resource-limited settings such as Ghana. A comprehensive approach — involving antenatal prevention, skilled perinatal care, thermal protection, infection control, nutritional support, and long-term follow-up — is essential. With improved maternal health programs, wider adoption of kangaroo mother care, and enhanced neonatal intensive care capacity, the survival and quality of life of these vulnerable infants can continue to improve.

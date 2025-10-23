@@ -1,3 +1,135 @@
 ---
-title: "Newborn Delivery and Resusctation"
+title: "Newborn Delivery & Resuscitation"
+date: 2025-10-20
 ---
+
+## Introduction  
+The delivery of a newborn is one of the most critical moments in medicine, requiring skill, vigilance, and readiness. The transition from intrauterine to extrauterine life involves complex physiological changes that must occur within seconds. In most deliveries, this transition is smooth and spontaneous. However, about **10% of newborns require some form of assistance**, and approximately **1% need extensive resuscitation**.  
+Understanding the physiology of transition, preparation for delivery, and the systematic approach to neonatal resuscitation is therefore vital for every healthcare provider involved in childbirth.
+
+## Physiology of Fetal to Neonatal Transition  
+The fetus depends on the placenta for gas exchange, nutrient delivery, and waste removal. At birth, these functions must shift rapidly to the infant’s lungs and other organs.
+
+Key physiological changes:
+- **Lung expansion**: With the first breaths, alveoli expand and fluid is replaced by air, allowing gas exchange.  
+- **Circulatory changes**:
+  - Closure of the **foramen ovale**.  
+  - Functional closure of the **ductus arteriosus** as pulmonary resistance drops and oxygen tension rises.  
+  - Closure of the **ductus venosus**, redirecting blood through the liver.  
+- **Thermoregulation**: The newborn’s ability to maintain temperature is limited, necessitating early warmth and drying.  
+
+Failure of any of these adaptations can lead to respiratory distress and hypoxia.
+
+## Preparation for Delivery  
+Every birth, regardless of risk status, must have a **prepared resuscitation team and equipment**.
+
+### Personnel  
+- **At least one skilled person** trained in neonatal resuscitation should be present at every delivery.  
+- For high-risk deliveries (preterm, meconium-stained liquor, multiple gestation), **two or more trained personnel** should be available.
+
+### Equipment and Environment  
+Preparation should follow the **“warm, clean, ready”** principle:
+- **Warmth**: Preheat radiant warmer; ensure room temperature ≥25°C.  
+- **Cleanliness**: Use sterile instruments and maintain a clean surface.  
+- **Readiness**:
+  - Functioning **suction device**.  
+  - **Bag and mask** appropriately sized.  
+  - **Oxygen supply** and blender if available.  
+  - **Clock or timer** for monitoring response.  
+  - **Sterile cord clamps**, towels, gloves, and stethoscope.
+
+## Immediate Care at Birth  
+Immediately after delivery, attention should focus on **rapid assessment and prevention of hypothermia**.
+
+### Initial Steps (within 30 seconds)
+1. **Provide warmth** – place under radiant warmer.  
+2. **Position the head** in slight extension (“sniffing position”).  
+3. **Clear the airway** only if obstructed.  
+4. **Dry and stimulate** – rubbing the back or flicking soles can initiate breathing.  
+5. **Evaluate breathing and heart rate**.
+
+If the newborn is term, breathing, and with good tone, proceed with **routine care**:
+- Keep warm, initiate **skin-to-skin contact**, and encourage **early breastfeeding**.
+
+If **not breathing or gasping**, proceed to **resuscitation**.
+
+## Neonatal Resuscitation Algorithm  
+The process follows the **“Golden Minute” principle**: all interventions up to effective ventilation should occur within the first minute of life.
+
+### 1. Initial Assessment
+Ask three questions:
+- Is the baby **term**?
+- Is the baby **breathing or crying**?
+- Does the baby have **good tone**?
+
+If “yes” to all → Routine care.  
+If “no” to any → Begin resuscitation steps.
+
+### 2. Initial Actions
+- Warm, position, clear airway (if necessary), dry, and stimulate.  
+- Reassess after 30 seconds.
+
+If breathing starts → continue observation.  
+If **not breathing or heart rate <100 bpm**, start **Positive Pressure Ventilation (PPV)**.
+
+### 3. Ventilation (The Most Critical Step)
+- Use **bag and mask ventilation** with room air (21%) initially; increase O₂ if no improvement.  
+- Deliver 40–60 breaths/min.  
+- Observe for **chest rise** — if none, check mask seal, airway position, or increase pressure.  
+- After 30 seconds of effective ventilation, reassess:
+  - HR >100 bpm → support spontaneous breathing.  
+  - HR 60–100 bpm → continue ventilation and reassess.  
+  - HR <60 bpm → start **chest compressions**.
+
+### 4. Chest Compressions
+- Coordinate with ventilation in a **3:1 ratio** (90 compressions + 30 breaths per minute).  
+- Compress one-third of the chest depth using **two thumbs** on the lower sternum.  
+- After 60 seconds, reassess heart rate.
+
+### 5. Medications
+- If HR <60 bpm despite 30 sec of effective ventilation and 60 sec of compressions, administer **epinephrine** (0.01–0.03 mg/kg IV/IO; 1:10,000 dilution).  
+- **Volume expansion** (normal saline 10 mL/kg IV) if hypovolemia suspected.  
+
+## Post-Resuscitation Care
+After stabilization:
+- Maintain **normal temperature** (36.5–37.5°C).  
+- Provide **oxygen titrated** to maintain saturation (target 90–95% after 10 minutes).  
+- Monitor **blood glucose** to prevent hypoglycaemia.  
+- Observe for **respiratory distress, seizures, or shock**.  
+- If resuscitation was prolonged, consider admission to a **neonatal intensive care unit (NICU)** for ongoing support.
+
+## Common Pitfalls in Neonatal Resuscitation
+- **Failure to anticipate risk**.  
+- **Delay in initiating ventilation** — the most common cause of poor outcome.  
+- **Ineffective ventilation** due to poor mask seal or incorrect technique.  
+- **Excessive suctioning**, leading to vagal bradycardia.  
+- **Overuse of oxygen**, which can cause oxidative injury, especially in preterm infants.
+
+## Special Situations
+### Meconium-Stained Amniotic Fluid  
+- If the baby is vigorous (crying, good tone), proceed with routine care.  
+- If not vigorous, do **not delay ventilation** for suctioning; clear airway only if obstructed.
+
+### Preterm Newborn  
+- Risk of hypothermia and respiratory distress is high.  
+- Use **polyethylene wrap** or **warm humidified gas**.  
+- Oxygen titration and **gentle ventilation** to avoid barotrauma.
+
+### Multiple Births  
+- Ensure multiple sets of resuscitation equipment and personnel.  
+
+### Congenital Anomalies  
+- Some, such as diaphragmatic hernia, require **intubation without bag-mask ventilation** to prevent gastric distension.
+
+## Equipment Checklist
+- Suction device, masks (sizes 0 and 1), self-inflating bag, oxygen source.  
+- Umbilical venous catheter, syringes, epinephrine, normal saline.  
+- Radiant warmer, towels, caps, polyethylene wraps.  
+- Stethoscope, timer, pulse oximeter (if available).
+
+## Documentation and Prognosis
+Accurate documentation of time, interventions, and outcomes is essential. Most babies respond promptly to resuscitation; however, prolonged asphyxia may lead to **hypoxic–ischaemic encephalopathy**, **cerebral palsy**, or **neurodevelopmental delay**.
+
+## Summary
+Neonatal resuscitation is a time-critical, life-saving skill built on preparation, effective ventilation, and teamwork. In most cases, ensuring a warm environment, clearing the airway only when needed, and establishing effective ventilation within the first minute of life can mean the difference between survival and death.
+

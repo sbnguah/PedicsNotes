@@ -1,0 +1,120 @@
+---
+title: "Respiratory Failure in Children"
+date: 2025-10-20
+---
+
+## Introduction
+
+Respiratory failure is a life-threatening condition in which the respiratory system fails to maintain adequate oxygenation and/or carbon dioxide elimination. In paediatrics it is a frequent final common pathway of many severe illnesses — particularly pneumonia, bronchiolitis, severe asthma, and sepsis — and is a major contributor to childhood mortality in low- and middle-income countries including Ghana. Recognition of early signs, understanding the underlying pathophysiology, and prompt institution of supportive measures are essential skills for the medical student and junior clinician.
+
+Children differ from adults in airway anatomy, chest wall compliance, metabolic rate and reserve, which makes them prone to rapid deterioration. Where resources are limited, timely clinical assessment, oxygen therapy, and basic respiratory support often determine outcome.
+
+
+## Classification and Basic Concepts
+
+Respiratory failure is commonly classified by the dominant gas-exchange abnormality:
+
+- **Hypoxaemic (Type I)** respiratory failure — impaired oxygenation (PaO₂ < 60 mmHg) with normal or low PaCO₂. Typical causes include pneumonia, acute respiratory distress syndrome (ARDS), pulmonary oedema and large shunts.
+- **Hypercapnic (Type II)** respiratory failure — inadequate alveolar ventilation resulting in raised PaCO₂ (>50 mmHg). Causes include severe airway obstruction (status asthmaticus), respiratory muscle fatigue, central depression of respiration, and neuromuscular disease.
+- **Mixed respiratory failure** combines both elements and is common in advanced respiratory disease or severe sepsis.
+
+Understanding the difference is practical: hypoxaemia requires restoration of oxygenation (oxygen and recruitment of alveoli), while hypercapnia indicates a need to improve ventilation (support minute ventilation).
+
+
+## Pathophysiology — how failure develops
+
+Effective respiration requires airway patency, adequate ventilatory drive and muscle function, properly functioning lung units for diffusion, and coordinated perfusion. Disruption to any of these leads to failure.
+
+In **ventilatory failure**, the work of breathing exceeds the capacity of respiratory muscles; progressive fatigue causes hypoventilation and CO₂ retention. Children with severe asthma, upper airway obstruction, or neuromuscular weakness may decompensate rapidly.
+
+In **oxygenation failure**, processes such as alveolar consolidation (pneumonia), surfactant deficiency (preterm infants), pulmonary oedema, or widespread inflammation (ARDS) reduce the effective surface area for oxygen diffusion. Ventilation-perfusion mismatch and intrapulmonary shunting contribute to refractory hypoxaemia.
+
+Neonates and infants are particularly vulnerable because of small functional residual capacity, high oxygen consumption, and immature control of breathing — they desaturate quickly once compromise begins.
+
+
+## Aetiology — common causes in Ghana
+
+The spectrum of causes varies with age and setting. In Ghanaian paediatric practice, the most frequent precipitants are:
+
+- **Infectious lower respiratory disease:** severe community-acquired pneumonia, TB in older children, and bronchiolitis in infants.
+- **Asthma exacerbations:** poorly controlled asthma presenting with severe bronchospasm.
+- **Sepsis and severe malaria:** systemic illness that increases oxygen demand and may cause ARDS or metabolic acidosis.
+- **Upper airway obstruction:** foreign body aspiration, croup, or deep neck infections.
+- **Neonatal causes:** surfactant deficiency, meconium aspiration, congenital pneumonia, and persistent pulmonary hypertension.
+- **Neuromuscular disease or central depression:** e.g., head injury, meningitis, or drug overdose.
+
+Resource constraints, delayed presentation, and coexisting malnutrition or anaemia often worsen the clinical picture.
+
+
+## Clinical presentation and early recognition
+
+Respiratory failure may present subtly. Early identification hinges on careful observation and monitoring. Important clinical features are:
+
+- **Increased work of breathing:** tachypnoea, nasal flaring, intercostal/subcostal retractions, tracheal tug, and use of accessory muscles.
+- **Abnormal breathing patterns:** grunting (infants), prolonged expiratory phase (asthma), or shallow irregular respirations.
+- **Hypoxia signs:** central cyanosis (late), restlessness, agitation, poor perfusion, and tachycardia progressing to bradycardia.
+- **Hypercapnia signs:** headache and drowsiness in older children; in infants, poor feeding and lethargy are common.
+- **Failure to feed, pallor, and altered consciousness** indicate severe or advanced disease.
+
+Because children compensate well until late, a sudden collapse may occur. Routine use of pulse oximetry at triage helps detect hypoxaemia before clinical cyanosis appears.
+
+
+## Investigations — practical approach
+
+Confirmatory investigation is an arterial blood gas (ABG), which defines oxygenation and ventilation status and reveals acid-base disturbance. In many settings, ABG may be unavailable, so clinical assessment and pulse oximetry guide most initial decisions.
+
+Additional useful tests:
+
+- **Pulse oximetry:** continuous SpO₂ monitoring.
+- **Chest X-ray:** identifies consolidation, pneumothorax, pleural effusion or cardiomegaly.
+- **Blood tests:** full blood count, blood cultures, electrolytes, lactate and blood glucose.
+- **Viral testing** or nasopharyngeal aspirate for bronchiolitis where available.
+- **Point-of-care tests:** malaria rapid tests and HIV testing as clinically indicated.
+- **Ultrasound:** lung ultrasound can detect consolidation and effusion at the bedside.
+
+Interpret findings in the clinical context: a high PaCO₂ points to ventilatory failure and need for ventilatory support; severe hypoxaemia with low PaCO₂ suggests shunt physiology and oxygenation failure.
+
+
+## Management principles
+
+Management aims to reverse hypoxaemia and/or hypercapnia, treat the underlying cause, and prevent complications. Interventions should be guided by severity and available resources.
+
+### Immediate actions
+Apply the ABC approach. Ensure airway patency, give supplemental oxygen early, and support ventilation if there are signs of respiratory compromise. Keep the child warm, monitor glucose, and establish IV access (or IO in emergencies). Treat reversible causes such as severe asthma with bronchodilators and steroids, or sepsis with timely antibiotics.
+
+### Oxygen therapy
+Oxygen is the cornerstone for hypoxaemic children. Start with low-flow oxygen via nasal prongs or face mask, titrating to target SpO₂ levels appropriate for age (generally ≥92% in older children; lower targets may apply for certain neonates/conditions). Where available, high-flow nasal cannula (HFNC) or CPAP provides effective respiratory support in moderate distress, reducing the need for intubation in many cases.
+
+### Non-invasive and invasive ventilation
+When oxygen alone is insufficient (persistent hypoxaemia on high FiO₂, rising PaCO₂, or respiratory fatigue), provide ventilatory support. Non-invasive options such as CPAP and BiPAP are useful for selected patients. Intubation and mechanical ventilation become necessary for respiratory arrest, severe hypercapnia, or inability to protect the airway. Mechanical ventilation requires skilled staff and monitoring to avoid complications such as barotrauma and ventilator-associated pneumonia.
+
+### Specific therapies
+Treat the underlying pathology: antibiotics for bacterial pneumonia, bronchodilators and systemic steroids for asthma, surfactant for neonatal respiratory distress syndrome (where indicated), diuretics for cardiogenic pulmonary oedema, and bronchoscopy for airway foreign bodies.
+
+### Supportive care
+Adequate hydration, nutritional support, correction of anaemia, and seizure control (if present) are vital. Prevent and manage complications like pneumothorax promptly. Keep meticulous infection control practices and consider early transfer to higher-level care when advanced ventilation or paediatric intensive care is needed.
+
+
+## Monitoring and escalation
+
+Continuous monitoring of oxygen saturation, heart rate and respiratory rate is essential. Frequent reassessment of work of breathing, mental state, and perfusion identifies deterioration. ABG monitoring guides ventilatory adjustments where available. Escalate care promptly if hypoxaemia persists despite maximal non-invasive support, or if CO₂ retention or acidosis worsens.
+
+
+## Complications and long-term outcomes
+
+Untreated or prolonged respiratory failure can cause hypoxic brain injury, multi-organ dysfunction, and death. Survivors may develop chronic lung disease, neurodevelopmental impairment (especially after neonatal respiratory failure), or recurrent respiratory morbidity. Prevention of complications, early protective ventilation strategies and rehabilitation improve long-term outcomes.
+
+
+## Prevention and public health considerations
+
+Reducing the burden of respiratory failure in Ghana requires both clinical and public health measures. Strengthening immunisation (pneumococcal, Haemophilus influenzae type b, measles, pertussis, and influenza), improving indoor air quality, promoting exclusive breastfeeding, and early care-seeking for respiratory symptoms reduce disease incidence. At the facility level, training in paediatric emergency care, widespread availability of pulse oximetry, oxygen concentrators, and basic CPAP devices have high impact even in resource-limited hospitals.
+
+
+## Practical tips for the Ghanaian setting
+
+Simple interventions save lives: triage with pulse oximetry, give oxygen early to any child with respiratory distress, use CPAP for neonates and infants when available, and ensure rapid antibiotic administration for suspected severe pneumonia. Implementing standardised early warning signs, training in paediatric airway management, and protocols for escalation of care greatly improve outcomes.
+
+
+## Conclusion
+
+Respiratory failure in children is a medical emergency that demands prompt recognition and decisive action. Familiarity with the physiological differences of children, common causes in the local context, and a stepwise approach to oxygenation and ventilation are essential competencies for medical students and clinicians. While advanced therapies exist, many deaths from respiratory failure are preventable with timely basic interventions, improved public health measures, and strengthened paediatric acute care capacity across Ghana.

@@ -1,4 +1,236 @@
 ---
 title: "Pneumonia"
-date: 2025-07-21
+date: 2025-10-20
 ---
+
+## Introduction
+
+Pneumonia is an acute infection of the lung parenchyma, leading to inflammation and consolidation of
+the alveoli. It remains a major cause of childhood morbidity and mortality worldwide and is
+especially significant in low- and middle-income countries such as Ghana. Despite progress in
+immunization and child health services, pneumonia continues to account for a large proportion of
+paediatric hospital admissions and deaths, particularly among children under five years of age.
+
+Understanding its causes, clinical presentation, and management is essential for medical students
+and young clinicians. The disease spectrum ranges from mild, self-limiting illness to severe,
+life-threatening conditions requiring intensive care.
+
+## Epidemiology and Burden
+
+Globally, pneumonia is responsible for approximately 14% of all deaths in children under five. In
+sub-Saharan Africa, the burden is disproportionately high due to limited access to healthcare,
+malnutrition, and environmental risk factors such as indoor air pollution.
+
+In Ghana, pneumonia is among the top five causes of under-five mortality. Both viral and bacterial
+pneumonias are common, and coinfections such as malaria, tuberculosis, or HIV-associated infections
+complicate the picture. The disease shows a seasonal pattern, often peaking during the rainy seasons
+when respiratory viruses are more prevalent. Neonates and young infants, malnourished children, and
+those with underlying chronic conditions such as congenital heart disease or HIV are at greater
+risk.
+
+## Aetiology
+
+The causes of pneumonia vary with age, immune status, and environment.
+
+### **In Neonates:**
+
+-   *Bacterial:* Group B Streptococcus, Escherichia coli, Klebsiella species, Listeria
+    monocytogenes.
+-   *Viral:* Respiratory syncytial virus (RSV) and cytomegalovirus (in congenital infection).
+
+### **In Infants and Young Children:**
+
+-   *Bacterial:* **Streptococcus pneumoniae** (pneumococcus) is the most common; **Haemophilus
+    influenzae type b (Hib)** is important where vaccination coverage is low. **Staphylococcus
+    aureus** causes severe, necrotizing pneumonia with empyema.
+-   *Viral:* RSV, parainfluenza, influenza, adenovirus, and human metapneumovirus are frequent,
+    especially in the first two years of life.
+-   *Atypical:* *Mycoplasma pneumoniae* and *Chlamydia pneumoniae* appear more often in older
+    children and adolescents.
+
+### **In Immunocompromised Children:**
+
+-   Opportunistic infections such as *Pneumocystis jirovecii*, cytomegalovirus, and fungal
+    pneumonias may occur, particularly in HIV-positive children.
+
+Environmental exposures, malnutrition, passive smoking, and crowded living conditions amplify
+susceptibility.
+
+## Pathophysiology
+
+The lungs normally maintain sterility through effective mucociliary clearance, immune defenses, and
+cough reflexes. Pneumonia develops when these defenses are breached — by overwhelming microbial
+inoculation, impaired clearance, or immune compromise.
+
+Microorganisms reach the alveoli by inhalation, aspiration, or via the bloodstream. The host immune
+response leads to inflammation, exudation of fluid and cells into the alveolar spaces, and impaired
+gas exchange.
+
+**Typical bacterial pneumonia** leads to alveolar consolidation — a process in which alveoli are
+filled with exudate containing neutrophils and fibrin. This impedes oxygen diffusion and causes
+hypoxaemia.
+
+**Viral pneumonia**, in contrast, causes interstitial inflammation, airway oedema, and epithelial
+necrosis, predisposing to secondary bacterial infection.
+
+The degree of impairment depends on the virulence of the organism and host factors such as
+nutritional status, immunization history, and presence of comorbidities.
+
+## Clinical Features
+
+The presentation of pneumonia varies with age and severity.
+
+**General symptoms include:**
+
+-   Fever, often high-grade.
+-   Cough, which may be dry or productive in older children.
+-   Difficulty in breathing, nasal flaring, and grunting in infants.
+-   Poor feeding, irritability, or lethargy.
+
+**Physical findings:**
+
+-   Tachypnoea is the most sensitive clinical sign. The WHO defines tachypnoea as:
+    -   \>60 breaths/min in infants \<2 months
+    -   \>50 breaths/min in 2–12 months
+    -   \>40 breaths/min in 1–5 years
+-   Chest indrawing, nasal flaring, or grunting indicate severe disease.
+-   Auscultation may reveal crackles, bronchial breath sounds, or decreased air entry.
+-   Cyanosis, hypoxia, and altered sensorium are signs of respiratory failure.
+
+Infants and neonates may have nonspecific presentations; temperature instability, apnea, or poor
+feeding, making a high index of suspicion essential.
+
+## Differential Diagnosis
+
+Several other conditions can mimic pneumonia, and distinguishing them is crucial for correct
+management:
+
+-   **Bronchiolitis** (in infants under 2 years) — wheezing and diffuse crackles rather than
+    localized findings.
+-   **Asthma or viral-induced wheeze** — recurrent episodes with reversible airway obstruction.
+-   **Pulmonary tuberculosis** — chronic cough, weight loss, and failure to thrive, often with
+    contact history.
+-   **Severe malaria** — fever and respiratory distress due to metabolic acidosis.
+-   **Congestive heart failure** — history of cardiac disease and signs of cardiomegaly or murmurs.
+
+Clinical judgement, aided by investigations, guides differentiation.
+
+## Investigations
+
+Diagnosis is often clinical, especially in resource-limited settings. However, investigations help
+confirm and classify pneumonia, identify complications, and guide therapy.
+
+**Basic Investigations:**
+
+1.  **Pulse oximetry** — to assess oxygen saturation; hypoxaemia (\<92%) indicates severe disease.
+2.  **Chest X-ray** — shows lobar consolidation, interstitial infiltrates, or pleural effusion.
+3.  **Full blood count** — leukocytosis with neutrophilia suggests bacterial infection;
+    lymphocytosis may indicate viral infection.
+4.  **Blood culture** — useful for identifying pathogens but often low yield.
+5.  **Nasopharyngeal aspirate or PCR testing** — for viral pathogens where available.
+
+**Further investigations** in selected cases:
+
+1.  **Sputum culture or tracheal aspirate** (in ventilated patients).
+2.  **HIV testing** in children with recurrent or severe pneumonia.
+3.  **Ultrasound or CT scan** if empyema, abscess, or foreign body is suspected.
+
+In Ghana, reliance is often on clinical diagnosis supported by simple tests due to cost and
+availability limitations.
+
+## Treatment
+
+The management of pneumonia involves supportive care, antimicrobial therapy, and treatment of
+complications.
+
+### **1. Supportive Management**
+
+-   **Oxygen therapy** for hypoxaemia using nasal prongs or face mask.
+-   **Hydration:** maintain fluid balance; overhydration may worsen pulmonary oedema.
+-   **Antipyretics** (e.g., paracetamol) for fever.
+-   **Nutritional support** to prevent catabolism.
+-   **Monitoring** of respiratory rate, SpO₂, and consciousness level.
+
+### **2. Antibiotic Therapy**
+
+Empiric treatment is based on the likely pathogen and local resistance patterns:
+
+-   **Neonates:** Ampicillin plus gentamicin for 7–10 days.
+-   **Infants and older children:**
+    -   Outpatient: Oral amoxicillin for 5–7 days for mild pneumonia.
+    -   Inpatient (severe): IV ampicillin (or penicillin) plus gentamicin; add cloxacillin or
+        ceftriaxone if *S. aureus* or Gram-negative sepsis is suspected.
+    -   Macrolides (e.g., azithromycin) for atypical infections.
+
+Treatment is modified based on clinical response or culture results.
+
+### **3. Management of Complications**
+
+-   **Pleural effusion/empyema:** chest tube drainage and antibiotics.
+-   **Lung abscess:** prolonged antibiotic therapy; drainage if necessary.
+-   **Septicemia:** aggressive IV antibiotics and supportive care.
+-   **Respiratory failure:** CPAP or mechanical ventilation as indicated.
+
+### **4. Discharge and Follow-up**
+
+Discharge once afebrile, feeding well, and maintaining oxygen saturation in room air. Follow-up in
+1–2 weeks ensures full recovery and detects post-pneumonia complications such as bronchiectasis.
+
+## Complications
+
+Complications occur more commonly with delayed treatment or virulent organisms. They include:
+
+-   Parapneumonic effusion or empyema
+-   Lung abscess
+-   Pneumatocele formation
+-   Septicemia and metastatic abscesses
+-   Bronchiectasis or chronic lung disease
+-   Acute respiratory failure and death
+
+Prompt recognition and intervention are vital to prevent long-term morbidity.
+
+## Prevention
+
+Preventive measures are among the most cost-effective interventions in child health.
+
+**Immunization** plays a key role:
+
+1.  Pneumococcal conjugate vaccine (PCV13)
+2.  Haemophilus influenzae type b (Hib) vaccine
+3.  Measles and pertussis vaccines
+4.  Annual influenza vaccination in at-risk groups
+
+**Nutrition:** Exclusive breastfeeding for the first six months, adequate complementary feeding, and
+vitamin A supplementation strengthen immunity.
+
+**Environmental control:** Reducing exposure to tobacco smoke and indoor air pollution from biomass
+fuels.
+
+**Early treatment of illnesses** such as malaria, HIV, and malnutrition decreases susceptibility to
+pneumonia.
+
+Community education on danger signs and early health-seeking behavior significantly reduces
+mortality.
+
+## Prognosis
+
+The outcome depends on the child’s age, nutritional status, immune function, causative agent, and
+timeliness of treatment.
+
+Most children with uncomplicated pneumonia recover fully with appropriate therapy. However,
+mortality remains high among neonates, severely malnourished children, and those with HIV or delayed
+presentation.
+
+Recurrent or chronic infections may lead to lasting lung damage. Strengthening preventive strategies
+and early intervention are therefore crucial to reducing the burden of pneumonia in Ghana.
+
+## Conclusion
+
+Pneumonia remains one of the most important paediatric health challenges in Ghana and across Africa.
+Understanding its pathophysiology, timely diagnosis, and appropriate management are fundamental
+skills for every medical student.
+
+While antibiotics and supportive care remain the mainstay of treatment, prevention through
+vaccination, nutrition, and improved living conditions offers the greatest hope for sustainable
+reduction in disease burden. A holistic approach that integrates clinical excellence with strong
+public health measures is the surest way to protect Ghana’s children from this preventable killer.

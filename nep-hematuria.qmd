@@ -1,4 +1,184 @@
 ---
 title: "Hematuria"
-author: "Prof. Sampson Antwi"
+date: 2025-10-20
+editor: 
+  markdown: 
+    wrap: sentence
 ---
+
+## Introduction
+
+Hematuria refers to the presence of red blood cells (RBCs) in the urine.
+It is one of the most common and sometimes alarming urinary findings in children.
+While it may be transient and benign in some cases, in others it may signal significant renal or urinary tract pathology requiring urgent evaluation.
+
+In paediatrics, distinguishing between glomerular and non-glomerular causes is crucial, as it guides both investigation and management.
+In Ghana and other low- and middle-income countries, infections, post-streptococcal glomerulonephritis, and schistosomiasis remain prominent causes, although hereditary and structural causes are also seen.
+
+## Definitions and Classification
+
+Hematuria can be:
+
+-   **Macroscopic (gross):** Urine is visibly red or cola-coloured.
+-   **Microscopic:** RBCs are seen only under the microscope (\>5 RBCs per high-power field in a centrifuged sample).
+
+It may also be **transient** (short-lived, e.g., after fever, exercise, or minor trauma) or **persistent** (detected on ≥3 separate occasions over weeks).
+
+## Pathophysiology
+
+The appearance of RBCs in urine reflects disruption along any part of the urinary tract.
+
+-   **Glomerular hematuria** occurs when the glomerular basement membrane (GBM) is damaged, allowing RBCs to pass into Bowman’s space. These cells are often dysmorphic due to osmotic and mechanical stress as they traverse the nephron.\
+-   **Non-glomerular hematuria** arises from bleeding beyond the glomerulus — the renal pelvis, ureter, bladder, or urethra where RBCs maintain their normal morphology.
+
+Mechanisms include:
+
+1.  **Inflammation:** As seen in glomerulonephritis or cystitis.
+2.  **Mechanical injury:** From stones or trauma.
+3.  **Vascular abnormalities:** Such as renal vein thrombosis.
+4.  **Neoplastic infiltration:** Tumours like Wilms’ tumour or rhabdomyosarcoma.
+5.  **Coagulopathies:** Affecting hemostatic mechanisms.
+
+## Common Aetiological Categories
+
+### Glomerular Causes
+
+Usually accompanied by proteinuria, hypertension, or oedema:
+
+1.  **Post-streptococcal glomerulonephritis (PSGN):** Common in school-age children following throat or skin infection.
+2.  **IgA nephropathy:** Episodic hematuria following infections.
+3.  **Alport syndrome:** Familial nephritis with sensorineural hearing loss.
+4.  **Lupus nephritis:** Especially in adolescents.
+5.  **Henoch–Schönlein purpura (HSP):** Vasculitic process involving the kidneys.
+
+### Non-glomerular Causes
+
+Typically associated with pain, dysuria, or clots in urine:
+
+1.  **Urinary tract infection (UTI):** Very common in young children.
+2.  **Urolithiasis:** Can occur with dehydration or metabolic disorders.
+3.  **Trauma:** From catheterization, accidents, or abuse.
+4.  **Structural lesions:** Such as posterior urethral valves or hydronephrosis.
+5.  **Tumours:** Wilms’ tumour, rhabdomyosarcoma.
+6.  **Schistosomiasis:** Common in endemic areas such as parts of northern Ghana.
+
+### Systemic Causes
+
+-   **Bleeding diatheses:** e.g., platelet disorders, hemophilia.
+-   **Sickle cell disease:** Due to papillary necrosis or microinfarction.
+-   **Drugs:** e.g., cyclophosphamide, anticoagulants.
+
+## Clinical Evaluation
+
+A meticulous history and examination are the cornerstone of assessment.
+
+### History
+
+Key aspects include:
+
+1.  **Duration and pattern:** Is it single episode or recurrent?
+2.  **Associated symptoms:** Dysuria, fever, flank pain, oedema, or rash.
+3.  **Colour of urine:** Bright red (lower tract), cola-coloured (glomerular).
+4.  **Timing during micturition:** Initial (urethral), terminal (bladder neck), or total (upper tract).
+5.  **Recent infections:** Especially sore throat, skin lesions, or diarrhoea.
+6.  **Family history:** Kidney disease, hearing loss, or stones.
+7.  **Exposure:** To schistosomiasis, drugs, or toxins.
+
+### Examination
+
+Focus on:
+
+1.  **General appearance:** Pallor (anemia), oedema (nephritis/nephrotic syndrome), or rash (vasculitis).
+2.  **Vital signs:** Hypertension suggests glomerular disease.
+3.  **Abdominal exam:** Palpable kidneys, masses, tenderness.
+4.  **ENT and hearing assessment:** For Alport syndrome.
+5.  **Skin and joint findings:** Indicate systemic disease (HSP, lupus).
+
+## Laboratory and Imaging Investigations
+
+Investigations are guided by clinical suspicion.
+
+1.  **Urinalysis:**
+    -   Confirm presence of RBCs.
+    -   Assess for proteinuria, casts, or infection.
+    -   Dysmorphic RBCs or red cell casts → glomerular origin.
+2.  **Urine culture:**
+    -   Especially when infection suspected.
+3.  **Urine microscopy:**
+    -   Crystals (stones), schistosome ova, or RBC morphology.
+4.  **Blood tests:**
+    -   Full blood count (infection, anaemia).
+    -   Serum creatinine and urea (renal function).
+    -   Complement levels (low in PSGN).
+    -   ASO titre (evidence of streptococcal infection).
+    -   Autoimmune screen (ANA, anti-dsDNA).
+5.  **Imaging:**
+    -   **Renal ultrasound:** Detects structural abnormalities, masses, or hydronephrosis.
+    -   **CT scan:** For stones or tumours if indicated.
+    -   **Cystoscopy:** Rarely needed in children.
+6.  **Special tests:**
+    -   **Hearing test:** In suspected Alport syndrome.
+    -   **Renal biopsy:** For persistent hematuria, nephritic/nephrotic syndrome, or unexplained renal impairment.
+
+## Differential Diagnosis
+
+Differentiate between glomerular and non-glomerular hematuria and other causes of red urine such as: - Hemoglobinuria or myoglobinuria (clear on centrifugation, dipstick positive but no RBCs).
+- Beetroot ingestion or drug-induced discoloration (rifampicin, phenazopyridine).
+- Porphyria (rare).
+
+## Management
+
+The approach depends on the cause and severity.
+
+### General Principles
+
+-   **Reassurance and follow-up:** For isolated microscopic hematuria without other abnormalities.
+-   **Treat underlying cause:** Infection, stones, glomerulonephritis, etc.
+-   **Monitor renal function:** Especially in recurrent or persistent cases.
+
+### Specific Management
+
+-   **UTI:** Appropriate antibiotics based on culture.
+-   **PSGN:** Rest, salt restriction, antihypertensives, diuretics if needed.
+-   **HSP nephritis:** Supportive, steroids if severe.
+-   **Alport syndrome:** ACE inhibitors to reduce proteinuria, monitor progression.
+-   **Stones:** Hydration, pain relief, urologic intervention.
+-   **Schistosomiasis:** Praziquantel, and public health measures.
+-   **Bleeding disorders:** Correction with factor replacement or platelet transfusion.
+
+## Complications
+
+If left untreated or unrecognized:
+
+1.  **Chronic kidney disease (CKD).**
+2.  **Hypertension.**
+3.  **Anemia from recurrent bleeding.**
+4.  **Renal scarring** (after recurrent infection).
+5.  **End-stage renal disease** in hereditary nephropathies.
+
+## Prognosis
+
+The prognosis varies:
+
+1.  Transient and benign causes (e.g., post-exercise, mild UTI) resolve completely.
+2.  Glomerulonephritis often resolves but may progress to CKD in severe cases.
+3.  Genetic or structural diseases require lifelong monitoring.
+4.  Early diagnosis and management significantly improve outcomes.
+
+## Prevention
+
+Preventive strategies should address both infection-related and genetic causes:
+
+1.  Early treatment of streptococcal infections.
+2.  Improved sanitation and control of schistosomiasis.
+3.  Safe use of nephrotoxic drugs.
+4.  Genetic counselling for familial disorders.
+5.  Routine urine screening in school health programs.
+
+## Summary
+
+Hematuria in children should never be dismissed without evaluation.
+The clinician must first confirm its presence, identify whether it is glomerular or non-glomerular, and systematically search for the underlying cause.
+
+In Ghana, infection-related causes such as PSGN, UTI, and schistosomiasis remain predominant, but clinicians should maintain a broad differential including congenital and systemic conditions.
+A structured approach beginning with good history-taking, urinalysis, and targeted investigations—guides effective management and follow-up, ensuring children retain optimal renal function into adulthood.
