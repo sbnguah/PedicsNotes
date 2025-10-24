@@ -1,4 +1,295 @@
 ---
 title: "Nephrotic Syndrome"
-author: "Prof. Sampson Antwi"
+date: 2025-10-24
 ---
+
+## Introduction
+
+Nephrotic syndrome (NS) is a common renal disorder in childhood characterised by **massive
+proteinuria**, **hypoalbuminemia**, **generalised oedema**, and **hyperlipidemia**. It results from
+increased permeability of the glomerular basement membrane, allowing abnormal leakage of plasma
+proteins into urine.
+
+It is a major cause of morbidity among Ghanaian children, particularly between the ages of **2 and 8
+years**, and is a frequent reason for referral to paediatric renal clinics. Early recognition and
+appropriate management are critical to prevent complications such as infection, thrombosis, and
+renal failure.
+
+## Incidence and Epidemiology
+
+Nephrotic syndrome is one of the most common glomerular diseases in children worldwide, but its
+pattern varies by geography and race.
+
+-   **Age:** Most cases occur between **2 and 8 years**, with a peak around **4 years**.
+-   **Sex:** There is a male predominance (M:F ≈ 2:1).
+-   **Geographical variation:**
+    -   In **Europe and North America**, **minimal change disease (MCD)** accounts for 70–90% of
+        idiopathic cases.
+    -   In **West Africa**, including Ghana, **focal segmental glomerulosclerosis (FSGS)** is more
+        common, and steroid resistance rates are higher.
+-   **Secondary nephrotic syndrome** may be seen with infections such as *hepatitis B*, *malaria*,
+    *HIV*, or *systemic diseases such as lupus nephritis*.
+
+## Aetiology and Classification
+
+Nephrotic syndrome can be classified into **primary (idiopathic)** and **secondary** forms.
+
+### Primary (Idiopathic) Nephrotic Syndrome
+
+No identifiable systemic cause. Includes:
+
+-   **Minimal Change Disease (MCD)** – the most common cause in younger children; characterised by
+    normal light microscopy but podocyte effacement on electron microscopy.
+-   **Focal Segmental Glomerulosclerosis (FSGS)** – affects older children; may follow MCD or occur
+    de novo; associated with steroid resistance.
+-   **Membranoproliferative Glomerulonephritis (MPGN)** – uncommon but causes persistent proteinuria
+    and reduced complement levels.
+
+### Secondary Nephrotic Syndrome
+
+Occurs due to identifiable systemic or renal disorders:
+
+-   **Infections:** Hepatitis B, HIV, malaria, syphilis, tuberculosis.
+-   **Systemic diseases:** Systemic lupus erythematosus (SLE), Henoch-Schönlein purpura.
+-   **Drugs:** NSAIDs, gold salts, penicillamine.
+-   **Metabolic and inherited conditions:** Diabetes mellitus, amyloidosis, Alport syndrome.
+
+# Pathophysiology
+
+The glomerular filtration barrier, comprising the endothelium, basement membrane, and podocyte
+layer, normally prevents large proteins, such as albumin, from passing into the urine.
+
+In nephrotic syndrome:
+
+-   **Podocyte injury** or **loss of charge selectivity** leads to massive proteinuria (\>40
+    mg/m²/hr or \>3.5 g/day).
+-   **Loss of plasma proteins**, especially albumin, reduces plasma oncotic pressure, resulting in
+    fluid movement into interstitial spaces → **oedema**.
+-   **Hypovolemia** triggers activation of the renin–angiotensin–aldosterone system and antidiuretic
+    hormone, worsening sodium and water retention.
+-   The liver's compensatory response increases lipoprotein synthesis → **hyperlipidemia** and
+    **lipiduria**.
+
+Thus, the four hallmark features are:
+
+1.  Proteinuria
+2.  Hypoalbuminemia
+3.  Oedema
+4.  Hyperlipidemia
+
+## Clinical Features
+
+### General Presentation
+
+Onset is usually insidious over days to weeks.
+
+**Main features:**
+
+-   **Oedema:** Initially periorbital (especially in the morning), then generalized (anasarca).
+-   **Ascites and pleural effusion:** From fluid transudation.
+-   **Weight gain:** Due to fluid retention.
+-   **Reduced urine output (oliguria):** Often dark and frothy.
+-   **Fatigue and anorexia.**
+
+### Examination Findings
+
+-   Puffy face, periorbital and pedal oedema
+-   Distended abdomen with ascites
+-   Pleural effusion causing respiratory distress.
+-   In advanced cases, scrotal or labial swelling
+-   Pulse may be small due to hypovolemia.
+-   Blood pressure is usually normal or slightly raised (if renal impairment develops)
+
+## Differential Diagnosis
+
+Other causes of oedema in children must be considered:
+
+| **Condition**                     | **Distinguishing Features**                                    |
+|-----------------------------------|----------------------------------------------------------------|
+| Acute glomerulonephritis          | Haematuria, hypertension, mild proteinuria, elevated ASO titre |
+| Congestive heart failure          | Cardiomegaly, hepatomegaly, pulmonary congestion               |
+| Liver disease                     | Jaundice, hepatomegaly, abnormal LFTs                          |
+| Protein-losing enteropathy        | Diarrhoea, malabsorption features                              |
+| Severe malnutrition (Kwashiorkor) | Wasting, dermatosis, low total protein and albumin             |
+
+## Investigations
+
+### Urine Studies
+
+-   **Dipstick:** Heavy proteinuria (≥3+).
+-   **24-hour urinary protein:** \>40 mg/m²/hr or spot protein/creatinine ratio \>200 mg/mmol.
+-   **Microscopy:** Few red cells and casts (in MCD, urine is bland).
+-   **Lipiduria:** Fat droplets or “Maltese crosses” under polarised light.
+
+### Blood Tests
+
+-   **Serum albumin:** \<25 g/L.
+-   **Serum cholesterol:** Often \>6.5 mmol/L.
+-   **Electrolytes, urea, creatinine:** Assess renal function.
+-   **Complement levels (C3, C4):** Reduced in lupus and MPGN.
+-   **ASO titre, Hepatitis B, HIV screening** as indicated.
+
+### Imaging
+
+-   **Renal ultrasound:** Usually normal in MCD; may show increased echogenicity in chronic or
+    secondary disease.
+-   **Chest X-ray:** May reveal pleural effusion.
+
+### Kidney Biopsy
+
+Indicated when:
+
+-   Age \<1 year or \>10 years
+-   Gross haematuria
+-   Persistent hypertension or renal failure
+-   Low complement levels
+-   Steroid resistance or frequent relapses
+
+## Diagnosis
+
+The diagnosis of nephrotic syndrome is made clinically and supported by laboratory findings:
+
+**Diagnostic criteria:**
+
+1.  Proteinuria \>3+ on dipstick
+2.  Serum albumin \<25 g/L
+3.  Oedema
+4.  Hyperlipidemia
+
+The child is classified based on steroid responsiveness as:
+
+-   **Steroid-sensitive nephrotic syndrome (SSNS)**
+-   **Steroid-resistant nephrotic syndrome (SRNS)**
+-   **Frequent relapser** or **steroid-dependent**
+
+## Management
+
+The approach to treatment depends on the underlying cause and the child’s response to steroids.
+
+### Emergency and Supportive Care
+
+**Hospital admission** is warranted for the first presentation or severe relapse with anasarca.
+
+**Fluid and salt management**
+
+-   Restrict sodium intake.
+-   Maintain appropriate fluid balance, usually restricted to insensible loss plus urine output.
+-   Daily weight and urine monitoring.
+
+**Management of hypovolemia**
+
+-   Suspect if tachycardia, abdominal pain, or cold extremities occur.
+-   Give **10–20 mL/kg of 4.5% albumin** or normal saline cautiously, followed by furosemide.
+
+**Infection prevention**
+
+-   High risk for peritonitis (commonly *Streptococcus pneumoniae*), cellulitis, and sepsis.
+-   Start **broad-spectrum antibiotics** if infection suspected.
+-   Pneumococcal and varicella vaccination recommended.
+
+**Nutritional support**
+
+-   Adequate calories and protein (1–2 g/kg/day).
+-   Avoid high-fat diets to prevent exacerbation of hyperlipidemia.
+
+### Specific Treatment
+
+#### Corticosteroid Therapy
+
+Prednisolone remains the cornerstone of therapy for idiopathic nephrotic syndrome.
+
+**Initial episode (ISPN guidelines):**
+
+-   **Prednisolone 60 mg/m²/day** (max 60 mg) for **4 weeks**, followed by
+-   **40 mg/m² on alternate days** for another **4 weeks**, then taper gradually.
+
+**Response monitoring:**
+
+-   Daily urine dipstick for protein.
+-   **Complete remission:** 3 consecutive days of negative or trace proteinuria.
+
+#### Relapse
+
+Reappearance of proteinuria (≥3+) for ≥3 days after remission. Treat with **prednisolone 60
+mg/m²/day** until remission, then taper.
+
+#### Steroid-Resistant Nephrotic Syndrome (SRNS)
+
+No remission after 4 weeks of adequate steroid therapy. - Evaluate for **secondary causes** or
+**FSGS** (via biopsy).
+
+-   Consider **calcineurin inhibitors** (cyclosporine or tacrolimus), **mycophenolate mofetil**, or
+    **cyclophosphamide**.
+-   Manage under paediatric nephrology care.
+
+### Management of Complications
+
+| **Complication**                 | **Management**                                        |
+|----------------------------------|-------------------------------------------------------|
+| **Infection**                    | Prompt antibiotic therapy; pneumococcal prophylaxis   |
+| **Hypovolemia**                  | Albumin infusion + diuretics                          |
+| **Thrombosis (DVT, renal vein)** | Anticoagulation (heparin → warfarin)                  |
+| **Acute renal failure**          | Supportive care, treat underlying cause               |
+| **Dyslipidemia**                 | Dietary modification; statins if persistent           |
+| **Hypertension**                 | ACE inhibitors (enalapril) beneficial for proteinuria |
+
+### Preparation for Discharge
+
+Before discharge: - Ensure oedema resolution and stable renal function.
+
+-   Teach caregivers how to **check urine protein at home**.
+-   Educate on **signs of relapse** and infection prevention.
+-   Arrange follow-up schedule (weekly initially, then monthly).
+-   Encourage vaccination where indicated.
+
+### Long-Term Management and Follow-Up
+
+-   **Monitor relapses:** Up to 70% of idiopathic cases relapse within 6 months.
+-   **Minimise steroid toxicity**: Screen for growth retardation, obesity, cataracts, and
+    hypertension.
+-   **Address psychosocial impact:** School attendance and family anxiety.
+-   **Nephrology referral:** For steroid dependence or resistance.
+
+## Complications
+
+**Acute**
+
+-   Infection (spontaneous bacterial peritonitis, cellulitis)
+-   Hypovolemia and shock
+-   Thrombosis (renal vein, cerebral venous sinus)
+-   Acute renal failure
+
+**Chronic**
+
+-   Persistent proteinuria leading to chronic kidney disease
+-   Growth retardation and delayed puberty
+-   Steroid toxicity (hypertension, osteoporosis, Cushingoid features)
+
+## Prevention
+
+While idiopathic cases cannot be prevented, complications can be minimized by: - Early diagnosis and
+appropriate steroid therapy
+
+-   Routine immunization, especially **pneumococcal and varicella vaccines**
+-   Avoiding nephrotoxic drugs (e.g., NSAIDs)
+-   Educating families on prompt infection treatment
+-   Regular follow-up at renal clinics
+
+## Prognosis
+
+-   **Minimal Change Disease:** Excellent prognosis; over 90% achieve remission with steroids.
+-   **FSGS or secondary causes:** Higher risk of chronic renal failure.
+-   **Steroid-dependent or frequent relapsers:** Often require second-line therapy but may maintain
+    long-term renal function.
+
+Relapses often decrease with age, and most children achieve permanent remission by adolescence.
+
+## Conclusion
+
+Nephrotic syndrome remains a significant paediatric renal disorder in Ghana, accounting for
+substantial hospital admissions and morbidity. The majority of cases respond well to
+corticosteroids, though steroid-resistant forms, particularly FSGS, are increasingly recognized. A
+sound understanding of its clinical features, complications, and management principles is essential
+for medical students and practitioners.\
+Timely diagnosis, infection control, family education, and close follow-up remain the pillars of
+good outcomes in paediatric nephrotic syndrome.
