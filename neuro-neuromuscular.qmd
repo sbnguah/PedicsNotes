@@ -1,23 +1,281 @@
 ---
 title: "Neuromuscular Disorders"
-author: "Charles Hammond"
+date: 2025-10-24
 ---
 
-## Common terminologies
-## Common presentations
-## The floppy infant syndrome
-## Site of lesion
-## Specific neuromuscular disorders
-### Spinal muscular atrophy
-### Poliomyelitis 
-### Guillain-Barre syndrome
-### Charcot-Marie-Tooth disease
-### Myasthenia gravis
-### Duchenne muscular dystrophy
-### Congenital myopathies
-### Metabolic myopathies
-### Dermatomyositis 
-## Acute flaccid paralysis
-### Case definition
-### Differential diagnosis
-### Public health importance 
+Neuromuscular disorders (NMDs) encompass a wide range of conditions that affect the motor unit, the
+functional link between the nervous system and muscles responsible for movement. They are
+characterized primarily by muscle weakness, hypotonia, and impaired motor development. These
+disorders may be inherited or acquired, acute or chronic, and involve any level of the motor pathway
+from the anterior horn cell in the spinal cord to the muscle fiber itself.
+
+In Ghana and other sub-Saharan African countries, neuromuscular disorders are often underdiagnosed
+or misdiagnosed due to limited access to electrophysiological, genetic, and imaging studies.
+Nonetheless, careful clinical assessment can identify most cases early and guide appropriate
+referral and management.
+
+## Common Terminologies
+
+Understanding basic terms is crucial for describing and classifying neuromuscular disorders:
+
+-   **Motor unit:** The combination of a motor neuron, its axon, and all the muscle fibers it
+    innervates.
+-   **Hypotonia:** Reduced muscle tone leading to floppiness and poor resistance to passive
+    movement.
+-   **Weakness:** Reduction in the ability to generate voluntary muscle force.
+-   **Fatigability:** Diminished ability to sustain muscle contraction during repeated or prolonged
+    activity.
+-   **Atrophy:** Loss of muscle bulk, usually due to disuse or denervation.
+-   **Fasciculations:** Fine, involuntary muscle twitches visible under the skin, often seen in
+    anterior horn cell disease.
+-   **Pseudohypertrophy:** Apparent muscle enlargement due to fatty or fibrous replacement, as in
+    Duchenne muscular dystrophy.
+-   **Myopathy:** Primary disorder of the muscle fiber.
+-   **Neuropathy:** Disease of peripheral nerves.
+
+## Common Presentations
+
+Children with neuromuscular disorders may present in various ways depending on the site and nature
+of pathology. Typical features include:
+
+-   **Delayed motor milestones** – not sitting, standing, or walking at expected ages.
+-   **Hypotonia** – often noted at birth or during infancy (“floppy baby”).
+-   **Muscle weakness** – proximal (difficulty rising from sitting) or distal (foot drop).
+-   **Reduced or absent deep tendon reflexes.**
+-   **Gait abnormalities** – waddling or high-stepping gait.
+-   **Cranial nerve involvement** – facial weakness, ptosis, difficulty swallowing.
+-   **Respiratory distress** – due to diaphragmatic or intercostal weakness.
+-   **Skeletal deformities** – scoliosis, contractures.
+
+A key clinical clue is that cognition and sensation are usually **preserved** in primary muscle
+diseases but may be affected in neuropathies or central lesions.
+
+## The Floppy Infant Syndrome
+
+**Definition:**\
+The term “floppy infant” describes a neonate or young infant with decreased resistance to passive
+movement of limbs and trunk due to hypotonia.
+
+### **Causes**
+
+Floppiness may be due to central or peripheral causes:
+
+-   **Central (CNS):** Hypoxic-ischemic encephalopathy, intracranial hemorrhage, metabolic
+    encephalopathy, chromosomal syndromes (e.g., Down syndrome, Prader–Willi).
+-   **Peripheral:** Disorders of the motor unit — anterior horn cell (SMA), peripheral nerves,
+    neuromuscular junction (congenital myasthenic syndrome), or muscle (congenital myopathy,
+    muscular dystrophy).
+
+### **Clinical Features**
+
+-   Frog-leg posture.
+-   Head lag on traction.
+-   Poor spontaneous movement but preserved alertness (suggesting peripheral cause).
+-   Weak cry and suck.
+-   Respiratory difficulty in severe cases.
+
+### **Evaluation**
+
+-   Assess tone, reflexes, and antigravity movement.
+-   Presence of brisk reflexes suggests central cause; diminished reflexes indicate peripheral
+    lesion.
+-   Look for dysmorphic features or systemic illness.
+
+## Site of Lesion
+
+Neuromuscular disorders are localized anatomically by identifying where in the motor unit the
+pathology lies:
+
+| **Level of Lesion** | **Examples** | **Characteristic Features** |
+|----|----|----|
+| **Anterior horn cell** | Spinal muscular atrophy, poliomyelitis | Flaccid weakness, fasciculations, atrophy, absent reflexes |
+| **Peripheral nerve** | Guillain–Barré syndrome, Charcot–Marie–Tooth disease | Distal weakness, areflexia, sensory loss |
+| **Neuromuscular junction** | Myasthenia gravis, botulism | Fatigable weakness, normal reflexes, cranial involvement |
+| **Muscle** | Muscular dystrophies, congenital myopathies, dermatomyositis | Proximal weakness, preserved sensation, normal or reduced reflexes |
+
+Accurate localization is the first step in diagnosis and guides further investigations such as
+electromyography (EMG) and genetic testing.
+
+## Specific Neuromuscular Disorders
+
+### **Spinal Muscular Atrophy (SMA)**
+
+A **genetic disorder** caused by homozygous deletion or mutation of the *SMN1* gene, leading to
+degeneration of anterior horn cells.
+
+**Clinical Types:**
+
+-   **Type I (Werdnig–Hoffmann):** Onset before 6 months, severe hypotonia (“floppy infant”), poor
+    feeding, respiratory distress, early death.
+
+-   **Type II:** Onset 6–18 months; able to sit but not walk unaided. - **Type III
+    (Kugelberg–Welander):** Late onset; mild weakness, able to walk initially.
+
+**Investigations:** EMG (denervation), genetic testing.\
+**Management:** Supportive care, respiratory support, physiotherapy, new therapies (nusinersen, gene
+therapy) where available.
+
+### **Poliomyelitis**
+
+A viral infection caused by *poliovirus* that selectively destroys anterior horn cells. Though now
+rare due to immunization, sporadic cases or vaccine-derived poliovirus can still occur.
+
+**Clinical features:** - Fever and malaise followed by asymmetric, flaccid paralysis. - No sensory
+loss. - Reflexes absent in affected limbs.
+
+**Diagnosis:** Isolation of poliovirus from stool or throat swabs.\
+**Prevention:** Oral and inactivated polio vaccines (OPV and IPV).\
+**Public health relevance:** Surveillance is vital as Ghana remains part of the global polio
+eradication initiative.
+
+### **Guillain–Barré Syndrome (GBS)**
+
+An acute, immune-mediated demyelinating polyneuropathy, often post-infectious.
+
+**Presentation:**
+
+-   Rapidly progressive, symmetrical ascending weakness.
+-   Areflexia.
+-   May involve respiratory and autonomic dysfunction.
+
+**Investigations:**
+
+-   CSF: High protein, normal cells (albuminocytologic dissociation).
+-   Nerve conduction studies: Demyelination.
+
+**Management:**
+
+-   Supportive care and monitoring for respiratory failure.
+-   IV immunoglobulin (IVIG) or plasmapheresis.
+
+**Prognosis:** Good in children; most recover fully.
+
+### **Charcot–Marie–Tooth Disease (CMT)**
+
+A **hereditary motor and sensory neuropathy** caused by demyelination or axonal degeneration.
+
+**Features:**
+
+-   Distal weakness (especially peroneal muscles).
+-   Foot drop and high-arched feet (pes cavus).
+-   Reduced reflexes and distal sensory loss.
+-   Slowly progressive.
+
+**Diagnosis:** Nerve conduction studies, genetic testing.\
+**Management:** Supportive — physiotherapy, orthotics, and counseling.
+
+### **Myasthenia Gravis**
+
+An autoimmune disorder affecting the **neuromuscular junction**, where antibodies attack
+acetylcholine receptors.
+
+**Features:** - Fluctuating weakness, worsening with exertion. - Ptosis, diplopia, facial
+weakness. - Bulbar symptoms (dysphagia, dysarthria). - Normal sensation and reflexes.
+
+**Diagnosis:** Edrophonium test, AChR antibodies, EMG.\
+**Treatment:** Pyridostigmine, corticosteroids, thymectomy in selected cases.
+
+### **Duchenne Muscular Dystrophy (DMD)**
+
+An **X-linked recessive** myopathy due to absence of **dystrophin** protein.
+
+**Features:**
+
+-   Onset at 2–5 years.
+-   Progressive proximal weakness, calf pseudohypertrophy.
+-   Gowers’ sign (using hands to “walk up” thighs).
+-   Wheelchair-bound by early teens.
+-   Cardiomyopathy and respiratory failure later.
+
+**Investigations:** Markedly elevated CK, genetic confirmation.\
+**Management:** Corticosteroids, physiotherapy, cardiac and respiratory care.
+
+### **Congenital Myopathies**
+
+A group of inherited disorders characterized by structural defects in muscle fibers (e.g., nemaline,
+central core, myotubular myopathy).
+
+**Features:**
+
+-   Neonatal hypotonia (“floppy infant”).
+
+-   Delayed motor milestones.
+
+-   Facial and ocular weakness.
+
+Usually non-progressive or slowly progressive. Diagnosis is confirmed by muscle biopsy and genetic
+analysis.
+
+### **Metabolic Myopathies**
+
+Caused by enzyme defects in muscle metabolism (e.g., glycogen storage diseases, fatty acid oxidation
+defects).
+
+**Features:**
+
+-   Exercise intolerance.
+-   Recurrent rhabdomyolysis or myoglobinuria.
+-   Hypoglycemia in systemic types.
+
+Management focuses on dietary modification and avoiding fasting or strenuous exercise.
+
+### **Dermatomyositis**
+
+An **autoimmune inflammatory myopathy** affecting both skin and muscle.
+
+**Features:**
+
+-   Symmetrical proximal weakness.
+-   Heliotrope rash (purple discolouration of eyelids).
+-   Gottron’s papules (over knuckles).
+-   May involve myocardium and lungs.
+
+**Investigations:** Elevated CK, EMG, muscle biopsy, autoantibody screen.\
+**Treatment:** Corticosteroids, immunosuppressants, physiotherapy.
+
+## Acute Flaccid Paralysis (AFP)
+
+### **Case Definition**
+
+Acute flaccid paralysis is defined as **sudden onset of weakness or paralysis in a child under 15
+years**, with reduced or absent muscle tone and reflexes. It includes **poliomyelitis** and
+**non-polio causes** such as Guillain–Barré syndrome and transverse myelitis.
+
+### **Differential Diagnosis**
+
+-   Poliomyelitis
+-   Guillain–Barré syndrome
+-   Transverse myelitis
+-   Traumatic neuritis
+-   Myasthenia gravis
+-   Botulism
+
+### **Public Health Importance**
+
+AFP surveillance is central to **polio eradication** efforts.
+
+-   Every case of AFP must be reported within 24 hours to health authorities.
+-   Stool specimens (two within 14 days of onset) are collected for viral isolation.
+-   Early detection enables rapid outbreak response and immunization campaigns.
+
+In Ghana, AFP surveillance has been instrumental in maintaining polio-free certification and
+detecting vaccine-derived strains.
+
+## Summary and Key Points
+
+-   Neuromuscular disorders affect any part of the motor unit, causing weakness and hypotonia.
+-   Careful clinical localisation is essential since advanced diagnostics are often unavailable.
+-   Common disorders in children include SMA, DMD, GBS, and myasthenia gravis.
+-   The floppy infant syndrome is a key early presentation of several NMDs.
+-   Acute flaccid paralysis remains a **notifiable condition** due to its link with polio
+    surveillance.
+-   Multidisciplinary care, physiotherapy, respiratory and nutritional support—is crucial to
+    improving outcomes.
+
+## References
+
+1.  Mah JK. Overview of neuromuscular disorders in children. *Paediatr Child Health.* 2017.
+2.  Pearn J. Neuromuscular disorders in childhood. *J Child Neurol.* 2003.
+3.  WHO. *Acute Flaccid Paralysis Surveillance and Polio Eradication Guidelines.* 2022.
+4.  Bushby K et al. Diagnosis and management of Duchenne muscular dystrophy. *Lancet Neurol.* 2010.
+5.  Ghana Health Service. *Guidelines on Child Neurology and Disability Care*, 2022.

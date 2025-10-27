@@ -1,4 +1,266 @@
 ---
 title: "Nephritic Syndrome"
-author: "Prof. Sampson Antwi"
+date: 2025-10-02
 ---
+
+## Introduction
+
+Nephritic syndrome is a clinical syndrome resulting from inflammation of the glomeruli, leading to
+impaired renal filtration. It is characterised by **haematuria, mild-to-moderate proteinuria,
+oedema, hypertension, and varying degrees of renal impairment**. Unlike nephrotic syndrome, in which
+protein loss predominates, nephritic syndrome reflects glomerular injury due to immune-mediated
+inflammation, leading to red cell leakage and reduced glomerular filtration.
+
+In Ghana, as in many developing countries, **post-streptococcal glomerulonephritis (PSGN)** remains
+the most common cause in children. However, other glomerulonephritides such as lupus nephritis and
+IgA nephropathy are also encountered.
+
+Understanding nephritic syndrome is important because timely diagnosis and appropriate management
+can prevent progression to chronic kidney disease.
+
+## Epidemiology
+
+Nephritic syndrome can occur at any age but is most common in **school-aged children between 5 and
+12 years**.
+
+-   **Sex:** Slight male predominance (M:F ≈ 2:1).
+-   **Geography:** Higher prevalence in areas with poor sanitation, overcrowding, and high incidence
+    of streptococcal skin or throat infections.
+-   **Seasonal variation:** Cases often peak following outbreaks of streptococcal infections,
+    especially during the dry or cold season.
+
+In Ghanaian children, **acute post-streptococcal glomerulonephritis (APSGN)** accounts for the
+majority of nephritic presentations.
+
+## Aetiology and Classification
+
+Nephritic syndrome can be classified according to **clinical course** (acute, rapidly progressive,
+or chronic) or **underlying aetiology** (primary renal vs secondary systemic causes).
+
+### Primary Glomerular Causes
+
+-   **Acute post-streptococcal glomerulonephritis (APSGN):**\
+    The classic cause in children, occurring 1–3 weeks after group A β-haemolytic streptococcal
+    pharyngitis or skin infection (impetigo).
+-   **IgA nephropathy (Berger’s disease):**\
+    Characterised by recurrent haematuria, often following upper respiratory tract infection.
+-   **Membranoproliferative glomerulonephritis (MPGN):**\
+    Chronic immune complex–mediated inflammation causing persistent haematuria and proteinuria.
+-   **Rapidly progressive glomerulonephritis (RPGN):**\
+    Severe form with crescent formation in glomeruli and rapid loss of renal function.
+
+### 2. Secondary Glomerular Causes
+
+-   **Systemic lupus erythematosus (SLE):** Immune complex deposition in glomeruli.
+-   **Henoch-Schönlein purpura (HSP):** IgA-mediated vasculitis involving the kidneys.
+-   **Infections:** Hepatitis B/C, malaria, HIV.
+-   **Endocarditis or shunt nephritis:** Chronic infection leading to immune complex
+    glomerulonephritis.
+
+## Pathophysiology
+
+Nephritic syndrome arises from **inflammation and proliferation within the glomeruli**, usually
+mediated by **immune-complex** deposition or **autoantibodies**.
+
+The general sequence is as follows:
+
+1.  **Immune complex formation** (e.g., streptococcal antigens with antibodies).
+2.  **Deposition in glomerular capillaries** and activation of the **complement system**.
+3.  **Inflammatory response** → neutrophil and macrophage infiltration.
+4.  **Glomerular injury** → capillary wall thickening, cellular proliferation, and reduced surface
+    area for filtration.
+5.  **Reduced glomerular filtration rate (GFR)** → salt and water retention → oedema and
+    hypertension.
+6.  **Leakage of red cells and some protein** into urine → haematuria and mild proteinuria.
+
+## Clinical Features
+
+### History
+
+The onset is usually acute, developing within days to weeks following a **streptococcal throat or
+skin infection**.
+
+**Key presenting symptoms:**
+
+-   **Haematuria:** Brown, smoky, or cola-coloured urine.
+-   **Oliguria:** Decreased urine output due to reduced GFR.
+-   **Facial puffiness:** Particularly periorbital oedema, worse in the morning.
+-   **Mild generalized oedema.**
+-   **Headache or visual disturbances:** Due to hypertension.
+-   **History of sore throat or impetigo** 1–3 weeks prior to illness.
+
+### Physical Examination
+
+-   **Oedema:** Usually mild, periorbital, and pedal.
+-   **Blood pressure:** Elevated in most cases (may be severe).
+-   **Urine colour:** Dark, tea-coloured urine.
+-   **Signs of volume overload:** Raised jugular venous pressure, basal crepitations.
+-   **Other findings:** Pallor (anaemia), mild hepatomegaly.
+
+## Differential Diagnosis
+
+| **Condition** | **Distinguishing Features** |
+|----|----|
+| Nephrotic syndrome | Marked oedema, massive proteinuria, normal complement |
+| Haemolytic uraemic syndrome | Triad of anaemia, thrombocytopenia, and renal failure following diarrhoea |
+| IgA nephropathy | Recurrent macroscopic haematuria after respiratory infection |
+| SLE nephritis | Photosensitive rash, arthritis, positive ANA |
+| Acute interstitial nephritis | Drug exposure, eosinophiluria |
+
+## Investigations
+
+### Urine Tests
+
+-   **Urinalysis:**
+    -   **Haematuria:** Dysmorphic RBCs and red cell casts are diagnostic.
+    -   **Proteinuria:** Usually mild to moderate (1–2+).
+    -   **Specific gravity:** Often raised due to oliguria.
+-   **Microscopy:** RBC casts, WBCs.
+
+### Blood Tests
+
+-   **Renal function:** Elevated urea and creatinine indicate impaired filtration.
+-   **Complement levels (C3):** Low in post-streptococcal GN, normal in IgA nephropathy.
+-   **ASO titre / anti-DNase B:** Elevated after streptococcal infection.
+-   **Serum electrolytes:** May show hyperkalaemia or hyponatraemia.
+-   **Full blood count:** Mild anaemia, leukocytosis possible.
+-   **Antinuclear antibody (ANA):** For suspected lupus nephritis.
+
+### Imaging
+
+-   **Renal ultrasound:** Normal or slightly enlarged kidneys with increased echogenicity.
+-   **Chest X-ray:** Pulmonary oedema or cardiomegaly from volume overload.
+
+### Kidney Biopsy
+
+Indications include:
+
+-   Atypical course (no recovery after 2–3 weeks)
+-   Persistent renal dysfunction
+-   Gross proteinuria (\>3 g/day)
+-   Absence of low complement
+-   Suspected lupus nephritis or RPGN
+
+## Diagnosis
+
+Diagnosis is based on the presence of the following:
+
+1.  **Haematuria** (microscopic or macroscopic)
+2.  **Oliguria** with elevated urea and creatinine
+3.  **Mild-to-moderate proteinuria**
+4.  **Hypertension**
+5.  **History of preceding infection**
+
+## Management
+
+Treatment of nephritic syndrome is mainly **supportive**, aimed at controlling hypertension, oedema,
+and preventing complications. The underlying cause guides specific therapy.
+
+### General Measures
+
+-   **Hospital admission** for monitoring of blood pressure, urine output, and renal function.
+-   **Bed rest** during the acute phase to reduce workload on kidneys.
+-   **Fluid restriction** to match output + insensible loss (usually 400–600 mL/m²/day).
+-   **Sodium restriction** to prevent oedema and hypertension.
+
+### Control of Oedema
+
+-   **Loop diuretics (furosemide 1–2 mg/kg)** if the child is not oliguric.
+-   Avoid excessive diuresis in oliguric states to prevent hypovolemia.
+-   **Fluid overload** with pulmonary oedema may require **frusemide + antihypertensive therapy** or
+    dialysis.
+
+### Hypertension Management
+
+Hypertension in nephritic syndrome is mainly volume-dependent.
+
+-   **First-line:** Loop diuretics.
+
+-   **If persistent:** Add **nifedipine** or **hydralazine**.
+
+-   **Severe hypertension or hypertensive encephalopathy:** Use IV antihypertensives cautiously
+    (e.g., labetalol infusion).
+
+### Infection Management
+
+-   If there is an ongoing streptococcal infection, give **benzathine penicillin** or
+    **amoxicillin**.
+-   **Antibiotic prophylaxis** is not usually required once the infection has cleared.
+
+### Dietary Advice
+
+-   **Salt restriction** until oedema and hypertension resolve.
+-   **Protein intake:** Normal for age (avoid restriction unless renal failure develops).
+-   **Potassium restriction** if hyperkalaemia occurs.
+
+### Dialysis Indications
+
+Dialysis may be required if there is: - Refractory fluid overload.
+
+-   Severe hyperkalaemia
+-   Rising urea/creatinine
+-   Uremic encephalopathy or seizures
+
+## Specific Therapy
+
+### Post-Streptococcal Glomerulonephritis
+
+-   Mainly supportive care.
+-   Prognosis excellent; most recover fully within 6–8 weeks.
+-   Persistent proteinuria or haematuria may last months.
+
+### IgA Nephropathy and MPGN
+
+-   Often chronic; may need **ACE inhibitors** or **immunosuppressants** (prednisolone,
+    azathioprine).
+-   Regular follow-up of renal function is essential.
+
+### Lupus Nephritis
+
+-   Requires systemic corticosteroids and immunosuppressive therapy (mycophenolate mofetil or
+    cyclophosphamide).
+-   Managed in collaboration with a paediatric nephrologist.
+
+### Rapidly Progressive Glomerulonephritis
+
+-   Aggressive management with high-dose corticosteroids, cyclophosphamide, and sometimes plasma
+    exchange.
+-   Early treatment may prevent irreversible renal failure.
+
+## Complications
+
+-   **Hypertensive encephalopathy:** Seizures, vomiting, blurred vision.
+-   **Acute renal failure:** Due to severe glomerular inflammation.
+-   **Fluid overload:** Pulmonary oedema or heart failure.
+-   **Electrolyte imbalances:** Hyperkalaemia, hyponatraemia.
+-   **Chronic kidney disease:** From unresolved inflammation.
+
+## Prognosis
+
+Most children with **post-streptococcal nephritic syndrome** recover completely.
+
+-   **Microscopic haematuria** may persist for up to 6–12 months.
+-   **Renal function** returns to normal in \>95% of cases.
+-   **Poor prognostic factors:** Persistent hypertension, heavy proteinuria, reduced complement for
+    \>8 weeks, and histologic evidence of crescentic GN.
+
+Chronic or secondary causes (e.g., lupus, MPGN) may progress to **end-stage kidney disease** if not
+adequately managed.
+
+## Prevention
+
+-   Early diagnosis and treatment of streptococcal infections (pharyngitis, impetigo).
+-   Improved sanitation and hygiene to reduce transmission.
+-   Community health education to promote prompt medical attention for children with swelling or
+    dark urine.
+-   Regular follow-up for children with known glomerular diseases.
+
+## Conclusion
+
+Nephritic syndrome in children, particularly post-streptococcal glomerulonephritis, remains a
+significant cause of acute kidney disease in Ghana. It typically follows streptococcal infection and
+manifests with haematuria, oedema, and hypertension. While most cases resolve spontaneously with
+supportive care, early recognition and careful monitoring are essential to prevent complications and
+chronic kidney damage. A solid grasp of its pathophysiology and management principles is crucial for
+medical students and paediatric practitioners, ensuring timely and appropriate care for affected
+children.

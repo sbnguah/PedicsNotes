@@ -1,6 +1,253 @@
 ---
 title: "CNS Infections"
-author: "Dr Charles Hammond <br> Dr Anthony Enimil"
+author: 2025-10-18
+editor: 
+  markdown: 
+    wrap: sentence
 ---
 
+Central nervous system (CNS) infections are among the most serious medical conditions affecting children, often leading to high morbidity and mortality if not promptly diagnosed and treated.
+They include infections that involve the brain (encephalitis), meninges (meningitis), or both (meningoencephalitis).
+In sub-Saharan Africa, including Ghana, CNS infections are common due to the high burden of bacterial, viral, parasitic, and fungal diseases.
+Understanding the pathophysiology, presentation, and management of these infections is crucial for all medical students and clinicians caring for children.
 
+## Introduction
+
+CNS infections encompass a spectrum of conditions caused by microorganisms that invade the central nervous system, leading to inflammation of the brain, spinal cord, or their protective coverings.
+The major forms are:
+
+-   **Meningitis:** Inflammation of the meninges, often bacterial or viral.
+-   **Encephalitis:** Inflammation of the brain parenchyma, usually viral.
+-   **Meningoencephalitis:** Combination of both meningitis and encephalitis.
+-   **Brain abscess:** Localized collection of pus within the brain.
+-   **Subdural or epidural empyema:** Collection of pus between meningeal layers or between dura and skull.
+
+These infections are medical emergencies.
+Early diagnosis and aggressive management can prevent death and long-term neurological sequelae such as hearing loss, seizures, and cognitive impairment.
+
+## Epidemiology
+
+CNS infections occur worldwide but are particularly common in low-resource settings.\
+In **Ghana and West Africa**, they remain leading causes of hospitalization and death in children under five years.
+
+-   **Bacterial meningitis** is endemic in the “meningitis belt,” which includes northern Ghana, and outbreaks occur periodically.
+-   **Viral infections**, especially enteroviruses, herpes simplex virus (HSV), and arboviruses (e.g., West Nile virus), are also significant.
+-   **Parasitic infections** such as **cerebral malaria** remain a major cause of CNS involvement in endemic regions.
+-   **Fungal infections** (Cryptococcus neoformans, Candida species) occur primarily in immunocompromised children.
+
+The burden of CNS infections in African countries is magnified by delayed presentation, limited access to diagnostic tools, and poor vaccination coverage.
+
+## Aetiology
+
+### **Bacterial Causes**
+
+Common organisms vary by age:
+
+-   **Neonates:** Group B *Streptococcus*, *Escherichia coli*, *Listeria monocytogenes*.
+-   **Infants and young children:** *Streptococcus pneumoniae*, *Neisseria meningitidis*, *Haemophilus influenzae* type b (Hib).
+-   **Older children and adolescents:** *Neisseria meningitidis* and *Streptococcus pneumoniae*.
+
+### 2. **Viral Causes**
+
+-   Enteroviruses (Coxsackie, Echovirus)
+-   Herpes simplex virus type 1 and 2
+-   Varicella-zoster virus
+-   Mumps and measles viruses
+-   Arboviruses (e.g., Japanese encephalitis, West Nile virus)
+
+### 3. **Parasitic Causes**
+
+-   *Plasmodium falciparum* (cerebral malaria)
+-   *Toxoplasma gondii*
+-   *Trypanosoma brucei* (African sleeping sickness)
+
+### 4. **Fungal Causes**
+
+-   *Cryptococcus neoformans*
+-   *Candida albicans*
+-   *Aspergillus* species (rare)
+
+## Pathophysiology
+
+The CNS is normally protected by the **blood-brain barrier (BBB)** and the **meningeal layers**.
+Infection occurs when microorganisms breach these defenses via:
+
+1.  **Hematogenous spread**: The most common route, from systemic infection or nasopharyngeal colonization.
+2.  **Contiguous spread**: From otitis media, sinusitis, or mastoiditis.
+3.  **Direct inoculation**: From trauma, surgery, or congenital defects (e.g., spina bifida).
+4.  **Retrograde neuronal spread**: seen with HSV and rabies.
+
+Once pathogens enter the CNS:
+
+-   They trigger an **inflammatory response** involving cytokines, prostaglandins, and leukocyte infiltration.
+-   This causes **cerebral edema**, **increased intracranial pressure (ICP)**, **reduced cerebral perfusion**, and **neuronal injury**.
+-   In meningitis, inflammation of the leptomeninges leads to **disruption of CSF flow** and **hydrocephalus**.
+-   In encephalitis, direct infection of neurons and glial cells causes **necrosis** and **demyelination**.
+
+## Clinical Features
+
+The presentation depends on the child’s age and the specific infection but can be broadly grouped.
+
+### **In Neonates**
+
+-   Fever or hypothermia
+-   Poor feeding and lethargy
+-   Irritability, high-pitched cry
+-   Bulging fontanelle
+-   Seizures
+-   Apnea or cyanosis
+
+### **In Older Infants and Children**
+
+-   Fever, headache, vomiting
+-   Neck stiffness (meningism)
+-   Photophobia
+-   Altered level of consciousness
+-   Seizures
+-   Signs of raised intracranial pressure (ICP): papilledema, bradycardia, hypertension, and irregular respiration (Cushing’s triad)
+-   Focal neurological deficits (in encephalitis or abscess)
+
+### **Specific Clues**
+
+-   **Petechial rash** → *Neisseria meningitidis* infection.
+-   **Paralysis, ataxia, movement disorders** → viral encephalitis.
+-   **Severe anemia and coma** → cerebral malaria.
+
+## Differential Diagnosis
+
+CNS infections must be differentiated from other causes of altered sensorium or seizures in children:
+
+-   Cerebral malaria
+-   Epilepsy or status epilepticus
+-   Febrile seizures
+-   Metabolic disorders (hypoglycemia, hyponatremia, uremia)
+-   Intracranial hemorrhage or tumor
+-   Toxic encephalopathy
+
+## Investigations
+
+### **Laboratory Investigations**
+
+1.  **Full blood count:** Leukocytosis in bacterial infections; lymphocytosis in viral causes.
+2.  **Blood cultures:** Identify causative bacteria in 30–50% of cases.
+3.  **Lumbar puncture (LP):**
+    -   Gold standard for meningitis diagnosis unless contraindicated (e.g., raised ICP, focal neurological signs).
+    -   **CSF findings:**
+        -   **Bacterial meningitis:** High protein, low glucose, turbid appearance, neutrophil predominance.
+        -   **Viral meningitis:** Normal or mildly elevated protein, normal glucose, lymphocyte predominance.
+        -   **Fungal/TB meningitis:** Elevated protein, low glucose, lymphocytes, positive India ink or acid-fast bacilli.
+4.  **CSF Gram stain and culture:** Identifies specific bacteria.
+5.  **Polymerase chain reaction (PCR):** Detects viral DNA/RNA (HSV, enteroviruses).
+6.  **Rapid antigen tests:** Useful for *Neisseria meningitidis*, *H. influenzae*, and *S. pneumoniae*.
+
+### **Neuroimaging**
+
+-   **CT or MRI brain** before LP if raised ICP or focal signs are suspected.
+-   May reveal cerebral edema, abscess, or hydrocephalus.
+
+### **Other Tests**
+
+-   Blood glucose and electrolytes.
+-   Malaria smear or rapid diagnostic test (to exclude cerebral malaria).
+-   HIV screening in chronic or atypical infections.
+
+## Management
+
+CNS infections constitute a **medical emergency**.
+Prompt empirical therapy, supportive care, and control of complications are vital.
+
+### **1. Initial Stabilization**
+
+-   Airway, breathing, and circulation support.
+-   Control seizures with intravenous diazepam or phenobarbital.
+-   Manage raised ICP: elevate head, restrict fluids, give mannitol if needed.
+-   Correct dehydration, hypoglycemia, and electrolyte imbalance.
+
+### **2. Empirical Antimicrobial Therapy**
+
+Start antibiotics **immediately after blood and CSF samples** are collected (or sooner if LP delayed).
+
+#### **Empirical Antibiotic Regimens:**
+
+-   **Neonates:** Ampicillin + Gentamicin or Cefotaxime (covering GBS, *E. coli*, *Listeria*).
+-   **Infants and children:** Ceftriaxone or Cefotaxime ± Vancomycin (for *S. pneumoniae* resistance).
+-   **Suspected meningococcal infection:** Add high-dose Penicillin G or continue ceftriaxone.
+-   **TB meningitis:** Standard anti-TB therapy (HRZE) with adjunctive corticosteroids.
+-   **Fungal infections:** Amphotericin B or Fluconazole.
+-   **Cerebral malaria:** Intravenous artesunate.
+
+#### **Antiviral Therapy:**
+
+-   For suspected HSV encephalitis → IV **Acyclovir** 10 mg/kg every 8 hours for 14–21 days.
+
+## Supportive Care
+
+-   **Antipyretics** for fever.
+-   **Fluid management:** Maintain euvolemia; avoid fluid overload.
+-   **Nutritional support:** Enteral feeding as soon as tolerated.
+-   **Seizure control:** Maintain anticonvulsant therapy.
+-   **Corticosteroids:** Dexamethasone 0.15 mg/kg every 6 hours for 4 days in bacterial meningitis due to *H. influenzae* or *S. pneumoniae* (reduces hearing loss risk).
+-   **Monitoring:** Vital signs, neurological status, urine output, and electrolyte balance.
+
+## Complications
+
+CNS infections can lead to devastating outcomes if not promptly managed.
+
+**Early complications:** - Seizures and status epilepticus
+
+-   Cerebral edema and herniation
+-   Hydrocephalus
+-   Subdural effusion or empyema
+-   Shock and multi-organ failure
+
+**Late complications:**
+
+-   Hearing impairment
+-   Developmental delay and learning difficulties
+-   Epilepsy
+-   Vision loss
+-   Motor deficits (paresis, ataxia)
+-   Behavioral and cognitive problems
+
+## Prevention
+
+### **Immunization**
+
+Vaccination remains the most effective preventive measure:
+
+-   **Haemophilus influenzae type b (Hib) vaccine**, introduced into Ghana’s EPI, has drastically reduced cases.
+-   **Pneumococcal conjugate vaccine (PCV13)** protects against *Streptococcus pneumoniae*.
+-   **Meningococcal vaccine** useful during outbreaks in northern Ghana.
+-   **Measles and mumps vaccines** prevent postinfectious encephalitis.
+
+### **Chemoprophylaxis**
+
+Close contacts of meningococcal meningitis cases should receive **Rifampicin**, **Ciprofloxacin**, or **Ceftriaxone** as prophylaxis.
+
+### **Public Health Measures**
+
+-   Early detection and treatment of ear and respiratory infections.
+-   Improved sanitation and reduced overcrowding.
+-   Health education and prompt healthcare-seeking behavior.
+
+## Prognosis
+
+The prognosis of CNS infections depends on:
+
+-   The causative organism
+-   The age of the child
+-   Speed of diagnosis and initiation of treatment
+-   Availability of intensive care and rehabilitation
+
+Mortality from bacterial meningitis in Africa remains between 15–30%.
+Survivors frequently suffer long-term sequelae, including hearing loss, epilepsy, and neurodevelopmental delays.
+
+Viral meningitis usually has a good prognosis, while HSV encephalitis can cause permanent neurological impairment despite treatment.
+Cerebral malaria remains a leading cause of childhood neurological disability in endemic regions.
+
+## Conclusion
+
+Central nervous system infections in children represent a critical emergency that demands prompt recognition and treatment.
+In Ghana and other tropical settings, bacterial meningitis, cerebral malaria, and viral encephalitis are the significant causes.
+Improved immunization coverage, early diagnosis, and effective antimicrobial therapy are essential to reduce mortality and prevent neurological sequelae.
+Strengthening laboratory capacity and surveillance systems will further enhance early detection and appropriate management.

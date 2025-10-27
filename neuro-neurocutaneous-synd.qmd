@@ -1,4 +1,232 @@
 ---
 title: "Neurocutaneous Syndromes"
-author: "Prof Joslin Dogbe"
+date: 2025-10-11
 ---
+
+## Introduction
+
+Neurocutaneous syndromes, also known as *phakomatoses*, are a diverse group of congenital disorders
+characterised by abnormalities of the skin and nervous system, often involving other organs such as
+the eyes, bones, and endocrine glands. They result primarily from genetic mutations that affect the
+development and differentiation of tissues derived from the ectoderm. Because both the skin and the
+nervous system originate from the ectodermal layer during embryogenesis, a developmental insult to
+this germ layer can explain the frequent coexistence of neurological and cutaneous manifestations.
+
+Recognition of these disorders is crucial in paediatrics, as cutaneous findings may serve as visible
+markers of significant underlying neurological disease. Early diagnosis allows for timely
+surveillance, prevention of complications, and genetic counselling for families. The most common and
+well-studied neurocutaneous syndromes include **Neurofibromatosis type 1 and 2**, **Tuberous
+sclerosis complex**, **Sturge–Weber syndrome**, and **Von Hippel–Lindau disease**. Other less
+frequent syndromes include **Ataxia telangiectasia**, **Incontinentia pigmenti**, and
+**Hypomelanosis of Ito**.
+
+## Embryological and Pathophysiological Basis
+
+During the third to fourth week of embryonic development, the ectoderm differentiates into two main
+tissues: the **neural ectoderm**, which forms the nervous system, and the **surface ectoderm**,
+which gives rise to the skin and its appendages. Genetic defects that disrupt the proliferation or
+migration of neural crest cells, progenitors for melanocytes, Schwann cells, meninges, and
+components of the peripheral nervous system, underlie most neurocutaneous disorders.
+
+These mutations often affect genes involved in **tumour suppression**, **cell growth regulation**,
+and **signal transduction pathways**, such as the **RAS/MAPK** and **mTOR** pathways. The result is
+dysregulated cell proliferation, hamartoma formation, and predisposition to both benign and
+malignant tumours.
+
+The underlying pathophysiological mechanisms therefore include:
+
+-   Hamartomatous growths in skin, brain, and other organs
+-   Vascular malformations
+-   Abnormal neuronal migration
+-   Predisposition to neoplasia
+
+## General Clinical Features
+
+Neurocutaneous syndromes present variably, but some general features include:
+
+-   **Cutaneous findings:** café-au-lait macules, hypopigmented macules, angiofibromas, shagreen
+    patches, or port-wine stains.
+-   **Neurological manifestations:** seizures, developmental delay, learning disability, and focal
+    neurological deficits.
+-   **Ocular features:** retinal hamartomas, optic gliomas, and choroidal angiomas.
+-   **Skeletal anomalies:** scoliosis, pseudoarthrosis, and bone cysts.
+-   **Endocrine abnormalities:** precocious puberty or adrenal lesions in certain syndromes.
+
+Diagnosis relies on recognizing these characteristic associations, supported by neuroimaging and
+genetic testing.
+
+## Major Neurocutaneous Syndromes
+
+### Neurofibromatosis Type 1 (NF1)
+
+NF1, also known as *von Recklinghausen disease*, is the most common neurocutaneous disorder,
+occurring in about 1 in 3,000 live births. It is caused by mutations in the **NF1 gene** on
+chromosome 17, which encodes **neurofibromin**, a tumour suppressor that regulates the RAS pathway.
+
+**Key clinical features:**
+
+-   ≥6 café-au-lait macules (\>5 mm prepubertal, \>15 mm postpubertal)
+-   Axillary or inguinal freckling
+-   ≥2 neurofibromas or one plexiform neurofibroma
+-   Lisch nodules (iris hamartomas)
+-   Optic pathway glioma
+-   Bony lesions (e.g., sphenoid dysplasia, pseudoarthrosis)
+-   A first-degree relative with NF1
+
+**Neurological features:** learning difficulties, attention deficit, seizures, and risk of
+intracranial tumours.\
+**Complications:** hypertension due to renal artery stenosis or pheochromocytoma, malignant
+peripheral nerve sheath tumours, and scoliosis.
+
+**Management:** multidisciplinary, dermatologic surveillance, annual ophthalmology, developmental
+assessment, and blood pressure monitoring.
+
+### Neurofibromatosis Type 2 (NF2)
+
+NF2 results from mutations in the **NF2 gene** on chromosome 22, which encodes **merlin
+(schwannomin)**, another tumour suppressor. It is rarer (1 in 25,000 births) and typically presents
+in adolescence or early adulthood.
+
+**Hallmark features:**
+
+-   Bilateral vestibular schwannomas causing hearing loss and imbalance
+-   Meningiomas, spinal schwannomas, and ependymomas
+-   Posterior subcapsular cataracts in children
+
+**Cutaneous findings** are less prominent than in NF1.\
+**Management:** MRI surveillance, hearing monitoring, and neurosurgical intervention when necessary.
+
+### Tuberous Sclerosis Complex (TSC)
+
+TSC is an autosomal dominant disorder due to mutations in **TSC1 (hamartin)** or **TSC2 (tuberin)**
+genes, which regulate the **mTOR** signalling pathway. It affects about 1 in 6,000 births.
+
+**Cutaneous features:**
+
+-   Hypomelanotic macules (“ash leaf” spots)
+-   Facial angiofibromas (adenoma sebaceum)
+-   Shagreen patch (connective tissue nevus)
+-   Periungual fibromas
+
+**Neurological manifestations:**
+
+-   Cortical tubers, subependymal nodules, and subependymal giant cell astrocytomas (SEGAs)
+-   Epilepsy (infantile spasms common)
+-   Cognitive impairment and autism spectrum disorder
+
+**Other organ involvement:**
+
+-   Cardiac rhabdomyomas (often regress spontaneously)
+-   Renal angiomyolipomas and cysts
+-   Pulmonary lymphangioleiomyomatosis (especially in females)
+
+**Management:**
+
+-   mTOR inhibitors (everolimus, sirolimus) for SEGA or renal angiomyolipomas
+-   Antiepileptic therapy
+-   Developmental and genetic counselling
+
+### Sturge–Weber Syndrome (SWS)
+
+SWS is a sporadic neurocutaneous disorder caused by somatic mutations in the **GNAQ gene**. It is
+characterized by vascular malformations involving the leptomeninges and facial skin.
+
+**Clinical features:**
+
+-   Facial port-wine stain (nevus flammeus) along the ophthalmic branch of the trigeminal nerve
+-   Leptomeningeal angioma causing seizures, stroke-like episodes, and hemiparesis
+-   Glaucoma and visual impairment
+
+**Neuroimaging:** CT shows “tram-track” calcifications; MRI reveals leptomeningeal enhancement.\
+**Management:** seizure control, ophthalmologic follow-up, and laser therapy for port-wine stains.
+
+### Von Hippel–Lindau Disease (VHL)
+
+An autosomal dominant disorder caused by mutations in the **VHL tumour suppressor gene** on
+chromosome 3.
+
+**Major features:**
+
+-   Retinal and cerebellar hemangioblastomas
+-   Renal cell carcinoma and pancreatic cysts
+-   Pheochromocytoma
+
+**Pediatric significance:** retinal angiomas may present in adolescence.\
+**Management:** regular MRI screening and surgical or laser intervention for tumours.
+
+### Ataxia Telangiectasia (AT)
+
+AT is an autosomal recessive disorder due to mutations in the **ATM gene**, which regulates DNA
+repair.
+
+**Key features:**
+
+-   Progressive cerebellar ataxia beginning in early childhood
+-   Oculocutaneous telangiectasias (especially conjunctivae)
+-   Immunodeficiency (low IgA and IgE)
+-   High risk of malignancy, particularly lymphoma and leukemia
+
+**Management:** supportive care, physiotherapy, infection prophylaxis, and avoidance of ionizing
+radiation.
+
+### Incontinentia Pigmenti (IP)
+
+An X-linked dominant disorder lethal in males, caused by **IKBKG gene** mutations affecting NF-κB
+signalling.
+
+**Stages of skin lesions:**
+
+1.  Vesicular stage (blistering rash in neonates)
+2.  Verrucous stage (wart-like lesions)
+3.  Hyperpigmented streaks along Blaschko’s lines
+4.  Hypopigmented atrophic patches in adolescence/adulthood
+
+**Associated findings:** seizures, intellectual disability, dental anomalies, and ocular defects.
+
+### Hypomelanosis of Ito
+
+Characterized by **whorled or streaked hypopigmented lesions** along Blaschko’s lines. It represents
+chromosomal mosaicism rather than a single gene defect.
+
+**Associated features:** developmental delay, seizures, scoliosis, and ocular anomalies.\
+Diagnosis is clinical; management is supportive.
+
+## Investigations
+
+Diagnostic evaluation depends on the suspected syndrome but generally includes:
+
+-   **Neuroimaging (MRI brain/spine):** for intracranial lesions, calcifications, or tumours
+-   **Dermatological examination:** Wood’s lamp for hypopigmented lesions
+-   **Ophthalmological assessment:** slit-lamp and retinal evaluation
+-   **Genetic testing:** confirmation of specific mutations
+-   **Renal ultrasound:** in NF1 and TSC for cysts or angiomyolipomas
+-   **EEG:** in children with seizures
+-   **Audiometry:** in NF2 for vestibular schwannoma detection
+
+## Management Principles
+
+Management is multidisciplinary, involving paediatric neurologists, dermatologists,
+ophthalmologists, geneticists, and surgeons. The principles include:
+
+-   **Early recognition** through skin examination
+-   **Regular surveillance** for neurological, renal, and ocular complications
+-   **Seizure management** using appropriate antiepileptics
+-   **Surgical intervention** for accessible tumours or disfiguring lesions
+-   **Use of targeted therapies** (e.g., mTOR inhibitors in TSC)
+-   **Genetic counselling** and screening of at-risk family members
+
+## Prognosis
+
+Prognosis varies widely depending on the syndrome and severity of organ involvement. For example:
+
+-   NF1 and TSC are compatible with long survival but carry risks of malignancy.
+-   Sturge–Weber and AT have more guarded outcomes due to neurological decline.
+-   Early diagnosis and targeted interventions have improved life expectancy and quality of life.
+
+## Public Health Importance
+
+In Ghana and other low-resource settings, recognition of neurocutaneous syndromes is often delayed
+due to limited access to dermatology and genetic services. Raising awareness among healthcare
+providers is essential for early identification and referral. Establishing registries and
+integrating genetic counselling into paediatric services will improve outcomes and guide family
+planning.

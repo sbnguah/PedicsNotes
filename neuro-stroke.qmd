@@ -1,15 +1,175 @@
 ---
 title: "Cerebrovascular Disease"
-author: "Dr. Charles Hammond"
+date: 2025-08-12
 ---
 
-## CNS circulation
+Cerebrovascular diseases in children encompass a group of disorders that affect the blood vessels supplying the brain, leading to transient or permanent neurological deficits. Although stroke is far less common in children than in adults, it remains an important cause of morbidity and mortality in paediatrics, often resulting in lifelong neurological impairment if not promptly recognized and managed. Understanding the anatomy of cerebral circulation, mechanisms of injury, and approach to management is essential for clinicians caring for children.
+
+## CNS Circulation
+
+The brain’s blood supply is derived from two major arterial systems—the **anterior circulation** from the **internal carotid arteries** and the **posterior circulation** from the **vertebral arteries**.  
+
+- The **internal carotid arteries** divide into the **anterior cerebral** and **middle cerebral arteries**, supplying the frontal, parietal, and parts of the temporal lobes.  
+- The **vertebral arteries**, arising from the subclavian arteries, unite to form the **basilar artery**, which then gives rise to the **posterior cerebral arteries** supplying the brainstem, cerebellum, and occipital lobes.  
+- These arteries interconnect at the **Circle of Willis**, providing collateral circulation that can partly compensate for occlusion or stenosis in one vascular territory.
+
+Venous drainage occurs through the **dural venous sinuses** (such as the superior sagittal, straight, and transverse sinuses), which ultimately drain into the **internal jugular veins**. The integrity of this circulation is critical to maintaining cerebral perfusion and oxygenation.
+
+In neonates and infants, cerebral blood flow is more vulnerable to fluctuations in systemic perfusion due to immature autoregulatory mechanisms, predisposing them to ischemic or hemorrhagic events under stress conditions like hypoxia, dehydration, or infection.
+
 ## Definitions
+
 ### Stroke
-### Transient ischaemic attack
-## Classification of stroke 
-## Common causes of stroke in children
-## Approach to the child with stroke
-### History and physical examination
-### Investigations
-### Management and rehabilitation
+
+**Stroke** is defined as a sudden onset of neurological deficit resulting from a disturbance in cerebral blood flow, either due to **ischemia** (interruption of blood supply) or **hemorrhage** (bleeding into or around the brain), lasting more than 24 hours or leading to death.
+
+### Transient Ischaemic Attack (TIA)
+
+A **Transient Ischaemic Attack (TIA)** is a brief episode of neurological dysfunction caused by temporary cerebral ischemia, typically lasting less than 24 hours and without permanent radiological evidence of infarction. TIAs in children may herald an impending stroke and warrant urgent evaluation.
+
+## Classification of Stroke
+
+Stroke in children is classified based on the underlying pathophysiology and anatomic distribution:
+
+1. **Ischemic Stroke**
+   - **Arterial Ischemic Stroke (AIS)**: Due to obstruction of an artery by thrombus or embolus.
+   - **Cerebral Sinovenous Thrombosis (CSVT)**: Caused by thrombosis of cerebral veins or dural sinuses, leading to venous congestion and infarction.
+
+2. **Hemorrhagic Stroke**
+   - **Intracerebral Hemorrhage (ICH)**: Bleeding within brain parenchyma.
+   - **Subarachnoid Hemorrhage (SAH)**: Bleeding into the subarachnoid space.
+
+3. **Perinatal or Neonatal Stroke**
+   - Occurs between 20 weeks of gestation and 28 days of life, often associated with perinatal asphyxia, maternal infections, or coagulation disorders.
+
+The distinction between these subtypes is essential for appropriate investigation and management.
+
+## Common Causes of Stroke in Children
+
+Unlike adults, where atherosclerosis dominates, pediatric strokes have diverse causes. These can be grouped as follows:
+
+- **Cardiac causes**: Congenital heart disease (cyanotic heart lesions, endocarditis), cardiomyopathy, arrhythmias, and post-cardiac surgery emboli.  
+- **Hematologic disorders**: Sickle cell disease (most common in sub-Saharan Africa), iron deficiency anemia, polycythemia, and coagulation disorders.  
+- **Vascular abnormalities**: Moyamoya disease, arteriovenous malformations, aneurysms, fibromuscular dysplasia, and vasculitis.  
+- **Infections**: Bacterial meningitis, varicella, HIV, tuberculosis, and malaria.  
+- **Metabolic and systemic causes**: Homocystinuria, mitochondrial diseases, and diabetic ketoacidosis.  
+- **Trauma**: Head injury causing arterial dissection or hemorrhage.  
+- **Perinatal factors**: Birth asphyxia, maternal hypertension, and placental embolism.  
+
+In Ghana and similar regions, **sickle cell disease and severe malaria** are particularly important causes of childhood stroke.
+
+## Approach to the Child with Stroke
+
+The approach involves early recognition, stabilization, identification of the cause, and institution of appropriate therapy.
+
+### History and Physical Examination
+
+A detailed **history** and **neurological examination** are crucial.  
+
+**Key historical points include:**
+
+- Onset and evolution of neurological symptoms (sudden or gradual)
+- Perinatal history in neonates
+- Past medical history — notably sickle cell disease, cardiac disease, trauma, or infection
+- Family history of thrombophilia or stroke
+
+**Symptoms and signs** may include:
+- Focal weakness or paralysis (hemiparesis)
+- Seizures (common in neonates)
+- Speech difficulties (aphasia)
+- Altered consciousness
+- Headache, vomiting
+- Gait disturbances or ataxia (posterior circulation involvement)
+- Papilledema in venous thrombosis
+
+In neonates, manifestations are often subtle—poor feeding, irritability, or asymmetric limb movements.
+
+## Investigations
+
+A structured approach to investigations helps confirm the diagnosis, identify etiology, and guide treatment.
+
+### Neuroimaging
+- **CT scan**: Quick and useful for detecting hemorrhage; less sensitive for early ischemia.  
+- **MRI/MRA**: The gold standard for identifying ischemic lesions and vascular abnormalities.  
+- **MR venography (MRV)**: For cerebral venous sinus thrombosis.  
+- **Transcranial Doppler ultrasound**: Used for screening sickle cell disease patients at risk of stroke.
+
+### Laboratory Investigations
+- Full blood count: To detect anemia, polycythemia, or leukocytosis.  
+- Sickle cell screening: Mandatory in all African children with stroke.  
+- Coagulation profile: PT, aPTT, fibrinogen, D-dimers.  
+- Inflammatory markers: ESR, CRP.  
+- Blood cultures: If infection is suspected.  
+- Serum electrolytes and glucose: To rule out metabolic causes.  
+- Lumbar puncture: If infection is suspected and there is no raised intracranial pressure.
+
+### Cardiac Evaluation
+- **Echocardiography**: To identify congenital heart defects or mural thrombi.  
+- **ECG**: For arrhythmias.
+
+# Management and Rehabilitation
+
+The goals of management are to **stabilize**, **prevent progression**, **treat underlying causes**, and **rehabilitate**.
+
+## Acute Phase Management
+
+### Stabilization
+- Ensure airway, breathing, and circulation.  
+- Control seizures with anticonvulsants (e.g., phenobarbital, diazepam).  
+- Correct hypoxia, hypoglycemia, and dehydration.  
+- Manage raised intracranial pressure (elevate head, restrict fluids, osmotic agents if needed).
+
+### Specific Treatment
+- **Ischemic stroke**:
+  - Antithrombotic therapy (aspirin 3–5 mg/kg/day) once hemorrhage is excluded.  
+  - Anticoagulation (heparin or LMWH) in venous sinus thrombosis or cardioembolic stroke.  
+  - Exchange transfusion in sickle cell-related stroke to reduce HbS <30%.  
+- **Hemorrhagic stroke**:
+  - Control hypertension, correct coagulopathies.  
+  - Neurosurgical intervention for hematoma evacuation or shunt insertion in hydrocephalus.
+
+### Infection Control
+- Empirical antibiotics if meningitis or sepsis is suspected.  
+- Malaria treatment if smear-positive.
+
+## Secondary Prevention
+
+- Chronic transfusion programs in sickle cell disease to prevent recurrence.  
+- Hydroxyurea therapy to maintain HbF and reduce stroke risk.  
+- Long-term aspirin therapy for certain vasculopathies.  
+- Management of cardiac or metabolic causes.
+
+## Rehabilitation
+
+Early initiation of **multidisciplinary rehabilitation** is vital:  
+
+- **Physiotherapy** for muscle strength and mobility.  
+- **Occupational therapy** for daily activity independence.  
+- **Speech therapy** for language recovery.  
+- **Psychological support** for emotional and cognitive adaptation.  
+- **Educational interventions** for learning difficulties.
+
+# Prognosis
+
+Prognosis depends on the cause, timeliness of intervention, and extent of brain injury.  
+
+- **Mortality** in pediatric stroke is about 10–20%.  
+- **Neurological sequelae**, including hemiparesis, epilepsy, and cognitive deficits, occur in up to 60% of survivors.  
+- Recurrence is particularly high in sickle cell disease and untreated vascular anomalies.
+
+# Public Health Importance
+
+Although less frequent than adult stroke, cerebrovascular disease in children carries a **high burden of disability** and **economic cost** due to long-term care needs. In sub-Saharan Africa:
+- Late diagnosis and limited access to imaging delay treatment.  
+- Sickle cell disease–related strokes are a major preventable cause.  
+- Strengthening **neonatal screening**, **malaria control**, and **access to transfusion programs** could significantly reduce incidence.
+
+Public health strategies should therefore include:
+- Early detection and management of high-risk conditions (e.g., sickle cell disease).  
+- Training healthcare workers to recognize early symptoms.  
+- Improving neuroimaging availability and multidisciplinary care.
+
+# Conclusion
+
+Cerebrovascular diseases in children, though uncommon, represent a significant cause of acute neurological morbidity and long-term disability. The underlying causes differ markedly from those in adults, with hematologic, infectious, and congenital heart diseases predominating in the tropics. Prompt recognition, neuroimaging, and targeted management are key to improving outcomes. Strengthening preventive strategies, particularly for sickle cell disease and infectious causes, remains essential in reducing the burden of childhood stroke in Ghana and across Africa.
+

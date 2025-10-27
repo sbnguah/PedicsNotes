@@ -1,4 +1,215 @@
 ---
 title: "Kidney Failure"
-author: "Prof. Sampson Antwi"
+date: 2025-10-20
 ---
+
+Kidney failure in children represents a significant cause of morbidity and mortality, especially in
+low- and middle-income countries such as Ghana. It may occur acutely, following a transient insult
+to the kidneys, or chronically, as the final stage of progressive renal disease. Understanding the
+causes, pathophysiology, clinical features, investigations, and management of kidney failure is
+critical for all medical students and healthcare providers involved in child health.
+
+## Introduction
+
+Kidney failure refers to the inability of the kidneys to perform their normal regulatory, excretory,
+and endocrine functions. In children, it can present as **acute kidney injury (AKI)** or **chronic
+kidney disease (CKD)**. AKI involves a rapid decline in renal function over hours or days, while CKD
+involves irreversible deterioration over months or years. The distinction is important because their
+causes, management, and outcomes differ.
+
+In sub-Saharan Africa, including Ghana, the prevalence of kidney failure is underestimated due to
+limited diagnostic resources. However, hospital-based data show that AKI is a common complication of
+severe infections, dehydration, and nephrotoxic exposure in children, while CKD often results from
+congenital anomalies or glomerular diseases.
+
+## Classification
+
+Kidney failure in children can be classified as:
+
+-   **Acute Kidney Injury (AKI):**
+    -   Rapid onset (hours to days).
+    -   Often reversible if recognized and treated promptly.
+    -   Common causes: dehydration, sepsis, nephrotoxic drugs, malaria, and hemolytic uremic
+        syndrome.
+-   **Chronic Kidney Disease (CKD):**
+    -   Gradual and irreversible loss of kidney function lasting over three months.
+    -   Often associated with congenital anomalies, reflux nephropathy, or glomerular diseases.
+    -   May progress to end-stage renal disease (ESRD), requiring dialysis or transplantation.
+
+## Epidemiology
+
+Global data show that kidney failure accounts for approximately 1–3% of paediatric hospital
+admissions, though regional variations exist. In Ghana and similar settings, AKI is more frequent
+than CKD, with mortality rates reaching up to 30% due to late presentation and limited access to
+dialysis. CKD is less common but often underdiagnosed until advanced stages.
+
+## Aetiology
+
+### **Acute Kidney Injury**
+
+1.  **Pre-renal causes (impaired perfusion)**
+    -   Severe dehydration (e.g., diarrhoeal diseases)
+    -   Septic shock
+    -   Congestive heart failure
+    -   Hemorrhage
+2.  **Intrinsic renal causes**
+    -   Acute glomerulonephritis
+    -   Hemolytic uremic syndrome
+    -   Acute tubular necrosis
+    -   Nephrotoxins (e.g., aminoglycosides, NSAIDs, herbal medicines)
+    -   Malaria (especially falciparum infection)
+3.  **Post-renal causes (obstruction)**
+    -   Posterior urethral valves
+    -   Kidney stones
+    -   Tumours compressing urinary outflow
+
+### **Chronic Kidney Disease**
+
+1.  **Congenital anomalies of the kidney and urinary tract (CAKUT)**
+    -   Renal dysplasia
+    -   Obstructive uropathy
+    -   Vesicoureteral reflux
+2.  **Glomerular diseases**
+    -   Nephrotic and nephritic syndromes
+    -   Focal segmental glomerulosclerosis
+    -   Chronic glomerulonephritis
+3.  **Inherited and metabolic diseases**
+    -   Polycystic kidney disease
+    -   Cystinosis
+    -   Alport syndrome
+4.  **Systemic diseases**
+    -   Lupus nephritis
+    -   Sickle cell nephropathy
+
+## Pathophysiology
+
+The kidneys maintain homeostasis through filtration, tubular reabsorption, secretion, and endocrine
+regulation. In kidney failure, these functions are impaired, leading to:
+
+-   **Accumulation of waste products:** Elevated blood urea nitrogen (BUN) and creatinine.
+-   **Fluid imbalance:** Volume overload, edema, and hypertension.
+-   **Electrolyte abnormalities:** Hyperkalemia, hyponatremia, and metabolic acidosis.
+-   **Endocrine dysfunction:** Reduced erythropoietin production causes anemia; decreased vitamin D
+    activation leads to hypocalcemia and bone disease.
+
+In CKD, progressive nephron loss leads to compensatory hyperfiltration in the remaining nephrons,
+which accelerates further damage, forming a vicious cycle that leads to end-stage disease.
+
+## Clinical Features
+
+### **Acute Kidney Injury**
+
+-   Oliguria or anuria
+-   Peripheral or generalised oedema
+-   Vomiting, lethargy, and poor feeding
+-   Hypertension
+-   Pallor (from anemia)
+-   Seizures due to uremic encephalopathy or electrolyte imbalance
+
+### **Chronic Kidney Disease**
+
+-   Growth retardation
+-   Persistent pallor and fatigue
+-   Polyuria and nocturia
+-   Bone deformities (renal osteodystrophy)
+-   Pruritus, anorexia, nausea, or vomiting
+-   Late-stage uremic symptoms: confusion, pericarditis, and bleeding tendency
+
+## Investigations
+
+1.  **Basic Laboratory Tests**
+    -   Serum creatinine, urea, electrolytes (Na⁺, K⁺, Cl⁻, HCO₃⁻)
+    -   Urinalysis (proteinuria, hematuria, specific gravity)
+    -   Urine output monitoring
+    -   Full blood count (for anemia and infection)
+2.  **Special Tests**
+    -   Renal ultrasound: kidney size, echogenicity, and obstruction
+    -   Renal biopsy (for glomerular diseases)
+    -   24-hour urine protein estimation
+    -   Serum calcium, phosphate, alkaline phosphatase, and parathyroid hormone in CKD
+3.  **Imaging**
+    -   Voiding cystourethrogram (VCUG) for reflux nephropathy
+    -   DMSA or MAG3 scans for renal scarring or differential function
+
+## Management
+
+### **Emergency Management (AKI)**
+
+-   **Stabilization:**
+    -   Secure airway, breathing, and circulation.
+    -   Correct fluid deficits cautiously to avoid overload.
+    -   Treat underlying causes: antibiotics for sepsis, antimalarials, or stop nephrotoxic drugs.
+-   **Monitor urine output** with a catheter.
+-   **Manage complications:**
+    -   Hyperkalemia: calcium gluconate, insulin with glucose, and sodium bicarbonate.
+    -   Hypertension: diuretics, antihypertensives.
+    -   Dialysis if unresponsive or in severe uremia.
+
+### **Ongoing Management (CKD and AKI Recovery)**
+
+-   Maintain fluid and electrolyte balance.
+-   Nutritional support, adequate calories and protein.
+-   Control hypertension using ACE inhibitors or ARBs.
+-   Manage anaemia with erythropoietin and iron supplements.
+-   Prevent bone disease with phosphate binders and vitamin D analogues.
+
+### **Renal Replacement Therapy**
+
+Indications include:
+
+-   Persistent hyperkalemia
+-   Severe metabolic acidosis
+-   Fluid overload unresponsive to diuretics
+-   Uremic complications (encephalopathy, pericarditis) Modalities:
+-   Peritoneal dialysis (preferred in infants and young children)
+-   Hemodialysis - Kidney transplantation (definitive for ESRD)
+
+### **Preparation for Discharge**
+
+-   Educate caregivers on dietary and medication adherence.
+-   Schedule follow-up with a paediatric nephrologist.
+-   Screen for underlying or recurrent causes.
+
+### **Long-Term Management**
+
+-   Regular monitoring of growth, blood pressure, and kidney function.
+-   Early management of infections.
+-   Psychosocial support for the child and family.
+-   Planning for eventual renal transplantation.
+
+## Complications
+
+-   Electrolyte disturbances (hyperkalemia, acidosis)
+-   Hypertension
+-   Chronic anemia
+-   Growth failure
+-   Bone deformities
+-   Cardiovascular disease (secondary to uremia)
+-   Infections due to immunosuppression
+-   Progression to ESRD
+
+## Prevention
+
+-   Prompt treatment of infections such as malaria and urinary tract infections.
+-   Avoidance of nephrotoxic drugs.
+-   Good hydration during illness.
+-   Early detection and referral of congenital renal anomalies.
+-   Regular follow-up for children with known renal disease.
+
+## Prognosis
+
+The outcome depends on the underlying cause, promptness of treatment, and availability of renal
+replacement therapy.
+
+-   **AKI** has a good prognosis if managed early, though severe cases may progress to CKD.
+
+-   **CKD** often progresses to ESRD without timely intervention.\
+    Access to dialysis and transplantation markedly improves survival and quality of life.
+
+## Conclusion
+
+Kidney failure in children is a major clinical problem requiring early recognition and
+multidisciplinary management. In resource-limited settings like Ghana, prevention through early
+diagnosis and community awareness remains the most effective strategy. Improving access to dialysis
+and transplant facilities is essential for long-term survival and better quality of life for
+affected children.
