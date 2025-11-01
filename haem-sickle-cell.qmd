@@ -1,3 +1,210 @@
 ---
 title: "Sickle Cell Disease"
+date: 2025-08-19
 ---
+
+## Introduction
+
+Sickle Cell Disease (SCD) represents one of the most important inherited disorders of haemoglobin globally and in Ghana, where it poses a significant public health challenge. It remains a major cause of childhood morbidity and mortality across sub-Saharan Africa, yet it is largely preventable through newborn screening and manageable with timely interventions. Understanding its genetics, pathophysiology, clinical presentation, and management principles is therefore crucial for every medical student and health professional involved in paediatric care.
+
+Sickle Cell Disease encompasses a group of inherited haemoglobinopathies characterized by the presence of abnormal haemoglobin S (HbS) within red blood cells. When deoxygenated, HbS polymerizes, causing the red cells to assume a rigid, sickle-like shape. These sickled cells have a shortened lifespan and tend to obstruct small blood vessels, resulting in chronic haemolytic anaemia, episodic vaso-occlusive crises, and progressive multi-organ damage.
+
+The disease is inherited in an autosomal recessive pattern and primarily affects populations from malaria-endemic regions, where the sickle cell trait confers partial protection against severe *Plasmodium falciparum* infection. Consequently, the prevalence of the sickle gene is highest in sub-Saharan Africa, the Middle East, and parts of India.
+
+In Ghana, it is estimated that about **2% of newborns** are affected by SCD annually, and up to **30% of the population** carry the sickle trait (HbAS).
+
+## Genetics and Molecular Basis
+
+Normal adult haemoglobin (HbA) consists of two alpha (α) and two beta (β) chains. In SCD, a **single-point mutation** occurs in the β-globin gene on chromosome 11, substituting valine for glutamic acid at position 6 of the β-chain. This substitution profoundly alters haemoglobin solubility.
+
+When deoxygenated, HbS molecules polymerize into long, rigid fibres, distorting the red blood cells into the characteristic “sickle” shape. These cells are less deformable, leading to **vaso-occlusion** and **premature haemolysis**.
+
+Common genetic variants of SCD include:
+
+- **HbSS (Sickle Cell Anaemia)** – homozygous state; most severe.
+- **HbSC disease** – compound heterozygote for HbS and HbC.
+- **Sickle β-thalassaemia** – combination of HbS with β-thalassaemia mutation (can be mild or severe).
+
+## Epidemiology
+
+Globally, about **300,000–400,000 infants** are born each year with SCD. Sub-Saharan Africa accounts for more than 75% of these births. Without adequate care, most affected children in low-resource settings die before their fifth birthday from infections or severe anaemia.
+
+In Ghana, SCD is among the top causes of paediatric hospital admissions. The institution of **newborn screening programs** and **comprehensive sickle cell clinics**, especially in teaching hospitals, has significantly improved survival. Early diagnosis through neonatal screening, coupled with penicillin prophylaxis and immunization, can reduce childhood mortality by up to 70%.
+
+## Pathophysiology
+
+The clinical manifestations of SCD arise primarily from two interrelated mechanisms: **haemolysis** and **vaso-occlusion**.
+
+### Haemolysis
+
+Sickled red cells are fragile and have a lifespan of only 10–20 days (compared to 120 days for normal RBCs). Their destruction leads to chronic anaemia, jaundice, and compensatory bone marrow expansion. Free haemoglobin released during haemolysis also scavenges nitric oxide, promoting vasoconstriction and endothelial dysfunction.
+
+### Vaso-occlusion
+
+Rigid sickled cells adhere to vascular endothelium and obstruct small vessels, resulting in tissue ischemia, infarction, and pain crises. Repeated episodes cause chronic organ damage, particularly in the spleen, kidneys, and bones.
+
+Contributing factors include dehydration, infection, hypoxia, acidosis, and cold exposure — all of which increase sickling tendency.
+
+### Other Pathophysiological Effects
+
+- **Splenic dysfunction** predisposes to overwhelming infections with encapsulated organisms (e.g., *Streptococcus pneumoniae*).  
+- **Bone marrow hyperactivity** can cause skeletal deformities and extramedullary haematopoiesis.  
+- **Endothelial activation** and chronic inflammation contribute to long-term vasculopathy and pulmonary hypertension.
+
+## Clinical Features
+
+The disease spectrum varies widely depending on genotype and environmental influences.
+
+### Infancy and Early Childhood
+
+- Usually asymptomatic until 4–6 months when fetal haemoglobin (HbF) declines.  
+- **Dactylitis (hand-foot syndrome):** Painful swelling of hands and feet, often the first manifestation.  
+- **Severe anaemia** leading to pallor, jaundice, and poor growth.  
+- **Increased susceptibility to infections**, particularly pneumonia and sepsis.
+
+### Older Children and Adolescents
+
+Common features include:
+
+- Recurrent painful crises affecting bones, chest, or abdomen.  
+- Chronic anaemia with scleral icterus and gallstones.  
+- Growth retardation and delayed puberty.  
+- Splenic atrophy (autosplenectomy) by age 6–8 years.  
+- Leg ulcers and avascular necrosis of the femoral head.  
+- Neurological events such as stroke or seizures.
+
+### Major Clinical Syndromes
+
+1. **Vaso-occlusive (Painful) Crisis:** Most frequent; triggered by dehydration, cold, or infection.  
+2. **Sequestration Crisis:** Sudden pooling of blood in spleen or liver leading to shock; more common in infants and young children.  
+3. **Aplastic Crisis:** Transient bone marrow suppression, often due to parvovirus B19 infection.  
+4. **Haemolytic Crisis:** Acute exacerbation of haemolysis with jaundice and falling haematocrit.  
+5. **Acute Chest Syndrome:** Characterized by chest pain, fever, hypoxia, and pulmonary infiltrates — a leading cause of mortality.
+
+## Differential Diagnosis
+
+- Other causes of chronic haemolytic anaemia: thalassaemia, hereditary spherocytosis, G6PD deficiency.  
+- Recurrent bone pain from osteomyelitis.  
+- Malaria with anaemia.  
+- Leukaemia or aplastic anaemia.
+
+## Investigations
+
+### Screening and Diagnostic Tests
+
+- **Sickle cell solubility test:** Rapid screening method.  
+- **Haemoglobin electrophoresis:** Gold standard for definitive diagnosis and genotyping (HbSS, HbSC, HbSβ-thalassaemia).  
+- **High-performance liquid chromatography (HPLC):** Provides precise quantification of haemoglobin fractions.  
+- **DNA analysis:** Used for prenatal diagnosis.
+
+### Routine Monitoring
+
+- Full blood count (moderate anaemia, high reticulocyte count).  
+- Liver function tests (for bilirubin and transaminase levels).  
+- Renal function (creatinine, urinalysis for proteinuria).  
+- Chest X-ray and echocardiogram in chronic cases.  
+- Transcranial Doppler ultrasound annually in children with HbSS (to screen for stroke risk).
+
+## Management
+
+Management of SCD is comprehensive and lifelong, involving prevention of crises, prompt treatment of complications, and psychosocial support.
+
+### Health Maintenance and Preventive Care
+
+- **Newborn screening:** Enables early identification and initiation of prophylaxis.  
+- **Health education:** Parents should be educated about hydration, nutrition, and avoiding triggers (cold, stress, infection).  
+- **Prophylactic antibiotics:** Oral penicillin V (125 mg twice daily <3 years; 250 mg twice daily >3 years) from diagnosis until at least age 5.  
+- **Vaccinations:** Pneumococcal, *Haemophilus influenzae* type b, meningococcal, hepatitis B, and annual influenza vaccines.  
+- **Folic acid supplementation:** To support red cell production.
+
+### Management of Acute Crises
+
+#### Painful Crisis
+
+- Assess severity and exclude infection or acute chest syndrome.  
+- Adequate hydration (oral or IV fluids).  
+- Analgesia: stepwise approach using paracetamol, NSAIDs, and opioids for severe pain.  
+- Oxygen if hypoxic; treat precipitating factors.
+
+#### Sequestration Crisis
+
+- Rapid restoration of blood volume with cautious transfusion.  
+- Monitor for recurrence; splenectomy may be indicated after repeated episodes.
+
+#### Aplastic Crisis
+
+- Supportive care with transfusions; isolation if parvovirus suspected.
+
+#### Acute Chest Syndrome
+
+- Urgent treatment with antibiotics, oxygen therapy, analgesia, and blood transfusion (exchange transfusion in severe cases).
+
+### Chronic Management
+
+#### Hydroxyurea Therapy
+
+- Increases fetal haemoglobin (HbF) levels, reducing frequency of pain crises and acute chest syndrome.  
+- Typical dose: 15–35 mg/kg/day with close monitoring for myelosuppression.
+
+#### Blood Transfusions
+
+- Used for severe anaemia, stroke prevention, or perioperative optimization.  
+- Chronic transfusion programs aim to maintain HbS <30%.  
+- Risk of iron overload; managed with chelation (deferasirox or deferoxamine).
+
+#### Stem Cell Transplantation
+
+- The only curative treatment.  
+- Best outcomes when performed early from an HLA-matched sibling donor.  
+- Cost and donor availability remain limiting factors in Africa.
+
+### Management of Complications
+
+- **Stroke:** Urgent transfusion and long-term prevention via chronic transfusions or hydroxyurea.  
+- **Renal disease:** ACE inhibitors for proteinuria.  
+- **Pulmonary hypertension:** Oxygen and hydroxyurea; avoid hypoxia.  
+- **Gallstones:** Cholecystectomy if symptomatic.  
+- **Leg ulcers:** Local wound care and infection control.
+
+### Psychosocial and Educational Support
+
+Chronic illness impacts schooling, family dynamics, and mental health. Counselling and peer support programs are vital. Transition to adult care should be planned from adolescence.
+
+## Complications
+
+| System | Major Complications |
+|--------|---------------------|
+| Haematologic | Severe anaemia, aplastic crisis |
+| Cardiovascular | Cardiomegaly, high-output failure |
+| Respiratory | Acute chest syndrome, pulmonary hypertension |
+| Neurological | Stroke, seizures |
+| Renal | Hematuria, hyposthenuria, renal failure |
+| Musculoskeletal | Avascular necrosis, chronic leg ulcers |
+| Hepatobiliary | Gallstones, hepatic sequestration |
+| Growth | Delayed puberty, short stature |
+
+## Prevention
+
+1. **Public Health Interventions**  
+   - Premarital and antenatal genetic counselling.  
+   - Neonatal screening programs nationwide.  
+   - Education on carrier status and family planning.
+
+2. **Infection Prevention**  
+   - Routine immunizations.  
+   - Prophylactic antibiotics and malaria prevention.
+
+3. **Nutritional Support**  
+   - Balanced diet with adequate folate and hydration.  
+   - Avoidance of triggers such as cold, dehydration, and strenuous activity.
+
+## Prognosis
+
+With comprehensive care, children with SCD can now survive into adulthood with reasonable quality of life. Prognosis depends on genotype (HbSS being most severe), frequency of complications, and access to medical care.  
+Early diagnosis, hydroxyurea use, and stroke prevention have significantly improved survival rates.
+
+In resource-limited settings like Ghana, the main challenge remains **late diagnosis and inadequate access** to specialized care. Expansion of community-based sickle cell programs, health education, and government support are essential for improving outcomes.
+
+## Conclusion
+
+Sickle Cell Disease in children remains a major paediatric concern in Ghana and across Africa. Its high prevalence, severe complications, and lifelong impact demand a holistic approach integrating early detection, preventive care, effective crisis management, and psychosocial support. With increased awareness, improved access to diagnostics and hydroxyurea therapy, and the scaling up of neonatal screening, the burden of SCD can be significantly reduced, transforming the outlook for affected children and their families.

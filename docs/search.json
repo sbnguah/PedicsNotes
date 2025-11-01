@@ -8848,5 +8848,137 @@
     "crumbs": [
       "References"
     ]
+  },
+  {
+    "objectID": "haem-sickle-cell.html",
+    "href": "haem-sickle-cell.html",
+    "title": "62  Sickle Cell Disease",
+    "section": "",
+    "text": "62.1 Introduction\nSickle Cell Disease (SCD) represents one of the most important inherited disorders of haemoglobin globally and in Ghana, where it poses a significant public health challenge. It remains a major cause of childhood morbidity and mortality across sub-Saharan Africa, yet it is largely preventable through newborn screening and manageable with timely interventions. Understanding its genetics, pathophysiology, clinical presentation, and management principles is therefore crucial for every medical student and health professional involved in paediatric care.\nSickle Cell Disease encompasses a group of inherited haemoglobinopathies characterized by the presence of abnormal haemoglobin S (HbS) within red blood cells. When deoxygenated, HbS polymerizes, causing the red cells to assume a rigid, sickle-like shape. These sickled cells have a shortened lifespan and tend to obstruct small blood vessels, resulting in chronic haemolytic anaemia, episodic vaso-occlusive crises, and progressive multi-organ damage.\nThe disease is inherited in an autosomal recessive pattern and primarily affects populations from malaria-endemic regions, where the sickle cell trait confers partial protection against severe Plasmodium falciparum infection. Consequently, the prevalence of the sickle gene is highest in sub-Saharan Africa, the Middle East, and parts of India.\nIn Ghana, it is estimated that about 2% of newborns are affected by SCD annually, and up to 30% of the population carry the sickle trait (HbAS).",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Sickle Cell Disease</span>"
+    ]
+  },
+  {
+    "objectID": "haem-sickle-cell.html#genetics-and-molecular-basis",
+    "href": "haem-sickle-cell.html#genetics-and-molecular-basis",
+    "title": "62  Sickle Cell Disease",
+    "section": "62.2 Genetics and Molecular Basis",
+    "text": "62.2 Genetics and Molecular Basis\nNormal adult haemoglobin (HbA) consists of two alpha (α) and two beta (β) chains. In SCD, a single-point mutation occurs in the β-globin gene on chromosome 11, substituting valine for glutamic acid at position 6 of the β-chain. This substitution profoundly alters haemoglobin solubility.\nWhen deoxygenated, HbS molecules polymerize into long, rigid fibres, distorting the red blood cells into the characteristic “sickle” shape. These cells are less deformable, leading to vaso-occlusion and premature haemolysis.\nCommon genetic variants of SCD include:\n\nHbSS (Sickle Cell Anaemia) – homozygous state; most severe.\nHbSC disease – compound heterozygote for HbS and HbC.\nSickle β-thalassaemia – combination of HbS with β-thalassaemia mutation (can be mild or severe).",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Sickle Cell Disease</span>"
+    ]
+  },
+  {
+    "objectID": "haem-sickle-cell.html#epidemiology",
+    "href": "haem-sickle-cell.html#epidemiology",
+    "title": "62  Sickle Cell Disease",
+    "section": "62.3 Epidemiology",
+    "text": "62.3 Epidemiology\nGlobally, about 300,000–400,000 infants are born each year with SCD. Sub-Saharan Africa accounts for more than 75% of these births. Without adequate care, most affected children in low-resource settings die before their fifth birthday from infections or severe anaemia.\nIn Ghana, SCD is among the top causes of paediatric hospital admissions. The institution of newborn screening programs and comprehensive sickle cell clinics, especially in teaching hospitals, has significantly improved survival. Early diagnosis through neonatal screening, coupled with penicillin prophylaxis and immunization, can reduce childhood mortality by up to 70%.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Sickle Cell Disease</span>"
+    ]
+  },
+  {
+    "objectID": "haem-sickle-cell.html#pathophysiology",
+    "href": "haem-sickle-cell.html#pathophysiology",
+    "title": "62  Sickle Cell Disease",
+    "section": "62.4 Pathophysiology",
+    "text": "62.4 Pathophysiology\nThe clinical manifestations of SCD arise primarily from two interrelated mechanisms: haemolysis and vaso-occlusion.\n\n62.4.1 Haemolysis\nSickled red cells are fragile and have a lifespan of only 10–20 days (compared to 120 days for normal RBCs). Their destruction leads to chronic anaemia, jaundice, and compensatory bone marrow expansion. Free haemoglobin released during haemolysis also scavenges nitric oxide, promoting vasoconstriction and endothelial dysfunction.\n\n\n62.4.2 Vaso-occlusion\nRigid sickled cells adhere to vascular endothelium and obstruct small vessels, resulting in tissue ischemia, infarction, and pain crises. Repeated episodes cause chronic organ damage, particularly in the spleen, kidneys, and bones.\nContributing factors include dehydration, infection, hypoxia, acidosis, and cold exposure — all of which increase sickling tendency.\n\n\n62.4.3 Other Pathophysiological Effects\n\nSplenic dysfunction predisposes to overwhelming infections with encapsulated organisms (e.g., Streptococcus pneumoniae).\n\nBone marrow hyperactivity can cause skeletal deformities and extramedullary haematopoiesis.\n\nEndothelial activation and chronic inflammation contribute to long-term vasculopathy and pulmonary hypertension.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Sickle Cell Disease</span>"
+    ]
+  },
+  {
+    "objectID": "haem-sickle-cell.html#clinical-features",
+    "href": "haem-sickle-cell.html#clinical-features",
+    "title": "62  Sickle Cell Disease",
+    "section": "62.5 Clinical Features",
+    "text": "62.5 Clinical Features\nThe disease spectrum varies widely depending on genotype and environmental influences.\n\n62.5.1 Infancy and Early Childhood\n\nUsually asymptomatic until 4–6 months when fetal haemoglobin (HbF) declines.\n\nDactylitis (hand-foot syndrome): Painful swelling of hands and feet, often the first manifestation.\n\nSevere anaemia leading to pallor, jaundice, and poor growth.\n\nIncreased susceptibility to infections, particularly pneumonia and sepsis.\n\n\n\n62.5.2 Older Children and Adolescents\nCommon features include:\n\nRecurrent painful crises affecting bones, chest, or abdomen.\n\nChronic anaemia with scleral icterus and gallstones.\n\nGrowth retardation and delayed puberty.\n\nSplenic atrophy (autosplenectomy) by age 6–8 years.\n\nLeg ulcers and avascular necrosis of the femoral head.\n\nNeurological events such as stroke or seizures.\n\n\n\n62.5.3 Major Clinical Syndromes\n\nVaso-occlusive (Painful) Crisis: Most frequent; triggered by dehydration, cold, or infection.\n\nSequestration Crisis: Sudden pooling of blood in spleen or liver leading to shock; more common in infants and young children.\n\nAplastic Crisis: Transient bone marrow suppression, often due to parvovirus B19 infection.\n\nHaemolytic Crisis: Acute exacerbation of haemolysis with jaundice and falling haematocrit.\n\nAcute Chest Syndrome: Characterized by chest pain, fever, hypoxia, and pulmonary infiltrates — a leading cause of mortality.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Sickle Cell Disease</span>"
+    ]
+  },
+  {
+    "objectID": "haem-sickle-cell.html#differential-diagnosis",
+    "href": "haem-sickle-cell.html#differential-diagnosis",
+    "title": "62  Sickle Cell Disease",
+    "section": "62.6 Differential Diagnosis",
+    "text": "62.6 Differential Diagnosis\n\nOther causes of chronic haemolytic anaemia: thalassaemia, hereditary spherocytosis, G6PD deficiency.\n\nRecurrent bone pain from osteomyelitis.\n\nMalaria with anaemia.\n\nLeukaemia or aplastic anaemia.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Sickle Cell Disease</span>"
+    ]
+  },
+  {
+    "objectID": "haem-sickle-cell.html#investigations",
+    "href": "haem-sickle-cell.html#investigations",
+    "title": "62  Sickle Cell Disease",
+    "section": "62.7 Investigations",
+    "text": "62.7 Investigations\n\n62.7.1 Screening and Diagnostic Tests\n\nSickle cell solubility test: Rapid screening method.\n\nHaemoglobin electrophoresis: Gold standard for definitive diagnosis and genotyping (HbSS, HbSC, HbSβ-thalassaemia).\n\nHigh-performance liquid chromatography (HPLC): Provides precise quantification of haemoglobin fractions.\n\nDNA analysis: Used for prenatal diagnosis.\n\n\n\n62.7.2 Routine Monitoring\n\nFull blood count (moderate anaemia, high reticulocyte count).\n\nLiver function tests (for bilirubin and transaminase levels).\n\nRenal function (creatinine, urinalysis for proteinuria).\n\nChest X-ray and echocardiogram in chronic cases.\n\nTranscranial Doppler ultrasound annually in children with HbSS (to screen for stroke risk).",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Sickle Cell Disease</span>"
+    ]
+  },
+  {
+    "objectID": "haem-sickle-cell.html#management",
+    "href": "haem-sickle-cell.html#management",
+    "title": "62  Sickle Cell Disease",
+    "section": "62.8 Management",
+    "text": "62.8 Management\nManagement of SCD is comprehensive and lifelong, involving prevention of crises, prompt treatment of complications, and psychosocial support.\n\n62.8.1 Health Maintenance and Preventive Care\n\nNewborn screening: Enables early identification and initiation of prophylaxis.\n\nHealth education: Parents should be educated about hydration, nutrition, and avoiding triggers (cold, stress, infection).\n\nProphylactic antibiotics: Oral penicillin V (125 mg twice daily &lt;3 years; 250 mg twice daily &gt;3 years) from diagnosis until at least age 5.\n\nVaccinations: Pneumococcal, Haemophilus influenzae type b, meningococcal, hepatitis B, and annual influenza vaccines.\n\nFolic acid supplementation: To support red cell production.\n\n\n\n62.8.2 Management of Acute Crises\n\n62.8.2.1 Painful Crisis\n\nAssess severity and exclude infection or acute chest syndrome.\n\nAdequate hydration (oral or IV fluids).\n\nAnalgesia: stepwise approach using paracetamol, NSAIDs, and opioids for severe pain.\n\nOxygen if hypoxic; treat precipitating factors.\n\n\n\n62.8.2.2 Sequestration Crisis\n\nRapid restoration of blood volume with cautious transfusion.\n\nMonitor for recurrence; splenectomy may be indicated after repeated episodes.\n\n\n\n62.8.2.3 Aplastic Crisis\n\nSupportive care with transfusions; isolation if parvovirus suspected.\n\n\n\n62.8.2.4 Acute Chest Syndrome\n\nUrgent treatment with antibiotics, oxygen therapy, analgesia, and blood transfusion (exchange transfusion in severe cases).\n\n\n\n\n62.8.3 Chronic Management\n\n62.8.3.1 Hydroxyurea Therapy\n\nIncreases fetal haemoglobin (HbF) levels, reducing frequency of pain crises and acute chest syndrome.\n\nTypical dose: 15–35 mg/kg/day with close monitoring for myelosuppression.\n\n\n\n62.8.3.2 Blood Transfusions\n\nUsed for severe anaemia, stroke prevention, or perioperative optimization.\n\nChronic transfusion programs aim to maintain HbS &lt;30%.\n\nRisk of iron overload; managed with chelation (deferasirox or deferoxamine).\n\n\n\n62.8.3.3 Stem Cell Transplantation\n\nThe only curative treatment.\n\nBest outcomes when performed early from an HLA-matched sibling donor.\n\nCost and donor availability remain limiting factors in Africa.\n\n\n\n\n62.8.4 Management of Complications\n\nStroke: Urgent transfusion and long-term prevention via chronic transfusions or hydroxyurea.\n\nRenal disease: ACE inhibitors for proteinuria.\n\nPulmonary hypertension: Oxygen and hydroxyurea; avoid hypoxia.\n\nGallstones: Cholecystectomy if symptomatic.\n\nLeg ulcers: Local wound care and infection control.\n\n\n\n62.8.5 Psychosocial and Educational Support\nChronic illness impacts schooling, family dynamics, and mental health. Counselling and peer support programs are vital. Transition to adult care should be planned from adolescence.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Sickle Cell Disease</span>"
+    ]
+  },
+  {
+    "objectID": "haem-sickle-cell.html#complications",
+    "href": "haem-sickle-cell.html#complications",
+    "title": "62  Sickle Cell Disease",
+    "section": "62.9 Complications",
+    "text": "62.9 Complications\n\n\n\nSystem\nMajor Complications\n\n\n\n\nHaematologic\nSevere anaemia, aplastic crisis\n\n\nCardiovascular\nCardiomegaly, high-output failure\n\n\nRespiratory\nAcute chest syndrome, pulmonary hypertension\n\n\nNeurological\nStroke, seizures\n\n\nRenal\nHematuria, hyposthenuria, renal failure\n\n\nMusculoskeletal\nAvascular necrosis, chronic leg ulcers\n\n\nHepatobiliary\nGallstones, hepatic sequestration\n\n\nGrowth\nDelayed puberty, short stature",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Sickle Cell Disease</span>"
+    ]
+  },
+  {
+    "objectID": "haem-sickle-cell.html#prevention",
+    "href": "haem-sickle-cell.html#prevention",
+    "title": "62  Sickle Cell Disease",
+    "section": "62.10 Prevention",
+    "text": "62.10 Prevention\n\nPublic Health Interventions\n\nPremarital and antenatal genetic counselling.\n\nNeonatal screening programs nationwide.\n\nEducation on carrier status and family planning.\n\nInfection Prevention\n\nRoutine immunizations.\n\nProphylactic antibiotics and malaria prevention.\n\nNutritional Support\n\nBalanced diet with adequate folate and hydration.\n\nAvoidance of triggers such as cold, dehydration, and strenuous activity.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Sickle Cell Disease</span>"
+    ]
+  },
+  {
+    "objectID": "haem-sickle-cell.html#prognosis",
+    "href": "haem-sickle-cell.html#prognosis",
+    "title": "62  Sickle Cell Disease",
+    "section": "62.11 Prognosis",
+    "text": "62.11 Prognosis\nWith comprehensive care, children with SCD can now survive into adulthood with reasonable quality of life. Prognosis depends on genotype (HbSS being most severe), frequency of complications, and access to medical care.\nEarly diagnosis, hydroxyurea use, and stroke prevention have significantly improved survival rates.\nIn resource-limited settings like Ghana, the main challenge remains late diagnosis and inadequate access to specialized care. Expansion of community-based sickle cell programs, health education, and government support are essential for improving outcomes.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Sickle Cell Disease</span>"
+    ]
+  },
+  {
+    "objectID": "haem-sickle-cell.html#conclusion",
+    "href": "haem-sickle-cell.html#conclusion",
+    "title": "62  Sickle Cell Disease",
+    "section": "62.12 Conclusion",
+    "text": "62.12 Conclusion\nSickle Cell Disease in children remains a major paediatric concern in Ghana and across Africa. Its high prevalence, severe complications, and lifelong impact demand a holistic approach integrating early detection, preventive care, effective crisis management, and psychosocial support. With increased awareness, improved access to diagnostics and hydroxyurea therapy, and the scaling up of neonatal screening, the burden of SCD can be significantly reduced, transforming the outlook for affected children and their families.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Sickle Cell Disease</span>"
+    ]
   }
 ]
