@@ -1,3 +1,270 @@
 ---
 title: "Nutrition"
 ---
+
+----------------------------------------------------------------------------------------------------
+
+## Introduction
+
+Adequate nutrition is fundamental to the growth, development, and survival of children. Optimal
+nutrition during infancy and childhood supports physical growth, brain development, immune function,
+and overall well-being. Malnutrition — encompassing both undernutrition and overnutrition — remains
+a major public health concern in low- and middle-income countries, including Ghana.
+
+Child nutrition must be understood within the context of developmental stages, dietary requirements,
+feeding practices, and common nutritional disorders. The health worker’s role is to promote
+appropriate feeding, prevent malnutrition, and manage nutritional deficiencies promptly.
+
+## Objectives
+
+At the end of this session, learners should be able to: 1. Describe the principles of nutrition and
+growth in children. 2. Outline nutritional requirements at different ages. 3. Discuss breastfeeding
+and complementary feeding practices. 4. Recognize and manage common nutritional disorders. 5.
+Explain preventive strategies for malnutrition.
+
+## Overview of Nutrition in Children
+
+Nutrition refers to the intake and utilization of nutrients to maintain health, support growth, and
+enable bodily functions. It involves **macronutrients** (carbohydrates, proteins, fats) and
+**micronutrients** (vitamins, minerals, and trace elements).
+
+Children have higher nutrient requirements per kilogram of body weight than adults due to rapid
+growth and development, particularly in the first two years of life.
+
+## Components of a Balanced Diet
+
+A balanced diet provides adequate amounts of all essential nutrients. The key components are:
+
+| Nutrient | Function | Major Sources |
+|---------------------|---------------------------------|---------------------------------|
+| Carbohydrates | Energy source | Cereals, grains, fruits, tubers |
+| Proteins | Growth and tissue repair | Legumes, milk, meat, fish, eggs |
+| Fats | Energy storage, cell membranes, absorption of fat-soluble vitamins | Oils, nuts, dairy, meat |
+| Vitamins | Metabolic functions | Fruits, vegetables, fortified foods |
+| Minerals | Bone health, enzyme function | Milk, fish, leafy vegetables, iodized salt |
+| Water | Solvent, thermoregulation | Drinking water, fruits, soups |
+
+## Nutritional Requirements by Age
+
+### Neonates and Infants (0–6 months)
+
+-   **Exclusive breastfeeding** is recommended for the first 6 months.
+-   Breast milk provides all nutrients except vitamin D (and sometimes vitamin K).
+-   Breastfeeding should be on demand, day and night.
+
+### Infants (6–24 months)
+
+-   **Complementary feeding** begins at 6 months while continuing breastfeeding up to 2 years or
+    beyond.
+-   Start with pureed or mashed foods, progressing to family foods.
+-   Energy-dense meals: 2–3 times daily at 6–8 months, 3–4 times after 9 months, plus snacks.
+
+## Preschool Children (2–5 years)
+
+-   Require a variety of foods from all groups.
+-   Encourage family meals, adequate protein, fruits, and vegetables.
+-   Avoid excessive sugary snacks and drinks.
+
+### School-Age Children (6–12 years)
+
+-   Nutrition supports steady growth and school performance.
+-   Meals should be balanced with sufficient carbohydrates, proteins, and iron.
+-   Promote hygiene and safe water intake.
+
+### Adolescents (10–19 years)
+
+-   Period of rapid growth and hormonal changes.
+-   Increased need for calories, protein, calcium, iron, and vitamins.
+-   Girls require additional iron due to menstruation.
+
+## Breastfeeding
+
+### Importance of Breastfeeding
+
+-   Provides ideal nutrition and antibodies.
+-   Reduces risk of diarrhoea, pneumonia, and sudden infant death syndrome.
+-   Promotes bonding and optimal neurodevelopment.
+
+### Composition of Breast Milk
+
+| Component                   | Function                                         |
+|-----------------------------|--------------------------------------------------|
+| Lactose                     | Main carbohydrate; energy and promotes gut flora |
+| Whey and casein             | Proteins aiding digestion and immunity           |
+| Lipids                      | Energy, essential fatty acids, brain development |
+| Vitamins and minerals       | Nutritional balance                              |
+| Antibodies and immune cells | Protection against infections                    |
+
+### Stages of Breast Milk
+
+-   **Colostrum:** Yellow, thick milk secreted in first 3–5 days; rich in antibodies.
+-   **Transitional milk:** 5–14 days postpartum.
+-   **Mature milk:** From 2 weeks onwards.
+
+### Common Breastfeeding Challenges
+
+-   Poor latch or positioning.
+-   Cracked nipples, mastitis.
+-   Perceived low milk supply.
+-   Management: counselling, proper technique, frequent feeding, expressing milk if needed.
+
+## Complementary Feeding
+
+Complementary feeding is the process of introducing solid and semi-solid foods alongside breast milk
+from 6 months of age.
+
+#### Principles
+
+1.  Timely introduction at 6 months.
+2.  Adequate — providing sufficient energy, protein, and micronutrients.
+3.  Safe — hygienic preparation and storage.
+4.  Appropriate — culturally acceptable, age-appropriate texture.
+
+#### Common Complementary Foods in Ghana
+
+-   Mashed yam, rice, or maize porridge with beans, fish, or groundnuts.
+-   Fortified cereals, fruits, and vegetables.
+
+#### Feeding Frequency
+
+| Age (months) | Breastfeeds | Meals/day | Snacks |
+|--------------|-------------|-----------|--------|
+| 6–8          | On demand   | 2–3       | 1–2    |
+| 9–11         | On demand   | 3–4       | 1–2    |
+| 12–24        | On demand   | 3–4       | 1–2    |
+
+## Nutritional Assessment
+
+A comprehensive nutritional assessment includes **anthropometry, dietary history, and clinical
+examination.**
+
+### Anthropometric Measures
+
+| Measure               | Purpose                  | Indicators of Malnutrition  |
+|-----------------------|--------------------------|-----------------------------|
+| Weight-for-age        | Growth monitoring        | Underweight                 |
+| Height/length-for-age | Chronic malnutrition     | Stunting                    |
+| Weight-for-height     | Acute malnutrition       | Wasting                     |
+| MUAC                  | Screening in 6–59 months | \<12.5 cm indicates wasting |
+
+### Clinical Assessment
+
+-   Look for signs of deficiency: pallor, oedema, hair changes, skin lesions, angular stomatitis,
+    goitre, rickets.
+
+### Dietary Assessment
+
+-   24-hour recall, food frequency questionnaire.
+-   Identify inadequate intake or inappropriate feeding practices.
+
+## Common Nutritional Disorders
+
+### 1. Protein–Energy Malnutrition (PEM)
+
+#### Types
+
+-   **Marasmus:** severe wasting, due to calorie deficiency.
+-   **Kwashiorkor:** protein deficiency with oedema.
+
+#### Clinical Features
+
+| Marasmus            | Kwashiorkor                    |
+|---------------------|--------------------------------|
+| Severe wasting      | Oedema (especially feet, face) |
+| Alert but irritable | Apathetic, moon face           |
+| No oedema           | Dermatosis, sparse hair        |
+
+#### Management
+
+1.  **Stabilization phase (1–2 days):** Treat hypoglycaemia, hypothermia, dehydration, infections.
+2.  **Transition phase (2–7 days):** Gradually increase feeding.
+3.  **Rehabilitation phase:** Catch-up growth using F-100 or locally fortified diets.
+4.  Provide micronutrient supplements (vitamin A, folate, zinc).
+
+### 2. Micronutrient Deficiencies
+
+#### a) Iron Deficiency Anaemia
+
+-   Most common deficiency globally.
+-   Causes: inadequate intake, blood loss, infections (hookworm, malaria).
+-   Features: pallor, lethargy, poor cognition.
+-   Management: iron supplementation, dietary education.
+
+#### b) Vitamin A Deficiency
+
+-   Causes xerophthalmia, night blindness, increased infection risk.
+-   Prevention: vitamin A supplementation every 6 months (per national guidelines), foods like
+    mango, palm oil, liver.
+
+#### c) Iodine Deficiency
+
+-   Causes goitre, cretinism, developmental delay.
+-   Prevention: universal salt iodization.
+
+#### d) Zinc Deficiency
+
+-   Causes growth retardation, diarrhoea, impaired immunity.
+-   Prevention: dietary zinc and supplementation in diarrhoeal disease.
+
+#### e) Vitamin D Deficiency
+
+-   Causes rickets in children.
+-   Prevention: sunlight exposure, fortified foods.
+
+## 3. Overnutrition and Childhood Obesity
+
+-   Increasingly common with urbanization and sedentary lifestyles.
+-   Associated with diabetes, hypertension, dyslipidaemia.
+-   Prevention: promote physical activity, reduce sugary and processed foods.
+
+## Prevention of Malnutrition
+
+1.  **Promote exclusive breastfeeding and appropriate complementary feeding.**
+2.  **Routine growth monitoring and promotion (GMP).**
+3.  **Micronutrient supplementation and fortification programs.**
+4.  **Nutrition education for caregivers.**
+5.  **Control of infections (immunization, deworming, malaria prevention).**
+6.  **Food security and poverty reduction initiatives.**
+
+## Nutrition in Special Conditions
+
+### a) Preterm Infants
+
+-   Require higher protein and energy intake.
+-   Use fortified breast milk or preterm formulas.
+
+### b) Children with Chronic Illness
+
+-   Monitor growth closely (e.g., in congenital heart disease, HIV, cystic fibrosis).
+-   Supplement calories and micronutrients.
+
+### c) HIV-Infected Children
+
+-   Require increased caloric intake (10–30% higher).
+-   Nutritional counselling and food support are vital.
+
+## Nutritional Counselling and Health Promotion
+
+-   Educate caregivers on balanced diets using local foods.
+-   Encourage family meals and regular feeding schedules.
+-   Monitor and discuss growth charts during child welfare visits.
+-   Address myths and misconceptions around feeding (e.g., withholding protein in diarrhoea).
+
+##Key Takeaways
+
+-   Nutrition is critical for child survival, growth, and development.
+-   Exclusive breastfeeding for 6 months, followed by appropriate complementary feeding, is
+    essential.
+-   Malnutrition may present as undernutrition or overnutrition.
+-   Prevention strategies include education, supplementation, and infection control.
+-   Health professionals must advocate for and monitor good nutrition in all children.
+
+## Suggested References
+
+1.  World Health Organization. *Infant and Young Child Feeding: Model Chapter for Textbooks for
+    Medical Students and Allied Health Professionals*. WHO, 2009.
+2.  Ghana Health Service. *Infant and Young Child Feeding Policy and Strategy*, 2021.
+3.  UNICEF. *The State of the World’s Children: Nutrition Edition*, 2023.
+4.  World Health Organization. *Pocket Book of Hospital Care for Children*, 3rd Edition, 2023.
+5.  Black RE et al. Maternal and child undernutrition and overweight in low-income and middle-income
+    countries. *Lancet*. 2021;397(10283):138–154.

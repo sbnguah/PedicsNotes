@@ -1,3 +1,289 @@
 ---
 title: "Diarrhoea Diseases"
+date: 2025-11-09
 ---
+
+## Introduction
+
+Diarrhoeal diseases remain one of the most common causes of morbidity and mortality among children
+worldwide, particularly in low- and middle-income countries. In sub-Saharan Africa, including Ghana,
+diarrhoea is a leading cause of outpatient visits, hospital admissions, and deaths among children
+under five years. The World Health Organization (WHO) estimates that children under five experience
+an average of three episodes of diarrhoea per year, contributing to significant nutritional deficits
+and growth faltering.
+
+**Definition:** Diarrhoea is defined as the passage of **three or more loose or watery stools within
+24 hours**, or a stool consistency that is looser than normal for the individual. In infants on
+breast milk, frequent passage of soft stools may be normal and should not be mistaken for diarrhoea
+unless the stools are unusually watery and accompanied by other symptoms such as dehydration or
+fever.
+
+## Classification
+
+Diarrhoeal diseases are broadly classified based on **duration** and **pathophysiology**.
+
+### By Duration
+
+-   **Acute Diarrhoea:** Lasts less than 14 days. Usually due to infectious causes (viral,
+    bacterial, or parasitic).
+-   **Persistent Diarrhoea:** Lasts 14 days or longer. May follow an acute infectious episode and
+    often associated with malnutrition, secondary lactose intolerance, or underlying enteric
+    pathology.
+-   **Chronic Diarrhoea:** Lasts more than 30 days. Typically due to non-infectious causes such as
+    malabsorption, inflammatory bowel disease, or congenital disorders.
+
+### By Clinical Presentation
+
+-   **Acute Watery Diarrhoea:** Sudden onset, stools watery without visible blood. Common causes:
+    *Rotavirus, Norovirus, Vibrio cholerae, ETEC*.
+-   **Acute Bloody Diarrhoea (Dysentery):** Presence of visible blood or mucus; indicates mucosal
+    invasion. Common causes: *Shigella, Entamoeba histolytica, Salmonella, Campylobacter*.
+-   **Persistent Diarrhoea:** Often due to prolonged infection, malnutrition, or mucosal damage.
+-   **Diarrhoea with Severe Malnutrition:** Often chronic and complicated by electrolyte imbalance
+    and secondary infections.
+
+## Epidemiology
+
+In Ghana, diarrhoeal diseases are among the top five causes of outpatient visits in children under
+five. Peak incidence is between 6 months and 2 years (weaning period). Seasonality is common — cases
+often increase during the rainy season due to contamination of water sources. Contributing factors
+include poor sanitation, inadequate hand hygiene, unsafe drinking water, and improper food handling.
+
+## Aetiology
+
+### Infectious Causes
+
+#### Viral
+
+-   **Rotavirus:** Leading cause in children under 2 years; profuse watery diarrhoea, vomiting,
+    low-grade fever.
+-   **Norovirus:** Causes outbreaks across all ages.
+-   **Adenovirus (types 40, 41):** Prolonged watery diarrhoea.
+-   **Astrovirus:** Generally mild illness.
+
+#### Bacterial
+
+-   **ETEC (Enterotoxigenic E. coli):** Common in travellers and children; toxin-mediated secretory
+    diarrhoea.
+-   **EPEC (Enteropathogenic E. coli):** Infantile diarrhoea.
+-   **Shigella spp.:** Dysentery with fever, tenesmus, bloody stools.
+-   **Salmonella (non-typhoidal):** Food-borne; may cause invasive disease in infants.
+-   **Campylobacter jejuni:** Associated with poultry; can be dysenteric.
+-   **Vibrio cholerae:** Causes profuse watery diarrhoea ("rice-water stools").
+-   **Clostridioides difficile:** Often post-antibiotic.
+
+#### Parasitic
+
+-   **Giardia lamblia:** Chronic/intermittent diarrhoea, malabsorption, steatorrhoea.
+-   **Entamoeba histolytica:** Amoebic dysentery; may complicate with liver abscess.
+-   **Cryptosporidium parvum:** Important in immunocompromised children (e.g., HIV).
+-   **Isospora belli, Cyclospora:** Prolonged diarrhoea in immunosuppressed patients.
+
+### Non-infectious Causes
+
+-   Food intolerances (e.g., lactose intolerance)
+-   Celiac disease
+-   Inflammatory bowel disease (IBD)
+-   Irritable bowel syndrome (IBS)
+-   Congenital enzyme deficiencies
+-   Medications (antibiotics, laxatives)
+
+## Pathophysiology
+
+Diarrhoea results from disturbed intestinal fluid and electrolyte transport. Key mechanisms:
+
+-   **Osmotic diarrhoea:** Non-absorbable solutes in the lumen draw water (e.g., lactose
+    intolerance). Typically stops with fasting.
+-   **Secretory diarrhoea:** Increased electrolyte and water secretion (e.g., cholera, ETEC).
+    Persists despite fasting.
+-   **Exudative diarrhoea:** Mucosal inflammation causes loss of blood, mucus, and proteins (e.g.,
+    Shigella, E. histolytica).
+-   **Motility-related diarrhoea:** Rapid transit reduces absorption time (e.g., post-surgical
+    states).
+-   **Mixed mechanisms:** Especially in persistent diarrhoea where infection and malnutrition
+    combine.
+
+## Clinical Features
+
+### Symptoms
+
+-   Frequent loose or watery stools (± blood)
+-   Vomiting (common in viral aetiologies)
+-   Fever
+-   Abdominal cramps or pain
+-   Tenesmus (with dysentery)
+-   Reduced appetite
+-   Signs of dehydration: thirst, dry mucous membranes, decreased urine output, sunken eyes
+
+### Signs of Dehydration (WHO classification)
+
+-   **No dehydration:** alert, normal eyes, drinks normally, skin pinch goes back quickly.
+-   **Some dehydration:** restless/irritable, sunken eyes, thirsty, skin pinch goes back slowly.
+-   **Severe dehydration:** lethargic/unconscious, very sunken eyes, unable to drink, skin pinch
+    goes back very slowly (\>2 seconds).
+
+## Assessment and Diagnosis
+
+### History
+
+-   Onset, duration, stool frequency/character, presence of blood or mucus
+-   Associated vomiting, fever, abdominal pain
+-   Recent antibiotic use, recent food or water exposures, sick contacts
+-   Breastfeeding/weaning history
+-   Immunization status (rotavirus vaccine)
+-   Underlying conditions (HIV, malnutrition)
+
+### Physical Examination
+
+-   Vital signs, hydration assessment (capillary refill, pulse, blood pressure if indicated)
+-   Weight and comparison with prior measurements
+-   Nutritional assessment for wasting/edema
+-   Abdominal examination for tenderness, distension, palpable masses
+-   Perianal and perineal inspection for skin irritation or lesions
+
+### Laboratory Investigations
+
+(Not required for uncomplicated mild diarrhoea)
+
+-   **Stool microscopy, culture and sensitivity:** Indicated for persistent diarrhoea, dysentery, or
+    outbreak investigation.
+-   **Stool ova and parasites:** If parasitic infection suspected.
+-   **Stool for reducing substances:** If lactose intolerance/malabsorption suspected.
+-   **Electrolytes and renal function:** In severe dehydration or when IV fluids are given.
+-   **HIV testing:** For chronic/persistent diarrhoea or risk factors.
+
+## Differential Diagnosis
+
+-   Acute appendicitis (may present with diarrhoea early)
+-   Urinary tract infection presenting with fever and diarrhoea
+-   Intussusception (bloody stools, abdominal pain, vomiting)
+-   Malabsorption syndromes
+-   Irritable bowel syndrome
+-   Systemic sepsis with diarrhoea
+
+## Management
+
+### General Principles
+
+1.  Assess and correct dehydration.
+2.  Maintain nutrition and early refeeding.
+3.  Treat specific causes when indicated.
+4.  Prevent complications and recurrence.
+
+### WHO Fluid Management Plans
+
+-   **Plan A (No dehydration):** Home care with extra fluids and continued feeding.
+-   **Plan B (Some dehydration):** ORS 75 mL/kg over 4 hours.
+-   **Plan C (Severe dehydration):** Immediate IV rehydration (Ringer's lactate or normal saline).
+
+#### Plan A — No Dehydration
+
+-   Continue breastfeeding and normal feeding. Provide extra fluids:
+    -   Less than 2 years: 50–100 mL after each loose stool
+    -   2–10 years: 100–200 mL after each loose stool
+    -   Less than 10 years: as much as desired
+-   Give zinc supplementation (10 mg/day if \<6 months; 20 mg/day if ≥6 months) for 10–14 days.
+-   Educate caregivers about danger signs.
+
+#### Plan B — Some Dehydration
+
+-   Give ORS 75 mL/kg over 4 hours and reassess. If improved, continue feeding; if not, repeat Plan
+    B or escalate to Plan C.
+-   Continue breastfeeding and frequent small feeds.
+
+#### Plan C — Severe Dehydration
+
+-   **IV fluid therapy:**
+    -   Infants (\<12 months): 30 mL/kg in first 1 hour, then 70 mL/kg over next 5 hours (Ringer's
+        lactate preferred).
+    -   Children (\>12 months): 30 mL/kg in first 30 minutes, then 70 mL/kg over next 2.5 hours.
+-   Monitor for signs of fluid overload; reassess frequently.
+-   If IV access cannot be established, use nasogastric rehydration with ORS.
+
+### Nutritional Management
+
+-   **Continue breastfeeding** throughout the illness.
+-   Do not withhold food; resume age-appropriate feeding as soon as rehydration is achieved.
+-   Use energy-dense, micronutrient-rich foods during recovery and give extra meals for 2 weeks
+    post-illness.
+-   Avoid high-sugar drinks and undiluted fruit juices.
+
+### Specific Therapy
+
+-   **Antibiotics** are not routine for acute watery diarrhoea. Indications include:
+    -   Dysentery (suspected Shigella)
+    -   Confirmed cholera with severe dehydration
+    -   Laboratory-confirmed bacterial infections
+    -   Immunocompromised patients with invasive bacterial disease
+
+**Common choices (local guidelines may vary):** - *Shigella:* Ciprofloxacin 15 mg/kg orally twice
+daily for 3 days (check local resistance patterns). - *Cholera:* Single dose doxycycline
+(adults/older children) or azithromycin 10 mg/kg single dose where doxycycline contraindicated. -
+*Giardiasis/Amebiasis:* Metronidazole (observe paediatric dosing recommendations).
+
+**Avoid antimotility agents (e.g., loperamide) in young children.**
+
+### Zinc Supplementation
+
+-   Reduces severity and duration, and prevents recurrence. Dose:
+    -   \<6 months: 10 mg/day for 10–14 days
+    -   ≥6 months: 20 mg/day for 10–14 days
+
+## Management of Persistent and Chronic Diarrhoea
+
+-   Investigate and treat underlying causes: persistent infection, malabsorption, cow's milk protein
+    allergy, post-infectious lactose intolerance.
+-   Nutritional rehabilitation with low-lactose or lactose-free feeds if indicated.
+-   Replace micronutrients (zinc, vitamin A, folate) and correct anaemia when present.
+-   Consider referral for specialised investigations (endoscopy, biopsy, sweat test, advanced
+    imaging) if diarrhoea persists beyond 4 weeks.
+
+## Complications
+
+-   Dehydration and hypovolaemic shock
+-   Electrolyte disturbances (hypokalaemia, hyponatraemia)
+-   Metabolic acidosis
+-   Malnutrition and stunting
+-   Secondary lactose intolerance
+-   Acute kidney injury in severe cases
+-   Sepsis, especially with invasive bacterial pathogens
+
+## Prevention and Control
+
+### Household measures
+
+-   Exclusive breastfeeding for the first 6 months of life
+-   Handwashing with soap after defecation and before food preparation
+-   Safe drinking water (boiling, chlorination, filtration)
+-   Proper sanitation and safe disposal of faeces
+-   Hygienic food preparation and storage
+-   Timely use of ORS and zinc in episodes of diarrhoea
+
+### Public health measures
+
+-   **Rotavirus vaccination** included in Ghana's EPI since 2012 — major impact on severe rotaviral
+    disease.
+-   Cholera surveillance and targeted vaccination in outbreaks and endemic areas.
+-   Strengthening WASH (Water, Sanitation and Hygiene) infrastructure and behaviour-change
+    programmes.
+
+## Prognosis
+
+Most children recover fully with early recognition and appropriate management. Recurrent or
+persistent diarrhoea is a major contributor to malnutrition, stunting, and impaired cognitive
+development.
+
+## Key Clinical Points
+
+-   Accurate assessment of dehydration is critical and guides management.
+-   ORS and zinc are cornerstone therapies for most childhood diarrhoeas.
+-   Continue feeding and especially breastfeeding; do not withhold nutrition.
+-   Reserve antibiotics for indicated cases and follow local resistance patterns.
+-   Prevention through vaccination (rotavirus), breastfeeding, and WASH interventions is essential.
+
+## Suggested Further Reading
+
+-   World Health Organization. *Pocket Book of Hospital Care for Children*, 3rd Edition (most
+    recent).
+-   Ghana Health Service. *Standard Treatment Guidelines* (latest edition).
+-   UNICEF/WHO. *Integrated Management of Childhood Illness (IMCI) Chart Booklet*.

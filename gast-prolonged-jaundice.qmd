@@ -1,3 +1,319 @@
 ---
 title: "Prolonged Jaundice"
+date: 2025-08-12
 ---
+
+## Introduction
+
+Jaundice is one of the most common clinical findings in the neonatal period, affecting approximately
+60% of term and 80% of preterm newborns. In most cases, neonatal jaundice is physiological and
+resolves within the first week of life. However, when jaundice persists beyond the expected period,
+it is termed **prolonged jaundice**, and warrants thorough evaluation to exclude underlying
+pathology such as biliary atresia, hypothyroidism, or hemolytic disease.
+
+Early recognition and appropriate management of prolonged jaundice are essential to prevent
+complications such as cholestasis, kernicterus, and long-term hepatic injury.
+
+## Definition
+
+**Prolonged (or persistent) neonatal jaundice** is defined as **jaundice persisting beyond:** - **14
+days** in term infants, or - **21 days** in preterm infants.
+
+The key to evaluating prolonged jaundice lies in distinguishing between **conjugated (direct)** and
+**unconjugated (indirect)** hyperbilirubinaemia.
+
+-   **Unconjugated hyperbilirubinaemia:** often benign (e.g., breast milk jaundice, haemolysis), but
+    may occasionally indicate pathological processes.
+-   **Conjugated hyperbilirubinaemia:** always pathological and indicative of hepatobiliary disease
+    or systemic disorder.
+
+## Bilirubin Metabolism: Brief Review
+
+Bilirubin is a breakdown product of haem derived from senescent red blood cells.
+
+1.  **Production:** Haem is converted to biliverdin, then to unconjugated bilirubin in the
+    reticuloendothelial system.
+2.  **Transport:** Unconjugated bilirubin binds to albumin for transport to the liver.
+3.  **Hepatic uptake and conjugation:** Hepatocytes conjugate bilirubin with glucuronic acid via the
+    enzyme **UDP-glucuronyl transferase**, forming conjugated (water-soluble) bilirubin.
+4.  **Excretion:** Conjugated bilirubin is excreted in bile into the intestines, converted to
+    urobilinogen and stercobilin, and eliminated in faeces. A portion is reabsorbed via the
+    enterohepatic circulation.
+
+Disruption at any step can result in elevated serum bilirubin and jaundice.
+
+## Classification
+
+Prolonged jaundice can be broadly divided into:
+
+1.  **Predominantly unconjugated (indirect) hyperbilirubinaemia**
+2.  **Predominantly conjugated (direct) hyperbilirubinaemia (cholestatic jaundice)**
+
+The distinction is made using serum bilirubin fractionation: - Conjugated bilirubin \> 20% of total,
+or \> 34 µmol/L (2 mg/dL) is **pathological**.
+
+## Causes of Prolonged Jaundice
+
+### A. Predominantly Unconjugated Hyperbilirubinaemia
+
+#### 1. **Breast Milk Jaundice**
+
+-   Occurs in healthy, exclusively breastfed infants.
+-   Typically appears after the first week and may persist for up to 6 weeks.
+-   Mechanism: presence of β-glucuronidase and other substances in breast milk that increase
+    enterohepatic circulation of bilirubin.
+-   Infant is otherwise healthy with normal weight gain and stool/urine colour.
+
+#### 2. **Breastfeeding (Lactation Failure) Jaundice**
+
+-   Seen in the first week due to inadequate milk intake and dehydration.
+-   Leads to increased enterohepatic circulation and elevated unconjugated bilirubin.
+
+#### 3. **Haemolytic Disorders**
+
+-   **ABO or Rh incompatibility**
+-   **G6PD deficiency** (common in Ghana and other African settings)
+-   **Hereditary spherocytosis, pyruvate kinase deficiency**
+-   These conditions cause increased haemolysis and bilirubin production.
+
+#### 4. **Hypothyroidism**
+
+-   Reduced hepatic conjugation and decreased gut motility leading to prolonged unconjugated
+    jaundice.
+
+#### 5. **Crigler–Najjar and Gilbert Syndromes**
+
+-   Rare genetic disorders of bilirubin conjugation.
+    -   *Crigler–Najjar Type I:* complete absence of glucuronyl transferase (severe).
+    -   *Crigler–Najjar Type II* and *Gilbert syndrome:* partial deficiency.
+
+#### 6. **Prematurity**
+
+-   Immature hepatic conjugation enzyme systems.
+
+### B. Predominantly Conjugated Hyperbilirubinaemia (Cholestatic Jaundice)
+
+Conjugated bilirubin is water-soluble; its presence in serum is always abnormal and indicates
+hepatocellular or obstructive disease.
+
+#### 1. **Biliary Atresia**
+
+-   Progressive, idiopathic obliteration of extrahepatic bile ducts.
+-   Presents with jaundice after 2 weeks, pale (acholic) stools, dark urine, and hepatomegaly.
+-   Requires urgent surgical intervention (Kasai portoenterostomy).
+
+#### 2. **Neonatal Hepatitis (Idiopathic or Infectious)**
+
+-   Inflammation and dysfunction of hepatocytes.
+-   Causes include viral infections (CMV, rubella, hepatitis B, enteroviruses) and bacterial sepsis.
+
+#### 3. **Metabolic Disorders**
+
+-   **Galactosaemia:** deficiency of galactose-1-phosphate uridyl transferase leading to liver
+    dysfunction, vomiting, and hypoglycaemia.
+-   **Tyrosinaemia type I, α1-antitrypsin deficiency:** cause hepatocellular damage and cholestasis.
+
+#### 4. **Endocrine Disorders**
+
+-   **Hypopituitarism, hypothyroidism** may present with prolonged conjugated jaundice.
+
+#### 5. **Parenteral Nutrition–Associated Cholestasis**
+
+-   Seen in preterm infants on prolonged parenteral nutrition.
+
+#### 6. **Genetic or Structural Disorders**
+
+-   **Alagille syndrome:** paucity of intrahepatic bile ducts, associated with cardiac and facial
+    anomalies.
+-   **Choledochal cysts:** congenital dilatation of the bile ducts causing obstruction.
+
+## Clinical Features
+
+### A. History
+
+-   Onset and duration of jaundice
+-   Feeding history: breast or formula, adequacy of feeds
+-   Colour of stool (pale/acholic vs normal yellow)
+-   Colour of urine (dark vs normal)
+-   Growth pattern and weight gain
+-   Family history of haemolytic disorders or liver disease
+-   Maternal infections during pregnancy (e.g., hepatitis, TORCH)
+-   Perinatal history (asphyxia, sepsis, prematurity)
+
+### B. Physical Examination
+
+-   **General appearance:** activity level, growth, nutritional status
+-   **Colour:** extent of jaundice (blanching under natural light)
+-   **Stool and urine:** observe directly if possible
+-   **Hepatomegaly:** common in biliary atresia and hepatitis
+-   **Splenomegaly:** may indicate haemolysis or portal hypertension
+-   **Dysmorphic features:** suggest syndromic or metabolic disorders
+-   **Signs of hypothyroidism:** macroglossia, umbilical hernia, hypotonia
+-   **Other:** ascites, petechiae (suggests liver failure)
+
+## Investigations
+
+The goal is to differentiate between conjugated and unconjugated hyperbilirubinaemia and identify
+underlying causes.
+
+### Initial Screening
+
+1.  **Total and direct (conjugated) serum bilirubin:** essential first step.
+    -   Conjugated \> 34 µmol/L or \>20% of total = cholestasis.
+2.  **Full blood count, reticulocyte count:** anaemia and reticulocytosis suggest haemolysis.
+3.  **Blood group and Coombs test:** for ABO/Rh incompatibility.
+4.  **Peripheral smear:** to detect spherocytes or other RBC abnormalities.
+5.  **Thyroid function tests (TFTs):** rule out hypothyroidism.
+6.  **G6PD screening:** especially in African and Asian infants.
+7.  **Liver function tests (ALT, AST, ALP, GGT, albumin, PT/INR):** assess hepatocellular or
+    cholestatic pattern.
+
+### Additional/Targeted Tests
+
+-   **Urine analysis:** bilirubin (present in conjugated jaundice), reducing substances
+    (galactosaemia).
+-   **Viral studies:** TORCH, hepatitis panel, CMV PCR.
+-   **Metabolic screening:** galactose-1-phosphate, amino acid profile.
+-   **Ultrasound abdomen:** evaluate biliary tree and liver architecture.
+-   **Hepatobiliary scintigraphy (HIDA scan):** assess bile excretion; non-visualization of
+    intestines after tracer administration suggests biliary atresia.
+-   **Liver biopsy:** gold standard for differentiating biliary atresia from neonatal hepatitis.
+
+## Differential Diagnosis
+
+-   Physiological jaundice (if prolonged due to mild immaturity)
+-   Breast milk jaundice
+-   Biliary atresia
+-   Neonatal hepatitis
+-   Hypothyroidism
+-   G6PD deficiency
+-   Sepsis
+-   Galactosaemia or other metabolic disorders
+
+## Management
+
+Management depends on the underlying cause and the type of hyperbilirubinaemia.
+
+## A. General Principles
+
+1.  **Identify the cause early.**
+2.  **Differentiate conjugated from unconjugated jaundice.**
+3.  **Prevent bilirubin encephalopathy in unconjugated hyperbilirubinaemia.**
+4.  **Provide nutritional and supportive care.**
+
+### B. Management of Unconjugated Prolonged Jaundice
+
+#### 1. **Breast Milk Jaundice**
+
+-   Continue breastfeeding; it is benign.
+-   If bilirubin is significantly elevated (\>250 µmol/L), a temporary 24-hour interruption with
+    formula may cause rapid decline.
+-   No need for phototherapy unless bilirubin levels approach treatment thresholds.
+
+#### 2. **Breastfeeding/Lactation Failure Jaundice**
+
+-   Encourage frequent and effective breastfeeding (8–12 times/day).
+-   Manage dehydration if present.
+
+#### 3. **Haemolytic Causes**
+
+-   Manage underlying haemolysis:
+    -   Exchange transfusion if bilirubin at neurotoxic levels.
+    -   Avoid oxidative drugs in G6PD deficiency.
+
+#### 4. **Hypothyroidism**
+
+-   Treat with **levothyroxine** once confirmed.
+
+#### 5. **Crigler–Najjar Syndrome**
+
+-   Type I: lifelong phototherapy, liver transplantation may be curative.
+-   Type II: responds to **phenobarbital**.
+
+### C. Management of Conjugated (Cholestatic) Jaundice
+
+#### 1. **Biliary Atresia**
+
+-   Early diagnosis is critical (surgery before 8 weeks improves prognosis).
+-   **Kasai portoenterostomy** is the initial procedure.
+-   Postoperative management includes antibiotics, fat-soluble vitamins (A, D, E, K), and
+    nutritional support.
+
+#### 2. **Neonatal Hepatitis**
+
+-   Supportive therapy with adequate nutrition, vitamin supplementation, and management of
+    complications.
+-   Antiviral therapy if specific infection identified.
+
+#### 3. **Metabolic Disorders**
+
+-   **Galactosaemia:** eliminate galactose from the diet immediately.
+-   **Tyrosinaemia:** low tyrosine and phenylalanine diet, nitisinone therapy.
+-   **α1-Antitrypsin deficiency:** supportive care; avoid hepatotoxic drugs.
+
+#### 4. **Endocrine Disorders**
+
+-   Replacement therapy for hypothyroidism or hypopituitarism.
+
+### 5. **Parenteral Nutrition–Associated Cholestasis**
+
+-   Reduce or discontinue parenteral nutrition; promote enteral feeding.
+-   Use ursodeoxycholic acid to improve bile flow.
+
+#### 6. **Symptomatic Management**
+
+-   **Fat-soluble vitamins:** due to malabsorption in cholestasis.
+-   **Medium-chain triglyceride (MCT)-based feeds:** improve calorie intake.
+-   **Pruritus relief:** cholestyramine, ursodeoxycholic acid.
+
+## Complications
+
+-   **Kernicterus (bilirubin encephalopathy):** from severe unconjugated hyperbilirubinaemia.
+-   **Malnutrition:** from fat malabsorption in cholestasis.
+-   **Coagulopathy:** due to vitamin K deficiency.
+-   **Liver failure:** in progressive hepatobiliary disease.
+-   **Portal hypertension and cirrhosis:** in biliary atresia and chronic hepatitis.
+
+## Prognosis
+
+-   **Unconjugated causes** (breast milk jaundice, mild haemolysis) have excellent prognosis with
+    supportive care.
+-   **Biliary atresia:** prognosis depends on early detection and successful surgery. Delayed
+    intervention leads to cirrhosis and need for liver transplantation.
+-   **Metabolic and genetic disorders:** outcome depends on prompt diagnosis and disease-specific
+    therapy.
+
+## Prevention
+
+-   Promote exclusive breastfeeding and early postnatal follow-up.
+-   Routine newborn screening for G6PD deficiency and congenital hypothyroidism.
+-   Early recognition of pale stools and dark urine by caregivers.
+-   Prompt referral of any infant jaundiced beyond 2 weeks for evaluation.
+
+## Approach Summary for Prolonged Jaundice
+
+1.  **Assess duration and severity.**
+2.  **Fractionate bilirubin.**
+3.  **Conjugated \> 20% or \>34 µmol/L → evaluate for cholestasis.**
+4.  **Check stool colour and urine colour.**
+5.  **Investigate systematically (haemolysis, thyroid, infection, metabolic, anatomical).**
+6.  **Manage cause-specific and provide supportive care.**
+7.  **Refer early for suspected biliary atresia.**
+
+## Key Takeaways
+
+-   Any infant jaundiced beyond 2 weeks must be evaluated for pathological causes.
+-   Always determine if the bilirubin is conjugated or unconjugated.
+-   Conjugated hyperbilirubinaemia is never physiological.
+-   Early diagnosis of biliary atresia (\<8 weeks) markedly improves outcomes.
+-   Supportive care (nutrition, vitamins, prevention of complications) is crucial.
+
+## Suggested References
+
+1.  World Health Organization. *Pocket Book of Hospital Care for Children*, 3rd Edition, 2023.
+2.  Ghana Health Service. *Standard Treatment Guidelines*, 2022.
+3.  Balistreri WF, Bezerra JA. Neonatal cholestasis. *J Pediatr*. 2021;229:8–17.
+4.  Fawaz R et al. Guideline for the evaluation of cholestatic jaundice in infants. *J Pediatr
+    Gastroenterol Nutr*. 2017;64(1):154–168.
+5.  Moyer V, Freese DK, Whitington PF, et al. Guideline for the evaluation of cholestatic jaundice
+    in infants. *J Pediatr Gastroenterol Nutr.* 2004;39(2):115–128.

@@ -1,3 +1,337 @@
 ---
 title: "Malnutrition"
+date: 2025-07-03
 ---
+
+## Introduction
+
+Malnutrition remains one of the most significant health challenges affecting children globally,
+especially in low- and middle-income countries such as Ghana. It contributes substantially to
+morbidity and mortality, being an underlying factor in nearly half of all under-five deaths.
+Malnutrition includes both **undernutrition** (deficiencies in energy, protein, or micronutrients)
+and **overnutrition** (overweight and obesity).
+
+Childhood malnutrition results from an interplay between inadequate dietary intake, infections, and
+social determinants such as poverty and poor sanitation. It affects physical growth, cognitive
+development, and immune competence, leading to long-term consequences in adulthood.
+
+## Definition
+
+**Malnutrition** is a pathological state resulting from an imbalance between nutrient intake and the
+body's requirements. It may result in:
+
+1.  **Undernutrition** — deficiency of energy, protein, or micronutrients.
+2.  **Overnutrition** — excess intake of energy and nutrients.
+
+In children, **protein–energy malnutrition (PEM)** is the most severe form of undernutrition.
+
+## Classification
+
+### 1. Based on Type
+
+-   **Undernutrition:** Wasting, stunting, underweight.
+-   **Overnutrition:** Overweight, obesity.
+-   **Micronutrient deficiencies:** e.g., vitamin A, iron, iodine, zinc.
+
+### 2. Based on Clinical Form (PEM)
+
+| Type                     | Description                                  | Key Features                    |
+|-------------------------|------------------------------------|---------------------------------------|
+| **Marasmus**             | Deficiency of energy (calories)              | Severe wasting, no oedema       |
+| **Kwashiorkor**          | Deficiency of protein with adequate calories | Oedema, dermatosis, fatty liver |
+| **Marasmic–Kwashiorkor** | Combined energy and protein deficiency       | Wasting plus oedema             |
+
+### 3. Based on Anthropometric Indices (WHO)
+
+| Indicator               | Definition             | Category                        |
+|-------------------------|------------------------|---------------------------------|
+| Weight-for-height (WFH) | \< -2 SD of WHO median | Wasting (acute malnutrition)    |
+| Height-for-age (HFA)    | \< -2 SD               | Stunting (chronic malnutrition) |
+| Weight-for-age (WFA)    | \< -2 SD               | Underweight                     |
+| BMI-for-age             | \> +2 SD               | Overweight                      |
+| BMI-for-age             | \>+3 SD                | Obesity                         |
+
+## Epidemiology
+
+-   **Global burden:** About 149 million children under 5 are stunted, 45 million wasted, and 37
+    million overweight (UNICEF 2023).
+-   **Sub-Saharan Africa:** Persistent high rates of undernutrition; emerging overweight trends in
+    urban areas.
+-   **Ghana:** Stunting \~17%, wasting \~6%, overweight \~3% (GDHS 2022).
+
+Malnutrition often clusters with poverty, low maternal education, poor sanitation, and infectious
+diseases such as diarrhoea and malaria.
+
+## Aetiology
+
+The causes of malnutrition are multifactorial and interrelated. The UNICEF conceptual framework
+divides them into **immediate**, **underlying**, and **basic** causes.
+
+### 1. Immediate Causes
+
+-   **Inadequate dietary intake** — insufficient energy, protein, or micronutrients.
+-   **Disease burden** — infections increase nutrient losses and metabolic demands.
+
+### 2. Underlying Causes
+
+-   **Household food insecurity** — lack of access to adequate food.
+-   **Poor care and feeding practices** — inappropriate breastfeeding or complementary feeding.
+-   **Unhealthy environment and inadequate health services** — infections and lack of preventive
+    care.
+
+### 3. Basic Causes
+
+-   Poverty, low education, unemployment.
+-   Political instability, poor governance, and social inequality.
+
+## Pathophysiology
+
+Malnutrition disrupts multiple physiological systems:
+
+1.  **Energy deficiency** → muscle wasting, loss of subcutaneous fat.
+2.  **Protein deficiency** → impaired synthesis of enzymes, albumin, and immune factors.
+3.  **Micronutrient deficiency** → anaemia, impaired growth, increased susceptibility to infection.
+4.  **Metabolic adaptation:** Reduced basal metabolic rate and altered hormonal responses (insulin,
+    cortisol).
+5.  **Immune dysfunction:** Atrophy of lymphoid tissue leading to immunosuppression.
+
+#### In Kwashiorkor:
+
+-   Low plasma albumin → oedema.
+-   Fatty liver due to defective lipoprotein synthesis.
+-   Oxidative stress and free radical damage contribute to cellular injury.
+
+## Clinical Features
+
+### General Presentation
+
+-   Poor growth and weight loss.
+-   Wasting or oedema.
+-   Recurrent infections (respiratory, diarrhoeal).
+-   Lethargy, irritability, apathy.
+-   Developmental delay.
+
+### A. Marasmus
+
+-   Severe wasting, “skin and bones” appearance.
+-   Loss of subcutaneous fat and muscle.
+-   Alert but irritable.
+-   No oedema.
+-   Wrinkled skin, sunken eyes, sparse dry hair.
+
+### B. Kwashiorkor
+
+-   Generalized or dependent oedema (starting from feet).
+-   Moon face, flaky paint dermatosis.
+-   Sparse, easily pluckable hair with flag sign.
+-   Enlarged fatty liver.
+-   Apathy, poor appetite.
+-   Anaemia and susceptibility to infection.
+
+### C. Marasmic–Kwashiorkor
+
+-   Features of both wasting and oedema.
+
+## Complications of Severe Acute Malnutrition (SAM)
+
+1.  **Hypoglycaemia**
+2.  **Hypothermia**
+3.  **Dehydration** (often masked by oedema)
+4.  **Electrolyte imbalance** (low potassium, magnesium)
+5.  **Infections** (often with subtle signs)
+6.  **Anaemia**
+7.  **Heart failure**
+
+## Assessment and Diagnosis
+
+### 1. Anthropometric Measurements
+
+| Indicator          | Tool                    | Interpretation                              |
+|--------------------|-------------------------|---------------------------------------------|
+| Weight-for-height  | Salter scale, WHO chart | \< -3 SD = severe wasting                   |
+| MUAC (6–59 months) | MUAC tape               | \< 11.5 cm = SAM                            |
+| Oedema             | Clinical exam           | Presence indicates SAM regardless of weight |
+
+### 2. Laboratory Investigations
+
+-   **Blood glucose:** detect hypoglycaemia.
+-   **Haemoglobin:** assess for anaemia.
+-   **Electrolytes:** Na⁺, K⁺, Mg²⁺.
+-   **Urinalysis:** infection or proteinuria.
+-   **Malaria test:** especially in endemic areas.
+-   **Stool examination:** parasites.
+-   **HIV testing:** as indicated.
+
+## Management of Severe Acute Malnutrition (SAM)
+
+Management is guided by WHO protocols and Ghana Health Service guidelines.
+
+### Objectives
+
+-   Treat or prevent complications.
+-   Correct nutritional deficiencies.
+-   Achieve catch-up growth.
+-   Promote caregiver education.
+
+### Phases of Management
+
+#### 1. **Stabilization Phase (Days 1–2)**
+
+-   Manage life-threatening problems.
+-   Avoid excess protein and sodium.
+-   Feed with **F-75** (75 kcal/100 mL, 0.9 g protein/100 mL) every 2–3 hours.
+-   Prevent hypoglycaemia and hypothermia.
+
+##### a) Hypoglycaemia
+
+-   Feed immediately.
+-   If unable to feed: 10% dextrose 5 mL/kg IV or via NG tube.
+
+##### b) Hypothermia
+
+-   Keep child warm (skin-to-skin, warm room, clothing).
+
+##### c) Dehydration
+
+-   Use **ReSoMal** (Rehydration Solution for Malnutrition) orally or via NG.
+-   Avoid standard ORS due to high sodium.
+
+##### d) Infections
+
+-   Empiric antibiotics (ampicillin + gentamicin, or ceftriaxone if indicated).
+
+##### e) Micronutrient supplementation
+
+-   Vitamin A (not if given within last month), multivitamins, folic acid, zinc, copper, magnesium.
+
+#### 2. **Transition Phase (Days 2–7)**
+
+-   Introduce higher-calorie feeds: **F-100** (100 kcal/100 mL, 2.9 g protein/100 mL).
+-   Gradually increase intake to meet energy needs.
+
+#### 3. **Rehabilitation Phase (Day 7 onwards)**
+
+-   Catch-up growth with F-100 or locally fortified feeds.
+-   Encourage play and stimulation.
+-   Treat underlying causes (e.g., poor feeding, infection).
+
+### Discharge Criteria
+
+-   Weight-for-height \> -2 SD for 2 consecutive weeks.
+-   No oedema for at least 2 weeks.
+-   Good appetite and clinical recovery.
+
+## Management of Moderate Acute Malnutrition (MAM)
+
+-   Managed as outpatient.
+-   Supplementary feeding with ready-to-use foods (RUFs).
+-   Nutrition counselling for caregivers.
+-   Monitor growth weekly.
+
+## Management of Chronic Malnutrition (Stunting)
+
+-   Address long-term inadequate nutrition.
+-   Promote maternal nutrition and antenatal care.
+-   Early initiation of breastfeeding.
+-   Timely complementary feeding and infection control.
+
+## Management of Micronutrient Deficiencies
+
+### 1. Iron Deficiency Anaemia
+
+-   Oral iron (3–6 mg/kg/day elemental iron) for 3 months.
+-   Treat underlying infection (malaria, hookworm).
+
+### 2. Vitamin A Deficiency
+
+-   200,000 IU single dose (\>12 months), 100,000 IU (6–12 months), 50,000 IU (\<6 months).
+-   Encourage intake of carotene-rich foods (mango, palm oil, liver).
+
+### 3. Iodine Deficiency
+
+-   Universal salt iodization.
+
+### 4. Zinc Deficiency
+
+-   Zinc supplementation (10–20 mg/day) during diarrhoeal illness.
+
+## Prevention of Malnutrition
+
+1.  **Exclusive breastfeeding** for the first 6 months.
+2.  **Timely and adequate complementary feeding** from 6 months.
+3.  **Micronutrient supplementation and fortification** (iron, vitamin A, zinc, iodine).
+4.  **Routine immunization** to reduce infections.
+5.  **Nutrition education** for caregivers.
+6.  **Deworming** every 6 months after age 1.
+7.  **Food security interventions** at household and community level.
+
+## Nutrition Rehabilitation Centres (NRCs)
+
+These provide facility-based care for children with SAM who cannot be managed as outpatients.
+Activities include: - Stabilization and rehabilitation phases. - Nutrition education for
+caregivers. - Psychosocial stimulation. - Growth monitoring and follow-up.
+
+## Community Management of Acute Malnutrition (CMAM)
+
+The CMAM strategy integrates facility and community-level interventions: - **Screening:** by MUAC or
+oedema. - **Outpatient therapeutic care:** for uncomplicated SAM using RUTF (e.g., Plumpy’Nut). -
+**Inpatient care:** for complicated SAM. - **Community outreach:** to promote early detection and
+referral.
+
+## Overnutrition and Childhood Obesity
+
+### Definition
+
+Excessive fat accumulation due to imbalance between energy intake and expenditure.
+
+### Risk Factors
+
+-   High-calorie, low-nutrient diets.
+-   Sedentary lifestyle.
+-   Urbanization.
+-   Genetic predisposition.
+
+### Complications
+
+-   Type 2 diabetes mellitus.
+-   Hypertension, dyslipidaemia.
+-   Non-alcoholic fatty liver disease.
+-   Orthopaedic and psychosocial problems.
+
+### Management
+
+-   Lifestyle modification: healthy diet, regular physical activity.
+-   Family-based behavioural interventions.
+-   Avoid restrictive diets in growing children.
+
+## Prognosis
+
+-   **Mild to moderate malnutrition:** reversible with appropriate intervention.
+-   **Severe malnutrition:** carries a mortality rate of 10–30% if untreated.
+-   Early detection and management significantly improve outcomes.
+-   Stunting has long-term impacts on cognition, school performance, and adult productivity.
+
+## Public Health and Policy Considerations
+
+-   **Integrated management of childhood illness (IMCI)** includes nutrition counselling.
+-   **Ghana Health Service programs:** CMAM, growth monitoring, vitamin A supplementation, and
+    infant feeding promotion.
+-   **Sustainable Development Goals (SDG 2):** End all forms of malnutrition by 2030.
+
+## Key Takeaways
+
+-   Malnutrition encompasses both undernutrition and overnutrition.
+-   Protein–energy malnutrition (marasmus and kwashiorkor) is preventable.
+-   Early recognition, stabilization, and rehabilitation are critical in SAM management.
+-   Micronutrient supplementation and infection control are essential.
+-   Prevention through improved feeding practices and socioeconomic development remains the
+    cornerstone.
+
+## Suggested References
+
+1.  World Health Organization. *Pocket Book of Hospital Care for Children*, 3rd Edition, 2023.
+2.  Ghana Health Service. *Integrated Management of Acute Malnutrition Guidelines*, 2021.
+3.  UNICEF/WHO/World Bank. *Levels and Trends in Child Malnutrition*, 2023.
+4.  Black RE, Victora CG, Walker SP et al. Maternal and child undernutrition and overweight in
+    low-income and middle-income countries. *Lancet*. 2021;397(10283):138–154.
+5.  Ministry of Health, Ghana. *Standard Treatment Guidelines*, 2022.

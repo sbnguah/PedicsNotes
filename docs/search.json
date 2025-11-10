@@ -7009,6 +7009,534 @@
     ]
   },
   {
+    "objectID": "haem-sickle-cell.html",
+    "href": "haem-sickle-cell.html",
+    "title": "62  Sickle Cell Disease",
+    "section": "",
+    "text": "62.1 Introduction\nSickle Cell Disease (SCD) represents one of the most important inherited disorders of haemoglobin globally and in Ghana, where it poses a significant public health challenge. It remains a major cause of childhood morbidity and mortality across sub-Saharan Africa, yet it is largely preventable through newborn screening and manageable with timely interventions. Understanding its genetics, pathophysiology, clinical presentation, and management principles is therefore crucial for every medical student and health professional involved in paediatric care.\nSickle Cell Disease encompasses a group of inherited haemoglobinopathies characterized by the presence of abnormal haemoglobin S (HbS) within red blood cells. When deoxygenated, HbS polymerizes, causing the red cells to assume a rigid, sickle-like shape. These sickled cells have a shortened lifespan and tend to obstruct small blood vessels, resulting in chronic haemolytic anaemia, episodic vaso-occlusive crises, and progressive multi-organ damage.\nThe disease is inherited in an autosomal recessive pattern and primarily affects populations from malaria-endemic regions, where the sickle cell trait confers partial protection against severe Plasmodium falciparum infection. Consequently, the prevalence of the sickle gene is highest in sub-Saharan Africa, the Middle East, and parts of India.\nIn Ghana, it is estimated that about 2% of newborns are affected by SCD annually, and up to 30% of the population carry the sickle trait (HbAS).",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Sickle Cell Disease</span>"
+    ]
+  },
+  {
+    "objectID": "haem-sickle-cell.html#genetics-and-molecular-basis",
+    "href": "haem-sickle-cell.html#genetics-and-molecular-basis",
+    "title": "62  Sickle Cell Disease",
+    "section": "62.2 Genetics and Molecular Basis",
+    "text": "62.2 Genetics and Molecular Basis\nNormal adult haemoglobin (HbA) consists of two alpha (α) and two beta (β) chains. In SCD, a single-point mutation occurs in the β-globin gene on chromosome 11, substituting valine for glutamic acid at position 6 of the β-chain. This substitution profoundly alters haemoglobin solubility.\nWhen deoxygenated, HbS molecules polymerize into long, rigid fibres, distorting the red blood cells into the characteristic “sickle” shape. These cells are less deformable, leading to vaso-occlusion and premature haemolysis.\nCommon genetic variants of SCD include:\n\nHbSS (Sickle Cell Anaemia) – homozygous state; most severe.\nHbSC disease – compound heterozygote for HbS and HbC.\nSickle β-thalassaemia – combination of HbS with β-thalassaemia mutation (can be mild or severe).",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Sickle Cell Disease</span>"
+    ]
+  },
+  {
+    "objectID": "haem-sickle-cell.html#epidemiology",
+    "href": "haem-sickle-cell.html#epidemiology",
+    "title": "62  Sickle Cell Disease",
+    "section": "62.3 Epidemiology",
+    "text": "62.3 Epidemiology\nGlobally, about 300,000–400,000 infants are born each year with SCD. Sub-Saharan Africa accounts for more than 75% of these births. Without adequate care, most affected children in low-resource settings die before their fifth birthday from infections or severe anaemia.\nIn Ghana, SCD is among the top causes of paediatric hospital admissions. The institution of newborn screening programs and comprehensive sickle cell clinics, especially in teaching hospitals, has significantly improved survival. Early diagnosis through neonatal screening, coupled with penicillin prophylaxis and immunization, can reduce childhood mortality by up to 70%.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Sickle Cell Disease</span>"
+    ]
+  },
+  {
+    "objectID": "haem-sickle-cell.html#pathophysiology",
+    "href": "haem-sickle-cell.html#pathophysiology",
+    "title": "62  Sickle Cell Disease",
+    "section": "62.4 Pathophysiology",
+    "text": "62.4 Pathophysiology\nThe clinical manifestations of SCD arise primarily from two interrelated mechanisms: haemolysis and vaso-occlusion.\n\n62.4.1 Haemolysis\nSickled red cells are fragile and have a lifespan of only 10–20 days (compared to 120 days for normal RBCs). Their destruction leads to chronic anaemia, jaundice, and compensatory bone marrow expansion. Free haemoglobin released during haemolysis also scavenges nitric oxide, promoting vasoconstriction and endothelial dysfunction.\n\n\n62.4.2 Vaso-occlusion\nRigid sickled cells adhere to vascular endothelium and obstruct small vessels, resulting in tissue ischemia, infarction, and pain crises. Repeated episodes cause chronic organ damage, particularly in the spleen, kidneys, and bones.\nContributing factors include dehydration, infection, hypoxia, acidosis, and cold exposure — all of which increase sickling tendency.\n\n\n62.4.3 Other Pathophysiological Effects\n\nSplenic dysfunction predisposes to overwhelming infections with encapsulated organisms (e.g., Streptococcus pneumoniae).\n\nBone marrow hyperactivity can cause skeletal deformities and extramedullary haematopoiesis.\n\nEndothelial activation and chronic inflammation contribute to long-term vasculopathy and pulmonary hypertension.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Sickle Cell Disease</span>"
+    ]
+  },
+  {
+    "objectID": "haem-sickle-cell.html#clinical-features",
+    "href": "haem-sickle-cell.html#clinical-features",
+    "title": "62  Sickle Cell Disease",
+    "section": "62.5 Clinical Features",
+    "text": "62.5 Clinical Features\nThe disease spectrum varies widely depending on genotype and environmental influences.\n\n62.5.1 Infancy and Early Childhood\n\nUsually asymptomatic until 4–6 months when fetal haemoglobin (HbF) declines.\n\nDactylitis (hand-foot syndrome): Painful swelling of hands and feet, often the first manifestation.\n\nSevere anaemia leading to pallor, jaundice, and poor growth.\n\nIncreased susceptibility to infections, particularly pneumonia and sepsis.\n\n\n\n62.5.2 Older Children and Adolescents\nCommon features include:\n\nRecurrent painful crises affecting bones, chest, or abdomen.\n\nChronic anaemia with scleral icterus and gallstones.\n\nGrowth retardation and delayed puberty.\n\nSplenic atrophy (autosplenectomy) by age 6–8 years.\n\nLeg ulcers and avascular necrosis of the femoral head.\n\nNeurological events such as stroke or seizures.\n\n\n\n62.5.3 Major Clinical Syndromes\n\nVaso-occlusive (Painful) Crisis: Most frequent; triggered by dehydration, cold, or infection.\n\nSequestration Crisis: Sudden pooling of blood in spleen or liver leading to shock; more common in infants and young children.\n\nAplastic Crisis: Transient bone marrow suppression, often due to parvovirus B19 infection.\n\nHaemolytic Crisis: Acute exacerbation of haemolysis with jaundice and falling haematocrit.\n\nAcute Chest Syndrome: Characterized by chest pain, fever, hypoxia, and pulmonary infiltrates — a leading cause of mortality.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Sickle Cell Disease</span>"
+    ]
+  },
+  {
+    "objectID": "haem-sickle-cell.html#differential-diagnosis",
+    "href": "haem-sickle-cell.html#differential-diagnosis",
+    "title": "62  Sickle Cell Disease",
+    "section": "62.6 Differential Diagnosis",
+    "text": "62.6 Differential Diagnosis\n\nOther causes of chronic haemolytic anaemia: thalassaemia, hereditary spherocytosis, G6PD deficiency.\n\nRecurrent bone pain from osteomyelitis.\n\nMalaria with anaemia.\n\nLeukaemia or aplastic anaemia.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Sickle Cell Disease</span>"
+    ]
+  },
+  {
+    "objectID": "haem-sickle-cell.html#investigations",
+    "href": "haem-sickle-cell.html#investigations",
+    "title": "62  Sickle Cell Disease",
+    "section": "62.7 Investigations",
+    "text": "62.7 Investigations\n\n62.7.1 Screening and Diagnostic Tests\n\nSickle cell solubility test: Rapid screening method.\n\nHaemoglobin electrophoresis: Gold standard for definitive diagnosis and genotyping (HbSS, HbSC, HbSβ-thalassaemia).\n\nHigh-performance liquid chromatography (HPLC): Provides precise quantification of haemoglobin fractions.\n\nDNA analysis: Used for prenatal diagnosis.\n\n\n\n62.7.2 Routine Monitoring\n\nFull blood count (moderate anaemia, high reticulocyte count).\n\nLiver function tests (for bilirubin and transaminase levels).\n\nRenal function (creatinine, urinalysis for proteinuria).\n\nChest X-ray and echocardiogram in chronic cases.\n\nTranscranial Doppler ultrasound annually in children with HbSS (to screen for stroke risk).",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Sickle Cell Disease</span>"
+    ]
+  },
+  {
+    "objectID": "haem-sickle-cell.html#management",
+    "href": "haem-sickle-cell.html#management",
+    "title": "62  Sickle Cell Disease",
+    "section": "62.8 Management",
+    "text": "62.8 Management\nManagement of SCD is comprehensive and lifelong, involving prevention of crises, prompt treatment of complications, and psychosocial support.\n\n62.8.1 Health Maintenance and Preventive Care\n\nNewborn screening: Enables early identification and initiation of prophylaxis.\n\nHealth education: Parents should be educated about hydration, nutrition, and avoiding triggers (cold, stress, infection).\n\nProphylactic antibiotics: Oral penicillin V (125 mg twice daily &lt;3 years; 250 mg twice daily &gt;3 years) from diagnosis until at least age 5.\n\nVaccinations: Pneumococcal, Haemophilus influenzae type b, meningococcal, hepatitis B, and annual influenza vaccines.\n\nFolic acid supplementation: To support red cell production.\n\n\n\n62.8.2 Management of Acute Crises\n\n62.8.2.1 Painful Crisis\n\nAssess severity and exclude infection or acute chest syndrome.\n\nAdequate hydration (oral or IV fluids).\n\nAnalgesia: stepwise approach using paracetamol, NSAIDs, and opioids for severe pain.\n\nOxygen if hypoxic; treat precipitating factors.\n\n\n\n62.8.2.2 Sequestration Crisis\n\nRapid restoration of blood volume with cautious transfusion.\n\nMonitor for recurrence; splenectomy may be indicated after repeated episodes.\n\n\n\n62.8.2.3 Aplastic Crisis\n\nSupportive care with transfusions; isolation if parvovirus suspected.\n\n\n\n62.8.2.4 Acute Chest Syndrome\n\nUrgent treatment with antibiotics, oxygen therapy, analgesia, and blood transfusion (exchange transfusion in severe cases).\n\n\n\n\n62.8.3 Chronic Management\n\n62.8.3.1 Hydroxyurea Therapy\n\nIncreases fetal haemoglobin (HbF) levels, reducing frequency of pain crises and acute chest syndrome.\n\nTypical dose: 15–35 mg/kg/day with close monitoring for myelosuppression.\n\n\n\n62.8.3.2 Blood Transfusions\n\nUsed for severe anaemia, stroke prevention, or perioperative optimization.\n\nChronic transfusion programs aim to maintain HbS &lt;30%.\n\nRisk of iron overload; managed with chelation (deferasirox or deferoxamine).\n\n\n\n62.8.3.3 Stem Cell Transplantation\n\nThe only curative treatment.\n\nBest outcomes when performed early from an HLA-matched sibling donor.\n\nCost and donor availability remain limiting factors in Africa.\n\n\n\n\n62.8.4 Management of Complications\n\nStroke: Urgent transfusion and long-term prevention via chronic transfusions or hydroxyurea.\n\nRenal disease: ACE inhibitors for proteinuria.\n\nPulmonary hypertension: Oxygen and hydroxyurea; avoid hypoxia.\n\nGallstones: Cholecystectomy if symptomatic.\n\nLeg ulcers: Local wound care and infection control.\n\n\n\n62.8.5 Psychosocial and Educational Support\nChronic illness impacts schooling, family dynamics, and mental health. Counselling and peer support programs are vital. Transition to adult care should be planned from adolescence.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Sickle Cell Disease</span>"
+    ]
+  },
+  {
+    "objectID": "haem-sickle-cell.html#complications",
+    "href": "haem-sickle-cell.html#complications",
+    "title": "62  Sickle Cell Disease",
+    "section": "62.9 Complications",
+    "text": "62.9 Complications\n\n\n\nSystem\nMajor Complications\n\n\n\n\nHaematologic\nSevere anaemia, aplastic crisis\n\n\nCardiovascular\nCardiomegaly, high-output failure\n\n\nRespiratory\nAcute chest syndrome, pulmonary hypertension\n\n\nNeurological\nStroke, seizures\n\n\nRenal\nHematuria, hyposthenuria, renal failure\n\n\nMusculoskeletal\nAvascular necrosis, chronic leg ulcers\n\n\nHepatobiliary\nGallstones, hepatic sequestration\n\n\nGrowth\nDelayed puberty, short stature",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Sickle Cell Disease</span>"
+    ]
+  },
+  {
+    "objectID": "haem-sickle-cell.html#prevention",
+    "href": "haem-sickle-cell.html#prevention",
+    "title": "62  Sickle Cell Disease",
+    "section": "62.10 Prevention",
+    "text": "62.10 Prevention\n\nPublic Health Interventions\n\nPremarital and antenatal genetic counselling.\n\nNeonatal screening programs nationwide.\n\nEducation on carrier status and family planning.\n\nInfection Prevention\n\nRoutine immunizations.\n\nProphylactic antibiotics and malaria prevention.\n\nNutritional Support\n\nBalanced diet with adequate folate and hydration.\n\nAvoidance of triggers such as cold, dehydration, and strenuous activity.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Sickle Cell Disease</span>"
+    ]
+  },
+  {
+    "objectID": "haem-sickle-cell.html#prognosis",
+    "href": "haem-sickle-cell.html#prognosis",
+    "title": "62  Sickle Cell Disease",
+    "section": "62.11 Prognosis",
+    "text": "62.11 Prognosis\nWith comprehensive care, children with SCD can now survive into adulthood with reasonable quality of life. Prognosis depends on genotype (HbSS being most severe), frequency of complications, and access to medical care.\nEarly diagnosis, hydroxyurea use, and stroke prevention have significantly improved survival rates.\nIn resource-limited settings like Ghana, the main challenge remains late diagnosis and inadequate access to specialized care. Expansion of community-based sickle cell programs, health education, and government support are essential for improving outcomes.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Sickle Cell Disease</span>"
+    ]
+  },
+  {
+    "objectID": "haem-sickle-cell.html#conclusion",
+    "href": "haem-sickle-cell.html#conclusion",
+    "title": "62  Sickle Cell Disease",
+    "section": "62.12 Conclusion",
+    "text": "62.12 Conclusion\nSickle Cell Disease in children remains a major paediatric concern in Ghana and across Africa. Its high prevalence, severe complications, and lifelong impact demand a holistic approach integrating early detection, preventive care, effective crisis management, and psychosocial support. With increased awareness, improved access to diagnostics and hydroxyurea therapy, and the scaling up of neonatal screening, the burden of SCD can be significantly reduced, transforming the outlook for affected children and their families.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Sickle Cell Disease</span>"
+    ]
+  },
+  {
+    "objectID": "gast-nutrition.html",
+    "href": "gast-nutrition.html",
+    "title": "66  Nutrition",
+    "section": "",
+    "text": "66.1 Introduction\nAdequate nutrition is fundamental to the growth, development, and survival of children. Optimal nutrition during infancy and childhood supports physical growth, brain development, immune function, and overall well-being. Malnutrition — encompassing both undernutrition and overnutrition — remains a major public health concern in low- and middle-income countries, including Ghana.\nChild nutrition must be understood within the context of developmental stages, dietary requirements, feeding practices, and common nutritional disorders. The health worker’s role is to promote appropriate feeding, prevent malnutrition, and manage nutritional deficiencies promptly.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>66</span>  <span class='chapter-title'>Nutrition</span>"
+    ]
+  },
+  {
+    "objectID": "gast-nutrition.html#objectives",
+    "href": "gast-nutrition.html#objectives",
+    "title": "66  Nutrition",
+    "section": "66.2 Objectives",
+    "text": "66.2 Objectives\nAt the end of this session, learners should be able to: 1. Describe the principles of nutrition and growth in children. 2. Outline nutritional requirements at different ages. 3. Discuss breastfeeding and complementary feeding practices. 4. Recognize and manage common nutritional disorders. 5. Explain preventive strategies for malnutrition.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>66</span>  <span class='chapter-title'>Nutrition</span>"
+    ]
+  },
+  {
+    "objectID": "gast-nutrition.html#overview-of-nutrition-in-children",
+    "href": "gast-nutrition.html#overview-of-nutrition-in-children",
+    "title": "66  Nutrition",
+    "section": "66.3 Overview of Nutrition in Children",
+    "text": "66.3 Overview of Nutrition in Children\nNutrition refers to the intake and utilization of nutrients to maintain health, support growth, and enable bodily functions. It involves macronutrients (carbohydrates, proteins, fats) and micronutrients (vitamins, minerals, and trace elements).\nChildren have higher nutrient requirements per kilogram of body weight than adults due to rapid growth and development, particularly in the first two years of life.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>66</span>  <span class='chapter-title'>Nutrition</span>"
+    ]
+  },
+  {
+    "objectID": "gast-nutrition.html#components-of-a-balanced-diet",
+    "href": "gast-nutrition.html#components-of-a-balanced-diet",
+    "title": "66  Nutrition",
+    "section": "66.4 Components of a Balanced Diet",
+    "text": "66.4 Components of a Balanced Diet\nA balanced diet provides adequate amounts of all essential nutrients. The key components are:\n\n\n\n\n\n\n\n\nNutrient\nFunction\nMajor Sources\n\n\n\n\nCarbohydrates\nEnergy source\nCereals, grains, fruits, tubers\n\n\nProteins\nGrowth and tissue repair\nLegumes, milk, meat, fish, eggs\n\n\nFats\nEnergy storage, cell membranes, absorption of fat-soluble vitamins\nOils, nuts, dairy, meat\n\n\nVitamins\nMetabolic functions\nFruits, vegetables, fortified foods\n\n\nMinerals\nBone health, enzyme function\nMilk, fish, leafy vegetables, iodized salt\n\n\nWater\nSolvent, thermoregulation\nDrinking water, fruits, soups",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>66</span>  <span class='chapter-title'>Nutrition</span>"
+    ]
+  },
+  {
+    "objectID": "gast-nutrition.html#nutritional-requirements-by-age",
+    "href": "gast-nutrition.html#nutritional-requirements-by-age",
+    "title": "66  Nutrition",
+    "section": "66.5 Nutritional Requirements by Age",
+    "text": "66.5 Nutritional Requirements by Age\n\n66.5.1 Neonates and Infants (0–6 months)\n\nExclusive breastfeeding is recommended for the first 6 months.\nBreast milk provides all nutrients except vitamin D (and sometimes vitamin K).\nBreastfeeding should be on demand, day and night.\n\n\n\n66.5.2 Infants (6–24 months)\n\nComplementary feeding begins at 6 months while continuing breastfeeding up to 2 years or beyond.\nStart with pureed or mashed foods, progressing to family foods.\nEnergy-dense meals: 2–3 times daily at 6–8 months, 3–4 times after 9 months, plus snacks.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>66</span>  <span class='chapter-title'>Nutrition</span>"
+    ]
+  },
+  {
+    "objectID": "gast-nutrition.html#preschool-children-25-years",
+    "href": "gast-nutrition.html#preschool-children-25-years",
+    "title": "66  Nutrition",
+    "section": "66.6 Preschool Children (2–5 years)",
+    "text": "66.6 Preschool Children (2–5 years)\n\nRequire a variety of foods from all groups.\nEncourage family meals, adequate protein, fruits, and vegetables.\nAvoid excessive sugary snacks and drinks.\n\n\n66.6.1 School-Age Children (6–12 years)\n\nNutrition supports steady growth and school performance.\nMeals should be balanced with sufficient carbohydrates, proteins, and iron.\nPromote hygiene and safe water intake.\n\n\n\n66.6.2 Adolescents (10–19 years)\n\nPeriod of rapid growth and hormonal changes.\nIncreased need for calories, protein, calcium, iron, and vitamins.\nGirls require additional iron due to menstruation.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>66</span>  <span class='chapter-title'>Nutrition</span>"
+    ]
+  },
+  {
+    "objectID": "gast-nutrition.html#breastfeeding",
+    "href": "gast-nutrition.html#breastfeeding",
+    "title": "66  Nutrition",
+    "section": "66.7 Breastfeeding",
+    "text": "66.7 Breastfeeding\n\n66.7.1 Importance of Breastfeeding\n\nProvides ideal nutrition and antibodies.\nReduces risk of diarrhoea, pneumonia, and sudden infant death syndrome.\nPromotes bonding and optimal neurodevelopment.\n\n\n\n66.7.2 Composition of Breast Milk\n\n\n\n\n\n\n\nComponent\nFunction\n\n\n\n\nLactose\nMain carbohydrate; energy and promotes gut flora\n\n\nWhey and casein\nProteins aiding digestion and immunity\n\n\nLipids\nEnergy, essential fatty acids, brain development\n\n\nVitamins and minerals\nNutritional balance\n\n\nAntibodies and immune cells\nProtection against infections\n\n\n\n\n\n66.7.3 Stages of Breast Milk\n\nColostrum: Yellow, thick milk secreted in first 3–5 days; rich in antibodies.\nTransitional milk: 5–14 days postpartum.\nMature milk: From 2 weeks onwards.\n\n\n\n66.7.4 Common Breastfeeding Challenges\n\nPoor latch or positioning.\nCracked nipples, mastitis.\nPerceived low milk supply.\nManagement: counselling, proper technique, frequent feeding, expressing milk if needed.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>66</span>  <span class='chapter-title'>Nutrition</span>"
+    ]
+  },
+  {
+    "objectID": "gast-nutrition.html#complementary-feeding",
+    "href": "gast-nutrition.html#complementary-feeding",
+    "title": "66  Nutrition",
+    "section": "66.8 Complementary Feeding",
+    "text": "66.8 Complementary Feeding\nComplementary feeding is the process of introducing solid and semi-solid foods alongside breast milk from 6 months of age.\n\n66.8.0.1 Principles\n\nTimely introduction at 6 months.\nAdequate — providing sufficient energy, protein, and micronutrients.\nSafe — hygienic preparation and storage.\nAppropriate — culturally acceptable, age-appropriate texture.\n\n\n\n66.8.0.2 Common Complementary Foods in Ghana\n\nMashed yam, rice, or maize porridge with beans, fish, or groundnuts.\nFortified cereals, fruits, and vegetables.\n\n\n\n66.8.0.3 Feeding Frequency\n\n\n\nAge (months)\nBreastfeeds\nMeals/day\nSnacks\n\n\n\n\n6–8\nOn demand\n2–3\n1–2\n\n\n9–11\nOn demand\n3–4\n1–2\n\n\n12–24\nOn demand\n3–4\n1–2",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>66</span>  <span class='chapter-title'>Nutrition</span>"
+    ]
+  },
+  {
+    "objectID": "gast-nutrition.html#nutritional-assessment",
+    "href": "gast-nutrition.html#nutritional-assessment",
+    "title": "66  Nutrition",
+    "section": "66.9 Nutritional Assessment",
+    "text": "66.9 Nutritional Assessment\nA comprehensive nutritional assessment includes anthropometry, dietary history, and clinical examination.\n\n66.9.1 Anthropometric Measures\n\n\n\n\n\n\n\n\nMeasure\nPurpose\nIndicators of Malnutrition\n\n\n\n\nWeight-for-age\nGrowth monitoring\nUnderweight\n\n\nHeight/length-for-age\nChronic malnutrition\nStunting\n\n\nWeight-for-height\nAcute malnutrition\nWasting\n\n\nMUAC\nScreening in 6–59 months\n&lt;12.5 cm indicates wasting\n\n\n\n\n\n66.9.2 Clinical Assessment\n\nLook for signs of deficiency: pallor, oedema, hair changes, skin lesions, angular stomatitis, goitre, rickets.\n\n\n\n66.9.3 Dietary Assessment\n\n24-hour recall, food frequency questionnaire.\nIdentify inadequate intake or inappropriate feeding practices.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>66</span>  <span class='chapter-title'>Nutrition</span>"
+    ]
+  },
+  {
+    "objectID": "gast-nutrition.html#common-nutritional-disorders",
+    "href": "gast-nutrition.html#common-nutritional-disorders",
+    "title": "66  Nutrition",
+    "section": "66.10 Common Nutritional Disorders",
+    "text": "66.10 Common Nutritional Disorders\n\n66.10.1 1. Protein–Energy Malnutrition (PEM)\n\n66.10.1.1 Types\n\nMarasmus: severe wasting, due to calorie deficiency.\nKwashiorkor: protein deficiency with oedema.\n\n\n\n66.10.1.2 Clinical Features\n\n\n\nMarasmus\nKwashiorkor\n\n\n\n\nSevere wasting\nOedema (especially feet, face)\n\n\nAlert but irritable\nApathetic, moon face\n\n\nNo oedema\nDermatosis, sparse hair\n\n\n\n\n\n66.10.1.3 Management\n\nStabilization phase (1–2 days): Treat hypoglycaemia, hypothermia, dehydration, infections.\nTransition phase (2–7 days): Gradually increase feeding.\nRehabilitation phase: Catch-up growth using F-100 or locally fortified diets.\nProvide micronutrient supplements (vitamin A, folate, zinc).\n\n\n\n\n66.10.2 2. Micronutrient Deficiencies\n\n66.10.2.1 a) Iron Deficiency Anaemia\n\nMost common deficiency globally.\nCauses: inadequate intake, blood loss, infections (hookworm, malaria).\nFeatures: pallor, lethargy, poor cognition.\nManagement: iron supplementation, dietary education.\n\n\n\n66.10.2.2 b) Vitamin A Deficiency\n\nCauses xerophthalmia, night blindness, increased infection risk.\nPrevention: vitamin A supplementation every 6 months (per national guidelines), foods like mango, palm oil, liver.\n\n\n\n66.10.2.3 c) Iodine Deficiency\n\nCauses goitre, cretinism, developmental delay.\nPrevention: universal salt iodization.\n\n\n\n66.10.2.4 d) Zinc Deficiency\n\nCauses growth retardation, diarrhoea, impaired immunity.\nPrevention: dietary zinc and supplementation in diarrhoeal disease.\n\n\n\n66.10.2.5 e) Vitamin D Deficiency\n\nCauses rickets in children.\nPrevention: sunlight exposure, fortified foods.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>66</span>  <span class='chapter-title'>Nutrition</span>"
+    ]
+  },
+  {
+    "objectID": "gast-nutrition.html#overnutrition-and-childhood-obesity",
+    "href": "gast-nutrition.html#overnutrition-and-childhood-obesity",
+    "title": "66  Nutrition",
+    "section": "66.11 3. Overnutrition and Childhood Obesity",
+    "text": "66.11 3. Overnutrition and Childhood Obesity\n\nIncreasingly common with urbanization and sedentary lifestyles.\nAssociated with diabetes, hypertension, dyslipidaemia.\nPrevention: promote physical activity, reduce sugary and processed foods.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>66</span>  <span class='chapter-title'>Nutrition</span>"
+    ]
+  },
+  {
+    "objectID": "gast-nutrition.html#prevention-of-malnutrition",
+    "href": "gast-nutrition.html#prevention-of-malnutrition",
+    "title": "66  Nutrition",
+    "section": "66.12 Prevention of Malnutrition",
+    "text": "66.12 Prevention of Malnutrition\n\nPromote exclusive breastfeeding and appropriate complementary feeding.\nRoutine growth monitoring and promotion (GMP).\nMicronutrient supplementation and fortification programs.\nNutrition education for caregivers.\nControl of infections (immunization, deworming, malaria prevention).\nFood security and poverty reduction initiatives.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>66</span>  <span class='chapter-title'>Nutrition</span>"
+    ]
+  },
+  {
+    "objectID": "gast-nutrition.html#nutrition-in-special-conditions",
+    "href": "gast-nutrition.html#nutrition-in-special-conditions",
+    "title": "66  Nutrition",
+    "section": "66.13 Nutrition in Special Conditions",
+    "text": "66.13 Nutrition in Special Conditions\n\n66.13.1 a) Preterm Infants\n\nRequire higher protein and energy intake.\nUse fortified breast milk or preterm formulas.\n\n\n\n66.13.2 b) Children with Chronic Illness\n\nMonitor growth closely (e.g., in congenital heart disease, HIV, cystic fibrosis).\nSupplement calories and micronutrients.\n\n\n\n66.13.3 c) HIV-Infected Children\n\nRequire increased caloric intake (10–30% higher).\nNutritional counselling and food support are vital.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>66</span>  <span class='chapter-title'>Nutrition</span>"
+    ]
+  },
+  {
+    "objectID": "gast-nutrition.html#nutritional-counselling-and-health-promotion",
+    "href": "gast-nutrition.html#nutritional-counselling-and-health-promotion",
+    "title": "66  Nutrition",
+    "section": "66.14 Nutritional Counselling and Health Promotion",
+    "text": "66.14 Nutritional Counselling and Health Promotion\n\nEducate caregivers on balanced diets using local foods.\nEncourage family meals and regular feeding schedules.\nMonitor and discuss growth charts during child welfare visits.\nAddress myths and misconceptions around feeding (e.g., withholding protein in diarrhoea).\n\n##Key Takeaways\n\nNutrition is critical for child survival, growth, and development.\nExclusive breastfeeding for 6 months, followed by appropriate complementary feeding, is essential.\nMalnutrition may present as undernutrition or overnutrition.\nPrevention strategies include education, supplementation, and infection control.\nHealth professionals must advocate for and monitor good nutrition in all children.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>66</span>  <span class='chapter-title'>Nutrition</span>"
+    ]
+  },
+  {
+    "objectID": "gast-nutrition.html#suggested-references",
+    "href": "gast-nutrition.html#suggested-references",
+    "title": "66  Nutrition",
+    "section": "66.15 Suggested References",
+    "text": "66.15 Suggested References\n\nWorld Health Organization. Infant and Young Child Feeding: Model Chapter for Textbooks for Medical Students and Allied Health Professionals. WHO, 2009.\nGhana Health Service. Infant and Young Child Feeding Policy and Strategy, 2021.\nUNICEF. The State of the World’s Children: Nutrition Edition, 2023.\nWorld Health Organization. Pocket Book of Hospital Care for Children, 3rd Edition, 2023.\nBlack RE et al. Maternal and child undernutrition and overweight in low-income and middle-income countries. Lancet. 2021;397(10283):138–154.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>66</span>  <span class='chapter-title'>Nutrition</span>"
+    ]
+  },
+  {
+    "objectID": "gast-malnutrition.html",
+    "href": "gast-malnutrition.html",
+    "title": "67  Malnutrition",
+    "section": "",
+    "text": "67.1 Introduction\nMalnutrition remains one of the most significant health challenges affecting children globally, especially in low- and middle-income countries such as Ghana. It contributes substantially to morbidity and mortality, being an underlying factor in nearly half of all under-five deaths. Malnutrition includes both undernutrition (deficiencies in energy, protein, or micronutrients) and overnutrition (overweight and obesity).\nChildhood malnutrition results from an interplay between inadequate dietary intake, infections, and social determinants such as poverty and poor sanitation. It affects physical growth, cognitive development, and immune competence, leading to long-term consequences in adulthood.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>67</span>  <span class='chapter-title'>Malnutrition</span>"
+    ]
+  },
+  {
+    "objectID": "gast-malnutrition.html#definition",
+    "href": "gast-malnutrition.html#definition",
+    "title": "67  Malnutrition",
+    "section": "67.2 Definition",
+    "text": "67.2 Definition\nMalnutrition is a pathological state resulting from an imbalance between nutrient intake and the body’s requirements. It may result in:\n\nUndernutrition — deficiency of energy, protein, or micronutrients.\nOvernutrition — excess intake of energy and nutrients.\n\nIn children, protein–energy malnutrition (PEM) is the most severe form of undernutrition.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>67</span>  <span class='chapter-title'>Malnutrition</span>"
+    ]
+  },
+  {
+    "objectID": "gast-malnutrition.html#classification",
+    "href": "gast-malnutrition.html#classification",
+    "title": "67  Malnutrition",
+    "section": "67.3 Classification",
+    "text": "67.3 Classification\n\n67.3.1 1. Based on Type\n\nUndernutrition: Wasting, stunting, underweight.\nOvernutrition: Overweight, obesity.\nMicronutrient deficiencies: e.g., vitamin A, iron, iodine, zinc.\n\n\n\n67.3.2 2. Based on Clinical Form (PEM)\n\n\n\n\n\n\n\n\nType\nDescription\nKey Features\n\n\n\n\nMarasmus\nDeficiency of energy (calories)\nSevere wasting, no oedema\n\n\nKwashiorkor\nDeficiency of protein with adequate calories\nOedema, dermatosis, fatty liver\n\n\nMarasmic–Kwashiorkor\nCombined energy and protein deficiency\nWasting plus oedema\n\n\n\n\n\n67.3.3 3. Based on Anthropometric Indices (WHO)\n\n\n\n\n\n\n\n\nIndicator\nDefinition\nCategory\n\n\n\n\nWeight-for-height (WFH)\n&lt; -2 SD of WHO median\nWasting (acute malnutrition)\n\n\nHeight-for-age (HFA)\n&lt; -2 SD\nStunting (chronic malnutrition)\n\n\nWeight-for-age (WFA)\n&lt; -2 SD\nUnderweight\n\n\nBMI-for-age\n&gt; +2 SD\nOverweight\n\n\nBMI-for-age\n&gt;+3 SD\nObesity",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>67</span>  <span class='chapter-title'>Malnutrition</span>"
+    ]
+  },
+  {
+    "objectID": "gast-malnutrition.html#epidemiology",
+    "href": "gast-malnutrition.html#epidemiology",
+    "title": "67  Malnutrition",
+    "section": "67.4 Epidemiology",
+    "text": "67.4 Epidemiology\n\nGlobal burden: About 149 million children under 5 are stunted, 45 million wasted, and 37 million overweight (UNICEF 2023).\nSub-Saharan Africa: Persistent high rates of undernutrition; emerging overweight trends in urban areas.\nGhana: Stunting ~17%, wasting ~6%, overweight ~3% (GDHS 2022).\n\nMalnutrition often clusters with poverty, low maternal education, poor sanitation, and infectious diseases such as diarrhoea and malaria.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>67</span>  <span class='chapter-title'>Malnutrition</span>"
+    ]
+  },
+  {
+    "objectID": "gast-malnutrition.html#aetiology",
+    "href": "gast-malnutrition.html#aetiology",
+    "title": "67  Malnutrition",
+    "section": "67.5 Aetiology",
+    "text": "67.5 Aetiology\nThe causes of malnutrition are multifactorial and interrelated. The UNICEF conceptual framework divides them into immediate, underlying, and basic causes.\n\n67.5.1 1. Immediate Causes\n\nInadequate dietary intake — insufficient energy, protein, or micronutrients.\nDisease burden — infections increase nutrient losses and metabolic demands.\n\n\n\n67.5.2 2. Underlying Causes\n\nHousehold food insecurity — lack of access to adequate food.\nPoor care and feeding practices — inappropriate breastfeeding or complementary feeding.\nUnhealthy environment and inadequate health services — infections and lack of preventive care.\n\n\n\n67.5.3 3. Basic Causes\n\nPoverty, low education, unemployment.\nPolitical instability, poor governance, and social inequality.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>67</span>  <span class='chapter-title'>Malnutrition</span>"
+    ]
+  },
+  {
+    "objectID": "gast-malnutrition.html#pathophysiology",
+    "href": "gast-malnutrition.html#pathophysiology",
+    "title": "67  Malnutrition",
+    "section": "67.6 Pathophysiology",
+    "text": "67.6 Pathophysiology\nMalnutrition disrupts multiple physiological systems:\n\nEnergy deficiency → muscle wasting, loss of subcutaneous fat.\nProtein deficiency → impaired synthesis of enzymes, albumin, and immune factors.\nMicronutrient deficiency → anaemia, impaired growth, increased susceptibility to infection.\nMetabolic adaptation: Reduced basal metabolic rate and altered hormonal responses (insulin, cortisol).\nImmune dysfunction: Atrophy of lymphoid tissue leading to immunosuppression.\n\n\n67.6.0.1 In Kwashiorkor:\n\nLow plasma albumin → oedema.\nFatty liver due to defective lipoprotein synthesis.\nOxidative stress and free radical damage contribute to cellular injury.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>67</span>  <span class='chapter-title'>Malnutrition</span>"
+    ]
+  },
+  {
+    "objectID": "gast-malnutrition.html#clinical-features",
+    "href": "gast-malnutrition.html#clinical-features",
+    "title": "67  Malnutrition",
+    "section": "67.7 Clinical Features",
+    "text": "67.7 Clinical Features\n\n67.7.1 General Presentation\n\nPoor growth and weight loss.\nWasting or oedema.\nRecurrent infections (respiratory, diarrhoeal).\nLethargy, irritability, apathy.\nDevelopmental delay.\n\n\n\n67.7.2 A. Marasmus\n\nSevere wasting, “skin and bones” appearance.\nLoss of subcutaneous fat and muscle.\nAlert but irritable.\nNo oedema.\nWrinkled skin, sunken eyes, sparse dry hair.\n\n\n\n67.7.3 B. Kwashiorkor\n\nGeneralized or dependent oedema (starting from feet).\nMoon face, flaky paint dermatosis.\nSparse, easily pluckable hair with flag sign.\nEnlarged fatty liver.\nApathy, poor appetite.\nAnaemia and susceptibility to infection.\n\n\n\n67.7.4 C. Marasmic–Kwashiorkor\n\nFeatures of both wasting and oedema.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>67</span>  <span class='chapter-title'>Malnutrition</span>"
+    ]
+  },
+  {
+    "objectID": "gast-malnutrition.html#complications-of-severe-acute-malnutrition-sam",
+    "href": "gast-malnutrition.html#complications-of-severe-acute-malnutrition-sam",
+    "title": "67  Malnutrition",
+    "section": "67.8 Complications of Severe Acute Malnutrition (SAM)",
+    "text": "67.8 Complications of Severe Acute Malnutrition (SAM)\n\nHypoglycaemia\nHypothermia\nDehydration (often masked by oedema)\nElectrolyte imbalance (low potassium, magnesium)\nInfections (often with subtle signs)\nAnaemia\nHeart failure",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>67</span>  <span class='chapter-title'>Malnutrition</span>"
+    ]
+  },
+  {
+    "objectID": "gast-malnutrition.html#assessment-and-diagnosis",
+    "href": "gast-malnutrition.html#assessment-and-diagnosis",
+    "title": "67  Malnutrition",
+    "section": "67.9 Assessment and Diagnosis",
+    "text": "67.9 Assessment and Diagnosis\n\n67.9.1 1. Anthropometric Measurements\n\n\n\n\n\n\n\n\nIndicator\nTool\nInterpretation\n\n\n\n\nWeight-for-height\nSalter scale, WHO chart\n&lt; -3 SD = severe wasting\n\n\nMUAC (6–59 months)\nMUAC tape\n&lt; 11.5 cm = SAM\n\n\nOedema\nClinical exam\nPresence indicates SAM regardless of weight\n\n\n\n\n\n67.9.2 2. Laboratory Investigations\n\nBlood glucose: detect hypoglycaemia.\nHaemoglobin: assess for anaemia.\nElectrolytes: Na⁺, K⁺, Mg²⁺.\nUrinalysis: infection or proteinuria.\nMalaria test: especially in endemic areas.\nStool examination: parasites.\nHIV testing: as indicated.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>67</span>  <span class='chapter-title'>Malnutrition</span>"
+    ]
+  },
+  {
+    "objectID": "gast-malnutrition.html#management-of-severe-acute-malnutrition-sam",
+    "href": "gast-malnutrition.html#management-of-severe-acute-malnutrition-sam",
+    "title": "67  Malnutrition",
+    "section": "67.10 Management of Severe Acute Malnutrition (SAM)",
+    "text": "67.10 Management of Severe Acute Malnutrition (SAM)\nManagement is guided by WHO protocols and Ghana Health Service guidelines.\n\n67.10.1 Objectives\n\nTreat or prevent complications.\nCorrect nutritional deficiencies.\nAchieve catch-up growth.\nPromote caregiver education.\n\n\n\n67.10.2 Phases of Management\n\n67.10.2.1 1. Stabilization Phase (Days 1–2)\n\nManage life-threatening problems.\nAvoid excess protein and sodium.\nFeed with F-75 (75 kcal/100 mL, 0.9 g protein/100 mL) every 2–3 hours.\nPrevent hypoglycaemia and hypothermia.\n\n\n67.10.2.1.1 a) Hypoglycaemia\n\nFeed immediately.\nIf unable to feed: 10% dextrose 5 mL/kg IV or via NG tube.\n\n\n\n67.10.2.1.2 b) Hypothermia\n\nKeep child warm (skin-to-skin, warm room, clothing).\n\n\n\n67.10.2.1.3 c) Dehydration\n\nUse ReSoMal (Rehydration Solution for Malnutrition) orally or via NG.\nAvoid standard ORS due to high sodium.\n\n\n\n67.10.2.1.4 d) Infections\n\nEmpiric antibiotics (ampicillin + gentamicin, or ceftriaxone if indicated).\n\n\n\n67.10.2.1.5 e) Micronutrient supplementation\n\nVitamin A (not if given within last month), multivitamins, folic acid, zinc, copper, magnesium.\n\n\n\n\n67.10.2.2 2. Transition Phase (Days 2–7)\n\nIntroduce higher-calorie feeds: F-100 (100 kcal/100 mL, 2.9 g protein/100 mL).\nGradually increase intake to meet energy needs.\n\n\n\n67.10.2.3 3. Rehabilitation Phase (Day 7 onwards)\n\nCatch-up growth with F-100 or locally fortified feeds.\nEncourage play and stimulation.\nTreat underlying causes (e.g., poor feeding, infection).\n\n\n\n\n67.10.3 Discharge Criteria\n\nWeight-for-height &gt; -2 SD for 2 consecutive weeks.\nNo oedema for at least 2 weeks.\nGood appetite and clinical recovery.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>67</span>  <span class='chapter-title'>Malnutrition</span>"
+    ]
+  },
+  {
+    "objectID": "gast-malnutrition.html#management-of-moderate-acute-malnutrition-mam",
+    "href": "gast-malnutrition.html#management-of-moderate-acute-malnutrition-mam",
+    "title": "67  Malnutrition",
+    "section": "67.11 Management of Moderate Acute Malnutrition (MAM)",
+    "text": "67.11 Management of Moderate Acute Malnutrition (MAM)\n\nManaged as outpatient.\nSupplementary feeding with ready-to-use foods (RUFs).\nNutrition counselling for caregivers.\nMonitor growth weekly.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>67</span>  <span class='chapter-title'>Malnutrition</span>"
+    ]
+  },
+  {
+    "objectID": "gast-malnutrition.html#management-of-chronic-malnutrition-stunting",
+    "href": "gast-malnutrition.html#management-of-chronic-malnutrition-stunting",
+    "title": "67  Malnutrition",
+    "section": "67.12 Management of Chronic Malnutrition (Stunting)",
+    "text": "67.12 Management of Chronic Malnutrition (Stunting)\n\nAddress long-term inadequate nutrition.\nPromote maternal nutrition and antenatal care.\nEarly initiation of breastfeeding.\nTimely complementary feeding and infection control.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>67</span>  <span class='chapter-title'>Malnutrition</span>"
+    ]
+  },
+  {
+    "objectID": "gast-malnutrition.html#management-of-micronutrient-deficiencies",
+    "href": "gast-malnutrition.html#management-of-micronutrient-deficiencies",
+    "title": "67  Malnutrition",
+    "section": "67.13 Management of Micronutrient Deficiencies",
+    "text": "67.13 Management of Micronutrient Deficiencies\n\n67.13.1 1. Iron Deficiency Anaemia\n\nOral iron (3–6 mg/kg/day elemental iron) for 3 months.\nTreat underlying infection (malaria, hookworm).\n\n\n\n67.13.2 2. Vitamin A Deficiency\n\n200,000 IU single dose (&gt;12 months), 100,000 IU (6–12 months), 50,000 IU (&lt;6 months).\nEncourage intake of carotene-rich foods (mango, palm oil, liver).\n\n\n\n67.13.3 3. Iodine Deficiency\n\nUniversal salt iodization.\n\n\n\n67.13.4 4. Zinc Deficiency\n\nZinc supplementation (10–20 mg/day) during diarrhoeal illness.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>67</span>  <span class='chapter-title'>Malnutrition</span>"
+    ]
+  },
+  {
+    "objectID": "gast-malnutrition.html#prevention-of-malnutrition",
+    "href": "gast-malnutrition.html#prevention-of-malnutrition",
+    "title": "67  Malnutrition",
+    "section": "67.14 Prevention of Malnutrition",
+    "text": "67.14 Prevention of Malnutrition\n\nExclusive breastfeeding for the first 6 months.\nTimely and adequate complementary feeding from 6 months.\nMicronutrient supplementation and fortification (iron, vitamin A, zinc, iodine).\nRoutine immunization to reduce infections.\nNutrition education for caregivers.\nDeworming every 6 months after age 1.\nFood security interventions at household and community level.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>67</span>  <span class='chapter-title'>Malnutrition</span>"
+    ]
+  },
+  {
+    "objectID": "gast-malnutrition.html#nutrition-rehabilitation-centres-nrcs",
+    "href": "gast-malnutrition.html#nutrition-rehabilitation-centres-nrcs",
+    "title": "67  Malnutrition",
+    "section": "67.15 Nutrition Rehabilitation Centres (NRCs)",
+    "text": "67.15 Nutrition Rehabilitation Centres (NRCs)\nThese provide facility-based care for children with SAM who cannot be managed as outpatients. Activities include: - Stabilization and rehabilitation phases. - Nutrition education for caregivers. - Psychosocial stimulation. - Growth monitoring and follow-up.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>67</span>  <span class='chapter-title'>Malnutrition</span>"
+    ]
+  },
+  {
+    "objectID": "gast-malnutrition.html#community-management-of-acute-malnutrition-cmam",
+    "href": "gast-malnutrition.html#community-management-of-acute-malnutrition-cmam",
+    "title": "67  Malnutrition",
+    "section": "67.16 Community Management of Acute Malnutrition (CMAM)",
+    "text": "67.16 Community Management of Acute Malnutrition (CMAM)\nThe CMAM strategy integrates facility and community-level interventions: - Screening: by MUAC or oedema. - Outpatient therapeutic care: for uncomplicated SAM using RUTF (e.g., Plumpy’Nut). - Inpatient care: for complicated SAM. - Community outreach: to promote early detection and referral.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>67</span>  <span class='chapter-title'>Malnutrition</span>"
+    ]
+  },
+  {
+    "objectID": "gast-malnutrition.html#overnutrition-and-childhood-obesity",
+    "href": "gast-malnutrition.html#overnutrition-and-childhood-obesity",
+    "title": "67  Malnutrition",
+    "section": "67.17 Overnutrition and Childhood Obesity",
+    "text": "67.17 Overnutrition and Childhood Obesity\n\n67.17.1 Definition\nExcessive fat accumulation due to imbalance between energy intake and expenditure.\n\n\n67.17.2 Risk Factors\n\nHigh-calorie, low-nutrient diets.\nSedentary lifestyle.\nUrbanization.\nGenetic predisposition.\n\n\n\n67.17.3 Complications\n\nType 2 diabetes mellitus.\nHypertension, dyslipidaemia.\nNon-alcoholic fatty liver disease.\nOrthopaedic and psychosocial problems.\n\n\n\n67.17.4 Management\n\nLifestyle modification: healthy diet, regular physical activity.\nFamily-based behavioural interventions.\nAvoid restrictive diets in growing children.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>67</span>  <span class='chapter-title'>Malnutrition</span>"
+    ]
+  },
+  {
+    "objectID": "gast-malnutrition.html#prognosis",
+    "href": "gast-malnutrition.html#prognosis",
+    "title": "67  Malnutrition",
+    "section": "67.18 Prognosis",
+    "text": "67.18 Prognosis\n\nMild to moderate malnutrition: reversible with appropriate intervention.\nSevere malnutrition: carries a mortality rate of 10–30% if untreated.\nEarly detection and management significantly improve outcomes.\nStunting has long-term impacts on cognition, school performance, and adult productivity.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>67</span>  <span class='chapter-title'>Malnutrition</span>"
+    ]
+  },
+  {
+    "objectID": "gast-malnutrition.html#public-health-and-policy-considerations",
+    "href": "gast-malnutrition.html#public-health-and-policy-considerations",
+    "title": "67  Malnutrition",
+    "section": "67.19 Public Health and Policy Considerations",
+    "text": "67.19 Public Health and Policy Considerations\n\nIntegrated management of childhood illness (IMCI) includes nutrition counselling.\nGhana Health Service programs: CMAM, growth monitoring, vitamin A supplementation, and infant feeding promotion.\nSustainable Development Goals (SDG 2): End all forms of malnutrition by 2030.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>67</span>  <span class='chapter-title'>Malnutrition</span>"
+    ]
+  },
+  {
+    "objectID": "gast-malnutrition.html#key-takeaways",
+    "href": "gast-malnutrition.html#key-takeaways",
+    "title": "67  Malnutrition",
+    "section": "67.20 Key Takeaways",
+    "text": "67.20 Key Takeaways\n\nMalnutrition encompasses both undernutrition and overnutrition.\nProtein–energy malnutrition (marasmus and kwashiorkor) is preventable.\nEarly recognition, stabilization, and rehabilitation are critical in SAM management.\nMicronutrient supplementation and infection control are essential.\nPrevention through improved feeding practices and socioeconomic development remains the cornerstone.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>67</span>  <span class='chapter-title'>Malnutrition</span>"
+    ]
+  },
+  {
+    "objectID": "gast-malnutrition.html#suggested-references",
+    "href": "gast-malnutrition.html#suggested-references",
+    "title": "67  Malnutrition",
+    "section": "67.21 Suggested References",
+    "text": "67.21 Suggested References\n\nWorld Health Organization. Pocket Book of Hospital Care for Children, 3rd Edition, 2023.\nGhana Health Service. Integrated Management of Acute Malnutrition Guidelines, 2021.\nUNICEF/WHO/World Bank. Levels and Trends in Child Malnutrition, 2023.\nBlack RE, Victora CG, Walker SP et al. Maternal and child undernutrition and overweight in low-income and middle-income countries. Lancet. 2021;397(10283):138–154.\nMinistry of Health, Ghana. Standard Treatment Guidelines, 2022.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>67</span>  <span class='chapter-title'>Malnutrition</span>"
+    ]
+  },
+  {
     "objectID": "gast-liver-disorders.html",
     "href": "gast-liver-disorders.html",
     "title": "68  Liver Disorders",
@@ -7127,6 +7655,347 @@
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
       "<span class='chapter-number'>68</span>  <span class='chapter-title'>Liver Disorders</span>"
+    ]
+  },
+  {
+    "objectID": "gast-prolonged-jaundice.html",
+    "href": "gast-prolonged-jaundice.html",
+    "title": "69  Prolonged Jaundice",
+    "section": "",
+    "text": "69.1 Introduction\nJaundice is one of the most common clinical findings in the neonatal period, affecting approximately 60% of term and 80% of preterm newborns. In most cases, neonatal jaundice is physiological and resolves within the first week of life. However, when jaundice persists beyond the expected period, it is termed prolonged jaundice, and warrants thorough evaluation to exclude underlying pathology such as biliary atresia, hypothyroidism, or hemolytic disease.\nEarly recognition and appropriate management of prolonged jaundice are essential to prevent complications such as cholestasis, kernicterus, and long-term hepatic injury.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>69</span>  <span class='chapter-title'>Prolonged Jaundice</span>"
+    ]
+  },
+  {
+    "objectID": "gast-prolonged-jaundice.html#definition",
+    "href": "gast-prolonged-jaundice.html#definition",
+    "title": "69  Prolonged Jaundice",
+    "section": "69.2 Definition",
+    "text": "69.2 Definition\nProlonged (or persistent) neonatal jaundice is defined as jaundice persisting beyond: - 14 days in term infants, or - 21 days in preterm infants.\nThe key to evaluating prolonged jaundice lies in distinguishing between conjugated (direct) and unconjugated (indirect) hyperbilirubinaemia.\n\nUnconjugated hyperbilirubinaemia: often benign (e.g., breast milk jaundice, haemolysis), but may occasionally indicate pathological processes.\nConjugated hyperbilirubinaemia: always pathological and indicative of hepatobiliary disease or systemic disorder.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>69</span>  <span class='chapter-title'>Prolonged Jaundice</span>"
+    ]
+  },
+  {
+    "objectID": "gast-prolonged-jaundice.html#bilirubin-metabolism-brief-review",
+    "href": "gast-prolonged-jaundice.html#bilirubin-metabolism-brief-review",
+    "title": "69  Prolonged Jaundice",
+    "section": "69.3 Bilirubin Metabolism: Brief Review",
+    "text": "69.3 Bilirubin Metabolism: Brief Review\nBilirubin is a breakdown product of haem derived from senescent red blood cells.\n\nProduction: Haem is converted to biliverdin, then to unconjugated bilirubin in the reticuloendothelial system.\nTransport: Unconjugated bilirubin binds to albumin for transport to the liver.\nHepatic uptake and conjugation: Hepatocytes conjugate bilirubin with glucuronic acid via the enzyme UDP-glucuronyl transferase, forming conjugated (water-soluble) bilirubin.\nExcretion: Conjugated bilirubin is excreted in bile into the intestines, converted to urobilinogen and stercobilin, and eliminated in faeces. A portion is reabsorbed via the enterohepatic circulation.\n\nDisruption at any step can result in elevated serum bilirubin and jaundice.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>69</span>  <span class='chapter-title'>Prolonged Jaundice</span>"
+    ]
+  },
+  {
+    "objectID": "gast-prolonged-jaundice.html#classification",
+    "href": "gast-prolonged-jaundice.html#classification",
+    "title": "69  Prolonged Jaundice",
+    "section": "69.4 Classification",
+    "text": "69.4 Classification\nProlonged jaundice can be broadly divided into:\n\nPredominantly unconjugated (indirect) hyperbilirubinaemia\nPredominantly conjugated (direct) hyperbilirubinaemia (cholestatic jaundice)\n\nThe distinction is made using serum bilirubin fractionation: - Conjugated bilirubin &gt; 20% of total, or &gt; 34 µmol/L (2 mg/dL) is pathological.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>69</span>  <span class='chapter-title'>Prolonged Jaundice</span>"
+    ]
+  },
+  {
+    "objectID": "gast-prolonged-jaundice.html#causes-of-prolonged-jaundice",
+    "href": "gast-prolonged-jaundice.html#causes-of-prolonged-jaundice",
+    "title": "69  Prolonged Jaundice",
+    "section": "69.5 Causes of Prolonged Jaundice",
+    "text": "69.5 Causes of Prolonged Jaundice\n\n69.5.1 A. Predominantly Unconjugated Hyperbilirubinaemia\n\n69.5.1.1 1. Breast Milk Jaundice\n\nOccurs in healthy, exclusively breastfed infants.\nTypically appears after the first week and may persist for up to 6 weeks.\nMechanism: presence of β-glucuronidase and other substances in breast milk that increase enterohepatic circulation of bilirubin.\nInfant is otherwise healthy with normal weight gain and stool/urine colour.\n\n\n\n69.5.1.2 2. Breastfeeding (Lactation Failure) Jaundice\n\nSeen in the first week due to inadequate milk intake and dehydration.\nLeads to increased enterohepatic circulation and elevated unconjugated bilirubin.\n\n\n\n69.5.1.3 3. Haemolytic Disorders\n\nABO or Rh incompatibility\nG6PD deficiency (common in Ghana and other African settings)\nHereditary spherocytosis, pyruvate kinase deficiency\nThese conditions cause increased haemolysis and bilirubin production.\n\n\n\n69.5.1.4 4. Hypothyroidism\n\nReduced hepatic conjugation and decreased gut motility leading to prolonged unconjugated jaundice.\n\n\n\n69.5.1.5 5. Crigler–Najjar and Gilbert Syndromes\n\nRare genetic disorders of bilirubin conjugation.\n\nCrigler–Najjar Type I: complete absence of glucuronyl transferase (severe).\nCrigler–Najjar Type II and Gilbert syndrome: partial deficiency.\n\n\n\n\n69.5.1.6 6. Prematurity\n\nImmature hepatic conjugation enzyme systems.\n\n\n\n\n69.5.2 B. Predominantly Conjugated Hyperbilirubinaemia (Cholestatic Jaundice)\nConjugated bilirubin is water-soluble; its presence in serum is always abnormal and indicates hepatocellular or obstructive disease.\n\n69.5.2.1 1. Biliary Atresia\n\nProgressive, idiopathic obliteration of extrahepatic bile ducts.\nPresents with jaundice after 2 weeks, pale (acholic) stools, dark urine, and hepatomegaly.\nRequires urgent surgical intervention (Kasai portoenterostomy).\n\n\n\n69.5.2.2 2. Neonatal Hepatitis (Idiopathic or Infectious)\n\nInflammation and dysfunction of hepatocytes.\nCauses include viral infections (CMV, rubella, hepatitis B, enteroviruses) and bacterial sepsis.\n\n\n\n69.5.2.3 3. Metabolic Disorders\n\nGalactosaemia: deficiency of galactose-1-phosphate uridyl transferase leading to liver dysfunction, vomiting, and hypoglycaemia.\nTyrosinaemia type I, α1-antitrypsin deficiency: cause hepatocellular damage and cholestasis.\n\n\n\n69.5.2.4 4. Endocrine Disorders\n\nHypopituitarism, hypothyroidism may present with prolonged conjugated jaundice.\n\n\n\n69.5.2.5 5. Parenteral Nutrition–Associated Cholestasis\n\nSeen in preterm infants on prolonged parenteral nutrition.\n\n\n\n69.5.2.6 6. Genetic or Structural Disorders\n\nAlagille syndrome: paucity of intrahepatic bile ducts, associated with cardiac and facial anomalies.\nCholedochal cysts: congenital dilatation of the bile ducts causing obstruction.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>69</span>  <span class='chapter-title'>Prolonged Jaundice</span>"
+    ]
+  },
+  {
+    "objectID": "gast-prolonged-jaundice.html#clinical-features",
+    "href": "gast-prolonged-jaundice.html#clinical-features",
+    "title": "69  Prolonged Jaundice",
+    "section": "69.6 Clinical Features",
+    "text": "69.6 Clinical Features\n\n69.6.1 A. History\n\nOnset and duration of jaundice\nFeeding history: breast or formula, adequacy of feeds\nColour of stool (pale/acholic vs normal yellow)\nColour of urine (dark vs normal)\nGrowth pattern and weight gain\nFamily history of haemolytic disorders or liver disease\nMaternal infections during pregnancy (e.g., hepatitis, TORCH)\nPerinatal history (asphyxia, sepsis, prematurity)\n\n\n\n69.6.2 B. Physical Examination\n\nGeneral appearance: activity level, growth, nutritional status\nColour: extent of jaundice (blanching under natural light)\nStool and urine: observe directly if possible\nHepatomegaly: common in biliary atresia and hepatitis\nSplenomegaly: may indicate haemolysis or portal hypertension\nDysmorphic features: suggest syndromic or metabolic disorders\nSigns of hypothyroidism: macroglossia, umbilical hernia, hypotonia\nOther: ascites, petechiae (suggests liver failure)",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>69</span>  <span class='chapter-title'>Prolonged Jaundice</span>"
+    ]
+  },
+  {
+    "objectID": "gast-prolonged-jaundice.html#investigations",
+    "href": "gast-prolonged-jaundice.html#investigations",
+    "title": "69  Prolonged Jaundice",
+    "section": "69.7 Investigations",
+    "text": "69.7 Investigations\nThe goal is to differentiate between conjugated and unconjugated hyperbilirubinaemia and identify underlying causes.\n\n69.7.1 Initial Screening\n\nTotal and direct (conjugated) serum bilirubin: essential first step.\n\nConjugated &gt; 34 µmol/L or &gt;20% of total = cholestasis.\n\nFull blood count, reticulocyte count: anaemia and reticulocytosis suggest haemolysis.\nBlood group and Coombs test: for ABO/Rh incompatibility.\nPeripheral smear: to detect spherocytes or other RBC abnormalities.\nThyroid function tests (TFTs): rule out hypothyroidism.\nG6PD screening: especially in African and Asian infants.\nLiver function tests (ALT, AST, ALP, GGT, albumin, PT/INR): assess hepatocellular or cholestatic pattern.\n\n\n\n69.7.2 Additional/Targeted Tests\n\nUrine analysis: bilirubin (present in conjugated jaundice), reducing substances (galactosaemia).\nViral studies: TORCH, hepatitis panel, CMV PCR.\nMetabolic screening: galactose-1-phosphate, amino acid profile.\nUltrasound abdomen: evaluate biliary tree and liver architecture.\nHepatobiliary scintigraphy (HIDA scan): assess bile excretion; non-visualization of intestines after tracer administration suggests biliary atresia.\nLiver biopsy: gold standard for differentiating biliary atresia from neonatal hepatitis.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>69</span>  <span class='chapter-title'>Prolonged Jaundice</span>"
+    ]
+  },
+  {
+    "objectID": "gast-prolonged-jaundice.html#differential-diagnosis",
+    "href": "gast-prolonged-jaundice.html#differential-diagnosis",
+    "title": "69  Prolonged Jaundice",
+    "section": "69.8 Differential Diagnosis",
+    "text": "69.8 Differential Diagnosis\n\nPhysiological jaundice (if prolonged due to mild immaturity)\nBreast milk jaundice\nBiliary atresia\nNeonatal hepatitis\nHypothyroidism\nG6PD deficiency\nSepsis\nGalactosaemia or other metabolic disorders",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>69</span>  <span class='chapter-title'>Prolonged Jaundice</span>"
+    ]
+  },
+  {
+    "objectID": "gast-prolonged-jaundice.html#management",
+    "href": "gast-prolonged-jaundice.html#management",
+    "title": "69  Prolonged Jaundice",
+    "section": "69.9 Management",
+    "text": "69.9 Management\nManagement depends on the underlying cause and the type of hyperbilirubinaemia.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>69</span>  <span class='chapter-title'>Prolonged Jaundice</span>"
+    ]
+  },
+  {
+    "objectID": "gast-prolonged-jaundice.html#a.-general-principles",
+    "href": "gast-prolonged-jaundice.html#a.-general-principles",
+    "title": "69  Prolonged Jaundice",
+    "section": "69.10 A. General Principles",
+    "text": "69.10 A. General Principles\n\nIdentify the cause early.\nDifferentiate conjugated from unconjugated jaundice.\nPrevent bilirubin encephalopathy in unconjugated hyperbilirubinaemia.\nProvide nutritional and supportive care.\n\n\n69.10.1 B. Management of Unconjugated Prolonged Jaundice\n\n69.10.1.1 1. Breast Milk Jaundice\n\nContinue breastfeeding; it is benign.\nIf bilirubin is significantly elevated (&gt;250 µmol/L), a temporary 24-hour interruption with formula may cause rapid decline.\nNo need for phototherapy unless bilirubin levels approach treatment thresholds.\n\n\n\n69.10.1.2 2. Breastfeeding/Lactation Failure Jaundice\n\nEncourage frequent and effective breastfeeding (8–12 times/day).\nManage dehydration if present.\n\n\n\n69.10.1.3 3. Haemolytic Causes\n\nManage underlying haemolysis:\n\nExchange transfusion if bilirubin at neurotoxic levels.\nAvoid oxidative drugs in G6PD deficiency.\n\n\n\n\n69.10.1.4 4. Hypothyroidism\n\nTreat with levothyroxine once confirmed.\n\n\n\n69.10.1.5 5. Crigler–Najjar Syndrome\n\nType I: lifelong phototherapy, liver transplantation may be curative.\nType II: responds to phenobarbital.\n\n\n\n\n69.10.2 C. Management of Conjugated (Cholestatic) Jaundice\n\n69.10.2.1 1. Biliary Atresia\n\nEarly diagnosis is critical (surgery before 8 weeks improves prognosis).\nKasai portoenterostomy is the initial procedure.\nPostoperative management includes antibiotics, fat-soluble vitamins (A, D, E, K), and nutritional support.\n\n\n\n69.10.2.2 2. Neonatal Hepatitis\n\nSupportive therapy with adequate nutrition, vitamin supplementation, and management of complications.\nAntiviral therapy if specific infection identified.\n\n\n\n69.10.2.3 3. Metabolic Disorders\n\nGalactosaemia: eliminate galactose from the diet immediately.\nTyrosinaemia: low tyrosine and phenylalanine diet, nitisinone therapy.\nα1-Antitrypsin deficiency: supportive care; avoid hepatotoxic drugs.\n\n\n\n69.10.2.4 4. Endocrine Disorders\n\nReplacement therapy for hypothyroidism or hypopituitarism.\n\n\n\n\n69.10.3 5. Parenteral Nutrition–Associated Cholestasis\n\nReduce or discontinue parenteral nutrition; promote enteral feeding.\nUse ursodeoxycholic acid to improve bile flow.\n\n\n69.10.3.1 6. Symptomatic Management\n\nFat-soluble vitamins: due to malabsorption in cholestasis.\nMedium-chain triglyceride (MCT)-based feeds: improve calorie intake.\nPruritus relief: cholestyramine, ursodeoxycholic acid.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>69</span>  <span class='chapter-title'>Prolonged Jaundice</span>"
+    ]
+  },
+  {
+    "objectID": "gast-prolonged-jaundice.html#complications",
+    "href": "gast-prolonged-jaundice.html#complications",
+    "title": "69  Prolonged Jaundice",
+    "section": "69.11 Complications",
+    "text": "69.11 Complications\n\nKernicterus (bilirubin encephalopathy): from severe unconjugated hyperbilirubinaemia.\nMalnutrition: from fat malabsorption in cholestasis.\nCoagulopathy: due to vitamin K deficiency.\nLiver failure: in progressive hepatobiliary disease.\nPortal hypertension and cirrhosis: in biliary atresia and chronic hepatitis.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>69</span>  <span class='chapter-title'>Prolonged Jaundice</span>"
+    ]
+  },
+  {
+    "objectID": "gast-prolonged-jaundice.html#prognosis",
+    "href": "gast-prolonged-jaundice.html#prognosis",
+    "title": "69  Prolonged Jaundice",
+    "section": "69.12 Prognosis",
+    "text": "69.12 Prognosis\n\nUnconjugated causes (breast milk jaundice, mild haemolysis) have excellent prognosis with supportive care.\nBiliary atresia: prognosis depends on early detection and successful surgery. Delayed intervention leads to cirrhosis and need for liver transplantation.\nMetabolic and genetic disorders: outcome depends on prompt diagnosis and disease-specific therapy.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>69</span>  <span class='chapter-title'>Prolonged Jaundice</span>"
+    ]
+  },
+  {
+    "objectID": "gast-prolonged-jaundice.html#prevention",
+    "href": "gast-prolonged-jaundice.html#prevention",
+    "title": "69  Prolonged Jaundice",
+    "section": "69.13 Prevention",
+    "text": "69.13 Prevention\n\nPromote exclusive breastfeeding and early postnatal follow-up.\nRoutine newborn screening for G6PD deficiency and congenital hypothyroidism.\nEarly recognition of pale stools and dark urine by caregivers.\nPrompt referral of any infant jaundiced beyond 2 weeks for evaluation.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>69</span>  <span class='chapter-title'>Prolonged Jaundice</span>"
+    ]
+  },
+  {
+    "objectID": "gast-prolonged-jaundice.html#approach-summary-for-prolonged-jaundice",
+    "href": "gast-prolonged-jaundice.html#approach-summary-for-prolonged-jaundice",
+    "title": "69  Prolonged Jaundice",
+    "section": "69.14 Approach Summary for Prolonged Jaundice",
+    "text": "69.14 Approach Summary for Prolonged Jaundice\n\nAssess duration and severity.\nFractionate bilirubin.\nConjugated &gt; 20% or &gt;34 µmol/L → evaluate for cholestasis.\nCheck stool colour and urine colour.\nInvestigate systematically (haemolysis, thyroid, infection, metabolic, anatomical).\nManage cause-specific and provide supportive care.\nRefer early for suspected biliary atresia.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>69</span>  <span class='chapter-title'>Prolonged Jaundice</span>"
+    ]
+  },
+  {
+    "objectID": "gast-prolonged-jaundice.html#key-takeaways",
+    "href": "gast-prolonged-jaundice.html#key-takeaways",
+    "title": "69  Prolonged Jaundice",
+    "section": "69.15 Key Takeaways",
+    "text": "69.15 Key Takeaways\n\nAny infant jaundiced beyond 2 weeks must be evaluated for pathological causes.\nAlways determine if the bilirubin is conjugated or unconjugated.\nConjugated hyperbilirubinaemia is never physiological.\nEarly diagnosis of biliary atresia (&lt;8 weeks) markedly improves outcomes.\nSupportive care (nutrition, vitamins, prevention of complications) is crucial.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>69</span>  <span class='chapter-title'>Prolonged Jaundice</span>"
+    ]
+  },
+  {
+    "objectID": "gast-prolonged-jaundice.html#suggested-references",
+    "href": "gast-prolonged-jaundice.html#suggested-references",
+    "title": "69  Prolonged Jaundice",
+    "section": "69.16 Suggested References",
+    "text": "69.16 Suggested References\n\nWorld Health Organization. Pocket Book of Hospital Care for Children, 3rd Edition, 2023.\nGhana Health Service. Standard Treatment Guidelines, 2022.\nBalistreri WF, Bezerra JA. Neonatal cholestasis. J Pediatr. 2021;229:8–17.\nFawaz R et al. Guideline for the evaluation of cholestatic jaundice in infants. J Pediatr Gastroenterol Nutr. 2017;64(1):154–168.\nMoyer V, Freese DK, Whitington PF, et al. Guideline for the evaluation of cholestatic jaundice in infants. J Pediatr Gastroenterol Nutr. 2004;39(2):115–128.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>69</span>  <span class='chapter-title'>Prolonged Jaundice</span>"
+    ]
+  },
+  {
+    "objectID": "gast-diarrhoea.html",
+    "href": "gast-diarrhoea.html",
+    "title": "70  Diarrhoea Diseases",
+    "section": "",
+    "text": "70.1 Introduction\nDiarrhoeal diseases remain one of the most common causes of morbidity and mortality among children worldwide, particularly in low- and middle-income countries. In sub-Saharan Africa, including Ghana, diarrhoea is a leading cause of outpatient visits, hospital admissions, and deaths among children under five years. The World Health Organization (WHO) estimates that children under five experience an average of three episodes of diarrhoea per year, contributing to significant nutritional deficits and growth faltering.\nDefinition: Diarrhoea is defined as the passage of three or more loose or watery stools within 24 hours, or a stool consistency that is looser than normal for the individual. In infants on breast milk, frequent passage of soft stools may be normal and should not be mistaken for diarrhoea unless the stools are unusually watery and accompanied by other symptoms such as dehydration or fever.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>70</span>  <span class='chapter-title'>Diarrhoea Diseases</span>"
+    ]
+  },
+  {
+    "objectID": "gast-diarrhoea.html#classification",
+    "href": "gast-diarrhoea.html#classification",
+    "title": "70  Diarrhoea Diseases",
+    "section": "70.2 Classification",
+    "text": "70.2 Classification\nDiarrhoeal diseases are broadly classified based on duration and pathophysiology.\n\n70.2.1 By Duration\n\nAcute Diarrhoea: Lasts less than 14 days. Usually due to infectious causes (viral, bacterial, or parasitic).\nPersistent Diarrhoea: Lasts 14 days or longer. May follow an acute infectious episode and often associated with malnutrition, secondary lactose intolerance, or underlying enteric pathology.\nChronic Diarrhoea: Lasts more than 30 days. Typically due to non-infectious causes such as malabsorption, inflammatory bowel disease, or congenital disorders.\n\n\n\n70.2.2 By Clinical Presentation\n\nAcute Watery Diarrhoea: Sudden onset, stools watery without visible blood. Common causes: Rotavirus, Norovirus, Vibrio cholerae, ETEC.\nAcute Bloody Diarrhoea (Dysentery): Presence of visible blood or mucus; indicates mucosal invasion. Common causes: Shigella, Entamoeba histolytica, Salmonella, Campylobacter.\nPersistent Diarrhoea: Often due to prolonged infection, malnutrition, or mucosal damage.\nDiarrhoea with Severe Malnutrition: Often chronic and complicated by electrolyte imbalance and secondary infections.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>70</span>  <span class='chapter-title'>Diarrhoea Diseases</span>"
+    ]
+  },
+  {
+    "objectID": "gast-diarrhoea.html#epidemiology",
+    "href": "gast-diarrhoea.html#epidemiology",
+    "title": "70  Diarrhoea Diseases",
+    "section": "70.3 Epidemiology",
+    "text": "70.3 Epidemiology\nIn Ghana, diarrhoeal diseases are among the top five causes of outpatient visits in children under five. Peak incidence is between 6 months and 2 years (weaning period). Seasonality is common — cases often increase during the rainy season due to contamination of water sources. Contributing factors include poor sanitation, inadequate hand hygiene, unsafe drinking water, and improper food handling.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>70</span>  <span class='chapter-title'>Diarrhoea Diseases</span>"
+    ]
+  },
+  {
+    "objectID": "gast-diarrhoea.html#aetiology",
+    "href": "gast-diarrhoea.html#aetiology",
+    "title": "70  Diarrhoea Diseases",
+    "section": "70.4 Aetiology",
+    "text": "70.4 Aetiology\n\n70.4.1 Infectious Causes\n\n70.4.1.1 Viral\n\nRotavirus: Leading cause in children under 2 years; profuse watery diarrhoea, vomiting, low-grade fever.\nNorovirus: Causes outbreaks across all ages.\nAdenovirus (types 40, 41): Prolonged watery diarrhoea.\nAstrovirus: Generally mild illness.\n\n\n\n70.4.1.2 Bacterial\n\nETEC (Enterotoxigenic E. coli): Common in travellers and children; toxin-mediated secretory diarrhoea.\nEPEC (Enteropathogenic E. coli): Infantile diarrhoea.\nShigella spp.: Dysentery with fever, tenesmus, bloody stools.\nSalmonella (non-typhoidal): Food-borne; may cause invasive disease in infants.\nCampylobacter jejuni: Associated with poultry; can be dysenteric.\nVibrio cholerae: Causes profuse watery diarrhoea (“rice-water stools”).\nClostridioides difficile: Often post-antibiotic.\n\n\n\n70.4.1.3 Parasitic\n\nGiardia lamblia: Chronic/intermittent diarrhoea, malabsorption, steatorrhoea.\nEntamoeba histolytica: Amoebic dysentery; may complicate with liver abscess.\nCryptosporidium parvum: Important in immunocompromised children (e.g., HIV).\nIsospora belli, Cyclospora: Prolonged diarrhoea in immunosuppressed patients.\n\n\n\n\n70.4.2 Non-infectious Causes\n\nFood intolerances (e.g., lactose intolerance)\nCeliac disease\nInflammatory bowel disease (IBD)\nIrritable bowel syndrome (IBS)\nCongenital enzyme deficiencies\nMedications (antibiotics, laxatives)",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>70</span>  <span class='chapter-title'>Diarrhoea Diseases</span>"
+    ]
+  },
+  {
+    "objectID": "gast-diarrhoea.html#pathophysiology",
+    "href": "gast-diarrhoea.html#pathophysiology",
+    "title": "70  Diarrhoea Diseases",
+    "section": "70.5 Pathophysiology",
+    "text": "70.5 Pathophysiology\nDiarrhoea results from disturbed intestinal fluid and electrolyte transport. Key mechanisms:\n\nOsmotic diarrhoea: Non-absorbable solutes in the lumen draw water (e.g., lactose intolerance). Typically stops with fasting.\nSecretory diarrhoea: Increased electrolyte and water secretion (e.g., cholera, ETEC). Persists despite fasting.\nExudative diarrhoea: Mucosal inflammation causes loss of blood, mucus, and proteins (e.g., Shigella, E. histolytica).\nMotility-related diarrhoea: Rapid transit reduces absorption time (e.g., post-surgical states).\nMixed mechanisms: Especially in persistent diarrhoea where infection and malnutrition combine.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>70</span>  <span class='chapter-title'>Diarrhoea Diseases</span>"
+    ]
+  },
+  {
+    "objectID": "gast-diarrhoea.html#clinical-features",
+    "href": "gast-diarrhoea.html#clinical-features",
+    "title": "70  Diarrhoea Diseases",
+    "section": "70.6 Clinical Features",
+    "text": "70.6 Clinical Features\n\n70.6.1 Symptoms\n\nFrequent loose or watery stools (± blood)\nVomiting (common in viral aetiologies)\nFever\nAbdominal cramps or pain\nTenesmus (with dysentery)\nReduced appetite\nSigns of dehydration: thirst, dry mucous membranes, decreased urine output, sunken eyes\n\n\n\n70.6.2 Signs of Dehydration (WHO classification)\n\nNo dehydration: alert, normal eyes, drinks normally, skin pinch goes back quickly.\nSome dehydration: restless/irritable, sunken eyes, thirsty, skin pinch goes back slowly.\nSevere dehydration: lethargic/unconscious, very sunken eyes, unable to drink, skin pinch goes back very slowly (&gt;2 seconds).",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>70</span>  <span class='chapter-title'>Diarrhoea Diseases</span>"
+    ]
+  },
+  {
+    "objectID": "gast-diarrhoea.html#assessment-and-diagnosis",
+    "href": "gast-diarrhoea.html#assessment-and-diagnosis",
+    "title": "70  Diarrhoea Diseases",
+    "section": "70.7 Assessment and Diagnosis",
+    "text": "70.7 Assessment and Diagnosis\n\n70.7.1 History\n\nOnset, duration, stool frequency/character, presence of blood or mucus\nAssociated vomiting, fever, abdominal pain\nRecent antibiotic use, recent food or water exposures, sick contacts\nBreastfeeding/weaning history\nImmunization status (rotavirus vaccine)\nUnderlying conditions (HIV, malnutrition)\n\n\n\n70.7.2 Physical Examination\n\nVital signs, hydration assessment (capillary refill, pulse, blood pressure if indicated)\nWeight and comparison with prior measurements\nNutritional assessment for wasting/edema\nAbdominal examination for tenderness, distension, palpable masses\nPerianal and perineal inspection for skin irritation or lesions\n\n\n\n70.7.3 Laboratory Investigations\n(Not required for uncomplicated mild diarrhoea)\n\nStool microscopy, culture and sensitivity: Indicated for persistent diarrhoea, dysentery, or outbreak investigation.\nStool ova and parasites: If parasitic infection suspected.\nStool for reducing substances: If lactose intolerance/malabsorption suspected.\nElectrolytes and renal function: In severe dehydration or when IV fluids are given.\nHIV testing: For chronic/persistent diarrhoea or risk factors.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>70</span>  <span class='chapter-title'>Diarrhoea Diseases</span>"
+    ]
+  },
+  {
+    "objectID": "gast-diarrhoea.html#differential-diagnosis",
+    "href": "gast-diarrhoea.html#differential-diagnosis",
+    "title": "70  Diarrhoea Diseases",
+    "section": "70.8 Differential Diagnosis",
+    "text": "70.8 Differential Diagnosis\n\nAcute appendicitis (may present with diarrhoea early)\nUrinary tract infection presenting with fever and diarrhoea\nIntussusception (bloody stools, abdominal pain, vomiting)\nMalabsorption syndromes\nIrritable bowel syndrome\nSystemic sepsis with diarrhoea",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>70</span>  <span class='chapter-title'>Diarrhoea Diseases</span>"
+    ]
+  },
+  {
+    "objectID": "gast-diarrhoea.html#management",
+    "href": "gast-diarrhoea.html#management",
+    "title": "70  Diarrhoea Diseases",
+    "section": "70.9 Management",
+    "text": "70.9 Management\n\n70.9.1 General Principles\n\nAssess and correct dehydration.\nMaintain nutrition and early refeeding.\nTreat specific causes when indicated.\nPrevent complications and recurrence.\n\n\n\n70.9.2 WHO Fluid Management Plans\n\nPlan A (No dehydration): Home care with extra fluids and continued feeding.\nPlan B (Some dehydration): ORS 75 mL/kg over 4 hours.\nPlan C (Severe dehydration): Immediate IV rehydration (Ringer’s lactate or normal saline).\n\n\n70.9.2.1 Plan A — No Dehydration\n\nContinue breastfeeding and normal feeding. Provide extra fluids:\n\nLess than 2 years: 50–100 mL after each loose stool\n2–10 years: 100–200 mL after each loose stool\nLess than 10 years: as much as desired\n\nGive zinc supplementation (10 mg/day if &lt;6 months; 20 mg/day if ≥6 months) for 10–14 days.\nEducate caregivers about danger signs.\n\n\n\n70.9.2.2 Plan B — Some Dehydration\n\nGive ORS 75 mL/kg over 4 hours and reassess. If improved, continue feeding; if not, repeat Plan B or escalate to Plan C.\nContinue breastfeeding and frequent small feeds.\n\n\n\n70.9.2.3 Plan C — Severe Dehydration\n\nIV fluid therapy:\n\nInfants (&lt;12 months): 30 mL/kg in first 1 hour, then 70 mL/kg over next 5 hours (Ringer’s lactate preferred).\nChildren (&gt;12 months): 30 mL/kg in first 30 minutes, then 70 mL/kg over next 2.5 hours.\n\nMonitor for signs of fluid overload; reassess frequently.\nIf IV access cannot be established, use nasogastric rehydration with ORS.\n\n\n\n\n70.9.3 Nutritional Management\n\nContinue breastfeeding throughout the illness.\nDo not withhold food; resume age-appropriate feeding as soon as rehydration is achieved.\nUse energy-dense, micronutrient-rich foods during recovery and give extra meals for 2 weeks post-illness.\nAvoid high-sugar drinks and undiluted fruit juices.\n\n\n\n70.9.4 Specific Therapy\n\nAntibiotics are not routine for acute watery diarrhoea. Indications include:\n\nDysentery (suspected Shigella)\nConfirmed cholera with severe dehydration\nLaboratory-confirmed bacterial infections\nImmunocompromised patients with invasive bacterial disease\n\n\nCommon choices (local guidelines may vary): - Shigella: Ciprofloxacin 15 mg/kg orally twice daily for 3 days (check local resistance patterns). - Cholera: Single dose doxycycline (adults/older children) or azithromycin 10 mg/kg single dose where doxycycline contraindicated. - Giardiasis/Amebiasis: Metronidazole (observe paediatric dosing recommendations).\nAvoid antimotility agents (e.g., loperamide) in young children.\n\n\n70.9.5 Zinc Supplementation\n\nReduces severity and duration, and prevents recurrence. Dose:\n\n&lt;6 months: 10 mg/day for 10–14 days\n≥6 months: 20 mg/day for 10–14 days",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>70</span>  <span class='chapter-title'>Diarrhoea Diseases</span>"
+    ]
+  },
+  {
+    "objectID": "gast-diarrhoea.html#management-of-persistent-and-chronic-diarrhoea",
+    "href": "gast-diarrhoea.html#management-of-persistent-and-chronic-diarrhoea",
+    "title": "70  Diarrhoea Diseases",
+    "section": "70.10 Management of Persistent and Chronic Diarrhoea",
+    "text": "70.10 Management of Persistent and Chronic Diarrhoea\n\nInvestigate and treat underlying causes: persistent infection, malabsorption, cow’s milk protein allergy, post-infectious lactose intolerance.\nNutritional rehabilitation with low-lactose or lactose-free feeds if indicated.\nReplace micronutrients (zinc, vitamin A, folate) and correct anaemia when present.\nConsider referral for specialised investigations (endoscopy, biopsy, sweat test, advanced imaging) if diarrhoea persists beyond 4 weeks.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>70</span>  <span class='chapter-title'>Diarrhoea Diseases</span>"
+    ]
+  },
+  {
+    "objectID": "gast-diarrhoea.html#complications",
+    "href": "gast-diarrhoea.html#complications",
+    "title": "70  Diarrhoea Diseases",
+    "section": "70.11 Complications",
+    "text": "70.11 Complications\n\nDehydration and hypovolaemic shock\nElectrolyte disturbances (hypokalaemia, hyponatraemia)\nMetabolic acidosis\nMalnutrition and stunting\nSecondary lactose intolerance\nAcute kidney injury in severe cases\nSepsis, especially with invasive bacterial pathogens",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>70</span>  <span class='chapter-title'>Diarrhoea Diseases</span>"
+    ]
+  },
+  {
+    "objectID": "gast-diarrhoea.html#prevention-and-control",
+    "href": "gast-diarrhoea.html#prevention-and-control",
+    "title": "70  Diarrhoea Diseases",
+    "section": "70.12 Prevention and Control",
+    "text": "70.12 Prevention and Control\n\n70.12.1 Household measures\n\nExclusive breastfeeding for the first 6 months of life\nHandwashing with soap after defecation and before food preparation\nSafe drinking water (boiling, chlorination, filtration)\nProper sanitation and safe disposal of faeces\nHygienic food preparation and storage\nTimely use of ORS and zinc in episodes of diarrhoea\n\n\n\n70.12.2 Public health measures\n\nRotavirus vaccination included in Ghana’s EPI since 2012 — major impact on severe rotaviral disease.\nCholera surveillance and targeted vaccination in outbreaks and endemic areas.\nStrengthening WASH (Water, Sanitation and Hygiene) infrastructure and behaviour-change programmes.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>70</span>  <span class='chapter-title'>Diarrhoea Diseases</span>"
+    ]
+  },
+  {
+    "objectID": "gast-diarrhoea.html#prognosis",
+    "href": "gast-diarrhoea.html#prognosis",
+    "title": "70  Diarrhoea Diseases",
+    "section": "70.13 Prognosis",
+    "text": "70.13 Prognosis\nMost children recover fully with early recognition and appropriate management. Recurrent or persistent diarrhoea is a major contributor to malnutrition, stunting, and impaired cognitive development.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>70</span>  <span class='chapter-title'>Diarrhoea Diseases</span>"
+    ]
+  },
+  {
+    "objectID": "gast-diarrhoea.html#key-clinical-points",
+    "href": "gast-diarrhoea.html#key-clinical-points",
+    "title": "70  Diarrhoea Diseases",
+    "section": "70.14 Key Clinical Points",
+    "text": "70.14 Key Clinical Points\n\nAccurate assessment of dehydration is critical and guides management.\nORS and zinc are cornerstone therapies for most childhood diarrhoeas.\nContinue feeding and especially breastfeeding; do not withhold nutrition.\nReserve antibiotics for indicated cases and follow local resistance patterns.\nPrevention through vaccination (rotavirus), breastfeeding, and WASH interventions is essential.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>70</span>  <span class='chapter-title'>Diarrhoea Diseases</span>"
+    ]
+  },
+  {
+    "objectID": "gast-diarrhoea.html#suggested-further-reading",
+    "href": "gast-diarrhoea.html#suggested-further-reading",
+    "title": "70  Diarrhoea Diseases",
+    "section": "70.15 Suggested Further Reading",
+    "text": "70.15 Suggested Further Reading\n\nWorld Health Organization. Pocket Book of Hospital Care for Children, 3rd Edition (most recent).\nGhana Health Service. Standard Treatment Guidelines (latest edition).\nUNICEF/WHO. Integrated Management of Childhood Illness (IMCI) Chart Booklet.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Gastroenterology</span>",
+      "<span class='chapter-number'>70</span>  <span class='chapter-title'>Diarrhoea Diseases</span>"
     ]
   },
   {
@@ -8847,138 +9716,6 @@
     "text": "Adesegun, OluwaseyitanA, OluwafunmilolaO Adeyemi, Osaze Ehioghae, DavidF\nRabor, TolulopeO Binuyo, BisolaA Alafin, OnyedikachiB Nnagha, AkoladeO\nIdowu, and Ayokunle Osonuga. 2020. “Current Trends in the\nEpidemiology and Management of Enteric Fever in Africa: A Literature\nReview.” Asian Pacific Journal of Tropical Medicine 13\n(5): 204. https://doi.org/10.4103/1995-7645.283515.\n\n\nAlsayed, Shahinda S. R., and Hendra Gunosewoyo. 2023.\n“Tuberculosis: Pathogenesis, Current Treatment Regimens and New\nDrug Targets.” International Journal of Molecular\nSciences 24 (6): 5202. https://doi.org/10.3390/ijms24065202.\n\n\nAndrews, Jason, and Richelle C Charles. 2023. “Pathogenesis of\nEnteric (Typhoid and Paratyphoid) Fever.” UpToDate. https://www.uptodate.com/contents/pathogenesis-of-enteric-typhoid-and-paratyphoid-fever.\n\n\nAppiah, J A, S Salie, A Argent, and B Morrow. 2018.\n“Characteristics, Course and Outcomes of Children Admitted to a\nPaediatric Intensive Care Unit After Cardiac Arrest.”\nSouthern African Journal of Critical Care 34 (2): 58. https://doi.org/10.7196/sajcc.2018.v34i2.355.\n\n\nArias, Anita V, Michael Lintner-Rivera, Nadeem I Shafi, Qalab Abbas,\nAbdelhafeez H Abdelhafeez, Muhammad Ali, Halaashuor Ammar, et al. 2024.\n“A Research Definition and Framework for Acute Paediatric Critical\nIllness Across Resource-Variable Settings: A Modified Delphi\nConsensus.” The Lancet Global Health 12 (2): e331–40. https://doi.org/10.1016/s2214-109x(23)00537-5.\n\n\nBorges-Lujan, Moreyba, Gema E. Gonzalez-Luis, Tom Roosen, Maurice J.\nHuizing, and Eduardo Villamor. 2022. “Sex Differences in Patent\nDuctus Arteriosus Incidence and Response to Pharmacological Treatment in\nPreterm Infants: A Systematic Review, Meta-Analysis and\nMeta-Regression.” Journal of Personalized Medicine 12\n(7): 1143. https://doi.org/10.3390/jpm12071143.\n\n\nCaputo, Salvatore, Giovanbattista Capozzi, Maria Giovanna Russo, Teresa\nEsposito, Lucia Martina, Dominga Cardaropoli, Concetta Ricci, Paola\nArgiento, Giuseppe Pacileo, and Raffaele Calabrò. 2005. “Familial\nRecurrence of Congenital Heart Disease in Patients with Ostium Secundum\nAtrial Septal Defect.” European Heart Journal 26 (20):\n2179–84. https://doi.org/10.1093/eurheartj/ehi378.\n\n\nCarter, Nick, Allan Pamba, Stephan Duparc, and John N Waitumbi. 2011.\n“Frequency of Glucose-6-Phosphate Dehydrogenase Deficiency in\nMalaria Patients from Six African Countries Enrolled in Two Randomized\nAnti-Malarial Clinical Trials.” Malaria Journal 10 (1).\nhttps://doi.org/10.1186/1475-2875-10-241.\n\n\nCrawley, Jane, Cindy Chu, George Mtove, and François Nosten. 2010.\n“Malaria in Children.” The Lancet 375 (9724):\n1468–81. https://doi.org/10.1016/s0140-6736(10)60447-3.\n\n\nCrawley, Jane, and Bernard Nahlen. 2004. “Prevention and Treatment\nof Malaria in Young African Children.” Seminars in Pediatric\nInfectious Diseases 15 (3): 169–80. https://doi.org/10.1053/j.spid.2004.05.009.\n\n\nCunningham, A L, S Li, J Juarez, G Lynch, M Alali, and H Naif. 2000.\n“The Level of HIV Infection of Macrophages Is Determined by\nInteraction of Viral and Host Cell Genotypes.” Journal of\nLeukocyte Biology 68 (3): 311–17. https://doi.org/10.1189/jlb.68.3.311.\n\n\nde Mendonça, Vitor R. R., Marilda Souza Goncalves, and Manoel\nBarral-Netto. 2012. “The Host Genetic Diversity in Malaria\nInfection.” Journal of Tropical Medicine 2012: 1–17. https://doi.org/10.1155/2012/940616.\n\n\nDriss, Adel, Jacqueline M Hibbert, Nana O Wilson, Shareen A Iqbal,\nThomas V Adamkiewicz, and Jonathan K Stiles. 2011. “Genetic\nPolymorphisms Linked to Susceptibility to Malaria.” Malaria\nJournal 10 (1). https://doi.org/10.1186/1475-2875-10-271.\n\n\nemedicine. 2024. “Typhoid Fever\nFollow-up: Further Outpatient\nCare, Further Inpatient\nCare, Deterrence/Prevention —\nEmedicine.medscape.com.” https://emedicine.medscape.com/article/231135-followup?form=fpf.\n\n\nGhana Health Service. 2023. “Ghana Health Service Holds Annual\nJoint TB/HIV Performance Review Meeting.” GHS News. https://ghs.gov.gh/2023/01/22/ghana-health-service-holds-annual-joint-tb-hiv-performance-review-meeting/.\n\n\nHoffman, Olaf, and Joerg R. Weber. 2009. “Review: Pathophysiology\nand Treatment of Bacterial Meningitis.” Therapeutic Advances\nin Neurological Disorders 2 (6): 401–12. https://doi.org/10.1177/1756285609337975.\n\n\nJortveit, Jarle, Elisabeth Leirgul, Leif Eskedal, Gottfried Greve,\nTatiana Fomina, Gaute Døhlen, Grethe S Tell, Sigurd Birkeland, Nina\nØyen, and Henrik Holmstrøm. 2016. “Mortality and Complications in\n3495 Children with Isolated Ventricular Septal Defects.”\nArchives of Disease in Childhood 101 (9): 808–13. https://doi.org/10.1136/archdischild-2015-310154.\n\n\nKalisch-Smith, Jacinta Isabelle, Nikita Ved, and Duncan Burnaby Sparrow.\n2019. “Environmental Risk Factors for Congenital Heart\nDisease.” Cold Spring Harbor Perspectives in Biology 12\n(3): a037234. https://doi.org/10.1101/cshperspect.a037234.\n\n\nKo, Jung Min. 2015. “Genetic Syndromes Associated with Congenital\nHeart Disease.” Korean Circulation Journal 45 (5): 357.\nhttps://doi.org/10.4070/kcj.2015.45.5.357.\n\n\nLewis, Grant, and Paul McConnell. 2018. “Ethical Issues in\nResuscitation and Intensive Care.” Anaesthesia &\nIntensive Care Medicine 19 (12): 644–47. https://doi.org/10.1016/j.mpaic.2018.09.004.\n\n\nMarsh, K., M. English, J. Crawley, and N. Peshu. 1996. “The\nPathogenesis of Severe Malaria in African Children.” Annals\nof Tropical Medicine & Parasitology 90 (4): 395–402. https://doi.org/10.1080/00034983.1996.11813068.\n\n\nMarsh, Kevin, Dayo Forster, Catherine Waruiru, Isiah Mwangi, Maria\nWinstanley, Victoria Marsh, Charles Newton, et al. 1995.\n“Indicators of Life-Threatening Malaria in African\nChildren.” New England Journal of Medicine 332 (21):\n1399–1404. https://doi.org/10.1056/nejm199505253322102.\n\n\nMeghani, Shaista. 2021. “Witnessed Resuscitation: A Concept\nAnalysis.” Intensive and Critical Care Nursing 64\n(June): 103003. https://doi.org/10.1016/j.iccn.2020.103003.\n\n\nMoeti, Matshidiso R, Prebo Brango, Juliet Nabyonga-Orem, and Benido\nImpouma. 2023. “Ending the Burden of Sickle Cell Disease in\nAfrica.” The Lancet Haematology 10 (8): e567–69. https://doi.org/10.1016/s2352-3026(23)00120-5.\n\n\nMoir, Susan, Tae-Wook Chun, and Anthony S. Fauci. 2011.\n“Pathogenic Mechanisms of HIV Disease.” Annual Review\nof Pathology: Mechanisms of Disease 6 (1): 223–48. https://doi.org/10.1146/annurev-pathol-011110-130254.\n\n\nOrganization, World Health. 2021. “Defeating Meningitis by 2030: A\nGlobal Road Map.” World Health Organization. https://apps.who.int/iris/handle/10665/342010.\n\n\nØyen, Nina, Gry Poulsen, Heather A. Boyd, Jan Wohlfahrt, Peter K. A.\nJensen, and Mads Melbye. 2009. “Recurrence of Congenital Heart\nDefects in Families.” Circulation 120 (4): 295–301. https://doi.org/10.1161/circulationaha.109.857987.\n\n\nPATH. 2021. “Toward a World Without Meningitis.” PATH\nImpact Stories. https://www.path.org/our-impact/articles/toward-world-without-meningitis/.\n\n\nPoespoprodjo, Jeanne Rini, Nicholas M Douglas, Daniel Ansong, Steven\nKho, and Nicholas M Anstey. 2023. “Malaria.” The\nLancet 402 (10419): 2328–45. https://doi.org/10.1016/s0140-6736(23)01249-7.\n\n\nSakaan, Firas, Adrian Holloway, Qalab Abbas, John Appiah, Jonah\nAttebery, Paula Caporal, Ericka Fink, et al. 2022. “643:\nESTIMATING THE GLOBAL PREVALENCE OF PEDIATRIC ACUTE CRITICAL ILLNESS IN\nRESOURCE-LIMITED SETTINGS.” Critical Care Medicine 51\n(1): 311–11. https://doi.org/10.1097/01.ccm.0000908304.12117.81.\n\n\nSkar, Gwenn, Lillian Flannigan, Rebecca Latch, and Jessica Snowden.\n2024. “Meningitis in Children: Still a Can’t-Miss\nDiagnosis.” Pediatrics In Review 45 (6): 305–15. https://doi.org/10.1542/pir.2023-006013.\n\n\nSmith, Clayton A., Courtney McCracken, Amanda S. Thomas, Logan G.\nSpector, James D. St Louis, Matthew E. Oster, James H. Moller, and\nLazaros Kochilas. 2019. “Long-Term Outcomes of Tetralogy of\nFallot.” JAMA Cardiology 4 (1): 34. https://doi.org/10.1001/jamacardio.2018.4255.\n\n\nWang, Huaming, Xi Lin, Guorong Lyu, Shaozheng He, Bingtian Dong, and\nYiru Yang. 2023. “Chromosomal Abnormalities in Fetuses with\nCongenital Heart Disease: A Meta-Analysis.” Archives of\nGynecology and Obstetrics 308 (3): 797–811. https://doi.org/10.1007/s00404-023-06910-3.\n\n\nWHO. 2023. “Typhoid.” 2023. \\url{https://www.who.int/news-room/fact-sheets/detail/typhoid}.\n\n\nWilen, C. B., J. C. Tilton, and R. W. Doms. 2012. “HIV: Cell\nBinding and Entry.” Cold Spring Harbor Perspectives in\nMedicine 2 (8): a006866–66. https://doi.org/10.1101/cshperspect.a006866.\n\n\nWorld Health Organization. 2023. “World Malaria Report\n2023.” https://www.who.int/teams/global-malaria-programme/reports/world-malaria-report-2023.\n\n\n———. 2024. “Malaria Vaccines (RTS,s and R21).” 2024. https://www.who.int/news-room/questions-and-answers/item/q-a-on-rts-s-malaria-vaccine.\n\n\nWorld Health Organization (WHO). 2023. “HIV and AIDS.”\nFact Sheets. https://www.who.int/news-room/fact-sheets/detail/hiv-aids.\n\n\nYuan, Zhen, Long-Zhen Zhang, Bin Li, Hung-Tao Chung, Jin-Xin Jiang, John\nY. Chiang, Hsin-Ju Chiang, Hon-Kan Yip, and Pei-Hsun Sung. 2021.\n“Investigation of Echocardiographic Characteristics and Predictors\nfor Persistent Defects of Patent Foramen Ovale or Patent Ductus\nArteriosus in Chinese Newborns.” Biomedical Journal 44\n(2): 209–16. https://doi.org/10.1016/j.bj.2019.12.007.\n\n\nZhang, Haobo, Mengda Liu, Weixing Fan, Shufang Sun, and Xiaoxu Fan.\n2022. “The Impact of Mycobacterium Tuberculosis Complex in the\nEnvironment on One Health Approach.” Frontiers in Public\nHealth 10 (September). https://doi.org/10.3389/fpubh.2022.994745.",
     "crumbs": [
       "References"
-    ]
-  },
-  {
-    "objectID": "haem-sickle-cell.html",
-    "href": "haem-sickle-cell.html",
-    "title": "62  Sickle Cell Disease",
-    "section": "",
-    "text": "62.1 Introduction\nSickle Cell Disease (SCD) represents one of the most important inherited disorders of haemoglobin globally and in Ghana, where it poses a significant public health challenge. It remains a major cause of childhood morbidity and mortality across sub-Saharan Africa, yet it is largely preventable through newborn screening and manageable with timely interventions. Understanding its genetics, pathophysiology, clinical presentation, and management principles is therefore crucial for every medical student and health professional involved in paediatric care.\nSickle Cell Disease encompasses a group of inherited haemoglobinopathies characterized by the presence of abnormal haemoglobin S (HbS) within red blood cells. When deoxygenated, HbS polymerizes, causing the red cells to assume a rigid, sickle-like shape. These sickled cells have a shortened lifespan and tend to obstruct small blood vessels, resulting in chronic haemolytic anaemia, episodic vaso-occlusive crises, and progressive multi-organ damage.\nThe disease is inherited in an autosomal recessive pattern and primarily affects populations from malaria-endemic regions, where the sickle cell trait confers partial protection against severe Plasmodium falciparum infection. Consequently, the prevalence of the sickle gene is highest in sub-Saharan Africa, the Middle East, and parts of India.\nIn Ghana, it is estimated that about 2% of newborns are affected by SCD annually, and up to 30% of the population carry the sickle trait (HbAS).",
-    "crumbs": [
-      "<span style='font-weight:bold; color: black;'>Haematology</span>",
-      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Sickle Cell Disease</span>"
-    ]
-  },
-  {
-    "objectID": "haem-sickle-cell.html#genetics-and-molecular-basis",
-    "href": "haem-sickle-cell.html#genetics-and-molecular-basis",
-    "title": "62  Sickle Cell Disease",
-    "section": "62.2 Genetics and Molecular Basis",
-    "text": "62.2 Genetics and Molecular Basis\nNormal adult haemoglobin (HbA) consists of two alpha (α) and two beta (β) chains. In SCD, a single-point mutation occurs in the β-globin gene on chromosome 11, substituting valine for glutamic acid at position 6 of the β-chain. This substitution profoundly alters haemoglobin solubility.\nWhen deoxygenated, HbS molecules polymerize into long, rigid fibres, distorting the red blood cells into the characteristic “sickle” shape. These cells are less deformable, leading to vaso-occlusion and premature haemolysis.\nCommon genetic variants of SCD include:\n\nHbSS (Sickle Cell Anaemia) – homozygous state; most severe.\nHbSC disease – compound heterozygote for HbS and HbC.\nSickle β-thalassaemia – combination of HbS with β-thalassaemia mutation (can be mild or severe).",
-    "crumbs": [
-      "<span style='font-weight:bold; color: black;'>Haematology</span>",
-      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Sickle Cell Disease</span>"
-    ]
-  },
-  {
-    "objectID": "haem-sickle-cell.html#epidemiology",
-    "href": "haem-sickle-cell.html#epidemiology",
-    "title": "62  Sickle Cell Disease",
-    "section": "62.3 Epidemiology",
-    "text": "62.3 Epidemiology\nGlobally, about 300,000–400,000 infants are born each year with SCD. Sub-Saharan Africa accounts for more than 75% of these births. Without adequate care, most affected children in low-resource settings die before their fifth birthday from infections or severe anaemia.\nIn Ghana, SCD is among the top causes of paediatric hospital admissions. The institution of newborn screening programs and comprehensive sickle cell clinics, especially in teaching hospitals, has significantly improved survival. Early diagnosis through neonatal screening, coupled with penicillin prophylaxis and immunization, can reduce childhood mortality by up to 70%.",
-    "crumbs": [
-      "<span style='font-weight:bold; color: black;'>Haematology</span>",
-      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Sickle Cell Disease</span>"
-    ]
-  },
-  {
-    "objectID": "haem-sickle-cell.html#pathophysiology",
-    "href": "haem-sickle-cell.html#pathophysiology",
-    "title": "62  Sickle Cell Disease",
-    "section": "62.4 Pathophysiology",
-    "text": "62.4 Pathophysiology\nThe clinical manifestations of SCD arise primarily from two interrelated mechanisms: haemolysis and vaso-occlusion.\n\n62.4.1 Haemolysis\nSickled red cells are fragile and have a lifespan of only 10–20 days (compared to 120 days for normal RBCs). Their destruction leads to chronic anaemia, jaundice, and compensatory bone marrow expansion. Free haemoglobin released during haemolysis also scavenges nitric oxide, promoting vasoconstriction and endothelial dysfunction.\n\n\n62.4.2 Vaso-occlusion\nRigid sickled cells adhere to vascular endothelium and obstruct small vessels, resulting in tissue ischemia, infarction, and pain crises. Repeated episodes cause chronic organ damage, particularly in the spleen, kidneys, and bones.\nContributing factors include dehydration, infection, hypoxia, acidosis, and cold exposure — all of which increase sickling tendency.\n\n\n62.4.3 Other Pathophysiological Effects\n\nSplenic dysfunction predisposes to overwhelming infections with encapsulated organisms (e.g., Streptococcus pneumoniae).\n\nBone marrow hyperactivity can cause skeletal deformities and extramedullary haematopoiesis.\n\nEndothelial activation and chronic inflammation contribute to long-term vasculopathy and pulmonary hypertension.",
-    "crumbs": [
-      "<span style='font-weight:bold; color: black;'>Haematology</span>",
-      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Sickle Cell Disease</span>"
-    ]
-  },
-  {
-    "objectID": "haem-sickle-cell.html#clinical-features",
-    "href": "haem-sickle-cell.html#clinical-features",
-    "title": "62  Sickle Cell Disease",
-    "section": "62.5 Clinical Features",
-    "text": "62.5 Clinical Features\nThe disease spectrum varies widely depending on genotype and environmental influences.\n\n62.5.1 Infancy and Early Childhood\n\nUsually asymptomatic until 4–6 months when fetal haemoglobin (HbF) declines.\n\nDactylitis (hand-foot syndrome): Painful swelling of hands and feet, often the first manifestation.\n\nSevere anaemia leading to pallor, jaundice, and poor growth.\n\nIncreased susceptibility to infections, particularly pneumonia and sepsis.\n\n\n\n62.5.2 Older Children and Adolescents\nCommon features include:\n\nRecurrent painful crises affecting bones, chest, or abdomen.\n\nChronic anaemia with scleral icterus and gallstones.\n\nGrowth retardation and delayed puberty.\n\nSplenic atrophy (autosplenectomy) by age 6–8 years.\n\nLeg ulcers and avascular necrosis of the femoral head.\n\nNeurological events such as stroke or seizures.\n\n\n\n62.5.3 Major Clinical Syndromes\n\nVaso-occlusive (Painful) Crisis: Most frequent; triggered by dehydration, cold, or infection.\n\nSequestration Crisis: Sudden pooling of blood in spleen or liver leading to shock; more common in infants and young children.\n\nAplastic Crisis: Transient bone marrow suppression, often due to parvovirus B19 infection.\n\nHaemolytic Crisis: Acute exacerbation of haemolysis with jaundice and falling haematocrit.\n\nAcute Chest Syndrome: Characterized by chest pain, fever, hypoxia, and pulmonary infiltrates — a leading cause of mortality.",
-    "crumbs": [
-      "<span style='font-weight:bold; color: black;'>Haematology</span>",
-      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Sickle Cell Disease</span>"
-    ]
-  },
-  {
-    "objectID": "haem-sickle-cell.html#differential-diagnosis",
-    "href": "haem-sickle-cell.html#differential-diagnosis",
-    "title": "62  Sickle Cell Disease",
-    "section": "62.6 Differential Diagnosis",
-    "text": "62.6 Differential Diagnosis\n\nOther causes of chronic haemolytic anaemia: thalassaemia, hereditary spherocytosis, G6PD deficiency.\n\nRecurrent bone pain from osteomyelitis.\n\nMalaria with anaemia.\n\nLeukaemia or aplastic anaemia.",
-    "crumbs": [
-      "<span style='font-weight:bold; color: black;'>Haematology</span>",
-      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Sickle Cell Disease</span>"
-    ]
-  },
-  {
-    "objectID": "haem-sickle-cell.html#investigations",
-    "href": "haem-sickle-cell.html#investigations",
-    "title": "62  Sickle Cell Disease",
-    "section": "62.7 Investigations",
-    "text": "62.7 Investigations\n\n62.7.1 Screening and Diagnostic Tests\n\nSickle cell solubility test: Rapid screening method.\n\nHaemoglobin electrophoresis: Gold standard for definitive diagnosis and genotyping (HbSS, HbSC, HbSβ-thalassaemia).\n\nHigh-performance liquid chromatography (HPLC): Provides precise quantification of haemoglobin fractions.\n\nDNA analysis: Used for prenatal diagnosis.\n\n\n\n62.7.2 Routine Monitoring\n\nFull blood count (moderate anaemia, high reticulocyte count).\n\nLiver function tests (for bilirubin and transaminase levels).\n\nRenal function (creatinine, urinalysis for proteinuria).\n\nChest X-ray and echocardiogram in chronic cases.\n\nTranscranial Doppler ultrasound annually in children with HbSS (to screen for stroke risk).",
-    "crumbs": [
-      "<span style='font-weight:bold; color: black;'>Haematology</span>",
-      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Sickle Cell Disease</span>"
-    ]
-  },
-  {
-    "objectID": "haem-sickle-cell.html#management",
-    "href": "haem-sickle-cell.html#management",
-    "title": "62  Sickle Cell Disease",
-    "section": "62.8 Management",
-    "text": "62.8 Management\nManagement of SCD is comprehensive and lifelong, involving prevention of crises, prompt treatment of complications, and psychosocial support.\n\n62.8.1 Health Maintenance and Preventive Care\n\nNewborn screening: Enables early identification and initiation of prophylaxis.\n\nHealth education: Parents should be educated about hydration, nutrition, and avoiding triggers (cold, stress, infection).\n\nProphylactic antibiotics: Oral penicillin V (125 mg twice daily &lt;3 years; 250 mg twice daily &gt;3 years) from diagnosis until at least age 5.\n\nVaccinations: Pneumococcal, Haemophilus influenzae type b, meningococcal, hepatitis B, and annual influenza vaccines.\n\nFolic acid supplementation: To support red cell production.\n\n\n\n62.8.2 Management of Acute Crises\n\n62.8.2.1 Painful Crisis\n\nAssess severity and exclude infection or acute chest syndrome.\n\nAdequate hydration (oral or IV fluids).\n\nAnalgesia: stepwise approach using paracetamol, NSAIDs, and opioids for severe pain.\n\nOxygen if hypoxic; treat precipitating factors.\n\n\n\n62.8.2.2 Sequestration Crisis\n\nRapid restoration of blood volume with cautious transfusion.\n\nMonitor for recurrence; splenectomy may be indicated after repeated episodes.\n\n\n\n62.8.2.3 Aplastic Crisis\n\nSupportive care with transfusions; isolation if parvovirus suspected.\n\n\n\n62.8.2.4 Acute Chest Syndrome\n\nUrgent treatment with antibiotics, oxygen therapy, analgesia, and blood transfusion (exchange transfusion in severe cases).\n\n\n\n\n62.8.3 Chronic Management\n\n62.8.3.1 Hydroxyurea Therapy\n\nIncreases fetal haemoglobin (HbF) levels, reducing frequency of pain crises and acute chest syndrome.\n\nTypical dose: 15–35 mg/kg/day with close monitoring for myelosuppression.\n\n\n\n62.8.3.2 Blood Transfusions\n\nUsed for severe anaemia, stroke prevention, or perioperative optimization.\n\nChronic transfusion programs aim to maintain HbS &lt;30%.\n\nRisk of iron overload; managed with chelation (deferasirox or deferoxamine).\n\n\n\n62.8.3.3 Stem Cell Transplantation\n\nThe only curative treatment.\n\nBest outcomes when performed early from an HLA-matched sibling donor.\n\nCost and donor availability remain limiting factors in Africa.\n\n\n\n\n62.8.4 Management of Complications\n\nStroke: Urgent transfusion and long-term prevention via chronic transfusions or hydroxyurea.\n\nRenal disease: ACE inhibitors for proteinuria.\n\nPulmonary hypertension: Oxygen and hydroxyurea; avoid hypoxia.\n\nGallstones: Cholecystectomy if symptomatic.\n\nLeg ulcers: Local wound care and infection control.\n\n\n\n62.8.5 Psychosocial and Educational Support\nChronic illness impacts schooling, family dynamics, and mental health. Counselling and peer support programs are vital. Transition to adult care should be planned from adolescence.",
-    "crumbs": [
-      "<span style='font-weight:bold; color: black;'>Haematology</span>",
-      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Sickle Cell Disease</span>"
-    ]
-  },
-  {
-    "objectID": "haem-sickle-cell.html#complications",
-    "href": "haem-sickle-cell.html#complications",
-    "title": "62  Sickle Cell Disease",
-    "section": "62.9 Complications",
-    "text": "62.9 Complications\n\n\n\nSystem\nMajor Complications\n\n\n\n\nHaematologic\nSevere anaemia, aplastic crisis\n\n\nCardiovascular\nCardiomegaly, high-output failure\n\n\nRespiratory\nAcute chest syndrome, pulmonary hypertension\n\n\nNeurological\nStroke, seizures\n\n\nRenal\nHematuria, hyposthenuria, renal failure\n\n\nMusculoskeletal\nAvascular necrosis, chronic leg ulcers\n\n\nHepatobiliary\nGallstones, hepatic sequestration\n\n\nGrowth\nDelayed puberty, short stature",
-    "crumbs": [
-      "<span style='font-weight:bold; color: black;'>Haematology</span>",
-      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Sickle Cell Disease</span>"
-    ]
-  },
-  {
-    "objectID": "haem-sickle-cell.html#prevention",
-    "href": "haem-sickle-cell.html#prevention",
-    "title": "62  Sickle Cell Disease",
-    "section": "62.10 Prevention",
-    "text": "62.10 Prevention\n\nPublic Health Interventions\n\nPremarital and antenatal genetic counselling.\n\nNeonatal screening programs nationwide.\n\nEducation on carrier status and family planning.\n\nInfection Prevention\n\nRoutine immunizations.\n\nProphylactic antibiotics and malaria prevention.\n\nNutritional Support\n\nBalanced diet with adequate folate and hydration.\n\nAvoidance of triggers such as cold, dehydration, and strenuous activity.",
-    "crumbs": [
-      "<span style='font-weight:bold; color: black;'>Haematology</span>",
-      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Sickle Cell Disease</span>"
-    ]
-  },
-  {
-    "objectID": "haem-sickle-cell.html#prognosis",
-    "href": "haem-sickle-cell.html#prognosis",
-    "title": "62  Sickle Cell Disease",
-    "section": "62.11 Prognosis",
-    "text": "62.11 Prognosis\nWith comprehensive care, children with SCD can now survive into adulthood with reasonable quality of life. Prognosis depends on genotype (HbSS being most severe), frequency of complications, and access to medical care.\nEarly diagnosis, hydroxyurea use, and stroke prevention have significantly improved survival rates.\nIn resource-limited settings like Ghana, the main challenge remains late diagnosis and inadequate access to specialized care. Expansion of community-based sickle cell programs, health education, and government support are essential for improving outcomes.",
-    "crumbs": [
-      "<span style='font-weight:bold; color: black;'>Haematology</span>",
-      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Sickle Cell Disease</span>"
-    ]
-  },
-  {
-    "objectID": "haem-sickle-cell.html#conclusion",
-    "href": "haem-sickle-cell.html#conclusion",
-    "title": "62  Sickle Cell Disease",
-    "section": "62.12 Conclusion",
-    "text": "62.12 Conclusion\nSickle Cell Disease in children remains a major paediatric concern in Ghana and across Africa. Its high prevalence, severe complications, and lifelong impact demand a holistic approach integrating early detection, preventive care, effective crisis management, and psychosocial support. With increased awareness, improved access to diagnostics and hydroxyurea therapy, and the scaling up of neonatal screening, the burden of SCD can be significantly reduced, transforming the outlook for affected children and their families.",
-    "crumbs": [
-      "<span style='font-weight:bold; color: black;'>Haematology</span>",
-      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Sickle Cell Disease</span>"
     ]
   }
 ]
