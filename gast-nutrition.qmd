@@ -36,7 +36,7 @@ growth and development, particularly in the first two years of life.
 A balanced diet provides adequate amounts of all essential nutrients. The key components are:
 
 | Nutrient | Function | Major Sources |
-|---------------------|---------------------------------|---------------------------------|
+|----|----|----|
 | Carbohydrates | Energy source | Cereals, grains, fruits, tubers |
 | Proteins | Growth and tissue repair | Legumes, milk, meat, fish, eggs |
 | Fats | Energy storage, cell membranes, absorption of fat-soluble vitamins | Oils, nuts, dairy, meat |
@@ -228,17 +228,17 @@ examination.**
 
 ## Nutrition in Special Conditions
 
-### a) Preterm Infants
+### Preterm Infants
 
 -   Require higher protein and energy intake.
 -   Use fortified breast milk or preterm formulas.
 
-### b) Children with Chronic Illness
+### Children with Chronic Illness
 
 -   Monitor growth closely (e.g., in congenital heart disease, HIV, cystic fibrosis).
 -   Supplement calories and micronutrients.
 
-### c) HIV-Infected Children
+### HIV-Infected Children
 
 -   Require increased caloric intake (10–30% higher).
 -   Nutritional counselling and food support are vital.
@@ -250,7 +250,7 @@ examination.**
 -   Monitor and discuss growth charts during child welfare visits.
 -   Address myths and misconceptions around feeding (e.g., withholding protein in diarrhoea).
 
-##Key Takeaways
+## Key Takeaways
 
 -   Nutrition is critical for child survival, growth, and development.
 -   Exclusive breastfeeding for 6 months, followed by appropriate complementary feeding, is

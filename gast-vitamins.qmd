@@ -1,0 +1,214 @@
+---
+title: "Common Vitamin-Related Pathologies"
+author: "Dr. Samuel Nguah"
+---
+
+## Introduction
+
+Vitamins are essential organic compounds required in small quantities for normal growth, metabolism, and physiological functions. Although they do not provide energy, they are vital cofactors in numerous biochemical reactions. Children, because of their rapid growth and development, are particularly susceptible to vitamin deficiencies and imbalances. In resource-limited settings, these deficiencies remain a significant cause of morbidity and mortality, often coexisting with protein-energy malnutrition and infections.
+
+This lecture note reviews the physiology, deficiency states, and clinical manifestations of common vitamin-related pathologies encountered in paediatric practice.
+
+## Classification of Vitamins
+
+Vitamins are broadly classified into **fat-soluble** and **water-soluble** groups based on their solubility and physiological characteristics.
+
+| Fat-soluble | Water-soluble |
+|--------------|---------------|
+| Vitamin A (Retinoids) | Vitamin B1 (Thiamine) |
+| Vitamin D (Calciferols) | Vitamin B2 (Riboflavin) |
+| Vitamin E (Tocopherols) | Vitamin B3 (Niacin) |
+| Vitamin K (Phylloquinone and Menaquinone) | Vitamin B6 (Pyridoxine) |
+| | Vitamin B12 (Cobalamin) |
+| | Folic Acid (Vitamin B9) |
+| | Vitamin C (Ascorbic Acid) |
+
+**Fat-soluble vitamins** are absorbed along with dietary fat and stored in the liver and adipose tissue; hence, deficiencies develop slowly. Conversely, **water-soluble vitamins** are not stored significantly and require continuous dietary intake.
+
+## Vitamin A Deficiency
+
+### Physiology
+
+Vitamin A is essential for vision, epithelial integrity, immune function, and growth. It is obtained as preformed retinol from animal sources (e.g., liver, milk, eggs) or as provitamin A carotenoids from plant sources (e.g., carrots, leafy greens).
+
+### Pathophysiology and Deficiency
+
+Deficiency arises from inadequate intake, malabsorption (as in cystic fibrosis or cholestatic liver disease), or increased requirements during infection and growth.
+
+### Clinical Features
+
+- **Ocular manifestations (Xerophthalmia):**
+  - Night blindness (earliest symptom)
+  - Conjunctival xerosis
+  - Bitot’s spots
+  - Corneal xerosis, keratomalacia → blindness
+- **Systemic manifestations:**
+  - Growth retardation
+  - Increased susceptibility to infections (especially measles and diarrhoea)
+  - Follicular hyperkeratosis of the skin
+
+### Prevention and Management
+
+- **Dietary diversification:** inclusion of animal sources and carotene-rich foods.
+- **Supplementation:** WHO recommends 100,000 IU (infants 6–11 months) or 200,000 IU (children 12–59 months) every 4–6 months in endemic regions.
+- **Treatment of severe cases:** high-dose vitamin A therapy (200,000 IU orally on days 1, 2, and 14).
+
+## Vitamin D Deficiency (Rickets)
+
+### Physiology
+
+Vitamin D regulates calcium and phosphate metabolism, promoting bone mineralization. It is synthesized in the skin upon sunlight exposure and obtained from dietary sources such as fortified milk, fish oils, and eggs.
+
+### Pathophysiology
+
+Deficiency results in defective bone mineralization, leading to **rickets** in children and **osteomalacia** in adults.
+
+### Clinical Features
+
+- Skeletal abnormalities:
+  - Craniotabes, frontal bossing, and delayed closure of fontanelles
+  - Rachitic rosary (prominent costochondral junctions)
+  - Wrist and ankle widening
+  - Bowed legs (genu varum) or knock knees (genu valgum)
+- Delayed motor milestones
+- Hypocalcaemic symptoms: tetany, seizures
+
+### Investigations
+
+- Low serum calcium and phosphate
+- Elevated alkaline phosphatase
+- Radiographic features: cupping, fraying, and widening of metaphyses
+
+### Management
+
+- **Vitamin D supplementation:** 2,000 IU daily for 3 months, followed by maintenance of 400 IU daily.
+- **Calcium supplementation:** as deficiency often coexists.
+- **Sunlight exposure:** at least 30 minutes weekly on face and limbs.
+
+## Vitamin E Deficiency
+
+### Physiology
+
+Vitamin E acts as an antioxidant, protecting cell membranes from oxidative damage.
+
+### Clinical Manifestations
+
+- Haemolytic anaemia in preterm infants
+- Neurological manifestations: ataxia, hyporeflexia, and peripheral neuropathy
+- Retinopathy
+
+### Management
+
+Oral vitamin E (10–25 IU/kg/day) for deficiency states and prevention in premature infants.
+
+## Vitamin K Deficiency
+
+### Overview
+
+Vitamin K is necessary for synthesis of clotting factors II, VII, IX, and X. It is obtained from green vegetables and synthesized by intestinal bacteria.
+
+### Clinical Manifestations
+
+- **Haemorrhagic disease of the newborn (HDN):**
+  - Early (within 24 hours): due to maternal drug interference (e.g., anticonvulsants)
+  - Classic (2–7 days): due to low stores and inadequate milk supply
+  - Late (2–12 weeks): seen in exclusively breastfed infants without prophylaxis
+- Bleeding from mucosal sites, gastrointestinal tract, or intracranial haemorrhage
+
+### Prevention and Management
+
+- **Prophylaxis:** 1 mg vitamin K1 intramuscularly at birth
+- **Treatment:** 1–5 mg vitamin K1 parenterally, plus transfusion for severe bleeding
+
+## Vitamin B Complex Deficiencies
+
+### Thiamine (Vitamin B1)
+
+- **Function:** Coenzyme in carbohydrate metabolism.
+- **Deficiency (Beriberi):**
+  - *Infantile form:* heart failure, tachycardia, vomiting, aphonia.
+  - *Adult form:* peripheral neuropathy, Wernicke’s encephalopathy.
+- **Management:** Thiamine 10–25 mg daily.
+
+### Riboflavin (Vitamin B2)
+
+- **Function:** Oxidation-reduction reactions.
+- **Deficiency:** angular stomatitis, cheilosis, glossitis, seborrheic dermatitis.
+- **Treatment:** Riboflavin 5–10 mg daily.
+
+### Niacin (Vitamin B3)
+
+- **Function:** Component of NAD/NADP.
+- **Deficiency (Pellagra):** dermatitis, diarrhoea, dementia.
+- **Treatment:** Nicotinamide 50–300 mg/day.
+
+### Pyridoxine (Vitamin B6)
+
+- **Deficiency:** seizures, anaemia, glossitis, peripheral neuropathy.
+- **Management:** Pyridoxine 5–10 mg/day; higher doses in drug-induced cases (e.g., isoniazid).
+
+### Folic Acid (Vitamin B9)
+
+- **Function:** DNA synthesis and red cell maturation.
+- **Deficiency:** megaloblastic anaemia, neural tube defects in foetus.
+- **Treatment:** Folic acid 1–5 mg daily.
+
+### Vitamin B12 (Cobalamin)
+
+- **Function:** DNA synthesis, myelin formation.
+- **Deficiency:** megaloblastic anaemia, neurological deficits.
+- **Causes:** vegan diet, intrinsic factor deficiency, ileal malabsorption.
+- **Treatment:** Hydroxocobalamin 1 mg IM monthly after initial correction.
+
+## Vitamin C Deficiency (Scurvy)
+
+### Physiology
+
+Vitamin C is essential for collagen synthesis, iron absorption, and immune defence.
+
+### Deficiency
+
+Occurs in children fed boiled milk, tea, or refined diets lacking fruits and vegetables.
+
+### Clinical Features
+
+- Petechiae, purpura, and bleeding gums
+- Swollen, tender joints
+- Poor wound healing
+- Anaemia
+- Radiologic features: "white line of Fraenkel", "Pelkan’s spurs"
+
+### Management
+
+Oral vitamin C 100–300 mg/day for 1–2 weeks followed by dietary correction.
+
+## Summary Table
+
+| Vitamin | Major Function | Deficiency Disease | Key Clinical Features |
+|----------|----------------|--------------------|------------------------|
+| A | Vision, epithelial integrity | Xerophthalmia | Night blindness, Bitot’s spots |
+| D | Calcium metabolism | Rickets | Bone deformities, delayed milestones |
+| E | Antioxidant | Neuropathy, anaemia | Ataxia, haemolysis |
+| K | Coagulation | HDN | Bleeding tendency |
+| B1 | Energy metabolism | Beriberi | Heart failure, neuropathy |
+| B2 | Redox reactions | Ariboflavinosis | Cheilosis, glossitis |
+| B3 | NAD/NADP synthesis | Pellagra | Dermatitis, diarrhoea, dementia |
+| B6 | Amino acid metabolism | Pyridoxine deficiency | Seizures, anaemia |
+| B9 | DNA synthesis | Megaloblastic anaemia | Anaemia, neural tube defects |
+| B12 | DNA synthesis | Pernicious anaemia | Anaemia, neuropathy |
+| C | Collagen formation | Scurvy | Bleeding gums, bone pain |
+
+## Key Points
+
+- Vitamin deficiencies often coexist with general malnutrition.
+- Preventive supplementation programs are cost-effective and lifesaving.
+- Recognition of subtle clinical features prevents irreversible complications such as blindness (Vitamin A) or neurological damage (B12).
+- Balanced diets rich in fruits, vegetables, whole grains, and animal products are the cornerstone of prevention.
+
+## Suggested Reading
+
+1. WHO. *Guideline: Vitamin A Supplementation in Infants and Children 6–59 Months of Age*. 2011.  
+2. Nelson Textbook of Pediatrics, 22nd Edition.  
+3. UNICEF/WHO. *Micronutrient Deficiencies in Children: Global Report*, 2022.  
+4. Gleason, G. R., & Scrimshaw, N. S. *Clinical Nutrition of the Young Child*. WHO, 2018.
+

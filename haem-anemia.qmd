@@ -1,4 +1,329 @@
 ---
 title: "Anemia"
-author: "Prof. Alex Osei Akoto"
+date: 2025-11-05
 ---
+
+## Introduction
+
+Anaemia is one of the most common haematological disorders in children worldwide, particularly in
+low- and middle-income countries. It is a major public health problem that contributes to growth
+retardation, impaired cognitive development, increased susceptibility to infection, and elevated
+morbidity and mortality. In Ghana and much of sub-Saharan Africa, anaemia frequently results from
+nutritional deficiencies, infections (such as malaria and helminthiasis), and genetic haemoglobin
+disorders.
+
+## Definition
+
+**Anaemia** is defined as a reduction in the concentration of haemoglobin (Hb) in the blood below
+the normal range for age, sex, and altitude, resulting in decreased oxygen-carrying capacity.
+
+### WHO Haemoglobin Cut-offs for Anaemia in Children
+
+| Age group           | Hb (g/dL) threshold |
+|---------------------|---------------------|
+| 6–59 months         | \< 11.0             |
+| 5–11 years          | \< 11.5             |
+| 12–14 years         | \< 12.0             |
+| ≥15 years (females) | \< 12.0             |
+| ≥15 years (males)   | \< 13.0             |
+
+### Classification by Severity (6 months–5 years)
+
+| Severity | Hb (g/dL) |
+|----------|-----------|
+| Mild     | 10–10.9   |
+| Moderate | 7–9.9     |
+| Severe   | \< 7      |
+
+## Classification
+
+Anaemia can be classified in several ways:
+
+### 1. Based on Pathophysiology
+
+-   **Decreased production of red blood cells** (e.g., iron deficiency, aplastic anaemia, bone
+    marrow suppression).
+-   **Increased destruction of red blood cells (haemolysis)** (e.g., sickle cell disease, G6PD
+    deficiency, malaria).
+-   **Blood loss** (acute or chronic haemorrhage, intestinal parasites).
+
+## 2. Based on Red Cell Indices (Morphological Classification)
+
+| Type                        | MCV (fL) | Common Causes                                             |
+|-----------------------------|----------|-----------------------------------------------------------|
+| **Microcytic hypochromic**  | \< 80    | Iron deficiency, thalassaemia, anaemia of chronic disease |
+| **Normocytic normochromic** | 80–100   | Acute blood loss, haemolysis, chronic disease             |
+| **Macrocytic**              | \> 100   | Folate or vitamin B12 deficiency, hypothyroidism          |
+
+# Epidemiology
+
+-   **Global prevalence:** About 40% of children under 5 years are anaemic (WHO 2023).
+-   **Sub-Saharan Africa:** Up to 60% prevalence in under-fives.
+-   **Ghana:** Nationally, \~45% of children under five are anaemic (GDHS 2022).
+
+Anaemia contributes to impaired learning ability, stunted growth, and increased risk of death from
+infectious diseases.
+
+## Aetiology
+
+Anaemia in children is multifactorial and may be grouped under three broad mechanisms:
+
+### 1. Decreased RBC Production
+
+-   **Iron deficiency anaemia (IDA):** Most common cause globally.
+-   **Folate or vitamin B12 deficiency:** Due to poor intake or malabsorption.
+-   **Chronic disease:** Reduced erythropoietin response and iron sequestration.
+-   **Bone marrow suppression:** Viral infections (parvovirus B19), drugs, or malignancy.
+
+### 2. Increased RBC Destruction (Haemolysis)
+
+-   **Inherited haemoglobinopathies:** Sickle cell disease, thalassaemia.
+-   **Red cell enzyme defects:** G6PD deficiency.
+-   **Immune-mediated haemolysis:** Autoimmune haemolytic anaemia.
+-   **Infections:** Malaria, sepsis.
+
+### 3. Blood Loss
+
+-   **Parasitic infestations:** Hookworm, schistosomiasis.
+-   **Gastrointestinal bleeding:** Meckel’s diverticulum, ulcers.
+-   **Trauma or surgery.**
+
+## Pathophysiology
+
+Haemoglobin synthesis requires: - **Iron** — essential component of haem. - **Globin chains** —
+produced by bone marrow. - **Vitamin B12 and folate** — necessary for DNA synthesis.
+
+Deficiency of any of these components leads to impaired erythropoiesis and reduced Hb concentration.
+
+In anaemia, tissue hypoxia develops, stimulating increased cardiac output and erythropoietin
+release. Chronic anaemia leads to compensatory mechanisms such as: - Increased 2,3-DPG in RBCs
+(enhances oxygen delivery). - Reticulocytosis in haemolytic anaemias.
+
+## Clinical Features
+
+### General Symptoms
+
+-   Fatigue and weakness.
+-   Pallor (conjunctival, palmar, mucosal).
+-   Dizziness, headache.
+-   Tachycardia, dyspnoea on exertion.
+-   Poor concentration and irritability.
+
+### Signs
+
+-   Pallor (best seen in conjunctiva, tongue, palms).
+-   Systolic flow murmur.
+-   Bounding pulse.
+-   Signs of cardiac failure in severe cases.
+
+### Specific Features Based on Cause
+
+| Cause                 | Additional Features                                       |
+|-----------------------|-----------------------------------------------------------|
+| Iron deficiency       | Koilonychia, angular stomatitis, pica                     |
+| Folate/B12 deficiency | Glossitis, hyperpigmentation, neurological deficits (B12) |
+| Haemolytic anaemia    | Jaundice, splenomegaly, dark urine                        |
+| Sickle cell disease   | Painful crises, leg ulcers, hepatosplenomegaly            |
+| Malaria               | Fever, splenomegaly, hepatomegaly                         |
+
+## Evaluation of a Child with Anaemia
+
+### 1. History
+
+-   Dietary intake (iron-rich foods, cow’s milk overuse).
+-   Chronic illnesses or infections.
+-   Drug history (antimalarials, sulpha drugs).
+-   Family history of haemoglobinopathies.
+-   Stool characteristics (for parasitic or GI blood loss).
+
+### 2. Physical Examination
+
+-   Pallor and jaundice.
+-   Growth assessment.
+-   Splenomegaly or hepatomegaly.
+-   Lymphadenopathy.
+-   Cardiac signs (murmurs, gallop rhythm).
+
+### 3. Laboratory Investigations
+
+| Test                              | Purpose                                           |
+|-----------------------------------|---------------------------------------------------|
+| Full blood count (FBC)            | Hb, RBC indices (MCV, MCH, MCHC)                  |
+| Peripheral blood film             | Morphology and clues to cause                     |
+| Reticulocyte count                | Distinguishes decreased production vs. haemolysis |
+| Serum ferritin, iron, TIBC        | Assess iron status                                |
+| Serum folate, vitamin B12         | For macrocytic anaemia                            |
+| Malaria test (RDT or smear)       | Detect malaria parasitaemia                       |
+| Stool examination                 | Detect ova, parasites, occult blood               |
+| Haemoglobin electrophoresis       | Diagnose sickle cell or thalassaemia              |
+| Direct antiglobulin test (Coombs) | Immune haemolysis                                 |
+
+## Iron Deficiency Anaemia (IDA)
+
+### Epidemiology
+
+IDA accounts for more than half of anaemia cases in African children.
+
+### Aetiology
+
+-   Low dietary intake (mainly cereal-based diets, little meat).
+-   Poor absorption (intestinal infections, celiac disease).
+-   Chronic blood loss (hookworm, schistosomiasis, menstruation in adolescents).
+-   Increased requirements (rapid growth, infection recovery).
+
+### Pathophysiology
+
+Iron depletion progresses through three stages: 1. **Iron depletion:** Reduced ferritin stores. 2.
+**Iron-deficient erythropoiesis:** Low transferrin saturation. 3. **Iron deficiency anaemia:** Low
+Hb and microcytosis.
+
+### Clinical Features
+
+-   Pallor, fatigue, irritability.
+-   Koilonychia (spoon nails).
+-   Pica (craving for non-food substances).
+-   Glossitis and angular cheilitis.
+
+### Laboratory Findings
+
+-   Low Hb, MCV, MCH.
+-   Low serum ferritin and iron.
+-   High total iron-binding capacity (TIBC).
+-   Hypochromic microcytic RBCs.
+
+### Management
+
+1.  **Treat underlying cause** (e.g., worms, dietary deficiency).
+2.  **Iron supplementation:**
+    -   Elemental iron 3–6 mg/kg/day orally for 3 months after Hb normalization.
+    -   Ferrous sulphate preferred; give with vitamin C-rich juice.
+3.  **Dietary advice:** Encourage iron-rich foods (meat, beans, green leafy vegetables).
+4.  **Prevent reinfection:** Deworming, malaria prevention.
+
+# Haemolytic Anaemias
+
+## Sickle Cell Disease (SCD)
+
+-   **Pathophysiology:** Substitution of valine for glutamic acid at the 6th position of the
+    β-globin chain causes HbS polymerization when deoxygenated.
+-   **Complications:** Vaso-occlusive crises, anaemia, infections, stroke.
+-   **Management:**
+    -   Folic acid 5 mg/day.
+    -   Penicillin prophylaxis (until age 5).
+    -   Vaccinations (pneumococcal, Hib, meningococcal).
+    -   Hydroxyurea to reduce crises.
+    -   Transfusion for severe anaemia or stroke.
+
+### G6PD Deficiency
+
+-   **Mechanism:** Lack of G6PD enzyme → inability to handle oxidative stress → RBC lysis.
+-   **Triggers:** Certain drugs (sulpha, antimalarials), fava beans, infections.
+-   **Features:** Jaundice, pallor, dark urine.
+-   **Management:** Avoid triggers, treat infections, supportive transfusion if severe.
+
+## Anaemia due to Infections
+
+### Malaria
+
+-   Common cause of acute severe anaemia in endemic regions.
+-   Mechanisms: RBC destruction, bone marrow suppression, splenic sequestration.
+-   **Management:**
+    -   Artemisinin-based combination therapy.
+    -   Blood transfusion for Hb \<5 g/dL or symptomatic severe anaemia.
+
+### Hookworm and Schistosomiasis
+
+-   Chronic intestinal blood loss.
+-   **Prevention:** Periodic deworming, sanitation improvement.
+
+## Megaloblastic Anaemia
+
+### Causes
+
+-   Folate or vitamin B12 deficiency.
+
+### Features
+
+-   Pallor, glossitis, hyperpigmentation.
+-   Neurological signs (B12 deficiency only).
+
+### Laboratory Findings
+
+-   Macrocytosis (high MCV), hypersegmented neutrophils.
+
+### Management
+
+-   Oral folic acid 1–5 mg/day.
+-   Vitamin B12 1000 µg IM weekly × 6, then monthly if deficient.
+
+## Aplastic Anaemia
+
+### Definition
+
+Bone marrow failure leading to pancytopenia.
+
+### Causes
+
+-   Idiopathic, viral (hepatitis, EBV, parvovirus), drugs (chloramphenicol), radiation.
+
+### Features
+
+-   Pallor, bleeding (petechiae), infections.
+
+### Management
+
+-   Stop offending agent, supportive transfusion, bone marrow transplant if severe.
+
+## Severe Anaemia — Emergency Management
+
+#### Indications for Blood Transfusion
+
+-   Hb \< 4 g/dL regardless of symptoms.
+-   Hb \< 6 g/dL with respiratory distress, heart failure, or shock.
+
+#### Protocol
+
+-   Packed red cells 10 mL/kg over 3–4 hours (max 15 mL/kg).
+-   Furosemide 1 mg/kg IV if signs of overload.
+
+## Prevention of Anaemia
+
+1.  **Exclusive breastfeeding** for 6 months.
+2.  **Complementary feeding** with iron-rich foods.
+3.  **Routine deworming** every 6 months after 1 year.
+4.  **Malaria control:** ITNs, chemoprevention.
+5.  **Iron and folate supplementation** in high-risk groups.
+6.  **Control of haemoglobinopathies:** Premarital screening, genetic counselling.
+
+## Public Health Approaches
+
+-   **Integrated Management of Childhood Illness (IMCI):** includes anaemia screening and
+    management.
+-   **School health programs:** periodic deworming and iron supplementation.
+-   **Maternal health interventions:** prevent maternal anaemia.
+-   **Nutrition education:** balanced diet promotion.
+
+## Prognosis
+
+-   Depends on cause and severity.
+-   Nutritional anaemias respond well to treatment.
+-   Haemolytic anaemias and marrow failure syndromes require specialized care.
+-   Chronic anaemia impairs growth and learning outcomes.
+
+## Key Takeaways
+
+-   Anaemia in children is common, preventable, and treatable.
+-   Iron deficiency and malaria are leading causes in sub-Saharan Africa.
+-   Classification and morphological assessment guide diagnosis.
+-   Management requires identifying underlying causes and addressing nutrition and infections.
+-   Prevention strategies are essential at individual and public health levels.
+
+## Suggested References
+
+1.  World Health Organization. *Haemoglobin concentrations for the diagnosis of anaemia and
+    assessment of severity.* WHO/NMH/NHD/MNM/11.1, 2023.
+2.  Ghana Health Service. *Child Health Record Book and Treatment Guidelines*, 2022.
+3.  Osungbade KO, Oladunjoye AO. Preventive treatments of iron deficiency anaemia in children in
+    developing countries: What works? *Afr Health Sci*. 2021;21(3):1120–1130.
+4.  Ministry of Health, Ghana. *Standard Treatment Guidelines*, 2022.
+5.  Kassebaum NJ et al. The global burden of anaemia. *Lancet Haematol*. 2020;7(9):e690–e701.

@@ -104,7 +104,14 @@ book:
         - neuro-stroke.qmd
     - part: "<span style='font-weight:bold; color: black;'>Endocrinology</span>"
       chapters: 
+        - endo-spectrum.qmd
         - endo-dm.qmd
+        - endo-thyroid.qmd
+        - endo-adrenal.qmd
+        - endo-pituitary.qmd
+        - endo-calcium-bone.qmd
+        - endo-reproductive.qmd
+        - endo-growth.qmd
     - part: "<span style='font-weight:bold; color: black;'>Haematology</span>"
       chapters:
         - haem-sickle-cell.qmd
@@ -118,6 +125,7 @@ book:
         - gast-liver-disorders.qmd
         - gast-prolonged-jaundice.qmd
         - gast-diarrhoea.qmd
+        - gast-vitamins.qmd
     - part: "<span style='font-weight:bold; color: black;'>Dermatology</span>"
       chapters: 
         - derm-impetigo.qmd

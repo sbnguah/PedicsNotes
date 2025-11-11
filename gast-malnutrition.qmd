@@ -36,7 +36,7 @@ In children, **protein–energy malnutrition (PEM)** is the most severe form of 
 ### 2. Based on Clinical Form (PEM)
 
 | Type                     | Description                                  | Key Features                    |
-|-------------------------|------------------------------------|---------------------------------------|
+|--------------------------|----------------------------------------------|---------------------------------|
 | **Marasmus**             | Deficiency of energy (calories)              | Severe wasting, no oedema       |
 | **Kwashiorkor**          | Deficiency of protein with adequate calories | Oedema, dermatosis, fatty liver |
 | **Marasmic–Kwashiorkor** | Combined energy and protein deficiency       | Wasting plus oedema             |
