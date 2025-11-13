@@ -1,4 +1,360 @@
 ---
 title: "Diabetes Mellitus"
-author: "Dr Emmanuel Ameyaw"
+date: 2025-10-23
 ---
+
+## Introduction
+
+**Diabetes mellitus (DM)** is a chronic metabolic disorder characterized by persistent
+hyperglycaemia resulting from defects in insulin secretion, insulin action, or both.\
+In children, diabetes is one of the most common endocrine and metabolic disorders encountered in
+clinical practice. The two main types seen are **Type 1 diabetes mellitus (T1DM)** and **Type 2
+diabetes mellitus (T2DM)**, though other rare forms such as **monogenic diabetes** and **secondary
+diabetes** also occur.
+
+In Ghana and many parts of sub-Saharan Africa, the incidence of Type 1 diabetes is increasing, with
+children presenting frequently in diabetic ketoacidosis (DKA). In recent years, Type 2 diabetes has
+emerged among adolescents due to rising rates of obesity and sedentary lifestyles.
+
+This chapter provides a detailed overview of diabetes mellitus in children — covering definitions,
+classification, pathophysiology, clinical features, diagnosis, management, and complications — with
+special emphasis on practical approaches for medical students and paediatric residents.
+
+## Classification of Diabetes Mellitus
+
+The **American Diabetes Association (ADA)** and **World Health Organization (WHO)** classify
+diabetes as follows:
+
+| Category | Description | Pathophysiology |
+|----|----|----|
+| **Type 1 Diabetes Mellitus (T1DM)** | Autoimmune destruction of pancreatic β-cells leading to absolute insulin deficiency | Immune-mediated; often associated with islet autoantibodies |
+| **Type 2 Diabetes Mellitus (T2DM)** | Combination of insulin resistance and relative insulin deficiency | Associated with obesity, puberty, and family history |
+| **Monogenic Diabetes (MODY/Neonatal DM)** | Single-gene defects affecting β-cell function | Often autosomal dominant inheritance |
+| **Secondary Diabetes** | Secondary to other conditions | Pancreatitis, cystic fibrosis, steroid therapy, endocrine disorders |
+
+## Epidemiology
+
+-   **Global trends:** T1DM accounts for over 90% of diabetes in children globally. The incidence
+    varies widely, from \<1/100,000 in sub-Saharan Africa to \>30/100,000 in Europe.\
+-   **In Ghana:** Studies in Kumasi, Accra, and Cape Coast indicate increasing T1DM cases among
+    children aged 5–15 years, often presenting with DKA at diagnosis.\
+-   **Type 2 diabetes:** Previously rare, it is now reported among Ghanaian adolescents, especially
+    those with obesity and a strong family history.
+
+The rise in diabetes prevalence among children is attributed to improved awareness, urbanization,
+lifestyle changes, and possibly environmental triggers.
+
+## Physiology of Insulin and Glucose Homeostasis
+
+The **pancreas** plays a central role in glucose metabolism.\
+The **β-cells of the islets of Langerhans** secrete insulin, a peptide hormone that facilitates
+glucose uptake by muscle and adipose tissue and suppresses hepatic glucose production.
+
+### Key Actions of Insulin
+
+-   Increases glucose uptake via GLUT-4 transporters.\
+-   Promotes glycogen synthesis in liver and muscle.\
+-   Inhibits gluconeogenesis and glycogenolysis.\
+-   Enhances lipid and protein synthesis.
+
+Deficiency or resistance to insulin leads to **hyperglycaemia**, **lipolysis**, **ketogenesis**, and
+**protein catabolism**, which underlie the metabolic disturbances seen in diabetes.
+
+## Pathophysiology
+
+### Type 1 Diabetes Mellitus (T1DM)
+
+An **autoimmune process** targets pancreatic β-cells, resulting in progressive loss of insulin
+production.
+
+#### Mechanism
+
+-   Genetic predisposition (HLA-DR3, DR4, DQ2, DQ8).
+-   Environmental triggers (viral infections—Coxsackie B, enterovirus, or toxins).
+-   Presence of autoantibodies: GAD65, ICA, IA-2, or ZnT8.
+
+Destruction of \>80% of β-cells leads to insulin deficiency, hyperglycaemia, and ketone formation.
+
+#### Natural History
+
+1.  **Genetic predisposition**\
+2.  **Autoimmunity initiation**\
+3.  **Progressive β-cell destruction**\
+4.  **Clinical diabetes** (symptomatic hyperglycaemia or DKA)
+
+### Type 2 Diabetes Mellitus (T2DM)
+
+Characterized by **insulin resistance** and **relative insulin deficiency**.
+
+-   Strongly linked to obesity, acanthosis nigricans, and family history.\
+-   Insulin resistance is worsened by puberty hormones, sedentary lifestyle, and high-calorie diets.
+
+### Other Forms
+
+-   **Monogenic diabetes:** Often presents in infancy or early childhood; may respond to
+    sulfonylureas rather than insulin.\
+-   **Secondary diabetes:** Can follow steroid therapy, Cushing syndrome, or pancreatitis.
+
+## Clinical Features
+
+The presentation of diabetes in children depends on its type and stage at diagnosis.
+
+### Classical Symptoms of Type 1 Diabetes
+
+1.  **Polyuria** – due to osmotic diuresis.\
+2.  **Polydipsia** – compensatory thirst.\
+3.  **Polyphagia** – despite weight loss.\
+4.  **Weight loss and fatigue** – from catabolism.\
+5.  **Enuresis or nocturia** – previously toilet-trained child.\
+6.  **Recurrent infections** – especially skin and vulvovaginal candidiasis.
+
+In many Ghanaian children, the disease is recognized **late**, often presenting as **diabetic
+ketoacidosis (DKA)** with vomiting, abdominal pain, and dehydration.
+
+### Features of Type 2 Diabetes
+
+-   Often asymptomatic or mildly symptomatic.\
+-   Associated with **obesity**, **acanthosis nigricans**, **hypertension**, or **dyslipidaemia**.\
+-   May also present with ketosis (ketosis-prone T2DM).
+
+## Diabetic Ketoacidosis (DKA)
+
+**DKA** is the most serious acute complication of diabetes in children and remains a major cause of
+morbidity and mortality in Ghana.
+
+### Pathophysiology
+
+Absolute or relative insulin deficiency → increased lipolysis → free fatty acids converted to ketone
+bodies (acetoacetate, β-hydroxybutyrate) → metabolic acidosis.
+
+### Diagnostic Criteria (WHO/ISPAD)
+
+-   Blood glucose \>11 mmol/L\
+-   Venous pH \<7.3 or bicarbonate \<15 mmol/L\
+-   Presence of ketonaemia or ketonuria
+
+### Clinical Features
+
+-   Dehydration\
+-   Kussmaul breathing (deep, laboured)\
+-   Fruity (acetone) breath\
+-   Abdominal pain, vomiting\
+-   Drowsiness or altered consciousness
+
+### Complications
+
+-   **Cerebral oedema** (most feared, especially in children)\
+-   **Shock and electrolyte imbalance**
+
+### Management Principles
+
+1.  **Fluid resuscitation:** 0.9% saline initially, then adjusted.\
+2.  **Insulin therapy:** IV infusion 0.05–0.1 U/kg/hr after initial fluid resuscitation.\
+3.  **Electrolyte correction:** especially potassium.\
+4.  **Treatment of precipitating cause:** infection, missed insulin dose, etc.\
+5.  **Close monitoring:** vital signs, glucose, electrolytes, and neurological status.
+
+## Diagnostic Evaluation
+
+### Diagnostic Criteria for Diabetes (WHO)
+
+| Test                       | Diagnostic Value                     |
+|----------------------------|--------------------------------------|
+| Fasting plasma glucose     | ≥7.0 mmol/L (after ≥8 hours fasting) |
+| Random plasma glucose      | ≥11.1 mmol/L with symptoms           |
+| 2-hour OGTT plasma glucose | ≥11.1 mmol/L                         |
+| HbA1c                      | ≥6.5% (in standardized lab)          |
+
+In children, diagnosis is typically based on **random glucose** and **clinical presentation**,
+especially when symptomatic.
+
+### Additional Laboratory Tests
+
+-   Urine dipstick for glucose and ketones\
+-   Serum electrolytes, urea, creatinine\
+-   Blood gas for acidosis (if DKA suspected)\
+-   HbA1c for baseline control\
+-   Autoantibody screening (GAD, ICA) when available\
+-   Lipid profile (for T2DM)
+
+## Differential Diagnosis of Polyuria and Polydipsia
+
+| Condition              | Key Features                          |
+|------------------------|---------------------------------------|
+| Diabetes mellitus      | Hyperglycaemia, glucosuria, ketonuria |
+| Diabetes insipidus     | Dilute urine, normal glucose          |
+| Psychogenic polydipsia | Normal glucose, no ketones            |
+| Chronic renal disease  | Proteinuria, elevated creatinine      |
+
+## Management of Type 1 Diabetes Mellitus
+
+The cornerstone of management is **lifelong insulin therapy** with education, diet regulation, and
+psychosocial support.
+
+### Insulin Therapy
+
+#### Types of Insulin
+
+| Type                            | Onset     | Peak    | Duration |
+|---------------------------------|-----------|---------|----------|
+| Rapid-acting (Lispro, Aspart)   | 10–15 min | 1–2 hr  | 3–5 hr   |
+| Short-acting (Regular)          | 30–60 min | 2–4 hr  | 6–8 hr   |
+| Intermediate (NPH)              | 2–4 hr    | 6–10 hr | 12–18 hr |
+| Long-acting (Glargine, Detemir) | 1–2 hr    | Minimal | 24 hr    |
+
+#### Insulin Regimens
+
+-   **Conventional:** Two daily injections (mixed short- and intermediate-acting).\
+-   **Basal–bolus:** Long-acting basal + rapid-acting at meals.\
+-   **Insulin pump therapy:** Rarely available in Ghana but ideal for motivated families.
+
+#### Dose
+
+-   Starting total daily dose: 0.5–1.0 units/kg/day.\
+-   Adjust according to blood glucose trends.
+
+#### Monitoring
+
+-   **Self-monitoring of blood glucose (SMBG):** before meals and at bedtime.\
+-   **HbA1c:** every 3–6 months; target \<7.5%.\
+-   **Growth and pubertal assessment** at each visit.
+
+### Nutritional Management
+
+Dietary management aims at maintaining normoglycaemia while ensuring adequate growth.
+
+#### Principles
+
+-   Balanced diet with appropriate carbohydrate distribution (50–55% of calories).\
+-   Encourage high-fibre complex carbohydrates; limit refined sugars.\
+-   Consistent meal timing, coordinated with insulin action.\
+-   Carbohydrate counting for insulin adjustment.\
+-   Avoid fasting or skipping meals.
+
+In Ghana, diets can incorporate **local foods** — e.g., whole grain banku, kontomire stew, beans,
+plantain — with attention to portion control and reduced oil.
+
+### Exercise
+
+Regular physical activity improves insulin sensitivity and cardiovascular health.
+
+**Precautions:** - Monitor glucose before and after exercise.\
+- Take extra carbohydrates if prolonged activity (\>60 min).\
+- Avoid vigorous exercise if glucose \>14 mmol/L with ketones.
+
+### Education and Psychosocial Support
+
+Education is central to successful management. Children and caregivers must be taught:
+
+-   Insulin injection technique and site rotation.\
+-   Glucose monitoring and record keeping.\
+-   Recognition and management of **hypoglycaemia** and **DKA**.\
+-   Importance of adherence, diet, and exercise.
+
+Psychosocial counselling is essential to address school integration, stigma, and family stress. Peer
+support groups (e.g., Diabetes Youth Care Ghana) are beneficial.
+
+## Management of Type 2 Diabetes Mellitus
+
+Management begins with **lifestyle modification**, followed by **pharmacotherapy** if control is
+inadequate.
+
+### Lifestyle Modification
+
+-   Weight reduction through diet and exercise.\
+-   Reduction of sugary beverages and fried foods.\
+-   Screen family members for diabetes and obesity.
+
+### Pharmacological Treatment
+
+-   **Metformin** is the first-line agent (500 mg once or twice daily, titrated as tolerated).\
+-   **Insulin** may be required temporarily if hyperglycaemia is severe or during intercurrent
+    illness.\
+-   Blood pressure and lipid control are also essential.
+
+## Acute and Chronic Complications
+
+### Acute Complications
+
+| Complication | Description | Prevention |
+|----|----|----|
+| **Hypoglycaemia** | Glucose \<3.9 mmol/L due to excess insulin or missed meals | Regular meals, dose adjustment, carry glucose snacks |
+| **Diabetic Ketoacidosis (DKA)** | Life-threatening metabolic acidosis | Early recognition and adherence |
+| **Infections** | Urinary tract, skin, respiratory | Good hygiene, immunizations |
+
+### Chronic Complications
+
+These are rare in well-controlled paediatric patients but may develop after years of poor control.
+
+| System         | Complication                   | Screening                                          |
+|----------------|--------------------------------|----------------------------------------------------|
+| Eyes           | Retinopathy                    | Fundoscopy from 11 years or 2 years post-diagnosis |
+| Kidneys        | Microalbuminuria → nephropathy | Annual urine albumin/creatinine ratio              |
+| Nerves         | Peripheral neuropathy          | Clinical exam annually                             |
+| Cardiovascular | Hypertension, dyslipidaemia    | BP check, lipid profile                            |
+
+Prevention lies in **good glycaemic control (HbA1c \<7.5%)**, healthy lifestyle, and regular
+follow-up.
+
+## Follow-Up and Long-Term Care
+
+### Key Components
+
+-   Growth and pubertal monitoring.\
+-   Annual screening for complications.\
+-   Psychosocial evaluation.\
+-   Immunizations: influenza, pneumococcal, hepatitis B.\
+-   Transition planning from paediatric to adult diabetes care.
+
+### School Support
+
+-   Teachers and school nurses should understand the child’s condition.\
+-   Allow glucose monitoring and snacks when needed.\
+-   Create an emergency plan for hypoglycaemia.
+
+## Special Considerations in Ghana
+
+-   **Late presentation** due to limited awareness and poor access to diagnostic tools.\
+-   **Insulin affordability** remains a challenge; reliance on hospital pharmacies or NHIS coverage
+    is common.\
+-   **Refrigeration** issues in rural areas affect insulin storage; traditional clay pot coolers may
+    help.\
+-   **Cultural beliefs** sometimes lead to trial of herbal remedies, delaying therapy.\
+-   **Education of healthcare workers** at peripheral centres is vital to improve early diagnosis
+    and management.
+
+## Emerging Trends
+
+-   Use of **continuous glucose monitoring (CGM)** and **insulin pens** is increasing in urban
+    Ghana.\
+-   **Tele-diabetes follow-up** and community-based screening programmes are expanding.\
+-   Research into **autoantibody prevalence** and **genetic profiles** in African children with
+    diabetes is ongoing.
+
+## Summary Table
+
+| Type | Mechanism | Key Features | Management |
+|----|----|----|----|
+| Type 1 | Autoimmune β-cell destruction → insulin deficiency | Polyuria, weight loss, DKA | Insulin + diet + education |
+| Type 2 | Insulin resistance + relative deficiency | Obesity, acanthosis nigricans | Lifestyle + metformin ± insulin |
+| Monogenic | Single gene mutation | Neonatal/childhood onset, family history | May respond to sulfonylureas |
+| Secondary | Due to other diseases/drugs | Variable | Treat underlying cause |
+
+## Key Takeaways
+
+-   Diabetes mellitus is an **increasingly common chronic condition** in Ghanaian children.\
+-   **Type 1 diabetes** remains predominant, with DKA as the main presenting feature.\
+-   **Insulin therapy**, **dietary regulation**, and **education** are the cornerstones of
+    management.\
+-   Early recognition, regular follow-up, and psychosocial support significantly reduce morbidity.\
+-   Improving awareness and healthcare access remain critical to improving outcomes.
+
+## Suggested Reading
+
+1.  International Society for Pediatric and Adolescent Diabetes (ISPAD) Clinical Practice
+    Guidelines, 2022.\
+2.  Nelson Textbook of Pediatrics, 22nd Edition.\
+3.  WHO Pocket Book of Hospital Care for Children, 3rd Edition.\
+4.  Ghana Health Service (GHS) Clinical Guidelines, 2024 Edition.\
+5.  Amissah-Arthur MB, et al. “Profile of childhood diabetes mellitus at Komfo Anokye Teaching
+    Hospital, Kumasi.” *Ghana Medical Journal* 2020.

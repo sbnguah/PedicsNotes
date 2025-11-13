@@ -1,4 +1,310 @@
 ---
-title: "Endocrinology-Spectrum"
+title: "Basics"
 editor: visual
 ---
+
+## Introduction
+
+Endocrinology is the study of hormones and the glands that produce them. In children, the endocrine
+system governs critical processes such as growth, puberty, metabolism, and stress response.
+**Pediatric endocrinology** focuses on disorders affecting hormone production, secretion, and action
+during the developmental years.
+
+Unlike adults, endocrine disorders in children often present with **growth disturbances**, **delayed
+or precocious puberty**, or **developmental abnormalities**, rather than classical systemic
+symptoms. A strong understanding of endocrine physiology, growth assessment, and hormonal feedback
+mechanisms is essential for early recognition and management.
+
+This essay outlines the anatomy and physiology of the endocrine system, key hormones, principles of
+endocrine function testing, and an overview of common endocrine disorders in children.
+
+## Anatomy and Physiology of the Endocrine System
+
+The endocrine system consists of specialized glands that secrete hormones directly into the
+bloodstream to act on distant target organs. These hormones regulate metabolism, electrolyte
+balance, growth, and reproduction.
+
+### Major Endocrine Glands in Children
+
+| Gland        | Major Hormones                    | Primary Functions                     |
+|--------------|-----------------------------------|---------------------------------------|
+| Hypothalamus | CRH, TRH, GHRH, GnRH              | Regulates pituitary secretion         |
+| Pituitary    | GH, ACTH, TSH, LH, FSH, Prolactin | Growth, metabolism, reproduction      |
+| Thyroid      | T3, T4, Calcitonin                | Metabolism, growth, brain development |
+| Parathyroid  | PTH                               | Calcium and phosphate balance         |
+| Adrenal      | Cortisol, Aldosterone, Androgens  | Stress response, electrolyte control  |
+| Pancreas     | Insulin, Glucagon                 | Blood glucose regulation              |
+| Gonads       | Oestrogen, Testosterone           | Pubertal development                  |
+| Pineal       | Melatonin                         | Circadian rhythm                      |
+
+These glands communicate through a hierarchy known as the **hypothalamic–pituitary–target gland
+axis**.
+
+## The Hypothalamic–Pituitary Axis
+
+The **hypothalamus** integrates neural and hormonal signals to regulate endocrine function. It
+secretes releasing or inhibiting hormones into the hypophyseal portal system that act on the
+**pituitary gland**.
+
+The **pituitary**, often termed the “master gland,” releases trophic hormones that stimulate target
+organs such as the thyroid, adrenal glands, and gonads.
+
+#### Example of Hormonal Axes
+
+| Axis    | Hypothalamic Hormone | Pituitary Hormone | Target Organ   | Target Hormone          |
+|---------|----------------------|-------------------|----------------|-------------------------|
+| Thyroid | TRH                  | TSH               | Thyroid gland  | T3, T4                  |
+| Adrenal | CRH                  | ACTH              | Adrenal cortex | Cortisol                |
+| Gonadal | GnRH                 | LH, FSH           | Ovaries/Testes | Oestrogen, Testosterone |
+| Growth  | GHRH                 | GH                | Liver          | IGF-1                   |
+
+Feedback loops maintain hormone balance: elevated target hormones inhibit hypothalamic and pituitary
+secretion, preventing overproduction.
+
+## Principles of Hormone Action
+
+Hormones exert their effects through **specific receptors** located either on the cell membrane
+(peptide hormones) or within the cell (steroid and thyroid hormones).
+
+### Types of Hormones
+
+| Type | Examples | Mechanism of Action |
+|-----------------------|---------------------------|---------------------------------------------------|
+| **Peptide hormones** | GH, insulin, ACTH | Bind to cell-surface receptors → activate second messengers |
+| **Steroid hormones** | Cortisol, oestrogen, testosterone | Enter cells → bind nuclear receptors → modulate gene transcription |
+| **Amine hormones** | T3, T4, catecholamines | Derived from tyrosine → act on nuclear or membrane receptors |
+
+Because of these mechanisms, hormone effects may be **rapid** (e.g., insulin, catecholamines) or
+**delayed but sustained** (e.g., thyroid or steroid hormones).
+
+## Growth and Development: A Central Theme
+
+**Growth** is the most visible reflection of endocrine health in children. It results from the
+interplay between genetics, nutrition, and hormones—particularly **growth hormone (GH)**, **thyroid
+hormones**, **cortisol**, **sex steroids**, and **insulin**.
+
+### Growth Hormone Axis
+
+-   GH is secreted by the anterior pituitary in a pulsatile fashion.\
+-   Stimulated by GHRH and inhibited by somatostatin.\
+-   Acts on the liver to produce **Insulin-like Growth Factor-1 (IGF-1)**, which mediates bone and
+    tissue growth.
+
+**Deficiency of GH** leads to short stature with normal body proportions, while **excess GH** (rare
+in children) causes gigantism.
+
+## Assessment of Endocrine Function in Children
+
+Because hormone levels fluctuate with time of day, age, and physiological state, interpretation of
+results must be age-appropriate.
+
+### Clinical Assessment
+
+1.  **Detailed history**
+    -   Growth pattern, family history of endocrine disorders.
+    -   Pubertal changes, appetite, and energy levels.
+2.  **Physical examination**
+    -   Height and weight plotted on growth charts.
+    -   Pubertal staging (Tanner).
+    -   Dysmorphic features, goitre, pigmentation, or obesity.
+
+### Laboratory Evaluation
+
+-   **Basal hormone levels:** measured at specific times (e.g., morning cortisol).\
+-   **Dynamic tests:**
+    -   *Stimulation tests* (for suspected deficiency): e.g., GH stimulation, ACTH stimulation.
+    -   *Suppression tests* (for suspected excess): e.g., dexamethasone suppression test.
+-   **Imaging:** MRI of hypothalamic-pituitary region, thyroid ultrasound, or adrenal CT where
+    indicated.
+-   **Genetic testing:** for congenital or syndromic causes.
+
+## Common Endocrine Disorders in Children
+
+### Disorders of Growth and Pituitary Function
+
+### Growth Hormone Deficiency (GHD)
+
+-   Causes: congenital pituitary hypoplasia, tumours, trauma, or idiopathic.
+-   Features: short stature, delayed bone age, infantile face, hypoglycaemia.
+-   Diagnosis: low IGF-1, failed GH stimulation.
+-   Treatment: recombinant GH therapy.
+
+### Growth Hormone Excess
+
+-   Usually from a pituitary adenoma.
+-   Causes excessive linear growth (gigantism) or acromegalic features.
+-   Managed surgically or with somatostatin analogues.
+
+## Thyroid Disorders
+
+### Congenital Hypothyroidism
+
+-   Caused by thyroid dysgenesis or dyshormonogenesis.
+-   Features: prolonged neonatal jaundice, macroglossia, hypotonia, umbilical hernia.
+-   Early detection via newborn screening.
+-   Treatment: lifelong levothyroxine replacement.
+
+### Juvenile Hypothyroidism
+
+-   Often autoimmune (Hashimoto’s thyroiditis).
+-   Features: growth retardation, fatigue, dry skin, constipation.
+-   Managed with thyroid hormone replacement.
+
+### Hyperthyroidism
+
+-   Most commonly Graves’ disease (autoimmune).
+-   Presents with weight loss, tachycardia, goitre, tremor.
+-   Treatment includes antithyroid drugs (carbimazole), beta-blockers, or surgery.
+
+## Adrenal Disorders
+
+### Congenital Adrenal Hyperplasia (CAH)
+
+-   Autosomal recessive enzyme defect (most often 21-hydroxylase deficiency).
+-   Features: ambiguous genitalia in females, dehydration, salt wasting.
+-   Diagnosis: elevated 17-hydroxyprogesterone.
+-   Treatment: hydrocortisone and fludrocortisone replacement.
+
+### Adrenal Insufficiency (Addison’s Disease)
+
+-   Causes: autoimmune, infections (TB), or congenital defects.
+-   Features: fatigue, hyperpigmentation, hypotension, salt craving.
+-   Treatment: hydrocortisone and mineralocorticoid replacement.
+
+### Cushing Syndrome
+
+-   From prolonged steroid therapy or adrenal tumour.
+-   Features: obesity, moon facies, striae, growth retardation.
+-   Managed by reducing steroid dose or surgical excision of the tumour.
+
+## Disorders of Puberty
+
+### Precocious Puberty
+
+-   Onset of secondary sexual characteristics before 8 years in girls, 9 years in boys.
+-   May be central (early activation of HPG axis) or peripheral (excess sex steroids).
+-   Requires MRI brain and hormonal evaluation.
+-   Managed with GnRH analogues for central forms.
+
+### Delayed Puberty
+
+-   Absence of pubertal changes beyond 13 years (girls) or 14 years (boys).
+-   May result from constitutional delay, hypogonadism, or chronic illness.
+-   Treatment involves reassurance or sex steroid replacement when indicated.
+
+## Disorders of Glucose Metabolism
+
+### Type 1 Diabetes Mellitus (T1DM)
+
+-   Autoimmune destruction of pancreatic beta cells.
+-   Commonest endocrine disorder in children.
+-   Symptoms: polyuria, polydipsia, weight loss, fatigue.
+-   Complication: diabetic ketoacidosis (DKA).
+-   Management: insulin therapy, dietary regulation, self-monitoring.
+
+### Type 2 Diabetes Mellitus (T2DM)
+
+-   Increasingly seen in obese adolescents.
+-   Features: obesity, acanthosis nigricans, mild hyperglycaemia.
+-   Managed by lifestyle changes, metformin, and sometimes insulin.
+
+### Parathyroid and Calcium Disorders
+
+-   **Hypocalcaemia** due to hypoparathyroidism, vitamin D deficiency, or pseudohypoparathyroidism →
+    tetany, seizures, Chvostek and Trousseau signs.
+-   **Hypercalcaemia** due to hyperparathyroidism or malignancy → polyuria, vomiting, bone pain.
+-   Management focuses on correcting calcium and vitamin D levels.
+
+----------------------------------------------------------------------------------------------------
+
+## Diagnostic Principles in Pediatric Endocrinology
+
+Because hormone secretion in children changes with age and puberty, interpretation requires
+**age-specific reference ranges**. For example: - Neonates have higher cortisol and thyroid hormone
+levels. - GH secretion is pulsatile; random measurements are unreliable. - Pubertal staging is
+crucial for evaluating gonadal hormones.
+
+**Dynamic testing** remains a cornerstone of diagnosis:
+
+-   *Stimulation tests* (GH, ACTH, GnRH) evaluate deficiency.
+
+-   *Suppression tests* (dexamethasone, glucose tolerance) assess hormone excess.
+
+In addition, **imaging** helps detect structural lesions, and **genetic testing** confirms syndromic
+causes such as Prader–Willi, Turner, or Kallmann syndromes.
+
+## Principles of Management
+
+### Hormone Replacement
+
+-   Use physiological doses to mimic normal secretion (e.g., hydrocortisone 3 times daily rather
+    than dexamethasone).
+-   Regular adjustment according to growth and puberty.
+
+### Suppression of Hormone Excess
+
+-   Antithyroid drugs, glucocorticoid therapy for CAH, or GnRH analogues for precocious puberty.
+
+### Treatment of Underlying Causes
+
+-   Surgery for tumours, antibiotics for infections, or withdrawal of exogenous steroids.
+
+### Long-Term Follow-Up
+
+-   Regular growth and pubertal assessment.
+-   Monitoring for treatment side effects (e.g., growth suppression from steroids).
+-   Transition planning for adult endocrinology care.
+
+## Growth Monitoring and Interpretation
+
+Growth assessment is central to paediatric endocrinology.\
+Essential tools include:
+
+-   **Growth charts:** plot height, weight, BMI, and head circumference.
+-   **Mid-parental height:** predicts target range.
+-   **Growth velocity:** \<4 cm/year after age 4 suggests pathology.
+-   **Bone age:** X-ray of left hand/wrist compared with standards (Greulich–Pyle).
+
+Discrepancy between bone age and chronological age helps differentiate **constitutional delay** from
+**endocrine causes** of short stature.
+
+## Psychosocial Aspects
+
+Endocrine disorders can profoundly affect self-esteem, body image, and school performance.\
+Children with delayed puberty or short stature may face bullying or anxiety, while those with
+obesity or hirsutism may experience social withdrawal.
+
+Management should include:
+
+-   Psychological counselling.\
+-   Support groups and family education.\
+-   Encouragement of normal participation in school and sports.
+
+## Summary Table
+
+| Domain  | Common Disorders          | Key Hormones          | Typical Features               |
+|---------|---------------------------|-----------------------|--------------------------------|
+| Growth  | GH deficiency/excess      | GH, IGF-1             | Short/tall stature             |
+| Thyroid | Hypo-/hyperthyroidism     | T4, TSH               | Growth delay, goitre           |
+| Adrenal | CAH, Addison’s, Cushing’s | Cortisol, Aldosterone | Virilisation, fatigue, obesity |
+| Puberty | Precocious, delayed       | LH, FSH, sex steroids | Early/late sexual changes      |
+| Glucose | T1DM, T2DM                | Insulin, glucagon     | Polyuria, weight change        |
+| Calcium | Hypo-/hyperparathyroidism | PTH, Vit D            | Tetany, bone pain              |
+
+## Key Takeaways
+
+-   **Pediatric endocrinology** deals with hormonal disorders affecting growth, metabolism, and
+    development.\
+-   Early recognition is crucial to prevent irreversible effects on growth and neurodevelopment.\
+-   **Growth failure**, **pubertal delay**, or **unexplained obesity** should prompt endocrine
+    evaluation.\
+-   Lifelong follow-up, family education, and psychosocial support are integral to successful
+    management.
+
+## Suggested Reading
+
+1.  Nelson Textbook of Pediatrics, 22nd Edition.\
+2.  Sperling M. A., *Pediatric Endocrinology*, 5th Edition.\
+3.  Brook CGD, Clayton PE. *Clinical Pediatric Endocrinology*, 7th Edition.\
+4.  WHO. *Handbook on Pediatric Endocrine Disorders for Low-Resource Settings*, 2021.\
+5.  ESPE Clinical Practice Guidelines, 2023.

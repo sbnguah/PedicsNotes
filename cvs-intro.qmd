@@ -1,5 +1,5 @@
 ---
-title: "Anatomy, Physiology & Pathology"
+title: "Basics"
 author: "Dr Samuel Blay Nguah"
 date: 2024-05-12
 ---

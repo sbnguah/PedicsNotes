@@ -92,6 +92,7 @@ book:
         - nep-nephrotic-syndrome.qmd
         - nep-nephritic-syndrome.qmd
         - nep-kidney-failure.qmd
+        - neph-obstructive-uropathy.qmd
     - part: "<span style='font-weight:bold; color: black;'>Neurology</span>"
       chapters: 
         - neuro-spectrum.qmd

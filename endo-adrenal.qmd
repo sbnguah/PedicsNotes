@@ -1,4 +1,368 @@
 ---
 title: "Adrenal Gland Disorders"
-editor: visual
+date: 2025-01-21
 ---
+
+## Introduction
+
+The adrenal glands are essential endocrine organs responsible for the production of glucocorticoids,
+mineralocorticoids, and androgens. They play a central role in maintaining metabolism, electrolyte
+balance, and the stress response.\
+In children, adrenal gland disorders are particularly important because they can interfere with
+growth, puberty, and survival during physiological stress.
+
+This lecture provides an overview of the anatomy and physiology of the adrenal glands, followed by a
+discussion of common paediatric adrenal disorders including **adrenal insufficiency**, **congenital
+adrenal hyperplasia**, **Cushing syndrome**, **adrenal tumours**, and **disorders of adrenal
+medulla**.
+
+## Anatomy and Physiology
+
+Each adrenal gland is composed of two distinct regions:
+
+1.  **Adrenal cortex** — makes up about 90% of the gland.\
+    It has three zones:
+    -   **Zona glomerulosa** → secretes **aldosterone** (mineralocorticoid)\
+    -   **Zona fasciculata** → secretes **cortisol** (glucocorticoid)\
+    -   **Zona reticularis** → secretes **androgens** (DHEA and androstenedione)
+2.  **Adrenal medulla** — produces catecholamines (epinephrine and norepinephrine) under sympathetic
+    nervous control.
+
+**Regulation:**
+
+-   **ACTH (adrenocorticotropic hormone)** from the anterior pituitary regulates cortisol and
+    androgen synthesis.
+
+-   **Renin-angiotensin-aldosterone system (RAAS)** primarily controls aldosterone secretion.
+
+## Major Adrenal Hormones and Their Actions
+
+| Hormone          | Site of secretion | Major effects                                              |
+|------------------|-------------------|------------------------------------------------------------|
+| Cortisol         | Zona fasciculata  | Gluconeogenesis, anti-inflammatory effect, stress response |
+| Aldosterone      | Zona glomerulosa  | Sodium retention, potassium excretion, water balance       |
+| Androgens (DHEA) | Zona reticularis  | Pubic/axillary hair development                            |
+| Catecholamines   | Medulla           | “Fight or flight” response                                 |
+
+## Classification of Adrenal Disorders in Children
+
+Adrenal disorders can be broadly classified into:
+
+| Category | Examples |
+|--------------------------------------------------|--------------------------------------------------|
+| **Hypofunction (Adrenal insufficiency)** | Primary (Addison’s disease), Secondary (ACTH deficiency), Congenital adrenal hyperplasia |
+| **Hyperfunction** | Cushing syndrome, Hyperaldosteronism, Adrenogenital syndromes |
+| **Adrenal masses/tumours** | Neuroblastoma, Adrenocortical carcinoma, Adenoma |
+| **Disorders of medulla** | Pheochromocytoma |
+
+## Adrenal Insufficiency
+
+### Definition
+
+A condition in which the adrenal glands do not produce sufficient quantities of corticosteroids
+(cortisol ± aldosterone).
+
+### Classification
+
+1.  **Primary adrenal insufficiency (Addison’s disease):**
+    -   Destruction or dysfunction of the adrenal cortex.
+    -   Cortisol and aldosterone deficiency.
+2.  **Secondary adrenal insufficiency:**
+    -   Due to decreased ACTH secretion from the pituitary.
+    -   Cortisol deficiency only.
+3.  **Tertiary adrenal insufficiency:**
+    -   Resulting from hypothalamic dysfunction or prolonged exogenous steroid therapy.
+
+### Aetiology in Children
+
+-   **Autoimmune adrenalitis** (most common in developed settings).\
+-   **Congenital adrenal hyperplasia (CAH)**.\
+-   **Adrenal haemorrhage or infarction** (e.g., Waterhouse–Friderichsen syndrome).\
+-   **Infections:** Tuberculosis, CMV, fungal infections.\
+-   **Infiltrative diseases:** Adrenoleukodystrophy, metastatic neuroblastoma.\
+-   **Surgical or drug-induced** (ketoconazole, etomidate).
+
+### Clinical Features
+
+-   Failure to thrive and weight loss\
+-   Fatigue, weakness, lethargy\
+-   Hyperpigmentation (in primary cases)\
+-   Hypotension, dehydration, salt craving\
+-   Hypoglycaemia and hyponatremia\
+-   Nausea, vomiting, abdominal pain
+
+**In neonates:** prolonged jaundice, shock, or ambiguous genitalia (in CAH).
+
+### Investigations
+
+-   **Serum cortisol:** low morning level (\< 100 nmol/L is suggestive).\
+-   **Plasma ACTH:** elevated in primary, low in secondary.\
+-   **Electrolytes:** hyponatremia, hyperkalemia, hypoglycemia.\
+-   **ACTH stimulation test (Synacthen test):**
+    -   Failure of cortisol to rise confirms adrenal insufficiency.\
+-   **Adrenal autoantibodies** for autoimmune cause.\
+-   **Imaging:** CT or MRI of the adrenal glands when a structural cause issuspected.
+
+### Management
+
+#### Acute Adrenal Crisis (Emergency)
+
+**Presentation:** Shock, vomiting, dehydration, hypoglycaemia.
+
+**Management steps:**
+
+1.  Immediate IV access.\
+2.  **Hydrocortisone:** 50 mg/m² IV stat, then 50–100 mg/m²/day divided q6h.\
+3.  **IV fluids:** 0.9% saline with 5% dextrose for rehydration and glucose correction.\
+4.  Correct electrolytes.\
+5.  Identify and treat precipitating cause (infection, steroid withdrawal, stress).
+
+#### Chronic Replacement Therapy
+
+-   **Glucocorticoid:** Hydrocortisone 8–10 mg/m²/day orally (divided 3 doses).\
+-   **Mineralocorticoid:** Fludrocortisone 0.05–0.2 mg daily.\
+-   **Education:** “Sick day” rule—double or triple steroid dose during illness or surgery.\
+-   **Monitoring:** Growth, weight, blood pressure, electrolytes.
+
+## Congenital Adrenal Hyperplasia (CAH)
+
+### Definition
+
+A group of **autosomal recessive** enzyme defects in cortisol biosynthesis, leading to cortisol
+deficiency, variable aldosterone deficiency, and androgen excess.
+
+### Most Common Type
+
+-   **21-hydroxylase deficiency (≈90–95%)**
+
+### Pathophysiology
+
+-   Block in cortisol synthesis → increased ACTH → adrenal hyperplasia.\
+-   Excess precursors diverted to androgen pathway → virilisation.\
+-   In salt-wasting forms → aldosterone deficiency causes hyponatremia and hyperkalemia.
+
+### Classification
+
+| Type                     | Features                                           |
+|--------------------------|----------------------------------------------------|
+| **Classical (Severe)**   | Salt-wasting or simple virilising                  |
+| **Non-classical (Mild)** | Partial enzyme deficiency, late onset virilisation |
+
+### Clinical Features
+
+#### **Salt-wasting type**
+
+-   Neonatal onset (first 2 weeks).\
+-   Vomiting, dehydration, weight loss, shock.\
+-   Hyponatremia, hyperkalemia, hypoglycemia.\
+-   Female: ambiguous genitalia (virilisation).\
+-   Male: normal genitalia but presents with adrenal crisis.
+
+#### **Simple virilising type**
+
+-   Ambiguous genitalia in females at birth.\
+-   Precocious puberty, accelerated bone age.\
+-   No salt wasting.
+
+#### **Non-classical type**
+
+-   Later onset (childhood/adolescence).\
+-   Hirsutism, acne, irregular menses in girls.\
+-   Early pubarche in boys.
+
+### Diagnosis
+
+-   **17-hydroxyprogesterone (17-OHP):** elevated (\>30 nmol/L basal or post-ACTH).\
+-   **Electrolytes:** hyponatremia, hyperkalemia.\
+-   **Genetic testing:** CYP21A2 mutations.\
+-   **Ultrasound:** assess internal genitalia in virilised females.
+
+### Management
+
+#### Hormone Replacement
+
+-   **Hydrocortisone:** 10–15 mg/m²/day (3 divided doses).\
+-   **Fludrocortisone:** 0.05–0.2 mg/day in salt-wasting forms.\
+-   **Sodium supplementation:** especially in neonates.
+
+#### Surgical Correction
+
+-   **Genitoplasty** for virilised females (timing individualized).
+
+#### Long-Term Care
+
+-   Growth monitoring (avoid overtreatment leading to growth suppression).\
+-   Periodic bone age assessment.\
+-   Psychological and genetic counselling.\
+-   Lifelong follow-up in endocrinology clinic.
+
+## Cushing Syndrome
+
+### Definition
+
+A state of **chronic glucocorticoid excess**, either due to endogenous overproduction or exogenous
+steroid use.
+
+### Aetiology
+
+| Type | Cause |
+|-----------------|--------------------------------------------------------------|
+| **Exogenous** | Prolonged corticosteroid therapy (most common in children) |
+| **Endogenous** | ACTH-secreting pituitary adenoma (Cushing disease), adrenal adenoma or carcinoma, ectopic ACTH secretion (rare) |
+
+### Clinical Features
+
+-   Growth failure and weight gain\
+-   Moon facies, truncal obesity, buffalo hump\
+-   Striae (purple), acne, hirsutism\
+-   Hypertension, glucose intolerance\
+-   Mood changes (depression, irritability)\
+-   Osteopenia or fractures\
+-   Delayed puberty or amenorrhea
+
+### Investigations
+
+1.  **Screening tests**
+    -   24-hour urinary free cortisol: elevated.
+    -   Late-night salivary cortisol: loss of diurnal variation.
+    -   Low-dose dexamethasone suppression test: failure to suppress cortisol.
+2.  **Differentiation tests**
+    -   Plasma ACTH:
+        -   Low → adrenal cause\
+        -   Normal/high → ACTH-dependent cause.
+3.  **Imaging**
+    -   MRI pituitary (Cushing disease).\
+    -   CT or MRI adrenals for adenoma/carcinoma.
+
+### Management
+
+-   **Exogenous:** Gradual tapering of steroid dose.\
+-   **Pituitary adenoma:** Trans-sphenoidal surgery.\
+-   **Adrenal tumour:** Surgical excision ± radiotherapy.\
+-   **Medical therapy:** Ketoconazole, metyrapone, or mitotane when surgery is contraindicated.
+
+### Prognosis
+
+-   Normal growth may resume post-treatment, but final height may be compromised if prolonged
+    disease.\
+-   Requires careful perioperative steroid coverage to prevent adrenal insufficiency.
+
+## Adrenal Tumours
+
+### Overview
+
+Adrenal tumours in children may be **benign (adenoma)** or **malignant (carcinoma)**, and may
+secrete hormones or be non-functioning.
+
+#### Adrenocortical Tumours
+
+-   **Adenomas:** often hormonally active (Cushing, virilisation).\
+-   **Carcinomas:** aggressive, may secrete multiple hormones.
+
+**Clinical features:**
+
+-   Rapid virilisation in girls.\
+-   Cushingoid features.\
+-   Precocious puberty in boys.\
+-   Abdominal mass or pain.
+
+**Diagnosis:**
+
+-   Elevated serum and urinary steroid precursors.\
+-   Imaging (CT/MRI): large irregular mass.\
+-   Histopathology confirms diagnosis.
+
+**Treatment:**
+
+-   Surgical excision is mainstay.\
+-   Chemotherapy for carcinoma (mitotane, cisplatin-based regimens).\
+-   Lifelong hormonal follow-up.
+
+#### Neuroblastoma
+
+A malignant tumour arising from **neural crest cells** of the adrenal medulla.
+
+**Clinical features:**
+
+-   Abdominal mass, weight loss, hypertension.\
+-   Opsoclonus–myoclonus syndrome (rare paraneoplastic sign).
+
+**Investigations:**
+
+-   Elevated urinary catecholamine metabolites (VMA, HVA).\
+-   Imaging: calcified adrenal mass.\
+-   Bone marrow or MIBG scan for metastases.
+
+**Treatment:**
+
+-   Surgery, chemotherapy, and radiotherapy as appropriate.\
+-   Prognosis depends on stage and age (better in \<1 year).
+
+## Disorders of the Adrenal Medulla
+
+### Pheochromocytoma
+
+A rare catecholamine-secreting tumour of chromaffin cells.
+
+#### Clinical Features
+
+-   Paroxysmal or sustained hypertension.\
+-   Headache, palpitations, sweating.\
+-   Pallor, tremor, anxiety.\
+-   May be part of **MEN2A/2B syndromes**.
+
+#### Investigations
+
+-   24-hour urinary **metanephrines and catecholamines** (diagnostic).\
+-   Plasma free metanephrines.\
+-   MRI or MIBG scan to localize tumour.
+
+#### Management
+
+1.  **Preoperative preparation:**
+
+    -   Alpha-blockade (phenoxybenzamine) for 1–2 weeks.\
+    -   Then beta-blocker (propranolol) if tachycardia.
+
+2.  **Definitive surgery:** Adrenalectomy.\
+
+3.  **Postoperative monitoring** for hypotension or recurrence.
+
+## Investigation Summary Table
+
+| Disorder              | Key Test                  | Diagnostic Findings          |
+|-----------------------|---------------------------|------------------------------|
+| Adrenal insufficiency | ACTH stimulation          | Low cortisol response        |
+| CAH                   | 17-hydroxyprogesterone    | Elevated                     |
+| Cushing syndrome      | Dexamethasone suppression | Failure to suppress cortisol |
+| Adrenocortical tumour | Urinary steroids, imaging | Elevated androgens/cortisol  |
+| Pheochromocytoma      | Urinary metanephrines     | Elevated catecholamines      |
+
+## Long-Term Management Considerations
+
+-   **Hormone replacement therapy** requires frequent adjustment as the child grows.\
+-   **Stress dosing** of steroids during illness or surgery is lifesaving.\
+-   **Growth monitoring** is crucial to avoid overtreatment or under-replacement.\
+-   **Psychological support** is vital for children with virilisation or chronic illness.\
+-   **Family education** on emergency management (e.g., injectable hydrocortisone) is essential.
+
+## Summary Points
+
+-   Adrenal gland disorders in children range from life-threatening adrenal insufficiency to
+    hormone-secreting tumours.\
+-   **Congenital adrenal hyperplasia** is the most frequent inherited adrenal disorder.\
+-   **Adrenal crisis** is a paediatric emergency; treat promptly with IV fluids and hydrocortisone.\
+-   **Cushing syndrome** in children commonly results from exogenous steroids.\
+-   **Pheochromocytoma**, though rare, should be suspected in children with unexplained
+    hypertension.\
+-   Lifelong follow-up and interdisciplinary care (paediatric endocrinology, surgery, psychology)
+    improve outcomes.
+
+## Suggested Reading
+
+1.  Nelson Textbook of Pediatrics, 22nd Edition.\
+2.  Brook’s *Clinical Pediatric Endocrinology*, 7th Edition.\
+3.  Speiser PW, et al. *ESPE/LWPES Consensus on CAH Management*, *J Clin Endocrinol Metab* 2018.\
+4.  Husebye ES et al. *Diagnosis and management of primary adrenal insufficiency in children*,
+    *Lancet Diabetes Endocrinol*, 2021.\
+5.  WHO. *Paediatric Endocrine Disorders: A Practical Guide for Clinicians*, 2023.

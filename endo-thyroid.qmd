@@ -1,4 +1,310 @@
 ---
 title: "Thyroid Disorders"
-editor: visual
+date: 2025-10-23
 ---
+
+## Introduction
+
+The thyroid gland plays a critical role in regulating growth, metabolism, and neurodevelopment in
+children. Thyroid disorders are among the most common endocrine problems in paediatrics and may
+present with growth retardation, developmental delay, or changes in metabolic rate.\
+Because thyroid hormones influence almost every organ system, the clinical manifestations of their
+dysfunction are diverse and often subtle, especially in infants and children.
+
+This note provides an overview of thyroid physiology, outlines common thyroid disorders in children,
+and discusses their clinical presentation, investigation, and management.
+
+## Anatomy and Physiology
+
+The thyroid gland is a butterfly-shaped organ located in the anterior neck. It secretes the hormones
+**thyroxine (T4)** and **triiodothyronine (T3)** under the control of **thyroid-stimulating hormone
+(TSH)** from the anterior pituitary, which is regulated by **thyrotropin-releasing hormone (TRH)**
+from the hypothalamus.
+
+**Functions of thyroid hormones:**
+
+-   Regulation of **metabolic rate** and energy expenditure.
+-   Promotion of **growth and skeletal maturation**.
+-   Essential for **brain development**, especially in the first 2–3 years of life.
+-   Maintenance of **cardiovascular, gastrointestinal, and neuromuscular functions**.
+
+## Classification of Thyroid Disorders
+
+Thyroid diseases in children may be classified as:
+
+| Category | Examples |
+|--------------------------------------------------|--------------------------------------------------|
+| **Functional abnormalities** | Hypothyroidism, Hyperthyroidism |
+| **Structural abnormalities** | Goitre, Thyroid nodules, Thyroid carcinoma |
+| **Inflammatory/autoimmune disorders** | Hashimoto’s thyroiditis, Graves’ disease |
+| **Congenital abnormalities** | Thyroid dysgenesis, Dyshormonogenesis, Thyroid hormone resistance |
+
+## Congenital Hypothyroidism
+
+### Definition
+
+A condition present at birth due to a deficiency of thyroid hormone production, leading to impaired
+neurodevelopment and growth if untreated.
+
+### Aetiology
+
+1.  **Thyroid dysgenesis (≈85%)** — agenesis, ectopia, or hypoplasia.
+2.  **Dyshormonogenesis (≈10%)** — enzyme defects in hormone synthesis.
+3.  **Central hypothyroidism (rare)** — pituitary or hypothalamic dysfunction.
+4.  **Transient causes** — maternal antithyroid drugs, iodine deficiency or excess.
+
+### Pathophysiology
+
+Lack of thyroid hormone during early infancy leads to irreversible brain damage and developmental
+delay. Early detection and treatment are therefore crucial.
+
+### Clinical Features
+
+Symptoms are often subtle at birth due to transplacental maternal T4.\
+Typical features include:
+
+-   Prolonged neonatal jaundice
+-   Feeding difficulties and lethargy
+-   Large fontanelle, macroglossia, umbilical hernia
+-   Hypotonia and dry skin
+-   Later: growth retardation, developmental delay, coarse facial features, hoarse cry.
+
+### Diagnosis
+
+-   **Newborn screening:** Elevated TSH, low T4.
+-   **Confirmatory tests:** Serum TSH and free T4.
+-   **Imaging:** Thyroid ultrasound or radionuclide scan to assess gland structure.
+
+### Management
+
+-   **Levothyroxine:** 10–15 µg/kg/day orally, initiated as soon as diagnosis is made (ideally
+    within 2 weeks of birth).
+-   **Monitoring:** TSH and free T4 every 2–4 weeks initially, then every 3 months after 6 months of
+    age.
+-   **Long-term care:** Normal growth and neurodevelopment if therapy is started early and adherence
+    is maintained.
+
+## Acquired Hypothyroidism
+
+### Aetiology
+
+1.  **Autoimmune thyroiditis (Hashimoto’s disease)** — the most common cause in older children and
+    adolescents.
+2.  Iodine deficiency or excess.
+3.  Drugs (lithium, amiodarone, antithyroid medications).
+4.  Post-irradiation or post-surgical.
+5.  Pituitary or hypothalamic dysfunction (secondary hypothyroidism).
+
+### Clinical Features
+
+-   Growth failure and delayed bone age.
+-   Lethargy, cold intolerance, and constipation.
+-   Weight gain, dry skin, brittle hair.
+-   Bradycardia and delayed puberty.
+-   Diffuse or nodular goitre (in autoimmune thyroiditis).
+
+### Investigations
+
+-   Serum TSH (usually elevated) and free T4 (low).
+-   Antithyroid antibodies (anti-TPO, anti-thyroglobulin) are positive in Hashimoto’s disease.
+-   Thyroid ultrasound — may show heterogeneous echotexture in cases of autoimmune disease.
+
+### Management
+
+-   **Levothyroxine replacement:** 2–4 µg/kg/day in children; adjust based on growth and lab
+    monitoring.
+-   Regular monitoring of growth velocity, TSH, and T4 levels.
+-   Lifelong therapy in autoimmune cases; temporary therapy in transient hypothyroidism.
+
+## Hyperthyroidism in Children
+
+### Overview
+
+Hyperthyroidism results from excessive circulating thyroid hormones, leading to increased metabolic
+rate and sympathetic overactivity.\
+It is much less common in children than hypothyroidism, but is most often due to **Graves’
+disease**.
+
+### Aetiology
+
+1.  **Graves’ disease (autoimmune)** — antibodies stimulate TSH receptors → excess hormone
+    synthesis.
+2.  Toxic multinodular goitre or adenoma.
+3.  Thyroiditis (transient thyrotoxicosis due to gland inflammation).
+4.  Iatrogenic (excessive thyroxine intake).
+
+### Clinical Features
+
+-   Weight loss despite a good appetite.
+-   Heat intolerance, sweating, palpitations.
+-   Tremor, irritability, hyperactivity, poor school performance.
+-   Tachycardia, goitre, and exophthalmos (Graves’ disease).
+-   Accelerated bone maturation and growth.
+
+### Diagnosis
+
+-   **Low TSH**, **elevated T3 and T4**.
+-   **Thyroid antibodies:** positive TSH receptor antibodies in Graves’ disease.
+-   **Radioiodine uptake:** diffuse in Graves’, focal in toxic adenoma, low in thyroiditis.
+
+### Management
+
+#### Antithyroid Drugs
+
+-   **Carbimazole (0.5–1 mg/kg/day)** or **Methimazole** are first-line.
+-   Treatment is usually continued for 12–24 months, with gradual tapering.
+-   Monitor for side effects: agranulocytosis, rash, hepatotoxicity.
+
+#### Beta-blockers
+
+-   **Propranolol (1–2 mg/kg/day)** for control of tachycardia, tremor, and anxiety.
+
+#### Definitive Therapy
+
+-   Radioiodine ablation (rarely used in children under 10).
+-   Subtotal thyroidectomy for drug-resistant or relapsed cases.
+
+#### Long-Term Follow-Up
+
+-   Regular assessment of growth, heart rate, and thyroid function.
+-   Watch for iatrogenic hypothyroidism after definitive treatment.
+
+## Autoimmune Thyroiditis (Hashimoto’s Disease)
+
+### Pathophysiology
+
+Autoimmune destruction of the thyroid gland mediated by T-lymphocytes and antibodies against thyroid
+peroxidase (TPO) and thyroglobulin.\
+It may coexist with other autoimmune disorders (e.g., type 1 diabetes, Addison’s disease).
+
+### Clinical Features
+
+-   Painless, firm, diffuse goitre.
+-   Features of hypothyroidism may develop gradually.
+-   Occasionally presents with transient hyperthyroidism (“Hashitoxicosis”).
+
+### Investigations
+
+-   Elevated TSH, low or normal T4.
+-   Positive anti-TPO or anti-thyroglobulin antibodies.
+-   Ultrasound: heterogeneous echotexture.
+
+### Management
+
+-   Levothyroxine replacement for hypothyroid patients.
+-   Observation for euthyroid patients with small goitres.
+-   Screening for other autoimmune diseases (diabetes, celiac disease).
+
+## Goitre in Children
+
+### Definition
+
+An enlarged thyroid gland is visible or palpable in the neck.
+
+### Causes
+
+| Category              | Examples                  |
+|-----------------------|---------------------------|
+| **Physiological**     | Pubertal growth spurt     |
+| **Iodine deficiency** | Endemic goitre            |
+| **Autoimmune**        | Hashimoto’s, Graves’      |
+| **Dyshormonogenesis** | Genetic enzyme defects    |
+| **Neoplasms**         | Benign nodules, carcinoma |
+
+### Clinical Evaluation
+
+-   Size, symmetry, tenderness, and presence of nodules.
+-   Symptoms of pressure or dysfunction (dysphagia, hoarseness, hypo-/hyperthyroid signs).
+
+### Investigations
+
+-   Serum TSH and free T4.
+-   Thyroid antibodies.
+-   Ultrasound: to distinguish diffuse vs nodular enlargement.
+-   Fine-needle aspiration cytology (FNAC) for suspicious nodules.
+
+### Management
+
+-   Treat the underlying cause.
+-   Iodine supplementation in deficiency areas.
+-   Levothyroxine suppressive therapy for benign goitres.
+-   Surgical excision for compressive or suspicious nodules.
+
+## Thyroid Nodules and Cancer
+
+### Overview
+
+Thyroid nodules are uncommon in children but carry a higher risk of malignancy (20–25%) than in
+adults.
+
+### Risk Factors
+
+-   Prior head and neck irradiation.
+-   Family history of thyroid cancer (MEN2, familial medullary carcinoma).
+-   Chronic lymphocytic thyroiditis.
+
+### Types
+
+1.  **Papillary carcinoma** – most common (≈70–80%).
+2.  **Follicular carcinoma** – second most common.
+3.  **Medullary carcinoma** – associated with MEN2 syndromes.
+4.  **Anaplastic carcinoma** – extremely rare in children.
+
+### Clinical Features
+
+-   Solitary firm nodule, sometimes fixed to surrounding tissue.
+-   Cervical lymphadenopathy.
+-   Hoarseness or dysphagia (advanced disease).
+
+### Investigations
+
+-   **Ultrasound:** solid hypoechoic nodule with microcalcifications.
+-   **FNAC:** gold standard for cytological diagnosis.
+-   **Thyroid function tests:** usually normal.
+-   **Thyroglobulin:** tumour marker in differentiated cancers.
+
+### Management
+
+-   **Surgery:** near-total or total thyroidectomy.
+-   **Radioiodine ablation** for residual tissue or metastases.
+-   **Thyroxine suppression therapy** to prevent TSH stimulation.
+-   **Long-term follow-up** with thyroglobulin levels and imaging.
+
+## Investigations in Suspected Thyroid Disorders
+
+| Investigation           | Purpose                                      |
+|-------------------------|----------------------------------------------|
+| Serum TSH and free T4   | Assess functional status                     |
+| Thyroid antibodies      | Autoimmune thyroid disease                   |
+| Ultrasound scan         | Structure, nodules, cysts                    |
+| Radioiodine uptake scan | Evaluate the function and nodules            |
+| FNAC                    | Cytological diagnosis                        |
+| Newborn screening       | Early detection of congenital hypothyroidism |
+
+## Key Points in Paediatric Thyroid Disorders
+
+-   Early detection and treatment of **congenital hypothyroidism** are crucial for preventing
+    irreversible brain damage.
+-   **Autoimmune thyroiditis** is the most common cause of acquired hypothyroidism in children.
+-   **Graves’ disease** is the leading cause of paediatric hyperthyroidism.
+-   **Thyroid nodules in children** should be thoroughly evaluated due to a higher risk of
+    malignancy.
+-   Long-term follow-up with growth and developmental monitoring is essential in all thyroid
+    disorders.
+
+## Summary Table
+
+| Disorder | Key Features | Diagnostic Findings | Main Treatment |
+|-------------------------|-------------------------|-------------------------|-------------------------|
+| Congenital Hypothyroidism | Prolonged jaundice, macroglossia, poor growth | ↑TSH, ↓T4 | Levothyroxine 10–15 µg/kg/day |
+| Hashimoto’s Thyroiditis | Goitre, growth failure, and autoimmune markers | ↑TSH, anti-TPO + | Levothyroxine |
+| Graves’ Disease | Weight loss, tachycardia, exophthalmos | ↓TSH, ↑T3/T4, TRAb + | Carbimazole ± β-blockers |
+| Goitre (Iodine Deficiency) | Diffuse neck swelling | Normal or ↑TSH | Iodine or thyroxine |
+| Thyroid Cancer | Solitary firm nodule | FNAC positive | Surgery ± radioiodine |
+
+## Suggested Reading
+
+1.  Nelson Textbook of Paediatrics, 22nd Edition.
+2.  Sperling MA. *Pediatric Endocrinology*, 5th Edition.
+3.  WHO. *Guidelines for the Management of Thyroid Disorders in Children*.
+4.  ESPE (European Society for Paediatric Endocrinology) Clinical Practice Recommendations, 2023.
