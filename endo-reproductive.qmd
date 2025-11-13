@@ -1,4 +1,276 @@
 ---
 title: "Reproductive Disorders"
-editor: visual
+date: 2025-09-08
 ---
+
+## Introduction
+
+Reproductive endocrinology in children involves the study of the development, function, and
+disorders of the hypothalamic–pituitary–gonadal (HPG) axis. Unlike adults, in whom the system
+operates cyclically or continuously, the paediatric HPG axis undergoes distinct phases of activation
+and quiescence from fetal life through puberty.
+
+Reproductive disorders in children manifest as abnormalities in sexual differentiation, pubertal
+timing, gonadal development, or fertility. These conditions often present with clinical signs such
+as ambiguous genitalia, delayed or precocious puberty, or menstrual irregularities in adolescents.
+
+In Ghana and sub-Saharan Africa, limited access to endocrine diagnostic testing, late presentation,
+and sociocultural sensitivities surrounding reproductive development pose additional challenges.
+Hence, an understanding of normal reproductive physiology and early recognition of pathological
+patterns is crucial for paediatricians.
+
+## Physiology of the Hypothalamic–Pituitary–Gonadal Axis
+
+The HPG axis controls reproductive development and function through the coordinated actions of:
+
+1.  **Hypothalamus:** Secretes gonadotropin-releasing hormone (GnRH) in a pulsatile fashion.\
+2.  **Pituitary gland:** Responds to GnRH by releasing luteinizing hormone (LH) and
+    follicle-stimulating hormone (FSH).\
+3.  **Gonads (testes and ovaries):** Produce sex steroids (testosterone, estrogen, progesterone) and
+    gametes in response to LH and FSH.
+
+### Phases of Activity
+
+-   **Fetal life:** HPG axis active; sex differentiation occurs.
+-   **Mini-puberty (first 6 months postnatal):** Temporary activation, useful for early diagnosis of
+    some disorders.
+-   **Childhood:** Relative quiescence of the axis.
+-   **Puberty:** Reactivation leading to secondary sexual characteristics and fertility.
+
+## Classification of Paediatric Reproductive Disorders
+
+Reproductive disorders can be broadly grouped into:
+
+1.  **Disorders of Sexual Differentiation (DSD)**
+2.  **Pubertal Disorders**
+3.  **Gonadal Dysfunction**
+4.  **Menstrual and Fertility Disorders**
+
+Each category encompasses multiple aetiologies, with some overlap.
+
+## Disorders of Sexual Differentiation (DSD)
+
+These are congenital conditions in which chromosomal, gonadal, or anatomical sex is atypical.
+
+### Classification
+
+-   **46,XX DSD:** Often due to exposure to excess androgens (e.g., congenital adrenal
+    hyperplasia).\
+-   **46,XY DSD:** Results from under-virilization due to gonadal dysgenesis or androgen
+    insensitivity.\
+-   **Sex Chromosome DSD:** Such as Turner syndrome (45,X) and Klinefelter syndrome (47,XXY).
+
+### Clinical Presentation
+
+-   Ambiguous genitalia at birth\
+-   Inguinal or labial masses (testes)\
+-   Discordance between genetic and phenotypic sex\
+-   Failure of virilization in adolescence
+
+### Diagnosis
+
+-   **Karyotyping:** Determines chromosomal sex.\
+-   **Hormonal assays:** Measure 17-hydroxyprogesterone, testosterone, LH, FSH, and AMH.\
+-   **Pelvic ultrasound:** Evaluates internal genital structures.\
+-   **Genetic testing:** Useful where available.
+
+### Local Context
+
+In Ghana, many cases of ambiguous genitalia present late due to cultural stigma and inadequate
+neonatal screening. Early multidisciplinary assessment (paediatrician, endocrinologist, surgeon,
+psychologist) is critical for optimal outcomes and family counselling.
+
+### Management
+
+-   Gender assignment based on diagnostic clarity and cultural sensitivity.\
+-   Surgical correction where indicated.\
+-   Hormone replacement (e.g., glucocorticoids in CAH).\
+-   Psychosocial support for the patient and family.
+
+## Disorders of Puberty
+
+### Definition
+
+Puberty is the process leading to sexual maturation and reproductive capability. It involves the
+activation of the HPG axis.
+
+-   **Precocious puberty:** Onset of secondary sexual characteristics before age 8 in girls or 9 in
+    boys.\
+-   **Delayed puberty:** Absence of such characteristics by age 13 in girls or 14 in boys.
+
+### Precocious Puberty
+
+#### Types
+
+-   **Central (GnRH-dependent):** Premature activation of the HPG axis.
+-   **Peripheral (GnRH-independent):** Due to excess sex steroids from gonadal, adrenal, or ectopic
+    sources.
+
+#### Causes
+
+-   Central: Idiopathic (especially in girls), CNS lesions (e.g., hypothalamic hamartoma), CNS
+    infections (common post-meningitic sequelae in sub-Saharan Africa).\
+-   Peripheral: Congenital adrenal hyperplasia, ovarian cysts or tumours, McCune-Albright syndrome,
+    exogenous hormones.
+
+#### Clinical Features
+
+-   Early breast development (thelarche), pubic hair (pubarche), or menses in girls.\
+-   Testicular enlargement, penile growth, or voice deepening in boys.\
+-   Advanced bone age and accelerated growth.
+
+#### Investigations
+
+-   LH and FSH (basal and GnRH-stimulated).\
+-   Sex steroids (estradiol, testosterone).\
+-   Bone age (left hand/wrist X-ray).\
+-   MRI brain for CNS pathology.
+
+#### Management
+
+-   **Central:** GnRH analogues to suppress premature axis activation.\
+-   **Peripheral:** Treat underlying cause (e.g., tumour resection, corticosteroid replacement in
+    CAH).\
+-   **Psychological support:** Essential in early-developing children in conservative societies.
+
+### Delayed Puberty
+
+#### Causes
+
+-   **Constitutional delay:** Most common; familial and benign.\
+-   **Hypogonadotropic hypogonadism:** Due to pituitary/hypothalamic defects (e.g., Kallmann
+    syndrome, chronic malnutrition).\
+-   **Hypergonadotropic hypogonadism:** Primary gonadal failure (e.g., Turner, Klinefelter, mumps
+    orchitis).
+
+#### Clinical Features
+
+-   Absence of breast or testicular development.\
+-   Short stature or growth failure.\
+-   Psychosocial distress among peers.
+
+#### Investigations
+
+-   LH, FSH, and sex steroid levels.\
+-   Karyotype where indicated.\
+-   MRI for central lesions.\
+-   Bone age assessment.
+
+#### Management
+
+-   Observation in constitutional delay.\
+-   Hormone replacement therapy (estrogen or testosterone).\
+-   Treat underlying systemic or nutritional disorders.
+
+#### Ghanaian Context
+
+Malnutrition, chronic infections, and delayed recognition of hypogonadism remain frequent
+contributors to delayed puberty. Clinical suspicion and affordable initial hormonal testing are
+essential in regional hospitals.
+
+## Gonadal Dysfunction
+
+### Primary Gonadal Failure
+
+Results from intrinsic gonadal abnormalities leading to **hypergonadotropic hypogonadism**.\
+Common causes include:
+
+-   Turner syndrome (45,X)
+-   Klinefelter syndrome (47,XXY)
+-   Chemotherapy or radiotherapy-induced damage
+-   Autoimmune oophoritis or orchitis
+
+#### Clinical Features
+
+-   Absent or incomplete pubertal development\
+-   Infertility\
+-   Amenorrhea in females\
+-   Small, firm testes in males
+
+#### Management
+
+-   Hormone replacement therapy (HRT) for puberty induction and maintenance.\
+-   Fertility counselling.\
+-   Monitor for associated comorbidities (e.g., cardiovascular risk in Turner syndrome).
+
+### Secondary Gonadal Failure
+
+Due to hypothalamic or pituitary defects causing **hypogonadotropic hypogonadism**.\
+Causes: CNS tumours, trauma, chronic systemic illness, or genetic syndromes like Prader-Willi.
+
+## Menstrual and Fertility Disorders
+
+Although more relevant in late adolescence, early recognition of abnormal menstrual patterns is
+important.
+
+#A# Common Disorders - **Primary amenorrhea:** No menses by age 15 or within 3 years of thelarche.\
+- **Secondary amenorrhea:** Absence of menses for \>3 months in a previously menstruating girl.\
+- **Oligomenorrhea:** Infrequent menses (\>35 days apart).
+
+#A# Causes - Anatomic (imperforate hymen, Müllerian agenesis)\
+- Ovarian (PCOS, gonadal dysgenesis)\
+- Pituitary (hyperprolactinaemia)\
+- Hypothalamic (stress, undernutrition, excessive exercise)
+
+### Investigations
+
+-   Serum LH, FSH, prolactin, TSH, estradiol.\
+-   Pelvic ultrasound.\
+-   Progesterone challenge test.
+
+### Management
+
+-   Treat underlying cause (e.g., surgical correction, nutritional rehabilitation).\
+-   Hormonal therapy for regulation.\
+-   Psychological counselling.
+
+## Approach to a Child with a Reproductive Disorder
+
+1.  **Detailed history**
+    -   Onset and progression of puberty\
+    -   Family history of delayed or precocious puberty\
+    -   Neonatal genital appearance, chronic illnesses\
+    -   Drug and toxin exposure
+2.  **Physical examination**
+    -   Tanner staging\
+    -   Height, weight, and growth velocity\
+    -   Dysmorphic features or signs of chronic disease
+3.  **Laboratory evaluation**
+    -   Hormonal profile (LH, FSH, estradiol/testosterone, prolactin, TSH)\
+    -   Karyotyping where indicated
+4.  **Imaging**
+    -   Pelvic/abdominal ultrasound\
+    -   MRI brain/pituitary for central causes
+5.  **Psychosocial assessment**
+    -   Critical in addressing stigma and self-image concerns, particularly in the Ghanaian context.
+
+## Challenges in the Ghanaian and Sub-Saharan Context
+
+-   **Limited endocrine testing:** Many hospitals lack the capacity for detailed hormonal assays.\
+-   **Late presentation:** Families may delay seeking medical advice due to cultural stigma.\
+-   **Cost barriers:** HRT and genetic testing may be unaffordable for many patients.\
+-   **Need for multidisciplinary care:** Involving paediatric endocrinologists, surgeons,
+    psychologists, and social workers.\
+-   **Education and awareness:** Community sensitization and training of primary care workers are
+    key.
+
+## Key Takeaways
+
+-   Reproductive disorders in children arise from dysfunction of the HPG axis or abnormalities in
+    sexual differentiation.\
+-   Early recognition and hormonal evaluation are crucial to prevent long-term physical and
+    psychosocial complications.\
+-   In Ghana, limited diagnostic resources demand pragmatic, symptom-based approaches supplemented
+    by clinical acumen.\
+-   Psychosocial support and culturally sensitive counselling are integral to care.
+
+## Further Reading
+
+1.  Brook CGD, Clayton PE, Brown RS. *Brook’s Clinical Pediatric Endocrinology*, 8th ed.
+    Wiley-Blackwell, 2023.\
+2.  Sperling MA. *Pediatric Endocrinology*, 5th ed. Elsevier, 2021.\
+3.  Osei K, et al. “Paediatric endocrine practice in sub-Saharan Africa: challenges and
+    opportunities.” *J Clin Res Pediatr Endocrinol*, 2019.\
+4.  WHO. *Sexual Maturation and Pubertal Disorders: A Guide for Primary Health Care Providers*,
+    Geneva, 2018.\
+5.  West African College of Physicians (WACP) Curriculum for Paediatric Endocrinology, 2024.

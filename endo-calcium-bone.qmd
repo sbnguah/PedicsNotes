@@ -1,4 +1,371 @@
 ---
 title: "Calcium and Bone Metabolism"
-editor: visual
+date: 2025-10-05
 ---
+
+## Introduction
+
+Calcium and bone metabolism form a vital part of paediatric growth and development. Bones are not
+static structures; they are dynamic organs that undergo continuous remodeling, with bone formation
+and resorption occurring simultaneously. This dynamic process depends heavily on an intricate
+balance between calcium homeostasis, hormonal regulation, and adequate nutrition.
+
+Calcium is not only essential for skeletal integrity but also for neuromuscular function, blood
+coagulation, and intracellular signaling. Disturbances in calcium or bone metabolism can lead to
+conditions such as **rickets**, **osteopenia**, **hypocalcaemia**, or **hypercalcaemia** — all of
+which are relatively common in paediatric practice in Ghana and sub-Saharan Africa.
+
+Understanding calcium and bone metabolism is fundamental for diagnosing and managing paediatric
+metabolic bone disorders, especially given the high burden of **nutritional rickets** and **vitamin
+D deficiency** observed in resource-limited settings.
+
+## Overview of Bone Structure and Function
+
+Bone serves multiple physiological roles:
+
+-   **Structural support and protection** for internal organs.
+-   **Reservoir for minerals**, mainly calcium and phosphate.
+-   **Site of haematopoiesis** within the bone marrow.
+-   **Endocrine organ**, influencing energy metabolism through osteocalcin secretion.
+
+Bone tissue consists of:
+
+-   **Organic matrix (osteoid):** Composed mainly of type I collagen, providing tensile strength.
+-   **Inorganic mineral component:** Primarily calcium hydroxyapatite \[Ca₁₀(PO₄)₆(OH)₂\], which
+    gives hardness and rigidity.
+-   **Cells:** Including osteoblasts (bone-forming), osteoclasts (bone-resorbing), and osteocytes
+    (mature cells embedded in bone).
+
+The balance between bone formation and resorption maintains bone mass and structural integrity. This
+balance is regulated by both systemic hormones and local cytokines.
+
+## Calcium Homeostasis
+
+### Distribution of Calcium
+
+Approximately **99%** of total body calcium is stored in the skeleton and teeth. The remaining
+**1%** is distributed in extracellular and intracellular compartments.
+
+| Compartment         | Approximate percentage | Form                                                |
+|---------------------|------------------------|-----------------------------------------------------|
+| Bone and teeth      | 99%                    | Hydroxyapatite crystals                             |
+| Extracellular fluid | 1%                     | Ionized (50%), protein-bound (40%), complexed (10%) |
+
+**Ionized calcium** is the physiologically active form that participates in neuromuscular and
+enzymatic processes.
+
+### Normal Serum Calcium Levels
+
+-   **Total calcium:** 2.1–2.6 mmol/L
+-   **Ionized calcium:** 1.1–1.3 mmol/L
+
+These levels vary slightly with **age**, **protein status**, and **acid-base balance**.
+
+### Sources and Absorption of Calcium
+
+#### Dietary Sources
+
+-   **Breast milk:** Primary source in infancy, though low in calcium, it is highly bioavailable.
+-   **Cow’s milk, fish with bones (e.g., sardines), green leafy vegetables (kontomire),** and
+    **fortified foods** are important dietary sources in Ghana.
+
+#### Absorption
+
+-   Occurs mainly in the **duodenum and proximal jejunum**.
+-   Facilitated by **active transport** (vitamin D-dependent) and **passive diffusion**.
+-   Factors enhancing absorption:
+    -   Adequate vitamin D.
+    -   Acidic gastric pH.
+    -   Presence of lactose in infants.
+-   Factors reducing absorption:
+    -   Phytates (in cereals), oxalates (in spinach), and high phosphate intake (soft drinks).
+    -   Chronic diarrhoeal diseases or fat malabsorption.
+
+## Hormonal Regulation of Calcium and Phosphate Metabolism
+
+Calcium balance is maintained by a **homeostatic triad** involving:
+
+1.  **Parathyroid hormone (PTH)**
+2.  **Vitamin D (calcitriol)**
+3.  **Calcitonin**
+
+These hormones act on the **bone**, **kidney**, and **gastrointestinal tract** to regulate calcium
+and phosphate concentrations.
+
+### Parathyroid Hormone (PTH)
+
+#### Source
+
+Secreted by the **chief cells** of the parathyroid glands.
+
+#### Stimulus
+
+Released in response to **low serum ionized calcium**.
+
+#### Actions
+
+-   **Bone:** Stimulates osteoclast-mediated bone resorption, releasing calcium and phosphate.
+-   **Kidney:**
+    -   Increases calcium reabsorption in distal tubules.
+    -   Decreases phosphate reabsorption (phosphaturia).
+    -   Enhances 1α-hydroxylase activity → increases active vitamin D production.
+-   **Intestine:** Indirectly increases calcium absorption via vitamin D activation.
+
+#### Net Effect
+
+Raises serum calcium and lowers serum phosphate.
+
+### Vitamin D (Calcitriol)
+
+#### Sources
+
+-   **Endogenous synthesis:** From 7-dehydrocholesterol in the skin upon exposure to sunlight (UVB
+    rays).
+-   **Dietary intake:** From fish oil, fortified milk, eggs, and supplements.
+
+#### Metabolism
+
+1.  **Liver:** Converts cholecalciferol to **25-hydroxyvitamin D \[25(OH)D\]**.
+2.  **Kidney:** Converts 25(OH)D to **1,25-dihydroxyvitamin D \[1,25(OH)₂D\]**, the active form.
+
+#### Actions
+
+-   **Intestine:** Increases absorption of calcium and phosphate.
+-   **Bone:** Promotes mineralization and bone formation.
+-   **Kidney:** Facilitates calcium reabsorption.
+
+#### Net Effect
+
+Increases both serum calcium and phosphate.
+
+#### Ghanaian Context
+
+Children in Ghana should theoretically have adequate vitamin D due to abundant sunlight. However,
+**urbanization**, **use of sunscreen**, **indoor lifestyles**, **dark skin pigmentation**, and
+**maternal deficiency during pregnancy** contribute to suboptimal vitamin D levels in both mothers
+and infants. Consequently, **nutritional rickets** remains prevalent in some communities,
+particularly among exclusively breastfed infants without supplementation.
+
+### Calcitonin
+
+#### Source
+
+Secreted by **parafollicular (C) cells** of the thyroid gland.
+
+#### Actions
+
+-   Inhibits osteoclastic bone resorption.
+-   Promotes renal calcium excretion.
+
+#### Net Effect
+
+Lowers serum calcium levels — physiologically less significant in children compared to adults.
+
+## Bone Remodeling
+
+Bone is constantly renewed through **remodeling cycles**, which consist of:
+
+1.  **Activation:** Recruitment of osteoclasts to resorption sites.
+2.  **Resorption:** Breakdown of mineral and matrix by osteoclasts.
+3.  **Reversal:** Transition phase.
+4.  **Formation:** Osteoblasts lay down new osteoid, which becomes mineralized.
+
+During **childhood and adolescence**, bone formation exceeds resorption, resulting in net bone gain.
+**Peak bone mass** is achieved around the third decade of life, after which bone loss begins
+gradually.
+
+Factors influencing bone remodeling include:
+
+-   **Mechanical stress:** Weight-bearing stimulates bone formation.
+-   **Hormones:** Growth hormone, PTH, sex steroids.
+-   **Nutrients:** Calcium, phosphate, magnesium, and vitamin D.
+-   **Cytokines:** IL-1, TNF-α, and RANKL/OPG pathway.
+
+## Disorders of Calcium and Bone Metabolism in Children
+
+### Hypocalcaemia
+
+#### Causes
+
+-   **Neonatal:**
+    -   Prematurity.
+    -   Maternal diabetes.
+    -   Birth asphyxia or sepsis.
+    -   Hypoparathyroidism or pseudohypoparathyroidism.
+-   **Childhood:**
+    -   Vitamin D deficiency (nutritional rickets).
+    -   Chronic renal disease.
+    -   Hypomagnesaemia.
+    -   Malabsorption syndromes.
+
+#### Clinical Features
+
+-   Tetany (carpopedal spasm, laryngospasm).
+-   Seizures.
+-   Paresthesiae.
+-   Chvostek’s and Trousseau’s signs.
+-   Irritability or poor feeding in infants.
+
+#### Management
+
+-   Acute: IV calcium gluconate (0.5–1 mL/kg of 10% solution).
+-   Chronic: Oral calcium and vitamin D supplementation.
+-   Treat underlying cause (e.g., magnesium deficiency).
+
+### Hypercalcaemia
+
+#### Causes
+
+-   Iatrogenic (excess vitamin D or calcium).
+-   Primary hyperparathyroidism (rare in children).
+-   Malignancy (leukaemia, lymphoma).
+-   Granulomatous diseases (sarcoidosis, tuberculosis).
+-   Prolonged immobilization.
+
+#### Clinical Features
+
+-   Nausea, vomiting, constipation.
+-   Polyuria, polydipsia.
+-   Lethargy, confusion.
+-   Renal calculi or nephrocalcinosis.
+
+#### Management
+
+-   Adequate hydration.
+-   Loop diuretics (furosemide).
+-   Corticosteroids for vitamin D-related causes.
+-   Bisphosphonates in refractory cases.
+
+### Rickets and Osteomalacia
+
+#### Definition
+
+Defective mineralization of bone matrix, leading to soft and deformed bones in children (rickets)
+and adults (osteomalacia).
+
+#### Causes
+
+-   **Nutritional vitamin D deficiency:** Most common in Ghana.
+-   **Calcium deficiency:** Seen in diets low in dairy or with high phytate content.
+-   **Chronic kidney disease:** Renal rickets.
+-   **Genetic:** Vitamin D–dependent or resistant rickets.
+
+#### Clinical Features
+
+-   Delayed closure of fontanelle.
+-   Frontal bossing, rachitic rosary.
+-   Bowed legs (genu varum) or knock knees (genu valgum).
+-   Widened wrists and ankles.
+-   Growth retardation.
+
+#### Investigations
+
+-   Low calcium and phosphate.
+-   Elevated alkaline phosphatase.
+-   Low 25(OH) vitamin D.
+-   Radiographs: Cupping and fraying of metaphyses.
+
+#### Management
+
+-   Vitamin D supplementation (2,000–6,000 IU daily for 3 months, then maintenance).
+-   Dietary calcium supplementation.
+-   Adequate sunlight exposure.
+-   Health education for caregivers.
+
+#### Local Note
+
+Studies from Ghana and Nigeria have shown a **mixed calcium and vitamin D deficiency** pattern in
+rickets. Exclusive reliance on sunlight exposure without dietary correction may therefore be
+inadequate.
+
+### Osteopenia and Osteoporosis of Prematurity
+
+#### Definition
+
+Reduced bone mineral content in preterm infants due to inadequate mineral accretion.
+
+#### Causes
+
+-   Prematurity (most calcium accretion occurs in the third trimester).
+-   Prolonged parenteral nutrition.
+-   Chronic diuretic or steroid use.
+-   Limited physical activity.
+
+#### Prevention and Management
+
+-   Adequate calcium and phosphate supplementation in preterm feeds.
+-   Use of fortified breast milk.
+-   Gentle physical therapy.
+
+### Renal Osteodystrophy
+
+#### Pathophysiology
+
+Chronic kidney disease leads to: - Impaired phosphate excretion (hyperphosphataemia), - Reduced
+calcitriol production, - Secondary hyperparathyroidism, - Bone demineralization and deformities.
+
+#### Management
+
+-   Dietary phosphate restriction.
+-   Phosphate binders.
+-   Active vitamin D analogues (calcitriol).
+-   Correction of metabolic acidosis.
+
+## Laboratory Evaluation of Bone and Calcium Metabolism
+
+| Test | Interpretation | Clinical Utility |
+|----------------------|-------------------------------------|-----------------------------------------|
+| **Serum calcium (total/ionized)** | ↓ in hypocalcaemia, ↑ in hypercalcaemia | Basic screen |
+| **Serum phosphate** | ↓ in rickets, ↑ in renal disease | Assess phosphate balance |
+| **Alkaline phosphatase (ALP)** | Elevated in bone formation or rickets | Marker of bone turnover |
+| **Parathyroid hormone (PTH)** | High in secondary hyperparathyroidism | Helps classify calcium disorders |
+| **25(OH) vitamin D** | Reflects vitamin D stores | Deficiency common in rickets |
+| **1,25(OH)₂D** | Active form; low in renal disease | Used selectively |
+| **Urinary calcium and phosphate** | To assess renal losses | Useful in metabolic bone diseases |
+
+Radiologic investigations (wrist or knee X-rays) complement biochemical findings in rickets and
+other bone disorders.
+
+## Nutritional Considerations and Public Health Implications
+
+In Ghana, dietary calcium intake among children is often **below recommended levels**, particularly
+in rural communities where milk consumption is limited. Staple diets based on maize, millet, and
+cassava have high phytate content, reducing calcium bioavailability.
+
+**Strategies to improve calcium and vitamin D status include:** - Promoting exclusive breastfeeding
+with appropriate maternal nutrition. - Fortification of complementary foods with calcium and vitamin
+D. - Encouraging outdoor play for sunlight exposure. - Supplementation programs for at-risk groups
+(infants, adolescents, pregnant women).
+
+Public health campaigns should also emphasize the dangers of excessive soda intake, as **phosphoric
+acid** in carbonated drinks can impair calcium absorption.
+
+## Summary
+
+-   Calcium and phosphate metabolism is tightly regulated by **PTH**, **vitamin D**, and
+    **calcitonin**.
+-   The skeleton serves as the main calcium reservoir, undergoing constant remodeling.
+-   Disorders such as **rickets**, **hypocalcaemia**, and **renal osteodystrophy** are common in
+    paediatric practice.
+-   **Nutritional deficiency**, **limited sunlight exposure**, and **chronic kidney disease** are
+    leading causes in Ghana.
+-   Early diagnosis, supplementation, and community education are vital for prevention and
+    management.
+
+## Further Reading
+
+1.  Thacher TD, Fischer PR. Vitamin D and calcium deficiencies in children living in tropical areas.
+    *Int J Vitam Nutr Res.* 2013;83(5):292–301.\
+2.  Oduro-Boatey C, Aryeetey R, et al. Nutritional rickets among Ghanaian children: prevalence and
+    associated dietary factors. *Ghana Med J.* 2020;54(2):78–85.\
+3.  Pettifor JM. Nutritional rickets: deficiency of vitamin D, calcium, or both? *Am J Clin Nutr.*
+    2004;80(6 Suppl):1725S–1729S.\
+4.  Holick MF. Vitamin D deficiency. *N Engl J Med.* 2007;357(3):266–281.\
+5.  Weaver CM, et al. The National Osteoporosis Foundation’s position statement on peak bone mass
+    development. *Osteoporos Int.* 2016;27:1281–1386.\
+6.  WHO. *Guidelines on Vitamin D Supplementation for Infants and Children.* Geneva: World Health
+    Organization; 2019.\
+7.  Ghana Health Service. *Nutrition and Micronutrient Guidelines for Child Health in Ghana.* Accra:
+    GHS; 2021.\
+8.  Kliegman RM, et al. *Nelson Textbook of Pediatrics.* 21st ed. Elsevier; 2020. Chapter on Calcium
+    and Bone Metabolism.

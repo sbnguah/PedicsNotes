@@ -130,7 +130,7 @@ GHD is the most common isolated pituitary hormone deficiency in children. It may
 Children typically present with:
 
 -   Short stature with normal body proportions
--    Delayed skeletal maturation
+-   Delayed skeletal maturation
 -   Chubby face and truncal obesity
 -   Delayed dentition and puberty
 
@@ -323,4 +323,4 @@ evaluation of pituitary function.
 5.  Osei-Kwakye K, et al. “Challenges in Diagnosing Paediatric Endocrine Disorders in Low-Resource
     Settings: The Ghanaian Perspective.” *West African Journal of Medicine*, 2021.
 6.  WHO. *Endocrine Disorders in Childhood: Diagnosis and Management in Resource-Limited Settings*,
-    2023.
+    2023. 

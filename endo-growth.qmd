@@ -1,4 +1,323 @@
 ---
 title: "Growth Disorders"
-editor: visual
+date: 2025-07-12
 ---
+
+## Introduction
+
+Growth is one of the most visible and sensitive indicators of a child’s health and overall
+well-being. In paediatrics, monitoring growth is an essential part of clinical care, as deviations
+from normal patterns often signal underlying disease, malnutrition, or hormonal imbalance.
+
+A **growth disorder** refers to any condition that results in abnormal stature or growth velocity
+compared with reference standards for age and sex. These disorders may present as **short stature**,
+**tall stature**, or **abnormal growth velocity**, and they can have **endocrine**, **genetic**,
+**systemic**, or **nutritional** causes.
+
+In Ghana and much of sub-Saharan Africa, poor nutrition, chronic infections, and delayed recognition
+of endocrine disorders remain major contributors to abnormal growth. The limited availability of
+specialized diagnostic tests often necessitates a pragmatic, clinically guided approach.
+
+## Normal Growth Physiology
+
+Normal growth is influenced by the complex interplay between genetic, nutritional, hormonal, and
+environmental factors. The main hormones involved are:
+
+1.  **Growth Hormone (GH):** Secreted by the anterior pituitary in a pulsatile manner, stimulating
+    hepatic production of insulin-like growth factor 1 (IGF-1).
+2.  **IGF-1 and IGFBP-3:** Mediate the growth-promoting effects of GH at the tissue level.
+3.  **Thyroid hormones:** Essential for normal bone maturation and growth velocity.
+4.  **Sex steroids (estrogen and testosterone):** Promote pubertal growth spurt and epiphyseal
+    closure.
+5.  **Cortisol:** In excess, inhibits growth.
+6.  **Insulin:** Promotes growth through anabolic effects.
+
+#### Phases of Growth
+
+1.  **Infancy (0–2 years):** Rapid growth, largely nutrition-dependent.
+2.  **Childhood (2 years–puberty):** Steady growth, GH-dependent.
+3.  **Pubertal phase:** Growth acceleration due to synergistic effects of GH and sex steroids.
+
+## Assessment of Growth
+
+A systematic approach to growth assessment is essential for early recognition of abnormalities.
+
+### Measurement Techniques
+
+-   **Height:** Using a stadiometer (standing) or length board (infants).
+
+-   **Weight:** Calibrated scale.
+
+-   **Head circumference:** For children \<5 years.
+
+-   **Mid-parental height (MPH):** Estimate of genetic potential.
+
+    \[ \text{MPH (boys)} = \frac{(\text{father's height} + \text{mother's height} + 13)}{2} \] \[
+    \text{MPH (girls)} = \frac{(\text{father's height} + \text{mother's height} - 13)}{2} \]
+
+### Growth Charts
+
+-   Use WHO or CDC growth charts.
+-   Plot serial measurements to determine **growth velocity**.
+-   Identify **crossing of centiles**, which is more significant than a single low value.
+
+### Bone Age Assessment
+
+-   X-ray of the left hand and wrist compared to Greulich and Pyle standards.
+-   Bone age lags behind chronological age in endocrine causes, but is usually normal in familial
+    short stature.
+
+### Pubertal Assessment
+
+-   Tanner staging for breast, genital, and pubic hair development.
+-   Pubertal timing provides clues to underlying endocrine abnormalities.
+
+## Classification of Growth Disorders
+
+Growth disorders can be broadly classified as:
+
+1.  **Short stature:** Height below the 3rd percentile or \>2 standard deviations (SD) below mean
+    for age and sex.\
+2.  **Tall stature:** Height above the 97th percentile or \>2 SD above mean.\
+3.  **Abnormal growth velocity:** Deviation from expected rate for age.
+
+This chapter focuses on **short stature**, the commonest concern in paediatric endocrinology.
+
+## Short Stature
+
+### Aetiological Classification
+
+| Category | Example Disorders | Key Features |
+|-------------------------|------------------------------------------|---------------------------------|
+| **Normal variants** | Familial short stature, constitutional growth delay | Normal bone age or delayed bone age with normal growth velocity |
+| **Endocrine causes** | Growth hormone deficiency, hypothyroidism, Cushing’s syndrome | Decreased growth velocity, delayed bone age |
+| **Chronic systemic disease** | Renal, cardiac, hepatic disease, malnutrition | Poor weight gain precedes height faltering |
+| **Genetic and skeletal disorders** | Turner syndrome, achondroplasia | Dysmorphic features, disproportionate body segments |
+| **Psychosocial deprivation** | Neglect, chronic stress | Variable catch-up growth when environment improves |
+
+## Endocrine Causes of Short Stature
+
+### Growth Hormone Deficiency (GHD)
+
+#### Definition
+
+Deficiency of GH secretion, either isolated or as part of multiple pituitary hormone deficiencies.
+
+#### Causes
+
+-   **Congenital:** Pituitary hypoplasia, midline defects, genetic mutations.
+-   **Acquired:** Brain tumours (craniopharyngioma), head trauma, CNS infections (meningitis,
+    tuberculosis), irradiation.
+
+#### Clinical Features
+
+-   Normal birth size.
+-   Progressive deviation from growth curve after 6 months.
+-   Chubby face, truncal adiposity.
+-   Delayed dentition, bone age, and puberty.
+-   Often normal intelligence.
+
+#### Investigations
+
+-   **Serum IGF-1 and IGFBP-3:** Screening tests (low in GHD).
+-   **GH stimulation tests:** Using insulin, clonidine, or glucagon (confirmatory).
+-   **MRI brain:** Evaluate pituitary and hypothalamus.
+-   **Other pituitary hormones:** TSH, ACTH, gonadotropins.
+
+#### Management
+
+-   **Recombinant GH therapy** (0.03–0.05 mg/kg/day SC).
+-   Monitor growth velocity and bone age.
+-   Address underlying cause if secondary.
+
+#### Ghanaian Context
+
+GH assays and stimulation tests are limited to a few tertiary centres (e.g., KATH, KBTH). Empirical
+diagnosis is sometimes supported by clinical features and low IGF-1, if available.
+
+### Hypothyroidism
+
+#### Pathophysiology
+
+Deficiency of thyroid hormones impairs bone maturation, metabolism, and growth.
+
+#### Clinical Features
+
+-   Growth failure with delayed bone age.
+-   Puffy face, coarse hair, dry skin.
+-   Bradycardia, constipation, lethargy.
+-   Delayed puberty.
+
+#### Diagnosis
+
+-   Low free T4, high TSH (primary hypothyroidism).
+-   Low T4, low TSH (secondary hypothyroidism).
+
+#### Management
+
+-   Lifelong **levothyroxine replacement** (10–15 µg/kg/day).
+-   Monitor TSH and growth response.
+
+#### Local Note
+
+In Ghana, neonatal screening for congenital hypothyroidism is not yet universal, so cases may
+present late with severe growth retardation and cognitive impairment.
+
+### Cushing’s Syndrome
+
+#### Definition
+
+Chronic exposure to excess glucocorticoids (endogenous or exogenous).
+
+#### Clinical Features
+
+-   Growth failure with weight gain (hallmark).
+-   Moon face, truncal obesity, striae, hypertension.
+-   Proximal muscle weakness.
+
+#### Causes
+
+-   Prolonged steroid therapy (commonest in Ghana).
+-   Adrenal or pituitary tumours (rare).
+
+#### Management
+
+-   Taper and discontinue exogenous steroids where possible.
+-   Treat underlying pathology surgically or medically.
+
+## Non-Endocrine Causes
+
+### Chronic Systemic Illness
+
+Chronic diseases such as renal failure, cyanotic congenital heart disease, inflammatory bowel
+disease, and sickle cell anaemia impair growth.
+
+#### Mechanisms
+
+-   Nutritional deficits.
+-   Increased energy demands.
+-   Cytokine-mediated suppression of GH/IGF axis.
+
+#### Management
+
+-   Optimize control of the primary disease.
+-   Nutritional rehabilitation.
+
+### Malnutrition
+
+A leading cause of growth retardation in Ghana.\
+- **Kwashiorkor and marasmus** lead to stunting and wasting.\
+- Linear growth improves only after prolonged nutritional rehabilitation.\
+- Differentiation from endocrine short stature: **low weight-for-height** and **normal bone age**.
+
+## Genetic and Skeletal Dysplasias
+
+#### Turner Syndrome (45,X)
+
+-   Short stature, webbed neck, shield chest.
+-   Gonadal dysgenesis (streak ovaries).
+-   Coarctation of aorta, renal anomalies.
+
+**Diagnosis:** Karyotype confirmation.\
+**Management:** GH therapy, estrogen replacement, cardiac and renal monitoring.
+
+#### Achondroplasia
+
+-   Disproportionate short stature.
+-   Short limbs, large head, normal intelligence.
+-   Autosomal dominant FGFR3 mutation.
+
+## Tall Stature
+
+Although less common, tall stature may also warrant evaluation.
+
+### Causes
+
+1.  **Familial tall stature:** Normal growth velocity, normal bone age.
+2.  **Endocrine:** GH excess (gigantism), precocious puberty, hyperthyroidism.
+3.  **Genetic:** Marfan syndrome, Klinefelter syndrome.
+4.  **Obesity:** Early growth acceleration with premature epiphyseal closure.
+
+#### Investigations
+
+-   Bone age.
+-   GH and IGF-1 levels.
+-   Karyotype (for Klinefelter’s).
+-   Echocardiography (for Marfan’s).
+
+#### Management
+
+-   Treat underlying endocrine cause.
+-   Psychosocial support for body image issues.
+
+## Growth Hormone Therapy: Principles and Monitoring
+
+#### Indications
+
+-   GH deficiency.
+-   Turner syndrome.
+-   Chronic renal failure.
+-   Small for gestational age without catch-up by age 2 years.
+-   Idiopathic short stature (in selected cases).
+
+#### Administration
+
+-   Daily subcutaneous injection at night.
+-   Dose: 0.03–0.05 mg/kg/day.
+
+#### Monitoring
+
+-   Growth velocity (every 6 months).
+-   Bone age (yearly).
+-   IGF-1 levels (to guide dosing).
+-   Adverse effects: pseudotumor cerebri, slipped capital femoral epiphysis, glucose intolerance.
+
+#### Cost and Accessibility in Ghana
+
+GH therapy is expensive (≈GHS 1500–2500/month) and rarely covered by national health insurance,
+limiting access to selected tertiary hospitals. Efforts are ongoing to improve subsidization for
+paediatric endocrine conditions.
+
+## Approach to a Child with Short Stature
+
+1.  **Confirm true short stature** (plot on chart).
+2.  **Assess growth velocity** (serial measurements).
+3.  **Evaluate mid-parental height**.
+4.  **Assess for dysmorphism or disproportion**.
+5.  **Investigate** based on findings:
+
+| Step      | Key Tests                        | Purpose                          |
+|-----------|----------------------------------|----------------------------------|
+| Screening | CBC, ESR, renal & liver function | Rule out systemic disease        |
+| Endocrine | TSH, free T4, IGF-1              | Identify hypothyroidism or GHD   |
+| Bone Age  | X-ray left hand                  | Assess growth potential          |
+| Genetic   | Karyotype (girls)                | Detect Turner syndrome           |
+| Imaging   | MRI brain                        | Assess pituitary or hypothalamus |
+
+## Psychosocial and Public Health Aspects
+
+-   **Psychological impact:** Children with growth disorders often face teasing, low self-esteem,
+    and academic difficulties.
+-   **Parental counselling:** Important to distinguish between benign and pathological causes.
+-   **Community education:** Emphasize routine growth monitoring at child welfare clinics.
+-   **Policy direction:** Advocacy for national newborn screening and early endocrine referral
+    networks.
+
+## Key Takeaways
+
+-   Growth disorders are common indicators of underlying systemic or endocrine disease.\
+-   Accurate measurement and serial growth plotting are crucial diagnostic steps.\
+-   Endocrine causes typically have delayed bone age with preserved weight.\
+-   In Ghana, nutritional and chronic disease-related growth failure remain prevalent, but endocrine
+    causes should be considered early.\
+-   Early referral to specialized centres can improve long-term outcomes.
+
+## Further Reading
+
+1.  Sperling MA. *Pediatric Endocrinology*, 5th ed. Elsevier, 2021.
+2.  Brook CGD, Clayton PE, Brown RS. *Brook’s Clinical Pediatric Endocrinology*, 8th ed.
+    Wiley-Blackwell, 2023.
+3.  De Onis M et al. *WHO Child Growth Standards: Methods and Development*. Geneva: WHO, 2006.
+4.  Osei K, et al. “Endocrine causes of short stature in sub-Saharan Africa: a diagnostic
+    challenge.” *Ghana Med J*, 2018.
+5.  West African College of Physicians (WACP). *Curriculum for Paediatric Endocrinology*, 2024.

@@ -1,3 +1,318 @@
 ---
 title: "Obstructive Uropathy"
 ---
+
+## Introduction
+
+Obstructive uropathy refers to any structural or functional impediment to the normal flow of urine
+along the urinary tract, leading to an increase in intraluminal pressure and, ultimately, damage to
+the kidneys. The obstruction may occur at any point from the renal pelvis to the urethral meatus and
+may be **acute or chronic**, **partial or complete**, **unilateral or bilateral**.
+
+In children, the condition is of particular concern because prolonged obstruction, even if partial,
+can lead to **irreversible renal parenchymal damage**, which has lifelong implications for growth,
+development, and renal function. Early recognition and prompt intervention are therefore essential.
+
+In Ghana and other parts of sub-Saharan Africa, obstructive uropathy in children is not uncommon.
+The causes vary with age, ranging from **posterior urethral valves** in neonates and infants to
+**ureteropelvic junction obstruction** and acquired causes such as **stones** or **iatrogenic
+injury** in older children.
+
+## Basic Anatomy and Physiology
+
+The urinary tract consists of:
+
+-   **Kidneys:** Filter blood to form urine.
+-   **Ureters:** Conduct urine from the kidneys to the bladder.
+-   **Bladder:** Stores urine temporarily.
+-   **Urethra:** Expels urine from the body.
+
+Normal urine flow is maintained by a combination of:
+
+1.  The peristaltic activity of the ureters,
+2.  The presence of competent valves (such as the vesicoureteric junction),
+3.  Coordinated bladder contraction and sphincter relaxation.
+
+Any lesion disrupting these mechanisms can cause obstruction and consequent back pressure on the
+kidneys, resulting in **hydronephrosis** and possible **renal impairment**.
+
+## Pathophysiology
+
+When urine flow is obstructed, several changes occur in the urinary tract and renal parenchyma:
+
+1.  **Increased pressure proximal to the obstruction:** Leads to dilatation of the collecting system
+    (hydronephrosis) and stretching of the renal capsule.
+2.  **Altered renal blood flow:** Initially, renal blood flow increases but eventually declines as
+    interstitial pressure rises, leading to ischemic injury.
+3.  **Tubular dysfunction:** Impaired concentrating ability and reduced glomerular filtration rate
+    (GFR).
+4.  **Inflammation and fibrosis:** Chronic obstruction leads to tubular atrophy, interstitial
+    inflammation, and fibrosis, resulting in progressive loss of renal function.
+
+The reversibility of renal damage depends on the **duration and severity** of the obstruction.
+Complete obstruction for more than a few weeks can cause **irreversible renal scarring**.
+
+## Classification
+
+### Based on Duration
+
+-   **Acute Obstructive Uropathy:** Sudden onset (e.g., calculus obstruction, trauma).
+-   **Chronic Obstructive Uropathy:** Long-standing (e.g., posterior urethral valves, congenital
+    stenosis).
+
+### Based on Site
+
+-   **Upper tract obstruction:** Affecting renal pelvis or ureter.
+-   **Lower tract obstruction:** Involving the bladder or urethra.
+
+### Based on Laterality
+
+-   **Unilateral:** One kidney affected (may preserve overall renal function).
+-   **Bilateral:** Both kidneys affected (risk of renal failure).
+
+### Based on Nature of Lesion
+
+-   **Intrinsic:** Due to lesion within the urinary tract (e.g., valves, stricture, stone).
+-   **Extrinsic:** Due to external compression (e.g., tumour, retroperitoneal fibrosis).
+
+## Aetiology
+
+The causes of obstructive uropathy in children vary by age group:
+
+### Neonates and Infants
+
+-   **Posterior urethral valves (PUV):** The most common cause in male infants.
+-   **Ureteropelvic junction (UPJ) obstruction**
+-   **Ureterovesical junction (UVJ) obstruction**
+-   **Prune-belly syndrome**
+-   **Congenital megaureter**
+
+### Older Children and Adolescents
+
+-   **Urolithiasis**
+-   **Urethral stricture (post-infective or traumatic)**
+-   **Pelvi-ureteric junction obstruction (if not detected earlier)**
+-   **External compression (tumours, retroperitoneal fibrosis)**
+-   **Neurogenic bladder dysfunction**
+
+### Acquired Causes (relevant in Ghana and sub-Saharan Africa)
+
+-   **Schistosomiasis (S. haematobium):** Chronic infection can lead to ureteric fibrosis and
+    obstruction.
+-   **Tuberculosis:** Genitourinary TB may cause ureteric strictures.
+-   **Trauma:** Pelvic trauma from road traffic accidents or traditional circumcision mishaps.
+-   **Iatrogenic injuries:** Following urethral catheterisation or pelvic surgery.
+
+## Epidemiology and Local Context
+
+In Ghana, the exact incidence of obstructive uropathy in children is not well documented due to
+limited national registry data. However, tertiary centres such as **Komfo Anokye Teaching Hospital**
+and **Korle Bu Teaching Hospital** frequently report cases, often presenting late with significant
+renal compromise.
+
+Key local factors contributing to delayed diagnosis include:
+
+-   Limited access to antenatal ultrasound screening,
+-   Late referral from peripheral hospitals,
+-   Reliance on traditional herbal treatments before hospital presentation,
+-   Scarcity of paediatric urologists and specialized imaging facilities.
+
+Commonly observed patterns:
+
+-   **Posterior urethral valves** remain the most frequent congenital cause in male infants.
+-   **Schistosomiasis-related strictures** and **ureteric calculi** are notable acquired causes in
+    endemic rural areas, especially along the Volta Basin and northern Ghana.
+
+## Clinical Features
+
+The presentation of obstructive uropathy depends on:
+
+1.  The site and degree of obstruction,
+2.  The duration (acute vs. chronic),
+3.  The age of the child.
+
+### Neonates and Infants
+
+-   **Antenatal hydronephrosis:** Detected on prenatal ultrasound.
+-   **Poor urine stream** or **dribbling of urine** (especially in boys with PUV).
+-   **Palpable bladder** or **abdominal distension**.
+-   **Failure to thrive** or **recurrent urinary tract infections (UTIs)**.
+-   **Azotaemia** or features of renal failure (e.g., vomiting, lethargy).
+
+### Older Children
+
+-   **Flank or abdominal pain** (colicky if due to stones).
+-   **Urinary frequency, urgency, or incontinence**.
+-   **Haematuria**.
+-   **Recurrent UTIs**.
+-   **Palpable kidney or bladder** on examination.
+-   **Hypertension** in chronic cases.
+-   **Signs of chronic renal insufficiency** (pallor, growth retardation).
+
+## Investigations
+
+Investigations aim to:
+
+1.  Confirm the presence and site of obstruction,
+2.  Identify the underlying cause,
+3.  Assess renal function and the degree of damage.
+
+### Laboratory Investigations
+
+-   **Urinalysis:** Proteinuria, haematuria, pyuria, or evidence of infection.
+-   **Urine culture and sensitivity:** To guide antibiotic therapy.
+-   **Serum urea, creatinine, and electrolytes:** Assess renal function.
+-   **Full blood count:** Anaemia or infection.
+-   **Urine specific gravity:** Low in chronic cases due to tubular dysfunction.
+
+### Imaging Studies
+
+#### Ultrasound (USS)
+
+-   First-line investigation.
+-   Detects hydronephrosis, hydroureter, bladder wall thickening, and residual urine.
+-   Antenatal ultrasound can detect hydronephrosis as early as the second trimester.
+
+#### Micturating Cystourethrogram (MCUG)
+
+-   Essential for diagnosing **posterior urethral valves** and **vesicoureteric reflux**.
+-   Should be performed after treating any active UTI.
+
+#### Diuretic Renogram (using MAG3 or DTPA)
+
+-   Differentiates between obstructive and non-obstructive dilatation.
+-   Provides functional information on differential renal function.
+
+#### Intravenous Urography (IVU)
+
+-   May show delayed excretion, dilated calyces, or level of obstruction.
+-   Limited use in children due to radiation exposure and replaced largely by renography.
+
+#### Other Imaging
+
+-   **CT Urography or MRI Urography:** For complex cases or extrinsic causes.
+-   **Cystoscopy:** Direct visualization of posterior urethral valves or strictures.
+
+## Management
+
+Management depends on the **site, cause, and severity** of the obstruction, as well as the
+**presence or absence of renal failure**.
+
+### General Principles
+
+1.  **Prompt relief of obstruction.**
+2.  **Preservation of renal function.**
+3.  **Treatment of infection and prevention of recurrence.**
+4.  **Correction of underlying cause.**
+5.  **Long-term follow-up** for renal growth and function.
+
+### Initial Stabilization
+
+-   **Assess hydration status** and **correct electrolyte imbalance**.
+-   **Treat infections** aggressively with appropriate antibiotics.
+-   **Bladder decompression** using catheterization if there is lower tract obstruction.
+-   **Nephrostomy** or **ureterostomy** for upper tract obstruction if necessary.
+
+### Specific Treatment Based on Cause
+
+#### Posterior Urethral Valves
+
+-   **Initial management:** Catheterization for bladder drainage.
+-   **Definitive management:** Endoscopic valve ablation (fulguration).
+-   In cases with severe renal impairment, **temporary vesicostomy** may be indicated.
+
+#### Ureteropelvic Junction (UPJ) Obstruction
+
+-   **Observation** if mild and renal function preserved.
+-   **Surgical correction (pyeloplasty)** if obstruction is significant or progressive.
+
+#### Ureterovesical Junction (UVJ) Obstruction / Megaureter
+
+-   **Reimplantation surgery** or **tailoring** of the ureter as needed.
+
+#### Urolithiasis
+
+-   **Hydration and analgesia.**
+-   **Medical expulsive therapy** for small distal stones.
+-   **Surgical removal** (ureteroscopy or open surgery) for larger or impacted stones.
+
+#### Schistosomiasis
+
+-   **Praziquantel** (40 mg/kg single dose) for all infected individuals.
+-   Management of resultant strictures may require **endoscopic or surgical correction**.
+
+#### Neurogenic Bladder
+
+-   **Clean intermittent catheterization (CIC)**.
+-   **Anticholinergic medications** to reduce detrusor overactivity.
+-   **Bladder augmentation** in refractory cases.
+
+### Chronic Management
+
+-   **Monitoring renal function** periodically.
+-   **Blood pressure control** with antihypertensives if needed.
+-   **Treatment of recurrent infections.**
+-   **Nutritional support** to promote growth.
+-   **Parental counseling** regarding long-term prognosis.
+
+## Complications
+
+-   **Hydronephrosis**
+-   **Recurrent UTIs**
+-   **Hypertension**
+-   **Chronic kidney disease (CKD)**
+-   **Bladder dysfunction**
+-   **Growth retardation**
+-   **Electrolyte disturbances**
+
+In Ghana, late presentation often means that children may already have advanced CKD by the time of
+diagnosis. This underscores the importance of early detection through **antenatal screening** and
+**newborn examination**.
+
+## Prevention and Early Detection
+
+1.  **Antenatal ultrasound** for detection of hydronephrosis.
+2.  **Neonatal screening** for poor urinary stream in male infants.
+3.  **Public education** on early symptoms and the need for prompt medical evaluation.
+4.  **Training of peripheral health workers** to identify signs of obstructive uropathy.
+5.  **Mass treatment and prevention of schistosomiasis** in endemic regions.
+
+## Prognosis
+
+Prognosis depends on:
+
+-   Age at diagnosis,
+-   Duration and completeness of obstruction,
+-   Residual renal function,
+-   Presence of infections.
+
+With **early diagnosis** and **appropriate intervention**, many children can achieve good long-term
+outcomes. However, delayed cases may progress to **chronic renal failure**, requiring dialysis or
+renal transplantation — services that are still limited in many parts of Ghana.
+
+## Key Points
+
+-   Obstructive uropathy is a major cause of preventable renal failure in children.
+-   Posterior urethral valves are the most common congenital cause in male infants.
+-   Early detection through antenatal and postnatal screening is critical.
+-   Management requires a multidisciplinary approach involving paediatricians, urologists, and
+    nephrologists.
+-   In endemic areas, schistosomiasis remains a significant preventable contributor.
+
+## Further Reading
+
+1.  Anochie IC, Eke FU. Paediatric obstructive uropathy in Port Harcourt, Nigeria. *Nigerian Journal
+    of Paediatrics.* 2005;32(1):1–6.
+2.  Ducket JW. Posterior urethral valves: Concepts and management. *J Urol.* 1992;148(5):1671–1675.
+3.  Odetunde OI, et al. Spectrum and outcome of paediatric urological disorders in Enugu, Nigeria.
+    *Afr J Paediatr Surg.* 2010;7(2):84–87.
+4.  Osifo OD, Okolo JC. Posterior urethral valves in Benin City, Nigeria. *Ann Afr Med.*
+    2010;9(2):82–86.
+5.  Anumba DOC, et al. Prenatal diagnosis of urinary tract abnormalities in Africa: Prospects and
+    challenges. *Trop Med Int Health.* 2013;18(11):1373–1381.
+6.  Cheeseman SH, Shortliffe LD. Obstructive uropathy in children. In: Behrman RE, Kliegman RM,
+    Jenson HB (eds). *Nelson Textbook of Pediatrics.* 21st ed. Elsevier; 2020.
+7.  Ghana Health Service. *National Guidelines for Schistosomiasis Control in Ghana.* Accra: GHS;
+    2021. 
+8.  World Health Organization. *Paediatric Urology: Global Overview and Recommendations.* Geneva:
+    WHO; 2020.
