@@ -2,3 +2,325 @@
 title: "Pituitary Gland Disorders"
 editor: visual
 ---
+
+## Introduction
+
+The pituitary gland, often called the **“master gland”**, plays a central role in the regulation of
+growth, metabolism, reproduction, and stress response. Its hormones influence nearly every endocrine
+organ, including the thyroid, adrenal glands, and gonads. Disorders of the pituitary gland,
+therefore, have wide-ranging systemic effects and are of great importance in paediatric practice.
+
+In Ghana, pituitary disorders in children are likely underdiagnosed due to limited access to
+hormonal assays and imaging facilities. Many children with growth failure or delayed puberty are
+labelled as “constitutional” cases without proper evaluation. Moreover, paediatric endocrinology
+services are still emerging, and awareness among frontline health workers remains low. Recognising
+pituitary disorders early can prevent serious complications, including permanent growth failure,
+adrenal crisis, or infertility.
+
+This chapter provides an overview of pituitary anatomy and physiology, discusses common and
+important pituitary disorders in childhood, and outlines their diagnosis and management, with
+emphasis on **practical approaches in resource-limited settings**.
+
+## Anatomy and Physiology of the Pituitary Gland
+
+The pituitary gland is a small, oval-shaped endocrine organ located at the base of the brain in the
+**sella turcica**, just below the hypothalamus. It is connected to the hypothalamus by the
+**pituitary stalk (infundibulum)** and is divided into two main parts:
+
+-   **Anterior pituitary (adenohypophysis)** — produces six key hormones:
+    -   Growth hormone (GH)
+    -   Adrenocorticotropic hormone (ACTH)
+    -   Thyroid-stimulating hormone (TSH)
+    -   Luteinizing hormone (LH)
+    -   Follicle-stimulating hormone (FSH)
+    -   Prolactin (PRL)
+-   **Posterior pituitary (neurohypophysis)** — stores and releases two hypothalamic hormones:
+    -   Antidiuretic hormone (ADH, also called vasopressin)
+    -   Oxytocin
+
+The hypothalamus regulates pituitary function through releasing and inhibiting hormones. These
+hormones are secreted into the **hypophyseal portal circulation**, linking the hypothalamus and
+pituitary into an integrated **hypothalamic–pituitary axis**.
+
+## Classification of Pituitary Disorders
+
+Pituitary gland disorders in children can be broadly classified as follows:
+
+1.  **Hypopituitarism** — deficiency of one or more pituitary hormones
+2.  **Hyperpituitarism** — excess secretion of one or more hormones
+3.  **Posterior pituitary disorders** — abnormalities of ADH secretion (diabetes insipidus or SIADH)
+4.  **Structural lesions** — pituitary adenomas, cysts, craniopharyngiomas, or infiltrative diseases
+
+Each disorder manifests differently, depending on which hormones are affected and at what stage of
+development the dysfunction occurs.
+
+## Hypopituitarism
+
+### Definition
+
+Hypopituitarism refers to partial or complete deficiency of anterior and/or posterior pituitary
+hormones. It may be **congenital** (present at birth) or **acquired** (occurring later due to
+injury, tumour, or infection).
+
+### Causes
+
+**Congenital causes** include: - Midline developmental defects (septo-optic dysplasia,
+holoprosencephaly)
+
+-   Genetic mutations affecting pituitary transcription factors (PROP1, POU1F1)
+-   Perinatal asphyxia or trauma
+-   Structural anomalies of the pituitary or hypothalamus on MRI
+
+**Acquired causes** include: - Central nervous system tumours (especially craniopharyngioma)
+
+-   Head trauma or irradiation
+-   Infections such as meningitis or tuberculosis
+-   Infiltrative diseases (e.g., Langerhans cell histiocytosis)
+
+In Ghana, birth asphyxia, CNS infections, and head trauma are likely the commonest causes of
+acquired hypopituitarism.
+
+### Clinical Features
+
+The clinical presentation depends on the number and severity of hormone deficiencies:
+
+-   **Growth hormone deficiency (GHD):** short stature, increased fat mass, immature face, delayed
+    dentition
+-   **TSH deficiency:** secondary hypothyroidism (fatigue, poor growth, cold intolerance)
+-   **ACTH deficiency:** adrenal insufficiency (hypoglycaemia, hypotension, fatigue)
+-   **Gonadotropin deficiency:** delayed or absent puberty
+-   **Prolactin deficiency:** failure of lactation in post-partum females (less relevant in
+    children)
+
+Infants with panhypopituitarism may present with **hypoglycaemia, prolonged jaundice, micropenis,
+and poor feeding**. Without recognition, mortality may occur due to adrenal crisis.
+
+### Diagnosis
+
+Diagnosis requires both **biochemical assessment** and **neuroimaging**.
+
+-   Basal hormone levels: TSH, free T₄, cortisol, GH, IGF-1, LH/FSH, prolactin
+-   Dynamic testing (e.g., insulin tolerance test, ACTH stimulation test) — when available
+-   MRI of the brain to identify structural anomalies or tumours
+
+In Ghana, access to dynamic testing may be limited to teaching hospitals such as KATH or KBTH.
+Clinicians in regional hospitals may rely on **clinical findings**, basic thyroid function tests,
+and growth parameters to guide management.
+
+### Management
+
+Treatment focuses on **hormone replacement** and **management of underlying causes**.
+
+-   **Hydrocortisone** for ACTH deficiency (8–10 mg/m²/day in divided doses)
+-   **Levothyroxine** for TSH deficiency
+-   **Recombinant GH** for GHD (0.025–0.035 mg/kg/day subcutaneously)
+-   **Sex steroids** for pubertal induction when older
+
+In resource-limited settings, the high cost of GH therapy limits access, and prioritization is often
+necessary. Multidisciplinary care involving paediatric endocrinologists, dietitians, and
+psychologists yields the best outcomes.
+
+## Growth Hormone Deficiency (GHD)
+
+GHD is the most common isolated pituitary hormone deficiency in children. It may be **idiopathic**,
+**genetic**, or **secondary** to structural lesions.
+
+### Clinical Features
+
+Children typically present with:
+
+-   Short stature with normal body proportions
+-    Delayed skeletal maturation
+-   Chubby face and truncal obesity
+-   Delayed dentition and puberty
+
+In Ghana, such children are often brought late for evaluation, sometimes after unsuccessful use of
+herbal remedies or growth tonics.
+
+### Diagnosis
+
+-   Low serum IGF-1 and IGFBP-3 levels
+-   GH stimulation tests (e.g., clonidine, insulin) to confirm deficiency
+-   MRI to assess pituitary morphology
+
+### Treatment
+
+Daily subcutaneous **recombinant GH** therapy leads to excellent catch-up growth if started early.
+Monitoring of growth velocity, pubertal development, and thyroid function is essential.
+
+Where GH therapy is unavailable, **nutritional optimisation**, **thyroid screening**, and **regular
+monitoring** are still beneficial. Psychosocial support for affected children is also essential.
+
+## Hyperpituitarism
+
+### Definition and Causes
+
+Hyperpituitarism refers to excessive secretion of one or more pituitary hormones, often due to
+**pituitary adenomas**. In children, these are usually **benign** but can cause significant
+morbidity by compressing adjacent structures or overproducing hormones.
+
+Common examples include:
+
+1.  **GH-secreting adenoma:** gigantism
+2.  **Prolactin-secreting adenoma (prolactinoma):** galactorrhoea, delayed puberty
+3.  **ACTH-secreting adenoma:** Cushing’s disease
+
+### Growth Hormone Excess (Gigantism)
+
+#### Clinical Features
+
+-   Rapid linear growth with tall stature
+-   Coarse facial features, broad hands and feet
+-   Headaches and visual disturbances due to tumour mass
+-   Glucose intolerance or diabetes mellitus
+
+### Diagnosis
+
+-   Elevated IGF-1 levels
+-   Failure of GH suppression after oral glucose load
+-   Pituitary MRI showing macroadenoma
+
+#### Management
+
+-   **Trans-sphenoidal surgery** (definitive)
+-   **Somatostatin analogues (octreotide)** if surgery fails or is not available
+-   **Radiation therapy** for residual tumour
+
+In Ghana, collaboration between neurosurgery and endocrinologyis essential but often limited to
+tertiary centres.
+
+### Prolactinoma
+
+Prolactinomas cause hyperprolactinaemia, leading to **delayed puberty**, **amenorrhoea**, or
+**galactorrhoea**.
+
+-   Diagnosis: elevated serum prolactin, pituitary MRI
+-   Treatment: **dopamine agonists** (cabergoline or bromocriptine)
+-   Surgery if medical therapy fails
+
+## Posterior Pituitary Disorders
+
+The posterior pituitary releases **antidiuretic hormone (ADH)**, which regulates water balance. Two
+major disorders may occur:
+
+### Diabetes Insipidus (DI)
+
+#### Pathophysiology
+
+Caused by deficiency (central DI) or resistance (nephrogenic DI) to ADH. Central DI may result from:
+
+-   Head trauma
+-   Craniopharyngioma or other tumours
+-   Post-surgical damage
+-   CNS infections such as meningitis or tuberculosis
+
+#### Clinical Features
+
+-   Polyuria and polydipsia
+-   Nocturia or enuresis
+-   Dehydration and hypernatraemia
+-   Low urine osmolality despite high plasma osmolality
+
+#### Diagnosis
+
+-   Water deprivation test (if facilities allow)
+-   Low urine specific gravity (\<1.005)
+-   Response to **desmopressin** confirms central DI
+
+#### Management
+
+-   **Desmopressin (DDAVP)** intranasal or oral
+-   Adequate hydration
+-   Treatment of the underlying cause
+
+Access to desmopressin can be a challenge in Ghana, requiring coordination with major teaching
+hospitals or pharmacies that stock specialised endocrinology drugs.
+
+### Syndrome of Inappropriate ADH Secretion (SIADH)
+
+SIADH results from **excess ADH secretion**, leading to **hyponatraemia** with low serum osmolality
+and concentrated urine.
+
+Common causes include CNS infections, pulmonary disease, or drugs (e.g., carbamazepine).\
+Management involves **fluid restriction**, **salt supplementation**, and addressing the underlying
+cause.
+
+## Craniopharyngioma and Other Structural Lesions
+
+**Craniopharyngioma** is a benign but locally aggressive tumour arising from remnants of Rathke’s
+pouch. It is the **most common suprasellar tumour** in children and a leading cause of acquired
+hypopituitarism.
+
+### Clinical Features
+
+-   Growth failure and delayed puberty
+-   Visual impairment (bitemporal hemianopia)
+-   Headache, vomiting due to raised intracranial pressure
+-   Diabetes insipidus or other pituitary deficiencies
+
+### Diagnosis
+
+-   MRI of the brain: cystic, calcified suprasellar mass
+-   Endocrine evaluation for pituitary dysfunction
+
+### Management
+
+-   **Surgical resection** (ideally, subtotal to preserve function)
+-   **Postoperative hormone replacement** (hydrocortisone, thyroxine, GH, DDAVP)
+-   **Radiation therapy** for residual tumour
+
+Children require **lifelong follow-up** due to the risk of recurrence and permanent
+panhypopituitarism.
+
+In Ghana, neurosurgical expertise exists in teaching hospitals, but postoperative endocrine support
+is sometimes inadequate, underscoring the need for closer multidisciplinary collaboration.
+
+## Approach to a Child with Suspected Pituitary Disorder
+
+A structured evaluation includes:
+
+1.  **History:** growth pattern, perinatal events, head trauma, CNS infections, puberty timing,
+    polyuria/polydipsia
+2.  **Examination:** height/weight, visual fields, facial features, pubertal staging, hydration
+    status
+3.  **Baseline Investigations:**
+    -   Serum electrolytes, glucose
+    -   Thyroid function tests
+    -   Morning cortisol
+    -   IGF-1 levels
+    -   LH, FSH, prolactin
+4.  **Imaging:** Pituitary MRI if available
+5.  **Referral:** to a paediatric endocrinologist for specialized testing and management
+
+## Challenges in the Ghanaian Context
+
+-   Limited access to hormone assays (especially GH, IGF-1, cortisol)
+-   Lack of standardised growth monitoring in many clinics
+-   Cost and availability of hormone replacement (GH, desmopressin)
+-   Few centres with multidisciplinary paediatric endocrine teams
+
+Improving training in **growth assessment**, expanding **laboratory capacity**, and integrating
+**endocrine screening** into routine child health services are key to improving diagnosis and
+management outcomes.
+
+## Conclusion
+
+Pituitary gland disorders in children, though relatively uncommon, have far-reaching effects on
+growth, development, and overall health. Early recognition and prompt hormone replacement can
+transform outcomes.
+
+In Ghana and similar settings, raising clinicians' awareness, ensuring theavailability of key
+diagnostic tests, and strengthening referral pathways are vital steps forward. Every child with
+unexplained growth failure, delayed puberty, or abnormal thirst and urination deserves a careful
+evaluation of pituitary function.
+
+## Further Reading
+
+1.  Nelson Textbook of Pediatrics, 22nd Edition.
+2.  Brook CGD, Clayton PE, Brown RS. *Clinical Pediatric Endocrinology*, 7th Edition.
+3.  Sperling MA. *Pediatric Endocrinology*, 5th Edition.
+4.  Ghana Health Service. *National Child Growth Monitoring Guidelines*, 2022.
+5.  Osei-Kwakye K, et al. “Challenges in Diagnosing Paediatric Endocrine Disorders in Low-Resource
+    Settings: The Ghanaian Perspective.” *West African Journal of Medicine*, 2021.
+6.  WHO. *Endocrine Disorders in Childhood: Diagnosis and Management in Resource-Limited Settings*,
+    2023.

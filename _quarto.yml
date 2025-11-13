@@ -161,14 +161,18 @@ book:
         - synd-fetal-alcohol.qmd
         - synd-fragilex.qmd
         - synd-prader-willi.qmd
-    - gen-malaria.qmd
-    - gen-infections-infestations.qmd
-    - gen-therapeutics.qmd
-    - gen-congenital-malformations.qmd
-    - gen-social-ethical-legal.qmd
-    - gen-lab-investigations.qmd
-    - gen-bedside-tests.qmd
-    - gen-clinical-research.qmd
+    - part: "<span style='font-weight:bold; color: black;'>Parasitic Infections</span>"
+      chapters: 
+        - para-overview.qmd
+        - para-malaria.qmd
+    - part: "<span style='font-weight:bold; color: black;'>General Pediatrics</span>"
+      chapters: 
+        - gen-therapeutics.qmd
+        - gen-congenital-malformations.qmd
+        - gen-social-ethical-legal.qmd
+        - gen-lab-investigations.qmd
+        - gen-bedside-tests.qmd
+        - gen-clinical-research.qmd
     - references.qmd
 
 bibliography: references.bib

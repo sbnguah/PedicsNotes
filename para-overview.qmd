@@ -1,0 +1,219 @@
+---
+title: "Overview of Parasitic Infections"
+date: 2025-09-21
+---
+
+## Introduction
+
+Parasitic infections remain a major public health concern in the tropics, particularly in **Ghana**
+and the wider **sub-Saharan African region**, where they significantly contribute to morbidity and
+mortality among children. These infections are closely linked to environmental, socioeconomic, and
+behavioural factors such as poverty, inadequate sanitation, unsafe water supply, and limited access
+to healthcare.
+
+In paediatric practice, parasitic diseases commonly present as **anaemia**, **malnutrition**,
+**growth failure**, **diarrhoea**, and **neurological complications**, often exacerbating other
+ongoing health conditions. Understanding the basic biology, classification, and epidemiology of
+parasites is crucial for diagnosis, treatment, and preventive interventions in endemic areas.
+
+This chapter provides an overview of parasitic infections, defines key concepts, and discusses the
+classification, modes of transmission, and epidemiological patterns with specific reference to Ghana
+and sub-Saharan Africa.
+
+## Basic Definitions
+
+A **parasite** is an organism that lives on or within another living organism, known as the
+**host**, deriving benefit at the host’s expense. The relationship is typically one-sided, with the
+parasite gaining nourishment, shelter, or other support while causing harm or disease to the host.
+
+### Key Terminologies
+
+-   **Host:** The organism that harbours the parasite.
+
+    -   *Definitive host* – harbours the adult or sexually mature stage.\
+    -   *Intermediate host* – harbours the larval or asexual stage.\
+    -   *Paratenic (transport) host* – carries the parasite without further development.
+
+-   **Vector:** An organism, often an arthropod (e.g., mosquito, tsetse fly), that transmits the
+    parasite from one host to another.
+
+-   **Reservoir host:** Animals that harbour parasites infectious to humans, maintaining the life
+    cycle in nature.
+
+-   **Infection vs. Infestation:**
+
+    -   *Infection* refers to internal invasion by protozoa or helminths.\
+    -   *Infestation* refers to external colonization by ectoparasites (e.g., lice, ticks, mites).
+
+-   **Endoparasites** live inside the host’s body (e.g., *Plasmodium*, *Ascaris lumbricoides*),
+    while **ectoparasites** live on the host’s body surface (e.g., *Pediculus humanus capitis*).
+
+Parasites have evolved to coexist with their hosts, but in humans—especially in young or
+malnourished children—these relationships often result in overt disease.
+
+## Classification of Parasites
+
+Parasites of medical importance are broadly classified into three groups: **protozoa**,
+**helminths**, and **arthropods**.
+
+### Protozoa
+
+Protozoa are **unicellular microscopic organisms** that reproduce by binary fission or multiple
+fission. Many are motile and can survive in host tissues or extracellular fluids. They are
+responsible for some of the most severe parasitic diseases in children.
+
+#### Major Groups of Protozoa
+
+| Group | Locomotory Organ | Example | Disease |
+|----|----|----|----|
+| Amoebae | Pseudopodia | *Entamoeba histolytica* | Amoebic dysentery, liver abscess |
+| Flagellates | Flagella | *Giardia lamblia*, *Trypanosoma brucei*, *Leishmania donovani* | Giardiasis, African sleeping sickness, leishmaniasis |
+| Ciliates | Cilia | *Balantidium coli* | Balantidiasis |
+| Sporozoa | None (complex life cycle) | *Plasmodium spp.*, *Toxoplasma gondii*, *Cryptosporidium spp.* | Malaria, toxoplasmosis, cryptosporidiosis |
+
+#### Clinical Relevance in Ghana
+
+In Ghana, **malaria**, caused by *Plasmodium falciparum*, is by far the most important protozoal
+infection. It accounts for a significant proportion of outpatient visits and hospital admissions in
+children, with high mortality if untreated. Other protozoal infections such as **giardiasis** and
+**cryptosporidiosis** are increasingly recognized as causes of **persistent diarrhoea** in both
+immunocompetent and immunocompromised children, including those with HIV infection.
+
+### Helminths
+
+Helminths are **multicellular worms** that infect various tissues and organs. They are typically
+large enough to be seen with the naked eye and are classified into three main groups: nematodes,
+cestodes, and trematodes.
+
+#### Nematodes – Roundworms
+
+These are cylindrical worms with separate sexes.
+
+**Examples:** - *Ascaris lumbricoides* (roundworm) - *Ancylostoma duodenale* and *Necator
+americanus* (hookworms) - *Trichuris trichiura* (whipworm) - *Strongyloides stercoralis* -
+*Enterobius vermicularis* (pinworm)
+
+**Clinical relevance:** In Ghana, soil-transmitted helminth infections remain endemic in many rural
+areas, contributing to chronic anaemia, malnutrition, and impaired cognitive development among
+school-aged children.
+
+#### Cestodes – Tapeworms
+
+These are flat, ribbon-like worms with segmented bodies called **proglottids**.
+
+**Examples:** - *Taenia saginata* (beef tapeworm) - *Taenia solium* (pork tapeworm) -
+*Diphyllobothrium latum* (fish tapeworm) - *Hymenolepis nana* (dwarf tapeworm)
+
+**Clinical relevance:** Tapeworm infections are relatively uncommon in Ghana compared to nematodes,
+but *Taenia solium* poses a risk of **neurocysticercosis**, an emerging cause of seizures in
+children and adults.
+
+#### Trematodes – Flukes
+
+These are leaf-shaped flatworms that require at least one intermediate host (usually a snail).
+
+**Examples:** - *Schistosoma haematobium* – urinary schistosomiasis - *Schistosoma mansoni* –
+intestinal schistosomiasis
+
+**Clinical relevance:** Schistosomiasis remains endemic in the **Volta Basin**, **northern Ghana**,
+and other water-rich communities. In children, it leads to **haematuria**, **hepatosplenomegaly**,
+**anaemia**, and **growth retardation**.
+
+### Arthropods
+
+Arthropods are **invertebrates with jointed appendages** and chitinous exoskeletons. They are
+important as **vectors**, **intermediate hosts**, or **direct causes** of disease through bites,
+stings, or infestation.
+
+#### Common Arthropods in Medical Practice
+
+| Group | Example | Role in Disease |
+|----|----|----|
+| Mosquitoes | *Anopheles*, *Aedes*, *Culex* | Vectors of malaria, filariasis, dengue |
+| Tsetse flies | *Glossina spp.* | Vector of African trypanosomiasis |
+| Sandflies | *Phlebotomus spp.* | Vector of leishmaniasis |
+| Blackflies | *Simulium spp.* | Vector of onchocerciasis |
+| Fleas, lice, ticks, mites | Various species | Ectoparasitic infestations; vectors of typhus, rickettsial infections |
+
+In Ghana, **malaria-transmitting Anopheles mosquitoes** are the most significant arthropod vector,
+while **blackflies** are responsible for **onchocerciasis** (river blindness) in some riverine
+communities.
+
+## Modes of Transmission of Parasitic Infections
+
+Parasites employ diverse routes to infect humans. Understanding these is crucial for preventive
+strategies.
+
+1.  **Faeco–oral transmission** – ingestion of cysts, oocysts, or eggs from contaminated water or
+    food (*E. histolytica*, *Giardia lamblia*, *Ascaris lumbricoides*).
+2.  **Vector-borne transmission** – via arthropods such as mosquitoes, tsetse flies, and sandflies
+    (*Plasmodium*, *Trypanosoma*, *Leishmania*).
+3.  **Skin penetration** – infective larvae penetrate intact skin (*Schistosoma*, hookworms,
+    *Strongyloides*).
+4.  **Transplacental or perinatal transmission** – *Toxoplasma gondii*, *Trypanosoma cruzi*.
+5.  **Ingestion of undercooked meat or fish** – *Taenia*, *Trichinella*, *Diphyllobothrium*.
+6.  **Person-to-person contact or fomites** – *Enterobius vermicularis*, lice, scabies.
+
+In Ghana, the **faeco-oral route** and **vector-borne transmission** dominate, reflecting poor
+sanitation and high vector density due to favourable climatic conditions.
+
+## Epidemiology of Parasitic Infections in Ghana and Sub-Saharan Africa
+
+### Burden and Impact
+
+Parasitic infections constitute one of the **most widespread causes of childhood morbidity** in
+sub-Saharan Africa. They coexist with malnutrition, anaemia, and chronic infections like
+tuberculosis and HIV, creating a vicious cycle of ill health and poor development.
+
+In Ghana, the **Ghana Health Service (GHS)** and **Neglected Tropical Disease Control Programme**
+have prioritized the control of malaria, schistosomiasis, lymphatic filariasis, and soil-transmitted
+helminths through **mass drug administration**, **insecticide-treated nets**, and **health
+education**.
+
+### Key Epidemiological Highlights
+
+| Disease | Agent | Mode of Transmission | Epidemiology in Ghana |
+|----|----|----|----|
+| Malaria | *Plasmodium falciparum* | Bite of female *Anopheles* mosquito | Endemic nationwide, seasonal peaks during rains |
+| Schistosomiasis | *S. haematobium*, *S. mansoni* | Skin penetration in infested water | Endemic in Volta, Northern, and Ashanti regions |
+| Soil-transmitted helminths | *Ascaris*, *Trichuris*, *Hookworm* | Faeco-oral or skin penetration | Common in school-aged children in rural areas |
+| Onchocerciasis | *Onchocerca volvulus* | Blackfly bite | Focal along river basins |
+| Filariasis | *Wuchereria bancrofti* | Mosquito bite | Endemic in parts of Northern Ghana |
+
+## Control and Prevention Strategies
+
+Effective control requires **multisectoral interventions** integrating health, water, sanitation,
+and education systems.
+
+1.  **Environmental sanitation:** Proper disposal of faeces, improved water supply, and waste
+    management.
+2.  **Vector control:** Use of insecticide-treated bed nets, indoor residual spraying, and
+    elimination of vector breeding sites.
+3.  **Mass drug administration (MDA):** Periodic deworming with albendazole, praziquantel, and
+    ivermectin under the Ghana NTD programme.
+4.  **Health education:** Promoting hand hygiene, safe food practices, and community awareness.
+5.  **Nutrition support:** Addressing micronutrient deficiencies to reduce susceptibility to
+    infection.
+6.  **Surveillance and research:** Strengthening laboratory capacity and epidemiological monitoring,
+    especially in children.
+
+## Summary
+
+Parasitic infections remain a significant public health challenge in Ghana and across sub-Saharan
+Africa, with children being the most vulnerable group. Understanding their biology, modes of
+transmission, and epidemiological context is essential for effective prevention, diagnosis, and
+treatment.\
+Sustained control will require continued investment in sanitation, health education, and access to
+quality paediatric care.
+
+## Further Reading
+
+1.  **Kliegman RM et al.** Nelson Textbook of Pediatrics, 22nd Edition. Elsevier; 2023.\
+2.  **Ghana Health Service.** Neglected Tropical Diseases Control Programme Annual Report, 2022.\
+3.  **WHO.** World Malaria Report 2023. Geneva: World Health Organization.\
+4.  **Hotez PJ, Kamath A.** Neglected Tropical Diseases in Sub-Saharan Africa: Review of Their
+    Burden and Distribution. *PLoS Neglected Tropical Diseases*. 2009;3(8):e412.\
+5.  **Addo KK et al.** Intestinal Parasites among School Children in Accra. *Ghana Medical Journal*.
+    2018;52(2):64–70.\
+6.  **Brooker SJ et al.** Soil-Transmitted Helminth Infections in Africa: Distribution, Burden and
+    Control. *PLoS Negl Trop Dis*. 2015;9(3):e0003565.

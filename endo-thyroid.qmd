@@ -33,7 +33,7 @@ from the hypothalamus.
 Thyroid diseases in children may be classified as:
 
 | Category | Examples |
-|--------------------------------------------------|--------------------------------------------------|
+|----|----|
 | **Functional abnormalities** | Hypothyroidism, Hyperthyroidism |
 | **Structural abnormalities** | Goitre, Thyroid nodules, Thyroid carcinoma |
 | **Inflammatory/autoimmune disorders** | Hashimoto’s thyroiditis, Graves’ disease |
@@ -295,7 +295,7 @@ adults.
 ## Summary Table
 
 | Disorder | Key Features | Diagnostic Findings | Main Treatment |
-|-------------------------|-------------------------|-------------------------|-------------------------|
+|----|----|----|----|
 | Congenital Hypothyroidism | Prolonged jaundice, macroglossia, poor growth | ↑TSH, ↓T4 | Levothyroxine 10–15 µg/kg/day |
 | Hashimoto’s Thyroiditis | Goitre, growth failure, and autoimmune markers | ↑TSH, anti-TPO + | Levothyroxine |
 | Graves’ Disease | Weight loss, tachycardia, exophthalmos | ↓TSH, ↑T3/T4, TRAb + | Carbimazole ± β-blockers |

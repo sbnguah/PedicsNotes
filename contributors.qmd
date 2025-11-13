@@ -129,6 +129,22 @@ This book was written by the untiring effort of the following persons
 :::
 
 --------
+ 
+--------
+
+::: columns
+::: {.column width="30%"}
+![](images/eno.jpg) <br>
+:::
+
+::: {.column width="70%"}
+**Dr. Adwoa Pokua Boakye-Yiadom**
+<p style="font-size:10px; ">MB ChB, FWACP, FGCPS</p>
+<p style="font-size:15px; ">Dr. Adwoa Pokua Boakye-Yiadom is a Senior Lecturer in Pediatrics at the Department of Child Health, School of Medical Sciences, Kwame Nkrumah University of Science and Technology in Ghana. She is also a pediatric neonatologist specialist</p>
+:::
+:::
+---
+
 
 ::: columns
 ::: {.column width="30%"}

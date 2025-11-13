@@ -69,7 +69,7 @@ Hormones exert their effects through **specific receptors** located either on th
 ### Types of Hormones
 
 | Type | Examples | Mechanism of Action |
-|-----------------------|---------------------------|---------------------------------------------------|
+|----|----|----|
 | **Peptide hormones** | GH, insulin, ACTH | Bind to cell-surface receptors → activate second messengers |
 | **Steroid hormones** | Cortisol, oestrogen, testosterone | Enter cells → bind nuclear receptors → modulate gene transcription |
 | **Amine hormones** | T3, T4, catecholamines | Derived from tyrosine → act on nuclear or membrane receptors |

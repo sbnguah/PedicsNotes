@@ -49,7 +49,7 @@ Each adrenal gland is composed of two distinct regions:
 Adrenal disorders can be broadly classified into:
 
 | Category | Examples |
-|--------------------------------------------------|--------------------------------------------------|
+|----|----|
 | **Hypofunction (Adrenal insufficiency)** | Primary (Addison’s disease), Secondary (ACTH deficiency), Congenital adrenal hyperplasia |
 | **Hyperfunction** | Cushing syndrome, Hyperaldosteronism, Adrenogenital syndromes |
 | **Adrenal masses/tumours** | Neuroblastoma, Adrenocortical carcinoma, Adenoma |
@@ -206,7 +206,7 @@ steroid use.
 ### Aetiology
 
 | Type | Cause |
-|-----------------|--------------------------------------------------------------|
+|----|----|
 | **Exogenous** | Prolonged corticosteroid therapy (most common in children) |
 | **Endogenous** | ACTH-secreting pituitary adenoma (Cushing disease), adrenal adenoma or carcinoma, ectopic ACTH secretion (rare) |
 
