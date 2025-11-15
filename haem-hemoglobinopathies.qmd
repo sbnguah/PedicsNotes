@@ -2,3 +2,330 @@
 title: "Other Hemoglobinopathies"
 editor: visual
 ---
+
+## Introduction
+
+Hemoglobinopathies are a diverse group of inherited disorders affecting the structure or production
+of the globin chains of haemoglobin. While sickle cell disease is the most prevalent and clinically
+significant hemoglobinopathy in Ghana and West Africa, other disorders—such as thalassemias,
+unstable haemoglobins, and quantitative or structural variants—also contribute substantially to
+childhood morbidity. These conditions, though less frequently recognised, are important causes of
+chronic anaemia, transfusion dependence, and complications such as gallstones, iron overload, and
+growth failure.
+
+Hemoglobinopathies arise from mutations in the α-globin or β-globin genes, leading to either
+defective haemoglobin synthesis (thalassemias) or theproduction of abnormal haemoglobin variants.
+Understanding their pathophysiology is crucial for appropriate diagnosis and management,
+particularly in resource-limited settings where newborn screening may not yet be widespread, and
+where chronic haemoglobin disorders may be misdiagnosed as nutritional anaemia or sickle cell
+disease.
+
+This chapter provides an overview of non-sickle cell hemoglobinopathies relevant to paediatric
+practice in Ghana, reviews their clinical features and diagnostic approaches, and outlines
+principles of management.
+
+## Anatomy and Physiology of Haemoglobin
+
+Haemoglobin is a tetrameric protein composed of two pairs of globin chains (α and β in HbA) and four
+heme groups. Key components include:
+
+-   **HbA (α₂β₂)**: predominant adult haemoglobin\
+-   **HbA₂ (α₂δ₂)**: minor adult haemoglobin\
+-   **HbF (α₂γ₂)**: predominant fetal haemoglobin
+
+Globin chain production is genetically regulated:
+
+-   **α-globin genes**: four genes located on chromosome 16\
+-   **β-globin gene cluster**: located on chromosome 11, includes δ, γ, and β genes
+
+Disorders affecting these genes result in imbalances in haemoglobin chain production or thesynthesis
+of structurally abnormal haemoglobin molecules.
+
+## Classification of Hemoglobinopathies (excluding Sickle Cell Disease)
+
+1.  **Thalassemias (quantitative disorders)**
+
+    -   α-thalassemia\
+    -   β-thalassemia\
+    -   δβ-thalassemia and hereditary persistence of fetal haemoglobin (HPFH)
+
+2.  **Structural variants (qualitative disorders)**
+
+    -   Haemoglobin C (HbC)\
+    -   Haemoglobin E (HbE)\
+    -   Haemoglobin D and others
+
+3.  **Unstable hemoglobins**
+
+4.  **Methemoglobinemia and related hemoglobin variants**
+
+While many are asymptomatic carriers, homozygous or compound heterozygous states may cause
+significant disease.
+
+## α-Thalassemia
+
+### Pathophysiology
+
+α-Thalassemia results from the deletion or mutation of one or more of the four α-globin genes. The
+clinical severity corresponds to the number of genes affected:
+
+-   **One-gene deletion (α⁺ trait)**: silent carrier\
+-   **Two-gene deletion (α-thalassemia trait)**: mild microcytic anaemia\
+-   **Three-gene deletion (HbH disease)**: moderate to severe chronic hemolytic anaemia\
+-   **Four-gene deletion (Hb Bart’s hydrops fetalis)**: incompatible with life
+
+In West Africa, single-gene deletions are more common, contributing to high rates of microcytosis
+often misinterpreted as iron deficiency anaemia.
+
+### Clinical Features
+
+-   Silent carriers: asymptomatic\
+-   α-thalassemia trait: mild anaemia, microcytosis, borderline Hb\
+-   **HbH disease**:
+    -   Chronic hemolysis\
+    -   Jaundice\
+    -   Splenomegaly\
+    -   Episodes of hemolytic crises, especially with infections or oxidative stress\
+    -   Growth faltering
+
+### Diagnosis
+
+-   CBC: microcytosis, hypochromia, elevated RBC count\
+-   Peripheral smear: target cells, inclusion bodies (HbH)\
+-   Hb electrophoresis: usually normal except in HbH disease (presence of HbH or Hb Bart’s)\
+-   DNA testing: confirms deletions (limited availability in Ghana)
+
+### Management
+
+-   Folic acid supplementation\
+-   Avoid oxidative drugs (e.g., sulphonamides)\
+-   Transfusions during acute crises\
+-   Splenectomy may be considered in severe HbH disease (with appropriate vaccination)\
+-   Genetic counselling is necessary for families
+
+## β-Thalassemia
+
+### Pathophysiology
+
+β-Thalassemia results from point mutations affecting β-globin gene expression. It is less common in
+West Africa but occurs sporadically due to population migration. β-Thalassemia leads to reduced (β⁺)
+or absent (β⁰) β-chain production, causing α-chain excess, ineffective erythropoiesis, and
+hemolysis.
+
+### Types
+
+-   **β-thalassemia minor (trait)**: heterozygous carriers\
+-   **β-thalassemia intermedia**: moderate disease\
+-   **β-thalassemia major (Cooley’s anaemia)**: severe, transfusion-dependent from infancy
+
+### Clinical Features
+
+#### β-Thalassemia Minor
+
+-   Mild anemia\
+-   Microcytosis\
+-   Asymptomatic
+
+#### β-Thalassemia Major
+
+-   Severe anaemia appearing at 3–6 months\
+-   Failure to thrive\
+-   Jaundice\
+-   Hepatosplenomegaly\
+-   Bone changes (frontal bossing, maxillary prominence)\
+-   Recurrent infections\
+-   Gallstones\
+-   Cardiac failure and endocrine dysfunction due to iron overload
+
+### Diagnosis
+
+-   CBC: severe microcytic hypochromic anaemia\
+-   Electrophoresis: low HbA, elevated HbF and HbA₂\
+-   Serum ferritin: elevated with transfusions\
+-   Radiology: bone changes in poorly transfused children
+
+### Management
+
+-   Regular transfusion regimen to maintain Hb \> 9–10 g/dL\
+-   **Iron chelation therapy** (deferoxamine, deferiprone, deferasirox)\
+-   Endocrine screening (thyroid, diabetes, puberty disorders)\
+-   Splenectomy for hypersplenism\
+-   **Curative therapy**: bone marrow transplantation — limited availability in West Africa\
+-   Genetic counselling
+
+In Ghana, limited access to electrophoresis and transfusion challenges often delay diagnosis.
+
+## Hemoglobin C (HbC) Disease
+
+### Epidemiology
+
+HbC is common in West Africa, including Ghana. The HbC gene frequency is highest in northern Ghana
+and Burkina Faso.
+
+### Pathophysiology
+
+A substitution of lysine for glutamic acid at position six on the β-globin chain. HbC tends to
+crystallise within red cells, leading to reduced RBC lifespan.
+
+### Clinical Forms
+
+-   **HbAC (trait)**: asymptomatic\
+-   **HbCC (homozygous)**:
+    -   Mild to moderate haemolytic anaemia\
+    -   Splenomegaly\
+    -   Intermittent jaundice\
+    -   Pigment gallstones
+
+### Diagnosis
+
+-   Electrophoresis: predominant HbC\
+-   Blood film: target cells, crystals
+
+### Management
+
+-   Generally benign condition\
+-   Supportive care\
+-   Monitor for gallstones\
+-   Folic acid supplementation
+
+## Haemoglobin E (HbE)
+
+### Epidemiology
+
+Common in Southeast Asia; rare in Ghana but seen in children of immigrant families or mixed
+ancestry.
+
+### Clinical Features
+
+-   HbE trait: asymptomatic\
+-   HbE disease: mild anaemia\
+-   HbE/β-thalassemia: significant anaemia, similar to β-thalassemia intermedia
+
+### Diagnosis and Management
+
+-   Electrophoresis shows the HbE band.\
+-   Management mirrors β-thalassemia intermedia (occasional transfusion, iron monitoring)
+
+## δβ-Thalassemia and HPFH
+
+### δβ-Thalassemia
+
+-   Reduced δ and β chain production\
+-   Elevated HbF\
+-   Moderate anemia
+
+### Hereditary Persistence of Fetal Haemoglobin (HPFH)
+
+-   Benign persistence of HbF into adulthood\
+-   Often asymptomatic\
+-   Important in genetic counselling due to interaction with other variants
+
+## Unstable Hemoglobins
+
+These are rare variants with reduced molecular stability leading to chronic hemolysis.
+
+### Features
+
+-   Chronic hemolytic anaemia\
+-   Heinz bodies on staining\
+-   Episodes precipitated by illness or oxidant drugs
+
+## Methemoglobinemia
+
+Specific haemoglobin variants predispose to methaemoglobinemia, presenting with cyanosis
+unresponsive to oxygen therapy.
+
+### Clinical Features
+
+-   "Chocolate-brown" blood\
+-   Cyanosis\
+-   Normal PaO₂ despite low saturation
+
+### Management
+
+-   Methylene blue for acquired forms\
+-   Congenital forms may require long-term monitoring.
+
+## Clinical Presentation of Hemoglobinopathies
+
+Children may present with:
+
+-   Chronic anemia\
+-   Jaundice\
+-   Poor growth\
+-   Splenomegaly\
+-   Bone pain (in thalassemia)\
+-   Recurrent infections\
+-   Gallstones\
+-   Transfusion dependence
+
+In Ghana, such features are often mistakenly attributed to sickle cell disease, malaria, or iron
+deficiency, highlighting the need for improved diagnostics.
+
+## Differential Diagnosis
+
+-   Iron deficiency anaemia\
+-   Sickle cell syndromes\
+-   Chronic infection (e.g., TB, HIV)\
+-   Hemolytic anemias (G6PD deficiency)
+
+## Investigations
+
+-   CBC and blood film\
+-   Reticulocyte count\
+-   Hb electrophoresis or HPLC\
+-   Serum ferritin\
+-   Liver function tests\
+-   Ultrasound (hepatosplenomegaly, gallstones)
+
+## Management Principles
+
+1.  **Accurate diagnosis**\
+2.  **Regular follow-up**\
+3.  **Transfusion support for moderate/severe disease**\
+4.  **Iron overload monitoring and chelation**\
+5.  **Nutritional support (folate, vitamin D assessment)**\
+6.  **Splenectomy in selected cases**\
+7.  **Vaccinations**
+    -   Pneumococcal\
+    -   Meningococcal\
+    -   Hib\
+8.  **Family and genetic counselling**
+
+## Complications
+
+-   Gallstones\
+-   Iron overload (endocrine, cardiac, hepatic complications)\
+-   Growth failure\
+-   Splenomegaly\
+-   Osteopenia\
+-   Cardiac failure (especially in β-thalassemia major)
+
+## Local Context: Ghana and West Africa
+
+-   Haemoglobin C trait is common in northern Ghana.\
+-   α-thalassemia trait contributes significantly to microcytosis in Ghanaian children and is often
+    confused with iron deficiency.\
+-   Limited access to electrophoresis, DNA analysis, and HPLC leads to underdiagnosis.\
+-   Blood transfusion availability can be inconsistent, complicating management for thalassemia
+    major.\
+-   Iron chelation therapy is expensive and often unavailable.\
+-   Newborn screening programs in Ghana currently focus mainly on sickle cell disease, leaving other
+    hemoglobinopathies undetected.
+
+## Key Points for Clinical Practice
+
+-   Always evaluate microcytosis that does not respond to iron therapy for thalassemias.\
+-   Consider hemoglobinopathy in any child with chronic hemolytic anaemia without sickling crises.\
+-   HbC disease may cause gallstones at a young age—consider abdominal ultrasound in symptomatic
+    children.\
+-   Ensure early transfusion and chelation for suspected thalassemia major.\
+-   Provide comprehensive counselling to families, including future reproductive implications.
+
+## Further Reading
+
+1.  Weatherall DJ, Clegg JB. *The Thalassaemia Syndromes*. Oxford University Press.\
+2.  Hoffbrand AV, Higgs DR, Keeling D, Mehta AB. *Postgraduate Haematology*. Wiley-Blackwell.\
+3.  Ohene-Frempong K. Hemoglobinopathies in Africa. *Pediatric Clinics of North America*.\
+4.  Ministry of Health Ghana & Ghana Health Service. *National Newborn Screening Guidelines*.\
+5.  Modell B, Darlison M. Global epidemiology of hemoglobin disorders. *Bulletin of the WHO*.

@@ -8593,6 +8593,204 @@
     ]
   },
   {
+    "objectID": "haem-hemoglobinopathies.html",
+    "href": "haem-hemoglobinopathies.html",
+    "title": "72  Other Hemoglobinopathies",
+    "section": "",
+    "text": "72.1 Introduction\nHemoglobinopathies are a diverse group of inherited disorders affecting the structure or production of the globin chains of haemoglobin. While sickle cell disease is the most prevalent and clinically significant hemoglobinopathy in Ghana and West Africa, other disorders—such as thalassemias, unstable haemoglobins, and quantitative or structural variants—also contribute substantially to childhood morbidity. These conditions, though less frequently recognised, are important causes of chronic anaemia, transfusion dependence, and complications such as gallstones, iron overload, and growth failure.\nHemoglobinopathies arise from mutations in the α-globin or β-globin genes, leading to either defective haemoglobin synthesis (thalassemias) or theproduction of abnormal haemoglobin variants. Understanding their pathophysiology is crucial for appropriate diagnosis and management, particularly in resource-limited settings where newborn screening may not yet be widespread, and where chronic haemoglobin disorders may be misdiagnosed as nutritional anaemia or sickle cell disease.\nThis chapter provides an overview of non-sickle cell hemoglobinopathies relevant to paediatric practice in Ghana, reviews their clinical features and diagnostic approaches, and outlines principles of management.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>72</span>  <span class='chapter-title'>Other Hemoglobinopathies</span>"
+    ]
+  },
+  {
+    "objectID": "haem-hemoglobinopathies.html#anatomy-and-physiology-of-haemoglobin",
+    "href": "haem-hemoglobinopathies.html#anatomy-and-physiology-of-haemoglobin",
+    "title": "72  Other Hemoglobinopathies",
+    "section": "72.2 Anatomy and Physiology of Haemoglobin",
+    "text": "72.2 Anatomy and Physiology of Haemoglobin\nHaemoglobin is a tetrameric protein composed of two pairs of globin chains (α and β in HbA) and four heme groups. Key components include:\n\nHbA (α₂β₂): predominant adult haemoglobin\n\nHbA₂ (α₂δ₂): minor adult haemoglobin\n\nHbF (α₂γ₂): predominant fetal haemoglobin\n\nGlobin chain production is genetically regulated:\n\nα-globin genes: four genes located on chromosome 16\n\nβ-globin gene cluster: located on chromosome 11, includes δ, γ, and β genes\n\nDisorders affecting these genes result in imbalances in haemoglobin chain production or thesynthesis of structurally abnormal haemoglobin molecules.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>72</span>  <span class='chapter-title'>Other Hemoglobinopathies</span>"
+    ]
+  },
+  {
+    "objectID": "haem-hemoglobinopathies.html#classification-of-hemoglobinopathies-excluding-sickle-cell-disease",
+    "href": "haem-hemoglobinopathies.html#classification-of-hemoglobinopathies-excluding-sickle-cell-disease",
+    "title": "72  Other Hemoglobinopathies",
+    "section": "72.3 Classification of Hemoglobinopathies (excluding Sickle Cell Disease)",
+    "text": "72.3 Classification of Hemoglobinopathies (excluding Sickle Cell Disease)\n\nThalassemias (quantitative disorders)\n\nα-thalassemia\n\nβ-thalassemia\n\nδβ-thalassemia and hereditary persistence of fetal haemoglobin (HPFH)\n\nStructural variants (qualitative disorders)\n\nHaemoglobin C (HbC)\n\nHaemoglobin E (HbE)\n\nHaemoglobin D and others\n\nUnstable hemoglobins\nMethemoglobinemia and related hemoglobin variants\n\nWhile many are asymptomatic carriers, homozygous or compound heterozygous states may cause significant disease.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>72</span>  <span class='chapter-title'>Other Hemoglobinopathies</span>"
+    ]
+  },
+  {
+    "objectID": "haem-hemoglobinopathies.html#α-thalassemia",
+    "href": "haem-hemoglobinopathies.html#α-thalassemia",
+    "title": "72  Other Hemoglobinopathies",
+    "section": "72.4 α-Thalassemia",
+    "text": "72.4 α-Thalassemia\n\n72.4.1 Pathophysiology\nα-Thalassemia results from the deletion or mutation of one or more of the four α-globin genes. The clinical severity corresponds to the number of genes affected:\n\nOne-gene deletion (α⁺ trait): silent carrier\n\nTwo-gene deletion (α-thalassemia trait): mild microcytic anaemia\n\nThree-gene deletion (HbH disease): moderate to severe chronic hemolytic anaemia\n\nFour-gene deletion (Hb Bart’s hydrops fetalis): incompatible with life\n\nIn West Africa, single-gene deletions are more common, contributing to high rates of microcytosis often misinterpreted as iron deficiency anaemia.\n\n\n72.4.2 Clinical Features\n\nSilent carriers: asymptomatic\n\nα-thalassemia trait: mild anaemia, microcytosis, borderline Hb\n\nHbH disease:\n\nChronic hemolysis\n\nJaundice\n\nSplenomegaly\n\nEpisodes of hemolytic crises, especially with infections or oxidative stress\n\nGrowth faltering\n\n\n\n\n72.4.3 Diagnosis\n\nCBC: microcytosis, hypochromia, elevated RBC count\n\nPeripheral smear: target cells, inclusion bodies (HbH)\n\nHb electrophoresis: usually normal except in HbH disease (presence of HbH or Hb Bart’s)\n\nDNA testing: confirms deletions (limited availability in Ghana)\n\n\n\n72.4.4 Management\n\nFolic acid supplementation\n\nAvoid oxidative drugs (e.g., sulphonamides)\n\nTransfusions during acute crises\n\nSplenectomy may be considered in severe HbH disease (with appropriate vaccination)\n\nGenetic counselling is necessary for families",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>72</span>  <span class='chapter-title'>Other Hemoglobinopathies</span>"
+    ]
+  },
+  {
+    "objectID": "haem-hemoglobinopathies.html#β-thalassemia",
+    "href": "haem-hemoglobinopathies.html#β-thalassemia",
+    "title": "72  Other Hemoglobinopathies",
+    "section": "72.5 β-Thalassemia",
+    "text": "72.5 β-Thalassemia\n\n72.5.1 Pathophysiology\nβ-Thalassemia results from point mutations affecting β-globin gene expression. It is less common in West Africa but occurs sporadically due to population migration. β-Thalassemia leads to reduced (β⁺) or absent (β⁰) β-chain production, causing α-chain excess, ineffective erythropoiesis, and hemolysis.\n\n\n72.5.2 Types\n\nβ-thalassemia minor (trait): heterozygous carriers\n\nβ-thalassemia intermedia: moderate disease\n\nβ-thalassemia major (Cooley’s anaemia): severe, transfusion-dependent from infancy\n\n\n\n72.5.3 Clinical Features\n\n72.5.3.1 β-Thalassemia Minor\n\nMild anemia\n\nMicrocytosis\n\nAsymptomatic\n\n\n\n72.5.3.2 β-Thalassemia Major\n\nSevere anaemia appearing at 3–6 months\n\nFailure to thrive\n\nJaundice\n\nHepatosplenomegaly\n\nBone changes (frontal bossing, maxillary prominence)\n\nRecurrent infections\n\nGallstones\n\nCardiac failure and endocrine dysfunction due to iron overload\n\n\n\n\n72.5.4 Diagnosis\n\nCBC: severe microcytic hypochromic anaemia\n\nElectrophoresis: low HbA, elevated HbF and HbA₂\n\nSerum ferritin: elevated with transfusions\n\nRadiology: bone changes in poorly transfused children\n\n\n\n72.5.5 Management\n\nRegular transfusion regimen to maintain Hb &gt; 9–10 g/dL\n\nIron chelation therapy (deferoxamine, deferiprone, deferasirox)\n\nEndocrine screening (thyroid, diabetes, puberty disorders)\n\nSplenectomy for hypersplenism\n\nCurative therapy: bone marrow transplantation — limited availability in West Africa\n\nGenetic counselling\n\nIn Ghana, limited access to electrophoresis and transfusion challenges often delay diagnosis.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>72</span>  <span class='chapter-title'>Other Hemoglobinopathies</span>"
+    ]
+  },
+  {
+    "objectID": "haem-hemoglobinopathies.html#hemoglobin-c-hbc-disease",
+    "href": "haem-hemoglobinopathies.html#hemoglobin-c-hbc-disease",
+    "title": "72  Other Hemoglobinopathies",
+    "section": "72.6 Hemoglobin C (HbC) Disease",
+    "text": "72.6 Hemoglobin C (HbC) Disease\n\n72.6.1 Epidemiology\nHbC is common in West Africa, including Ghana. The HbC gene frequency is highest in northern Ghana and Burkina Faso.\n\n\n72.6.2 Pathophysiology\nA substitution of lysine for glutamic acid at position six on the β-globin chain. HbC tends to crystallise within red cells, leading to reduced RBC lifespan.\n\n\n72.6.3 Clinical Forms\n\nHbAC (trait): asymptomatic\n\nHbCC (homozygous):\n\nMild to moderate haemolytic anaemia\n\nSplenomegaly\n\nIntermittent jaundice\n\nPigment gallstones\n\n\n\n\n72.6.4 Diagnosis\n\nElectrophoresis: predominant HbC\n\nBlood film: target cells, crystals\n\n\n\n72.6.5 Management\n\nGenerally benign condition\n\nSupportive care\n\nMonitor for gallstones\n\nFolic acid supplementation",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>72</span>  <span class='chapter-title'>Other Hemoglobinopathies</span>"
+    ]
+  },
+  {
+    "objectID": "haem-hemoglobinopathies.html#haemoglobin-e-hbe",
+    "href": "haem-hemoglobinopathies.html#haemoglobin-e-hbe",
+    "title": "72  Other Hemoglobinopathies",
+    "section": "72.7 Haemoglobin E (HbE)",
+    "text": "72.7 Haemoglobin E (HbE)\n\n72.7.1 Epidemiology\nCommon in Southeast Asia; rare in Ghana but seen in children of immigrant families or mixed ancestry.\n\n\n72.7.2 Clinical Features\n\nHbE trait: asymptomatic\n\nHbE disease: mild anaemia\n\nHbE/β-thalassemia: significant anaemia, similar to β-thalassemia intermedia\n\n\n\n72.7.3 Diagnosis and Management\n\nElectrophoresis shows the HbE band.\n\nManagement mirrors β-thalassemia intermedia (occasional transfusion, iron monitoring)",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>72</span>  <span class='chapter-title'>Other Hemoglobinopathies</span>"
+    ]
+  },
+  {
+    "objectID": "haem-hemoglobinopathies.html#δβ-thalassemia-and-hpfh",
+    "href": "haem-hemoglobinopathies.html#δβ-thalassemia-and-hpfh",
+    "title": "72  Other Hemoglobinopathies",
+    "section": "72.8 δβ-Thalassemia and HPFH",
+    "text": "72.8 δβ-Thalassemia and HPFH\n\n72.8.1 δβ-Thalassemia\n\nReduced δ and β chain production\n\nElevated HbF\n\nModerate anemia\n\n\n\n72.8.2 Hereditary Persistence of Fetal Haemoglobin (HPFH)\n\nBenign persistence of HbF into adulthood\n\nOften asymptomatic\n\nImportant in genetic counselling due to interaction with other variants",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>72</span>  <span class='chapter-title'>Other Hemoglobinopathies</span>"
+    ]
+  },
+  {
+    "objectID": "haem-hemoglobinopathies.html#unstable-hemoglobins",
+    "href": "haem-hemoglobinopathies.html#unstable-hemoglobins",
+    "title": "72  Other Hemoglobinopathies",
+    "section": "72.9 Unstable Hemoglobins",
+    "text": "72.9 Unstable Hemoglobins\nThese are rare variants with reduced molecular stability leading to chronic hemolysis.\n\n72.9.1 Features\n\nChronic hemolytic anaemia\n\nHeinz bodies on staining\n\nEpisodes precipitated by illness or oxidant drugs",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>72</span>  <span class='chapter-title'>Other Hemoglobinopathies</span>"
+    ]
+  },
+  {
+    "objectID": "haem-hemoglobinopathies.html#methemoglobinemia",
+    "href": "haem-hemoglobinopathies.html#methemoglobinemia",
+    "title": "72  Other Hemoglobinopathies",
+    "section": "72.10 Methemoglobinemia",
+    "text": "72.10 Methemoglobinemia\nSpecific haemoglobin variants predispose to methaemoglobinemia, presenting with cyanosis unresponsive to oxygen therapy.\n\n72.10.1 Clinical Features\n\n“Chocolate-brown” blood\n\nCyanosis\n\nNormal PaO₂ despite low saturation\n\n\n\n72.10.2 Management\n\nMethylene blue for acquired forms\n\nCongenital forms may require long-term monitoring.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>72</span>  <span class='chapter-title'>Other Hemoglobinopathies</span>"
+    ]
+  },
+  {
+    "objectID": "haem-hemoglobinopathies.html#clinical-presentation-of-hemoglobinopathies",
+    "href": "haem-hemoglobinopathies.html#clinical-presentation-of-hemoglobinopathies",
+    "title": "72  Other Hemoglobinopathies",
+    "section": "72.11 Clinical Presentation of Hemoglobinopathies",
+    "text": "72.11 Clinical Presentation of Hemoglobinopathies\nChildren may present with:\n\nChronic anemia\n\nJaundice\n\nPoor growth\n\nSplenomegaly\n\nBone pain (in thalassemia)\n\nRecurrent infections\n\nGallstones\n\nTransfusion dependence\n\nIn Ghana, such features are often mistakenly attributed to sickle cell disease, malaria, or iron deficiency, highlighting the need for improved diagnostics.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>72</span>  <span class='chapter-title'>Other Hemoglobinopathies</span>"
+    ]
+  },
+  {
+    "objectID": "haem-hemoglobinopathies.html#differential-diagnosis",
+    "href": "haem-hemoglobinopathies.html#differential-diagnosis",
+    "title": "72  Other Hemoglobinopathies",
+    "section": "72.12 Differential Diagnosis",
+    "text": "72.12 Differential Diagnosis\n\nIron deficiency anaemia\n\nSickle cell syndromes\n\nChronic infection (e.g., TB, HIV)\n\nHemolytic anemias (G6PD deficiency)",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>72</span>  <span class='chapter-title'>Other Hemoglobinopathies</span>"
+    ]
+  },
+  {
+    "objectID": "haem-hemoglobinopathies.html#investigations",
+    "href": "haem-hemoglobinopathies.html#investigations",
+    "title": "72  Other Hemoglobinopathies",
+    "section": "72.13 Investigations",
+    "text": "72.13 Investigations\n\nCBC and blood film\n\nReticulocyte count\n\nHb electrophoresis or HPLC\n\nSerum ferritin\n\nLiver function tests\n\nUltrasound (hepatosplenomegaly, gallstones)",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>72</span>  <span class='chapter-title'>Other Hemoglobinopathies</span>"
+    ]
+  },
+  {
+    "objectID": "haem-hemoglobinopathies.html#management-principles",
+    "href": "haem-hemoglobinopathies.html#management-principles",
+    "title": "72  Other Hemoglobinopathies",
+    "section": "72.14 Management Principles",
+    "text": "72.14 Management Principles\n\nAccurate diagnosis\n\nRegular follow-up\n\nTransfusion support for moderate/severe disease\n\nIron overload monitoring and chelation\n\nNutritional support (folate, vitamin D assessment)\n\nSplenectomy in selected cases\n\nVaccinations\n\nPneumococcal\n\nMeningococcal\n\nHib\n\n\nFamily and genetic counselling",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>72</span>  <span class='chapter-title'>Other Hemoglobinopathies</span>"
+    ]
+  },
+  {
+    "objectID": "haem-hemoglobinopathies.html#complications",
+    "href": "haem-hemoglobinopathies.html#complications",
+    "title": "72  Other Hemoglobinopathies",
+    "section": "72.15 Complications",
+    "text": "72.15 Complications\n\nGallstones\n\nIron overload (endocrine, cardiac, hepatic complications)\n\nGrowth failure\n\nSplenomegaly\n\nOsteopenia\n\nCardiac failure (especially in β-thalassemia major)",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>72</span>  <span class='chapter-title'>Other Hemoglobinopathies</span>"
+    ]
+  },
+  {
+    "objectID": "haem-hemoglobinopathies.html#local-context-ghana-and-west-africa",
+    "href": "haem-hemoglobinopathies.html#local-context-ghana-and-west-africa",
+    "title": "72  Other Hemoglobinopathies",
+    "section": "72.16 Local Context: Ghana and West Africa",
+    "text": "72.16 Local Context: Ghana and West Africa\n\nHaemoglobin C trait is common in northern Ghana.\n\nα-thalassemia trait contributes significantly to microcytosis in Ghanaian children and is often confused with iron deficiency.\n\nLimited access to electrophoresis, DNA analysis, and HPLC leads to underdiagnosis.\n\nBlood transfusion availability can be inconsistent, complicating management for thalassemia major.\n\nIron chelation therapy is expensive and often unavailable.\n\nNewborn screening programs in Ghana currently focus mainly on sickle cell disease, leaving other hemoglobinopathies undetected.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>72</span>  <span class='chapter-title'>Other Hemoglobinopathies</span>"
+    ]
+  },
+  {
+    "objectID": "haem-hemoglobinopathies.html#key-points-for-clinical-practice",
+    "href": "haem-hemoglobinopathies.html#key-points-for-clinical-practice",
+    "title": "72  Other Hemoglobinopathies",
+    "section": "72.17 Key Points for Clinical Practice",
+    "text": "72.17 Key Points for Clinical Practice\n\nAlways evaluate microcytosis that does not respond to iron therapy for thalassemias.\n\nConsider hemoglobinopathy in any child with chronic hemolytic anaemia without sickling crises.\n\nHbC disease may cause gallstones at a young age—consider abdominal ultrasound in symptomatic children.\n\nEnsure early transfusion and chelation for suspected thalassemia major.\n\nProvide comprehensive counselling to families, including future reproductive implications.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>72</span>  <span class='chapter-title'>Other Hemoglobinopathies</span>"
+    ]
+  },
+  {
+    "objectID": "haem-hemoglobinopathies.html#further-reading",
+    "href": "haem-hemoglobinopathies.html#further-reading",
+    "title": "72  Other Hemoglobinopathies",
+    "section": "72.18 Further Reading",
+    "text": "72.18 Further Reading\n\nWeatherall DJ, Clegg JB. The Thalassaemia Syndromes. Oxford University Press.\n\nHoffbrand AV, Higgs DR, Keeling D, Mehta AB. Postgraduate Haematology. Wiley-Blackwell.\n\nOhene-Frempong K. Hemoglobinopathies in Africa. Pediatric Clinics of North America.\n\nMinistry of Health Ghana & Ghana Health Service. National Newborn Screening Guidelines.\n\nModell B, Darlison M. Global epidemiology of hemoglobin disorders. Bulletin of the WHO.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>72</span>  <span class='chapter-title'>Other Hemoglobinopathies</span>"
+    ]
+  },
+  {
     "objectID": "haem-anemia.html",
     "href": "haem-anemia.html",
     "title": "73  Anemia",
@@ -8986,6 +9184,116 @@
     "crumbs": [
       "<span style='font-weight:bold; color: black;'>Haematology</span>",
       "<span class='chapter-number'>75</span>  <span class='chapter-title'>Transfusion</span>"
+    ]
+  },
+  {
+    "objectID": "haem-bone-marrow-failure.html",
+    "href": "haem-bone-marrow-failure.html",
+    "title": "76  Bone Marrow Failure Syndormes",
+    "section": "",
+    "text": "76.1 Introduction\nBone marrow failure syndromes (BMFS) refer to a heterogeneous group of disorders in which the bone marrow is unable to produce an adequate number of one or more blood cell lines. These disorders may affect red blood cells, white blood cells, and/or platelets, leading respectively to anemia, leukopenia, and thrombocytopenia. Clinically, they present with fatigue, recurrent infections, mucosal bleeding, and growth impairment in children.\nBMFS may be congenital (inherited) or acquired, and early recognition is essential for timely management. In sub-Saharan Africa, including Ghana, diagnosis is often delayed due to limited access to specialized laboratory investigations such as bone marrow cytogenetics, flow cytometry, telomere length testing, and genetic sequencing. As a result, these disorders may be misdiagnosed as nutritional anemia, malaria, leukemia, or sepsis.\nThis chapter provides a comprehensive review of both congenital and acquired bone marrow failure syndromes in children, with a focus on clinical features, diagnostic challenges, and management approaches applicable within Ghana and similar resource-limited settings.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>76</span>  <span class='chapter-title'>Bone Marrow Failure Syndormes</span>"
+    ]
+  },
+  {
+    "objectID": "haem-bone-marrow-failure.html#normal-structure-and-physiology-of-bone-marrow",
+    "href": "haem-bone-marrow-failure.html#normal-structure-and-physiology-of-bone-marrow",
+    "title": "76  Bone Marrow Failure Syndormes",
+    "section": "76.2 Normal Structure and Physiology of Bone Marrow",
+    "text": "76.2 Normal Structure and Physiology of Bone Marrow\nBone marrow is responsible for hematopoiesis — the production of red cells, white cells, and platelets. Key components include:\n\nHematopoietic stem cells (HSCs): pluripotent cells capable of self-renewal and differentiation.\nStromal cells: including fibroblasts, adipocytes, endothelial cells, and macrophages that support HSC survival.\nGrowth factors and cytokines: such as erythropoietin, G-CSF, and thrombopoietin.\n\nAny insult to stem cells, stromal support, or regulatory cytokines can lead to bone marrow failure.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>76</span>  <span class='chapter-title'>Bone Marrow Failure Syndormes</span>"
+    ]
+  },
+  {
+    "objectID": "haem-bone-marrow-failure.html#classification-of-bone-marrow-failure-syndromes",
+    "href": "haem-bone-marrow-failure.html#classification-of-bone-marrow-failure-syndromes",
+    "title": "76  Bone Marrow Failure Syndormes",
+    "section": "76.3 Classification of Bone Marrow Failure Syndromes",
+    "text": "76.3 Classification of Bone Marrow Failure Syndromes\nBMFS can be broadly categorized as:\n\n76.3.1 Congenital (Inherited) Bone Marrow Failure Syndromes (IBMFS)\nThese include: - Fanconi anaemia\n- Diamond–Blackfan anaemia\n- Shwachman–Diamond syndrome\n- Dyskeratosis congenita (telomeropathies)\n- Congenital amegakaryocytic thrombocytopenia\n- Thrombocytopenia with absent radius (TAR) syndrome\n- Congenital neutropenias (e.g., Kostmann syndrome)\n\n\n76.3.2 Acquired Bone Marrow Failure Syndromes\nIncluding: - Aplastic anaemia\n- Transient erythroblastopenia of childhood (TEC)\n- Drug-induced bone marrow suppression\n- Viral-associated marrow suppression (e.g., Parvovirus B19, HIV)\n- Nutritional (e.g., severe malnutrition with marrow hypoplasia)\n- Immune-mediated marrow aplasia",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>76</span>  <span class='chapter-title'>Bone Marrow Failure Syndormes</span>"
+    ]
+  },
+  {
+    "objectID": "haem-bone-marrow-failure.html#congenital-bone-marrow-failure-syndromes",
+    "href": "haem-bone-marrow-failure.html#congenital-bone-marrow-failure-syndromes",
+    "title": "76  Bone Marrow Failure Syndormes",
+    "section": "76.4 Congenital Bone Marrow Failure Syndromes",
+    "text": "76.4 Congenital Bone Marrow Failure Syndromes\n\n76.4.1 Fanconi Anaemia (FA)\n\n76.4.1.1 Overview and Pathophysiology\nFanconi anaemia is the most common inherited cause of aplastic anemia in children. It is an autosomal recessive disorder characterized by impaired DNA repair, leading to chromosomal instability and progressive marrow failure.\n\n\n76.4.1.2 Clinical Features\nFA presents with a wide spectrum of abnormalities: - Hematologic: pancytopenia, usually presenting between ages 5–10 years. - Physical anomalies: - Short stature\n- Absent or hypoplastic thumbs\n- Radial ray defects\n- Skin hyperpigmentation or café-au-lait spots\n- Renal anomalies\n- Microcephaly - Endocrine features: hypothyroidism, glucose intolerance, delayed puberty. - Malignancy risks: - Acute myeloid leukemia\n- Squamous cell carcinoma of head/neck and genital tract\n\n\n76.4.1.3 Diagnosis\n\nCBC: pancytopenia\n\nBone marrow: hypocellular\n\nChromosomal breakage test using diepoxybutane (DEB) or mitomycin C is diagnostic\n\nGenetic testing (if available)\n\nScreening for associated anomalies (renal ultrasound, endocrine evaluation)\n\n\n\n76.4.1.4 Management\n\nSupportive care: transfusions, infection control\n\nAndrogens (e.g., oxymetholone) may improve counts temporarily\n\nHematopoietic stem cell transplantation (HSCT) is curative\n\nCancer surveillance\n\nGenetic counselling for families\n\n\n\n76.4.1.5 Ghana Context\nFA is likely underdiagnosed. Limited access to DEB testing hampers confirmation, often leading to misclassification as idiopathic aplastic anemia.\n\n\n\n76.4.2 Diamond–Blackfan Anaemia (DBA)\n\n76.4.2.1 Overview\nDBA is a congenital pure red cell aplasia presenting in infancy due to mutations affecting ribosomal protein synthesis.\n\n\n76.4.2.2 Clinical Features\n\nOnset before 1 year of age\n\nSevere macrocytic anemia\n\nReticulocytopenia\n\nPhysical anomalies in 30–50%:\n\nCraniofacial abnormalities\n\nThumb anomalies\n\nShort stature\n\nCardiac defects\n\n\n\n\n76.4.2.3 Diagnosis\n\nCBC: macrocytic anemia with low reticulocytes\n\nBone marrow: absent or decreased erythroid precursors\n\nElevated erythropoietin levels\n\nGenetic testing (RPS19 mutations common)\n\n\n\n76.4.2.4 Management\n\nPrednisolone (first-line therapy)\n\nChronic transfusion therapy for steroid-resistant patients\n\nIron chelation if transfusion-dependent\n\nHSCT is curative\n\nNutritional and endocrine monitoring\n\n\n\n\n76.4.3 Shwachman–Diamond Syndrome (SDS)\n\n76.4.3.1 Overview\nAutosomal recessive disorder characterized by: - Bone marrow failure (neutropenia common)\n- Exocrine pancreatic insufficiency\n- Skeletal abnormalities\n\n\n76.4.3.2 Clinical Features\n\nFailure to thrive\n\nRecurrent infections\n\nSteatorrhea due to pancreatic insufficiency\n\nVariable cytopenias\n\n\n\n76.4.3.3 Diagnosis\n\nCBC showing neutropenia\n\nLow fecal elastase (pancreatic insufficiency)\n\nBone marrow with hypocellularity\n\nGenetic testing (SBDS mutations)\n\n\n\n76.4.3.4 Management\n\nPancreatic enzyme replacement therapy\n\nG-CSF for severe neutropenia\n\nHSCT for marrow failure\n\nMonitor for malignant transformation (risk of AML)\n\n\n\n\n76.4.4 Dyskeratosis Congenita (DC)\n\n76.4.4.1 Overview\nA telomere biology disorder with triad: - Reticular skin pigmentation\n- Nail dystrophy\n- Oral leukoplakia\n\n\n76.4.4.2 Clinical Features\n\nProgressive marrow failure\n\nPulmonary fibrosis\n\nLiver disease\n\nIncreased cancer risk\n\n\n\n76.4.4.3 Diagnosis\n\nTelomere length assays\n\nBone marrow: hypocellularity\n\nGenetic testing (TERT, TERC genes)\n\n\n\n76.4.4.4 Management\n\nSupportive care\n\nHSCT for marrow failure\n\nMonitoring for liver and lung complications\n\n\n\n\n76.4.5 Congenital Amegakaryocytic Thrombocytopenia (CAMT)\n\n76.4.5.1 Features\n\nSevere thrombocytopenia early in infancy\n\nAbsent megakaryocytes in marrow\n\nMutations in thrombopoietin receptor (c-MPL gene)\n\nProgresses to pancytopenia\n\n\n\n76.4.5.2 Management\n\nPlatelet transfusions\n\nHSCT is curative\n\n\n\n\n76.4.6 TAR Syndrome (Thrombocytopenia with Absent Radius)\n\n76.4.6.1 Features\n\nNormal thumbs (unlike FA)\n\nSevere thrombocytopenia in infancy\n\nCow’s milk intolerance\n\n\n\n76.4.6.2 Management\n\nSupportive care\n\nPlatelet transfusions\n\nNutritional management\n\nUsually improves with age\n\n\n\n\n76.4.7 Congenital Neutropenias (including Kostmann syndrome)\n\n76.4.7.1 Features\n\nSevere neutropenia &lt; 500/µL\n\nRecurrent bacterial infections\n\nBone marrow with maturation arrest of granulocytes\n\n\n\n76.4.7.2 Management\n\nG-CSF is highly effective\n\nHSCT if refractory or transformation to MDS/AML occurs",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>76</span>  <span class='chapter-title'>Bone Marrow Failure Syndormes</span>"
+    ]
+  },
+  {
+    "objectID": "haem-bone-marrow-failure.html#acquired-bone-marrow-failure-syndromes-1",
+    "href": "haem-bone-marrow-failure.html#acquired-bone-marrow-failure-syndromes-1",
+    "title": "76  Bone Marrow Failure Syndormes",
+    "section": "76.5 Acquired Bone Marrow Failure Syndromes",
+    "text": "76.5 Acquired Bone Marrow Failure Syndromes\n\n76.5.1 Aplastic Anaemia\n\n76.5.1.1 Overview\nAplastic anaemia is characterized by peripheral pancytopenia and hypocellular bone marrow due to immune-mediated destruction of stem cells.\n\n\n76.5.1.2 Causes\n\nIdiopathic (most common)\n\nDrugs: chloramphenicol, anticonvulsants, NSAIDs\n\nViruses: hepatitis, EBV, HIV\n\nToxins: benzene\n\nAutoimmune disorders\n\n\n\n76.5.1.3 Clinical Features\n\nFatigue (anemia)\n\nInfections (neutropenia)\n\nBleeding/bruising (thrombocytopenia)\n\nNo physical anomalies (helps distinguish from congenital causes)\n\n\n\n76.5.1.4 Diagnosis\n\nPancytopenia\n\nBone marrow biopsy: hypocellularity without fibrosis or malignancy\n\n\n\n76.5.1.5 Management\n\nSupportive care\n\nImmunosuppressive therapy (ATG + cyclosporine)\n\nHSCT (curative)\n\n\n\n76.5.1.6 Ghana Context\nAvailability of ATG and cyclosporine may be limited; supportive care and referral are essential.\n\n\n\n76.5.2 Transient Erythroblastopenia of Childhood (TEC)\n\n76.5.2.1 Overview\nAcquired, temporary suppression of erythropoiesis, often post-viral.\n\n\n76.5.2.2 Features\n\nOccurs in children 6 months–6 years\n\nNormocytic anemia\n\nReticulocytopenia\n\nWell child apart from pallor\n\n\n\n76.5.2.3 Management\n\nObservation\n\nTransfusion rarely needed\n\nRecovery in 1–2 months\n\n\n\n\n76.5.3 Parvovirus B19–Associated Aplastic Crisis\nEspecially severe in children with chronic hemolytic anaemias (e.g., HbC, thalassemia, sickle cell).\n\n76.5.3.1 Features\n\nSudden drop in Hb\n\nReticulocytopenia\n\nFever\n\n\n\n76.5.3.2 Management\n\nTransfusion support\n\nTreat underlying infection\n\nImmunoglobulin therapy in immunodeficiency\n\n\n\n\n76.5.4 Drug-Induced Bone Marrow Suppression\nCommon culprits: - Sulphonamides\n- Chloramphenicol\n- Anticonvulsants\n- Cytotoxic chemotherapy\n\n76.5.4.1 Management\n\nStop offending drug\n\nSupportive care\n\nG-CSF or EPO in selected cases\n\n\n\n\n76.5.5 Nutritional Marrow Failure\nSevere malnutrition can lead to hypoplastic marrow with cytopenias.\nManagement focuses on nutritional rehabilitation.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>76</span>  <span class='chapter-title'>Bone Marrow Failure Syndormes</span>"
+    ]
+  },
+  {
+    "objectID": "haem-bone-marrow-failure.html#diagnosis-of-bone-marrow-failure-syndromes",
+    "href": "haem-bone-marrow-failure.html#diagnosis-of-bone-marrow-failure-syndromes",
+    "title": "76  Bone Marrow Failure Syndormes",
+    "section": "76.6 Diagnosis of Bone Marrow Failure Syndromes",
+    "text": "76.6 Diagnosis of Bone Marrow Failure Syndromes\nKey investigations include: - CBC with differential\n- Reticulocyte count\n- Bone marrow aspiration and biopsy (cellularity, morphology)\n- Cytogenetics\n- Genetic testing (if available)\n- Telomere length testing\n- Screening for infections (HIV, hepatitis, parvovirus B19)\nWhere such investigations are unavailable, careful clinical evaluation and referral are essential.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>76</span>  <span class='chapter-title'>Bone Marrow Failure Syndormes</span>"
+    ]
+  },
+  {
+    "objectID": "haem-bone-marrow-failure.html#management-principles",
+    "href": "haem-bone-marrow-failure.html#management-principles",
+    "title": "76  Bone Marrow Failure Syndormes",
+    "section": "76.7 Management Principles",
+    "text": "76.7 Management Principles\n\nIdentify and treat reversible causes\n\nProvide supportive care\n\nTransfusions\n\nInfection prophylaxis\n\nGrowth and endocrine monitoring\n\n\nConsider HSCT early in congenital syndromes\n\nProvide family counselling\n\nMonitor for long-term complications (e.g., AML, MDS)\n\nVaccination and infection prevention strategies",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>76</span>  <span class='chapter-title'>Bone Marrow Failure Syndormes</span>"
+    ]
+  },
+  {
+    "objectID": "haem-bone-marrow-failure.html#local-context-ghana-and-sub-saharan-africa",
+    "href": "haem-bone-marrow-failure.html#local-context-ghana-and-sub-saharan-africa",
+    "title": "76  Bone Marrow Failure Syndormes",
+    "section": "76.8 Local Context: Ghana and Sub-Saharan Africa",
+    "text": "76.8 Local Context: Ghana and Sub-Saharan Africa\n\nDiagnostic gaps are significant; few centres perform bone marrow biopsies routinely.\n\nCongenital syndromes may be under-recognised and misdiagnosed as aplastic anaemia or malnutrition.\n\nHSCT is not widely available; most children rely on supportive care.\n\nParvovirus B19–induced crises are common due to high background prevalence.\n\nDrug-induced marrow failure is an important consideration due to widespread use of chloramphenicol and sulphonamides in some settings.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>76</span>  <span class='chapter-title'>Bone Marrow Failure Syndormes</span>"
+    ]
+  },
+  {
+    "objectID": "haem-bone-marrow-failure.html#key-points-for-clinical-practice",
+    "href": "haem-bone-marrow-failure.html#key-points-for-clinical-practice",
+    "title": "76  Bone Marrow Failure Syndormes",
+    "section": "76.9 Key Points for Clinical Practice",
+    "text": "76.9 Key Points for Clinical Practice\n\nAlways distinguish congenital from acquired causes through careful history and examination.\n\nCongenital anomalies (thumb abnormalities, skin changes) are important diagnostic clues.\n\nHSCT is the only curative option for many congenital syndromes.\n\nAvoid unnecessary transfusions unless clinically indicated.\n\nMaintain high suspicion for viral causes in acute marrow suppression.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>76</span>  <span class='chapter-title'>Bone Marrow Failure Syndormes</span>"
+    ]
+  },
+  {
+    "objectID": "haem-bone-marrow-failure.html#further-reading",
+    "href": "haem-bone-marrow-failure.html#further-reading",
+    "title": "76  Bone Marrow Failure Syndormes",
+    "section": "76.10 Further Reading",
+    "text": "76.10 Further Reading\n\nAlter BP. Inherited bone marrow failure syndromes. Hematology Am Soc Hematol Educ Program.\n\nYoung NS. Aplastic anemia. N Engl J Med.\n\nSavage SA, Bertuch AA. The genetics and clinical manifestations of telomere biology disorders.\n\nHoffbrand AV, Higgs DR. Postgraduate Haematology.\n\nGhana Health Service. Guidelines for Paediatric Haematology and Oncology.",
+    "crumbs": [
+      "<span style='font-weight:bold; color: black;'>Haematology</span>",
+      "<span class='chapter-number'>76</span>  <span class='chapter-title'>Bone Marrow Failure Syndormes</span>"
     ]
   },
   {
