@@ -3,3 +3,422 @@ title: "Transfusion"
 date: 2024-11-17
 ---
 
+## Introduction
+
+Blood transfusion is a critical, lifesaving intervention in paediatric practice. In sub-Saharan
+Africa, including Ghana, transfusion plays a vital role in the management of severe anaemia,
+neonatal conditions, trauma, malignancies, and surgical emergencies. However, transfusion also
+carries significant risks such as transfusion reactions, infections, circulatory overload, and
+alloimmunization.
+
+Paediatric transfusion differs from adult transfusion in several key ways: children's blood volumes
+are smaller, immune systems are less mature, and many transfusion indications arise from conditions
+unique to childhood (e.g., severe malaria anaemia, haemoglobinopathies). Therefore, understanding
+transfusion principles tailored to paediatrics is essential for safe and effective care.
+
+This chapter provides a comprehensive review of paediatric transfusion medicine—including
+physiology, indications, product selection, dosing, safety, and Ghana-specific considerations. It is
+intended for medical students, residents, and practising paediatricians preparing for ward work and
+examinations.
+
+## Physiology of Blood and Components in Children
+
+Children have different blood volumes and haematological characteristics compared with adults.
+
+### Blood Volume by Age
+
+| Age Group            | Approximate Blood Volume |
+|----------------------|--------------------------|
+| Preterm neonate      | 90–100 mL/kg             |
+| Term neonate         | 80–90 mL/kg              |
+| Infant (1–12 months) | 75–80 mL/kg              |
+| Child                | 70–75 mL/kg              |
+| Adolescent           | 65–70 mL/kg              |
+
+The smaller the blood volume, the greater the physiological impact of even minor blood loss. A loss
+of 20 mL of blood is negligible in an adult but clinically relevant in a neonate.
+
+### Developmental Haematology
+
+-   **Neonatal haemoglobin** is predominantly fetal haemoglobin (HbF), with high oxygen affinity.
+-   **Physiological anaemia** occurs at 6–12 weeks due to decline in erythropoietin.
+-   **Iron stores** deplete early in life, making infants more vulnerable to iron deficiency.
+-   **Immune system immaturity** increases susceptibility to transfusion-transmitted pathogens and
+    alloimmunization.
+
+## Indications for Paediatric Transfusion
+
+Transfusion decisions must balance expected benefits against risks. Indications can be grouped into:
+
+1.  **Red Cell Transfusion**
+2.  **Platelet Transfusion**
+3.  **Plasma (FFP) Transfusion**
+4.  **Cryoprecipitate Transfusion**
+5.  **Whole Blood (rare, selected contexts)**
+
+### Indications for Red Cell Transfusion
+
+#### Acute Severe Anaemia
+
+Common causes in Ghana:
+
+-   Severe malaria
+-   Sickle cell disease crises
+-   Acute haemolysis (G6PD deficiency)
+-   Acute bleeding (trauma, obstetric haemorrhage in adolescents)
+-   Severe sepsis
+
+**Thresholds for transfusion (common paediatric practice):**
+
+-   Hb \< 4 g/dL — transfuse immediately.
+-   Hb 4–6 g/dL — transfuse if symptomatic (shock, respiratory distress, heart failure).
+-   Hb 6–10 g/dL — consider only in special situations such as:
+    -   ongoing blood loss\
+    -   cardiopulmonary disease\
+    -   severe infection with compromised oxygen delivery\
+-   Hb \> 10 g/dL — rarely indicated.
+
+#### Chronic Anaemia
+
+Conditions:
+
+-   Thalassemia major\
+-   Sickle cell disease (selected indications; not routine)\
+-   Bone marrow failure syndromes\
+-   Chronic renal disease
+
+Transfusions are individualized, often part of long-term management.
+
+#### Perioperative Transfusion
+
+Indications:
+
+-   Anticipated significant blood loss
+-   Preoperative correction of Hb \< 8 g/dL in major surgery
+-   Intraoperative haemodynamic instability due to blood loss
+
+#### Neonatal Transfusion Indications
+
+-   Symptomatic anaemia\
+-   Anaemia of prematurity with severe cardiorespiratory compromise\
+-   Significant iatrogenic blood loss in NICUs\
+-   Exchange transfusion for severe jaundice (RBC + plasma)
+
+## Blood Components and Their Uses
+
+Modern transfusion practice prefers **component therapy** rather than whole blood.
+
+### Packed Red Blood Cells (PRBCs)
+
+-   Indicated for anaemia with reduced oxygen-carrying capacity.
+-   Haematocrit: 50–70%.
+
+### Whole Blood
+
+-   Used in Ghana in select situations such as severe acute haemorrhage in resource-constrained
+    facilities.
+-   Haematocrit \~40%.
+-   Higher risk of volume overload.
+
+### Platelets
+
+Indicated for:
+
+-   Active bleeding with thrombocytopenia
+-   Prophylaxis in very low platelet counts (\<10 × 10⁹/L)
+-   Platelet dysfunction (e.g., uremia)
+
+### Fresh Frozen Plasma (FFP)
+
+Indications: - Bleeding due to coagulation factor deficiency - DIC - Warfarin reversal in
+adolescents
+
+Not for:
+
+-   Volume expansion
+-   Simple anaemia
+
+### Cryoprecipitate
+
+Contains fibrinogen, von Willebrand factor, factor VIII.
+
+Indications: - Hypofibrinogenemia (\<1 g/L) - Disseminated intravascular coagulation - Certain
+bleeding disorders
+
+## Dosing of Blood Components in Children
+
+Paediatric transfusion doses are weight-based.
+
+#### Red Blood Cells
+
+-   **Dose:** 10–15 mL/kg (PRBC)
+-   **Expected Hb rise:** 1–2 g/dL per 10 mL/kg
+-   Neonates: 10–15 mL/kg over 2–4 hours
+
+#### Whole Blood
+
+-   20 mL/kg (for acute blood loss)
+
+#### Platelets
+
+-   **Dose:** 10–15 mL/kg
+
+or
+
+-   1 unit per 10 kg body weight
+
+Expected rise: 20–40 × 10⁹/L
+
+#### FFP
+
+-   10–15 mL/kg
+
+#### Cryoprecipitate
+
+-   1 unit per 5 kg body weight
+
+or
+
+-   5–10 mL/kg
+
+## Special Considerations in Neonatal Transfusion
+
+Neonates have unique physiology requiring careful approach.
+
+### Key Principles
+
+-   Use **CMV-reduced**, **irradiated**, and **fresh (\<5 days old)** blood where available.
+-   Avoid potassium accumulation by not using blood stored too long.
+-   Transfuse slowly: **5 mL/kg/hr** unless urgent.
+
+### Exchange Transfusion
+
+Indications:
+
+-   Severe hyperbilirubinemia
+-   Haemolytic disease of the newborn
+
+Blood requirements: - Crossmatch with mother’s blood - O-negative, antigen-compatible PRBCs
+reconstituted with plasma - Haematocrit 40–50%
+
+## Transfusion Decision-Making: Thresholds and Clinical Judgment
+
+In resource-limited settings like Ghana, clinical judgment is especially important.
+
+### Clinical Factors Supporting Transfusion:
+
+-   Tachycardia
+-   Respiratory distress
+-   Signs of cardiac failure
+-   Lethargy or altered consciousness
+-   Hypoxia (SpO2 \< 92%)
+-   Shock
+
+### Laboratory Red Flags:
+
+-   Hb \< 4 g/dL (emergency)
+-   Hb \< 6 g/dL with symptoms
+-   Rising lactate
+-   Severe thrombocytopenia (\<10 × 10⁹/L)
+
+### When Not to Transfuse:
+
+-   Mild asymptomatic anaemia
+-   Anaemia that is nutritional and not severe
+-   Iron deficiency responsive to oral supplementation
+-   Fever alone without evidence of haemodynamic compromise
+
+## Risks and Complications of Transfusion
+
+Transfusion is not without danger. Vigilance is mandatory.
+
+### Acute Transfusion Reactions
+
+-   **Febrile non-haemolytic reaction**
+-   **Allergic reactions** (urticaria to anaphylaxis)
+-   **Acute haemolytic reaction** (ABO mismatch)
+-   **Transfusion-associated circulatory overload (TACO)**
+-   **Transfusion-related acute lung injury (TRALI)**
+
+### Delayed Reactions
+
+-   Delayed haemolytic transfusion reaction
+-   Transfusion-transmitted infections
+-   Alloimmunization (especially in sickle cell patients)
+-   Iron overload (chronic transfusers)
+
+### Transfusion-Transmitted Infections (TTIs)
+
+In Ghana, screening is mandatory for:
+
+-   HIV
+-   Hepatitis B
+-   Hepatitis C
+-   Syphilis
+
+Malaria transmission risk exists despite screening.
+
+### Iron Overload
+
+Occurs in:
+
+-   Thalassemia major
+-   Chronic transfusion protocols\
+    **Management:** Iron chelation with deferasirox or deferoxamine.
+
+## Transfusion Safety and Protocols
+
+Safe transfusion practice involves multiple layers of protection.
+
+### Pre-Transfusion Steps
+
+-   Confirm indication.
+-   Check baseline vitals.
+-   Obtain informed consent.
+-   Crossmatch blood (patient name, age, hospital number).
+-   Use appropriate component.
+
+### Bedside Checks
+
+Always perform the **three Rs**:
+
+1.  **Right patient**\
+2.  **Right blood**\
+3.  **Right time**
+
+Any mismatch can be fatal.
+
+### 3. Monitoring During Transfusion
+
+| Time            | Action                                                 |
+|-----------------|--------------------------------------------------------|
+| Start           | Observe for first 15 minutes; vital signs every 15 min |
+| Mid-transfusion | Vitals every 30 min                                    |
+| End             | Vitals at completion                                   |
+| Post            | Monitor for late reactions                             |
+
+Observe for:
+
+-   Fever\
+-   Rigors\
+-   Rash\
+-   Difficulty breathing\
+-   Hypotension\
+-   Haemoglobinuria
+
+### Management of Transfusion Reactions
+
+-   Stop transfusion immediately.
+-   Maintain IV line with saline.
+-   Check vitals and notify senior/clincians.
+-   Send blood bag and samples for investigation.
+-   Treat according to reaction type (antihistamine, adrenaline, oxygen support etc.).
+
+## Transfusion in Special Groups
+
+### Children With Severe Malaria
+
+Common in Ghana.
+
+Key points:
+
+-   Hb \< 6 g/dL with respiratory distress → urgent transfusion.
+-   Monitor for fluid overload.
+-   Treat malaria concurrently with artesunate.
+
+### Sickle Cell Disease
+
+-   Transfuse only for specific indications:
+    -   Acute chest syndrome\
+    -   Stroke\
+    -   Severe anaemia\
+    -   Preoperative optimization
+-   Use **HbS-negative**, matched blood if available.\
+-   Avoid unnecessary transfusions to prevent alloimmunization.
+
+### Oncology Patients
+
+-   Require recurrent transfusions (platelets + RBCs).
+-   High alloimmunization risk.
+-   Need irradiated components if receiving chemotherapy causing immunosuppression.
+
+## Blood Banking and Transfusion Services in Ghana
+
+The National Blood Service (NBS) Ghana coordinates:
+
+-   Blood donor recruitment
+-   Testing and processing
+-   Distribution to health facilities
+
+### Challenges:
+
+-   Heavy reliance on **replacement donors** rather than voluntary donors
+-   Regular shortages necessitating the use of whole blood
+-   Limited availability of specialized products such as irradiated blood
+-   Challenges in cold chain maintenance in rural hospitals
+-   High prevalence of TTIs in general population increasing risk of transfusion-transmitted
+    infections
+
+### Strengths:
+
+-   National standardized screening procedures
+-   Expanded donor mobilization programmes
+-   Increasing availability of PRBCs and FFP in tertiary centres
+
+Improving Ghana’s transfusion services requires enhanced voluntary donation and strengthened
+hospital transfusion committees.
+
+## Clinical Approach: How to Manage a Child Requiring Transfusion
+
+**Step 1: Confirm Indication**
+
+Ask: “Will this transfusion save the child’s life or significantly improve outcome?”
+
+**Step 2: Evaluate Urgency**
+
+-   Emergency (Hb \< 4 g/dL or shock)\
+-   Semi-urgent\
+-   Elective
+
+**Step 3: Choose the Right Product**
+
+-   Anaemia → PRBC\
+-   Bleeding due to coagulopathy → FFP\
+-   Severe thrombocytopenia → Platelets\
+-   Hypofibrinogenemia → Cryoprecipitate
+
+**Step 4: Calculate Dose**
+
+Weight-based dosing.
+
+**Step 5: Bedside Safety Checks**
+
+Identity, unit number, compatibility.
+
+**Step 6: Monitor and Document**
+
+Before, during, and after the transfusion.
+
+**Step 7: Reassess**
+
+A post-transfusion Hb should be checked only when clinically necessary.
+
+## Key Points for Exams and Clinical Practice
+
+-   PRBC dose: **10–15 mL/kg** raises Hb by 1–2 g/dL.\
+-   Whole blood for **massive haemorrhage**: 20 mL/kg.\
+-   Platelets indicated when **platelets \<10 × 10⁹/L** without bleeding.\
+-   Never use FFP for **nutritional anaemia** or **volume expansion**.\
+-   Neonates require **fresh**, **CMV-reduced**, **irradiated** blood.\
+-   In Ghana, severe malaria is the leading cause of paediatric transfusion.\
+-   Monitor closely for TACO and TRALI.\
+-   Document all transfusion reactions and report to hospital transfusion committee.
+
+## Further Reading
+
+1.  WHO. *Guidelines on the Use of Blood and Blood Products*. Geneva: World Health Organization.\
+2.  Klein HG, Anstee DJ. *Mollison's Blood Transfusion in Clinical Medicine*, 13th ed.\
+3.  West African College of Physicians (WACP). *Curriculum for Paediatrics*.\
+4.  National Blood Service, Ghana. *Guidelines for Clinical Transfusion Practice*.\
+5.  Roback JD et al. *Technical Manual of the American Association of Blood Banks (AABB)*, 20th ed.\
+6.  Bates I et al. “Transfusion in Sub-Saharan Africa: Challenges and Solutions.” *Lancet.*

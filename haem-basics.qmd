@@ -1,0 +1,227 @@
+---
+title: "Basics"
+date: 2025-09-06
+---
+
+## Introduction
+
+Pediatric haematology requires an understanding of how the blood and blood-forming organs develop
+anatomically, how they function physiologically, and how disease processes disrupt these systems.
+Children differ significantly from adults in their hematologic profiles due to developmental
+changes, increased metabolic demands, and perinatal transitions. In Ghana and Sub-Saharan Africa,
+the clinical spectrum is strongly influenced by infectious diseases (malaria, HIV, TB), nutritional
+deficiencies, and inherited disorders such as sickle cell disease (SCD).
+
+This chapter provides an integrated review of **anatomy**, **physiology**, and **pathology** of the
+hematopoietic system, with emphasis on conditions most relevant to children in the region.
+
+## Anatomy of the Hematologic System
+
+The hematologic system includes the **bone marrow**, **blood cells**, **lymphoid organs**, the
+**reticuloendothelial system**, vascular endothelium, and plasma proteins.
+
+### Bone marrow
+
+-   **Sites of hematopoiesis**
+    -   *Fetal life:* yolk sac → liver & spleen → bone marrow (by third trimester).
+    -   *Postnatal:* whole skeleton initially; becomes restricted to the axial skeleton (sternum,
+        ribs, pelvis, vertebrae) during adolescence.
+-   **Cellularity**
+    -   Neonates and infants: very high cellularity (\~80–90%); gradually becomes fattier with age.
+-   **Components**
+    -   Hematopoietic stem cells (HSCs), stromal cells (fibroblasts, adipocytes), sinusoids, and
+        supporting extracellular matrix.
+
+**Clinical relevance:** High marrow activity in infants enables robust erythropoiesis but also means
+bone marrow failure syndromes present early and dramatically. Bone marrow aspiration is essential
+when leukaemia or aplasia is suspected.
+
+### Lymphoid organs
+
+-   **Thymus**
+    -   Large and active in childhood; required for T-cell maturation.
+    -   Involution begins in adolescence.
+    -   Absent or underdeveloped thymus → severe T-cell deficiency (e.g., DiGeorge syndrome).
+-   **Spleen**
+    -   Filters aged/damaged RBCs; participates in immune responses and can host extramedullary
+        hematopoiesis.
+    -   Vulnerable to sequestration in SCD; frequently enlarged in malaria-endemic settings.
+-   **Lymph nodes**
+    -   More reactive and often enlarged in children due to frequent antigen exposure.
+
+## Physiology of the Hematologic System
+
+### Hematopoiesis
+
+**Definition:** production of blood cells from multipotent HSCs.
+
+**Developmental stages**
+
+1.  Yolk sac hematopoiesis (early gestation)
+2.  Foetal liver (mid to late gestation) — primary site until birth
+3.  Bone marrow (dominant after birth)
+
+**Paediatric differences**
+
+-   Infants have higher baseline erythropoietic activity.
+-   Lymphopoiesis is intensified during early childhood for immune maturation.
+
+### Red blood cell physiology
+
+-   **Haemoglobin switching:** HbF (α₂γ₂) predominates at birth (≈70–80%). Switch to HbA (α₂β₂)
+    occurs over the first 6 months.
+-   **Physiologic** anaemia of infancy: Postnatal fall in erythropoietin causes a nadir in
+    haemoglobin at \~6–8 weeks; usually mild and self-limiting.
+-   **Oxygen affinity:** HbF has higher O₂ affinity than HbA — clinically significant for newborn
+    adaptation.
+
+**Clinical links**
+
+-   Hemoglobinopathies (e.g., SCD) typically become clinically significant after HbF declines.
+
+-   Nutritional deficiencies (iron, folate, B12) rapidly impair RBC production due to high turnover.
+
+### White blood cell physiology
+
+-   **WBC composition:** Infants often have relative lymphocytosis; neutrophil counts are lower in
+    early life than in older children and adults.
+-   **Immune maturation:** Neonates and young infants have immature innate and adaptive immune
+    responses.
+
+**Clinical links**
+
+-   Distinguish physiologic lymphocytosis from pathologic causes (e.g., lymphoid leukaemia).
+
+-   Severe neutropenia increases the risk of fulminant bacterial infections.
+
+### Platelet and coagulation physiology
+
+-   **Platelet counts** in neonates are broadly similar to those of adults.
+-   **Neonatal factor levels:** Lower vitamin K stores and reduced levels of some vitamin
+    K-dependent clotting factors (II, VII, IX, X) increase bleeding risk.
+-   **Vitamin K prophylaxis** at birth is crucial to prevent Vitamin K Deficiency Bleeding (VKDB).
+
+## Pathology in Pediatric Haematology
+
+Hematologic pathology in children can be classified by the affected cell line or process:
+production, maturation, destruction, and hemostasis.
+
+### Disorders of red blood cells
+
+#### Anaemia (physiologic classification)
+
+-   **Production failure:** iron deficiency, folate/B12 deficiency, bone marrow failure (aplastic
+    anaemia).
+-   **Destruction (hemolysis):** sickle cell disease, G6PD deficiency, malaria-related hemolysis,
+    and immune hemolytic anaemia.
+-   **Blood loss:** trauma, gastrointestinal blood loss (e.g., hookworm), peripartum haemorrhage.
+
+**Local epidemiology (Ghana & region):**
+
+-   Severe anaemia in children \<5 commonly results from malaria + iron deficiency.
+
+-   Sickle cell disease is a major contributor to hemolytic anaemia and childhood morbidity.
+
+#### Hemoglobinopathies
+
+-   **Sickle cell disease (HbSS)**: vaso-occlusive crises, acute chest syndrome, splenic
+    sequestration, stroke risk.
+-   **Thalassemias:** less frequent in West Africa than in the Mediterranean/SE Asia, but should be
+    considered in microcytic anaemia unresponsive to iron.
+
+#### Polycythemia
+
+-   Neonatal polycythemia from delayed cord clamping, maternal diabetes, or twin-twin transfusion
+    syndrome.
+
+### Disorders of white blood cells
+
+-   **Neutropenia:** viral causes, drug-induced (e.g., chloramphenicol), congenital forms.
+-   **Leukocytosis & blasts:** often reactive, but a high blast percentage suggests leukaemia (ALL
+    is the most common childhood leukaemia).
+-   **Immunodeficiencies:** primary (SCID, DiGeorge) and secondary (malnutrition, HIV).
+
+### Platelet and coagulation disorders
+
+-   **Thrombocytopenia:** ITP (post-infectious), dengue (epidemic settings), marrow infiltration
+    (leukaemia).
+-   **Coagulation defects:** haemophilia A/B, von Willebrand disease, VKDB, and DIC (seen in severe
+    sepsis and complicated malaria).
+
+### Reticuloendothelial and lymphoid pathology
+
+-   **Splenomegaly:** chronic malaria, SCD (early enlargement; later autosplenectomy), portal
+    hypertension, malignancy.
+-   **Lymphadenopathy:** reactive infections, TB lymphadenitis, lymphomas.
+
+## 4 Integrating Anatomy, Physiology and Pathology — Clinical Perspectives
+
+| Component | Normal (Anatomy/Physiology) | Pathology | Pediatric/Local Relevance |
+|----------------------|---------------------------:|------------------------|------------------------|
+| Bone marrow | High cellularity in infancy | Aplastic anaemia, leukaemia | Early pancytopenia is often dramatic |
+| HbF → HbA switch | HbF is dominant at birth | SCD symptoms as HbF falls | Hydroxyurea raises HbF and reduces crises |
+| Thymus | Central to T-cell maturation | Thymic aplasia → SCID | Recurrent severe infections in infancy |
+| Spleen | Filters RBCs, immune role | Sequestration, autosplenectomy | Major role in SCD & malaria pathology |
+| Vitamin K stores | Low in neonates | VKDB | Important in out-of-facility births |
+| Immune maturation | Lymphocyte predominance early | Leukocyte disorders | Distinguish physiologic vs pathologic counts |
+
+## Practical Approach to Common Presentations
+
+### Child with pallor / suspected anaemia
+
+1.  History: onset, feeding, bleeding, family history (hemoglobinopathies), recent infections, drug
+    exposure.
+2.  Examination: pallor distribution, jaundice, splenomegaly, and signs of heart failure.
+3.  Initial investigations:
+    -   Complete blood count (FBC) with indices
+    -   Reticulocyte count
+    -   Peripheral blood film (morphology; malaria parasites on thick/thin films)
+    -   Malaria RDT where microscopy is unavailable
+    -   Ferritin/iron studies, if available
+    -   G6PD assay if hemolysis is suspected
+4.  Management principles:
+    -   Treat underlying cause (e.g., antimalarials, iron for deficiency).
+    -   Transfusion for severe or symptomatic anaemia (local transfusion guidelines).
+
+### Child with bleeding/bruising
+
+1.  Obtain platelet count, PT/INR, and aPTT.
+2.  Consider ITP, haemophilia, vWD, and DIC.
+3.  Manage bleeding (local measures, tranexamic acid where indicated) and refer for factor assays or
+    specialist care.
+
+### 5.3 Suspected leukaemia
+
+1.  Red flags: persistent fever, bone pain, bruising, hepatosplenomegaly, abnormal white cell
+    differential with blasts.
+2.  Urgent FBC, blood film and prompt referral to a paediatric oncology unit for bone marrow
+    aspirate and staging.
+
+## Management Principles
+
+-   **Supportive care:** hydration, treating infections, nutritional rehabilitation, and pain
+    control.
+-   **Transfusion therapy:** indicated for severe symptomatic anaemia, acute blood loss, or SCD
+    complications (exchange transfusion for stroke/ACS).
+-   **Disease-specific therapies:** iron replacement, hydroxyurea for SCD, factor replacement for
+    haemophilia, chemotherapy for malignancies.
+-   **Prevention:** newborn screening for SCD, universal vitamin K prophylaxis, routine
+    immunisations, insecticide-treated nets and malaria chemoprophylaxis where indicated, and
+    routine deworming.
+
+## Summary
+
+A working knowledge of the **anatomy** (bone marrow, thymus, spleen), **physiology** (developmental
+hematopoiesis, haemoglobin switching, immune maturation), and pathology (anaemia,
+hemoglobinopathies, leukaemias, bleeding disorders) is essential for pediatric practice. In Ghana
+and across Sub-Saharan Africa, high-burden diseases such as malaria, SCD, and nutritional
+deficiencies shape clinical priorities. Effective care depends on early recognition, appropriate
+investigation (FBC, blood film, reticulocyte count, coagulation studies), timely supportive
+measures, and referral for specialised therapies.
+
+## Further reading
+
+1.  Kliegman RM, Stanton B, St. Geme JW III, Schor NF, Behrman RE. *Nelson Textbook of Paediatrics*.
+2.  Hoffbrand AV, Moss PAH. *Essential Haematology*.
+3.  World Health Organisation. *Sickle Cell Disease: A Strategy for the WHO African Region*.
+4.  Ghana Health Service / Ministry of Health – *Standard Treatment Guidelines*.

@@ -115,10 +115,13 @@ book:
         - endo-growth.qmd
     - part: "<span style='font-weight:bold; color: black;'>Haematology</span>"
       chapters:
+        - haem-basics.qmd
         - haem-sickle-cell.qmd
+        - haem-hemoglobinopathies.qmd
         - haem-anemia.qmd
         - haem-bleeding-disorders.qmd
         - haem-transfusion.qmd
+        - haem-bone-marrow-failure.qmd
     - part: "<span style='font-weight:bold; color: black;'>Gastroenterology</span>"
       chapters: 
         - gast-nutrition.qmd

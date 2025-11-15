@@ -314,7 +314,7 @@ calcitriol production, - Secondary hyperparathyroidism, - Bone demineralization 
 ## Laboratory Evaluation of Bone and Calcium Metabolism
 
 | Test | Interpretation | Clinical Utility |
-|----------------------|-------------------------------------|-----------------------------------------|
+|----|----|----|
 | **Serum calcium (total/ionized)** | ↓ in hypocalcaemia, ↑ in hypercalcaemia | Basic screen |
 | **Serum phosphate** | ↓ in rickets, ↑ in renal disease | Assess phosphate balance |
 | **Alkaline phosphatase (ALP)** | Elevated in bone formation or rickets | Marker of bone turnover |

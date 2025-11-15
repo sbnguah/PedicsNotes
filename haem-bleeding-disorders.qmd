@@ -1,3 +1,177 @@
 ---
 title: "Bleeding Disorders"
+date: today
+author: Dr (Mrs) Vivian Paintsil  Dr 
 ---
+
+## **Introduction**
+
+Bleeding disorders in children represent a unique and complex group of hematologic conditions that
+pose significant diagnostic, therapeutic, and psychosocial challenges. From inherited conditions
+like haemophilia and von Willebrand disease to acquired disorders related to liver disease, immune
+dysfunction, or malignancy, the spectrum of bleeding disorders in the pediatric population is broad
+and often under-recognised, especially in low-resource settings.
+
+Early identification and appropriate management of bleeding disorders are critical in preventing
+life-threatening complications, ensuring optimal physical development, and maintaining quality of
+life. The pediatric context necessitates a holistic, family-centred approach that considers not only
+the child’s medical needs but also the psychosocial impact on caregivers and families.
+
+This section aims to provide a comprehensive yet practical guide to the diagnosis, evaluation, and
+management of bleeding disorders in children. It integrates current scientific knowledge with
+clinical experience and real-world considerations across diverse healthcare settings.
+
+Furthermore, special emphasis is placed on challenges specific to resource-limited settings,
+advances in gene therapy and personalised medicine, and the role of education and advocacy in
+improving outcomes.
+
+## **Hemostasis**  
+
+The term [hemostasis](https://www.osmosis.org/learn/Thrombocytopenia:_Nursing) is coined from
+“hem-”, which means “blood”, and “-stasis”, which means “to stop.” Hence, hemostasis is a
+physiological process by which bleeding is stopped at the site of blood vessel injury. It represents
+an interplay among blood vessel constriction, platelet plug formation, and blood coagulation through
+fibrin clot formation. Hemostasis is essential for maintaining vascular integrity and preventing
+haemorrhage. Blood clot formation at the wrong time or site within a blood vessel is termed
+**Thrombosis,** and this is a pathological condition.
+
+The normal hemostatic process requires a balance between procoagulants and anticoagulants. An
+imbalance can lead to either excessive bleeding or unwanted clot formation.
+
+![Haemostasis: Balance between anticoagulants and
+procoagulants](images/heam-coag-pathway.png){fig-align="center"}
+
+### **Components of Hemostasis**
+
+There are three (3) main components of haemostasis.
+
+1.  Vascular constriction and platelet constriction form the primary haemostasis and lead to the
+    formation of the platelet plug.
+2.  The coagulation cascade initiates secondary haemostasis and leads to the formation of a fibrin
+    clot.
+3.  The last phase is fibrinolysis, which leads to clot breakdown and reestablishment of vessel
+    patency.
+
+![](images/haem-sec-coag-pathway.png){fig-align="center"}
+
+### Coagulation Pathway (Secondary hemostasis)
+
+The coagulation pathway is a sequence of enzymatic conversions of proenzymes into activated forms.
+It consists of an intrinsic, extrinsic and a common pathway.
+
+It is worth noting that the traditional model of this cascade, with its distinct intrinsic and
+extrinsic pathways merging into a single pathway, is an oversimplification. In reality, that is in
+vivo, these pathways likely activate each other simultaneously, creating a more complex and
+interconnected system.
+
+![Coagulation cascade in vitro](images/haem-invitro-coag-pathway.png){fig-align="center"}
+
+![Numerical designation of clotting factors and their Alternative
+names](images/haem-clotting-factors.jpg){fig-align="center" width="600"}
+
+## **Bleeding Disorders**
+
+Bleeding disorders, also known as bleeding diathesis, are various conditions characterised by
+abnormalities in hemostasis that lead to abnormal bleeding. It mainly results from an imbalance in
+hemostasis, with the balance tilting towards less procoagulants or increased anti-coagulant or
+fibrinolytic activity.
+
+**History**
+
+Areas of emphasis.
+
+-   Age of onset (helps distinguish between congenital and acquired disease)
+-   Bleed (spontaneous or post-haemostatic challenge (HC) i.e., Trauma, surgery)
+-   \*Location of bleed: umbilical stump bleed, bleeding post circumcision, epistaxis, gum bleed,
+    haemarthrosis, menorrhagia, post-partum haemorrhage.
+-   Transfusion history, including when the patient was last transfused.
+-   Frequency and pattern of bleed (one site or multiple sites)
+-   Drug history including herbs (aspirin, clopidogrel, tirofiban, etc)
+-   Menstrual and obstetric history
+-   Neonate: vit K injection
+-   History of haemostatic challenge (surgery, dental work, injury)
+-   Haemostatic measures given
+-   Family history of abnormal bleeding (gender of affected relatives)
+-   Other comorbidities: malignancy, liver disease, renal disease, etc
+-   Inconsistent history (non-accidental injury)
+
+\*May suggest the part of the haemostatic system affected; primary haemostasis often experiences
+mucocutaneous bleeding, and secondary haemostasis has deep tissue bleeds, such as muscle and joint
+bleeds
+
+NB: At the end of history, these questions must be “why is my patient bleeding”? Will my patient
+bleed after an HC? Could other family members be at risk of bleeding?
+
+Any objective way to assess bleeding is with the BAT score (bleeding assessment tool), e.g., the
+ISTH BAT.
+
+**Physical examination**
+
+Look out for these clinical features when examining the patient.
+
+Dysmorphic features
+
+Skin and mucosa (oral): petechiae, purpura, ecchymosis
+
+Joint swelling and deformities
+
+Significant lymphadenopathy
+
+Organomegaly
+
+Presence of haemangioma (Kasabach-Merritt syndrome)
+
+![Petechaie and Prupura](images/haem-petechae.png){fig-align="center"}
+
+![Hemarthrosis](images/heam-hemarthrosis.png){fig-align="center"}
+
+### Screening tests
+
+-   CBC: level of haemoglobin, Total WBC, differential WBC, Platelets
+-   Liver function test
+-   Coagulation tests: Prothrombin time (PT), Activated partial thromboplastin time (aPTT),
+    fibrinogen assay, thrombin time (TT), clotting factor assays, platelet count
+-   Specific tests: vWF antigen and vWF-Ristocetin cofactor activity, Platelet function analyser
+    (not recommended)
+
+![Illustration of the screening tests](images/heam-screening-tests.png){fig-align="center"}
+
+### Screening tests and differentials
+
+[**Prolonged PT**]{.underline}
+
+-   Vit K def
+-   Anticoagulants eg warfarin
+-   FVII def
+-   FVII inhibitor
+-   Liver dx
+
+[**Prolonged aPTT**]{.underline}
+
+-   vWD
+-   FVIII, FIX  and XI deficiency
+-   Lupus anticoagulants
+-   Heparin
+-   FXII, HMWK, PK def
+
+[**Prolonged PT and aPTT**]{.underline}
+
+-   Vit K def
+-   F II, V  and IX def
+-   Fibrinogen def
+-   Liver dx
+
+[**Prolonged PT and aPTT + low platelets**]{.underline}
+
+-   DIC
+-   Liver disease
+
+[**Normal PT , aPTT and Platelet**]{.underline}
+
+-   vWD
+-   FXIII def
+-   Platelet function defect
+-   Vascular disorders
+
+![Primary and Secondary Hemostasis
+Disorders](images/haem-prim-sec-hemostasis.png){fig-align="center" width="600"}
