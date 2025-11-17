@@ -74,6 +74,7 @@ book:
         - id-tuberculosis.qmd
         - id-immunization.qmd
         - id-meningitis.qmd
+        - id-osteomyelitis.qmd
     - part: "<span style='font-weight:bold; color: black;'>Oncology</span>"
       chapters: 
         - onco-principles.qmd

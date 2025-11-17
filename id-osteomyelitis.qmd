@@ -1,0 +1,307 @@
+---
+title: "Osteomyeliltis"
+date: 2025-11-06
+---
+
+## Introduction
+
+Osteomyelitis is an infection of the bone and bone marrow, most commonly caused by bacteria. In children, it is an important cause of morbidity, frequently presenting with fever, bone pain, and reduced limb use. Early diagnosis and prompt initiation of antimicrobial therapy are essential to prevent permanent complications such as growth disturbances, chronic osteomyelitis, limb deformities, and disability.
+
+In Ghana and other parts of sub-Saharan Africa, osteomyelitis remains a relatively common paediatric condition due to a combination of factors, including high rates of **Staphylococcus aureus carriage**, delays in seeking care, limitations in imaging availability, malnutrition, and the burden of conditions such as sickle cell disease. Both acute and chronic osteomyelitis are frequently encountered in clinical practice, with chronic cases sometimes presenting late with draining sinuses or sequestration.
+
+This chapter provides a comprehensive overview of the epidemiology, pathogenesis, clinical features, diagnosis, and management of osteomyelitis in children, with attention to resource-appropriate recommendations for Ghanaian settings.
+
+## Definitions
+
+**Osteomyelitis:**  
+An infectious process involving the bone, including marrow, cortical bone, and periosteum.
+
+**Acute osteomyelitis:**  
+Symptoms present for less than 2 weeks.
+
+**Subacute osteomyelitis:**  
+Symptoms persist for 2–6 weeks, often with milder systemic signs. Brodie abscess is a classic form.
+
+**Chronic osteomyelitis:**  
+Symptoms lasting ≥6 weeks, often with sequestrum formation, involucrum, or draining sinuses.
+
+## Epidemiology
+
+- Most common in **children <5 years**, due to rich metaphyseal blood supply.
+- Highest incidence in:
+  - **Staphylococcus aureus** carriers  
+  - Children with **sickle cell disease** (especially Salmonella species)
+  - Children with malnutrition or immunosuppression
+  - Post-traumatic injuries and open fractures
+  - Neonates, who may also have septic arthritis
+- Seasonal peaks sometimes correspond with increases in skin infections and bacteraemia.
+
+### Local Context: Ghana
+
+- S. aureus is the **leading cause**, with emerging reports of MRSA in teaching hospitals.
+- Salmonella osteomyelitis is common in **sickle cell disease**, which has a high prevalence in Ghana (up to 2% of newborns).
+- Late presentation is common due to:
+  - Delayed referral from lower-level facilities  
+  - Use of herbal treatments  
+  - Limited access to early imaging (MRI rarely available outside regional/teaching hospitals)
+  - Financial constraints.
+
+## Aetiology
+
+### Common Organisms
+
+**Staphylococcus aureus** 
+
+- Most frequent causative organism.  
+- Can be MSSA or MRSA.
+
+**Streptococcus species**
+
+- Group A Streptococcus (GAS)  
+- Streptococcus pneumoniae
+
+**Gram-negative bacilli**  
+
+- *Salmonella* spp (common in sickle cell disease)  
+- *Escherichia coli* (neonates)  
+- *Klebsiella* spp  
+- *Pseudomonas aeruginosa* (puncture wounds, burns)
+
+**Neonatal organisms**  
+
+- GBS  
+- Enteric bacteria  
+- S. aureus
+
+### Routes of Infection
+
+1. **Haematogenous spread** – most common in children.  
+2. **Contiguous spread** – from adjacent soft tissue infection.  
+3. **Direct inoculation** – trauma or surgery.
+
+## Pathophysiology
+
+Children have a unique bone blood supply, especially in the **metaphysis of long bones**, predisposing them to haematogenous infection. Slow blood flow through metaphyseal vessels facilitates bacterial seeding. Infection leads to:
+
+1. **Inflammatory response** → swelling within rigid bone → increased intramedullary pressure.
+2. **Vascular compromise** → bone necrosis.
+3. **Formation of sequestrum** (dead bone).
+4. **Involucrum** formation (new bone surrounding necrosis).
+5. Chronic draining sinuses may develop if untreated.
+
+In neonates, transphyseal vessels allow infection to spread easily to the epiphysis and joint space, leading to **concomitant septic arthritis**.
+
+## Clinical Features
+
+### General Symptoms
+- Fever (often high-grade)
+- Irritability, poor feeding (infants)
+- Malaise
+
+### Local Symptoms
+- Localised bone pain (often severe)
+- Swelling, warmth, and tenderness
+- Refusal to bear weight / pseudoparalysis
+- Reduced limb movement
+- Overlying cellulitis
+
+### Common Sites in Children
+- Long bones: femur, tibia, humerus  
+- Neonates: multiple bones may be affected  
+- Vertebral osteomyelitis occurs but is less common
+
+### Special Populations
+
+**Sickle cell disease:**
+
+- Salmonella species more likely  
+- Multifocal osteomyelitis possible  
+- Bone infarction can mimic osteomyelitis
+
+**Neonates:**
+
+- Subtle signs  
+- Often concomitant septic arthritis  
+- High risk of growth plate destruction
+
+## Differential Diagnosis
+
+- Bone infarction (especially in SCD)
+- Septic arthritis
+- Cellulitis or deep soft tissue infection
+- Trauma/fracture
+- Malignancy (Ewing sarcoma, leukaemia)  
+- Langerhans cell histiocytosis
+
+## Investigations
+
+### Laboratory Tests
+
+- **Full blood count:** leucocytosis may be present.
+- **ESR and CRP:** usually elevated; useful for monitoring treatment response.
+- **Blood cultures:** positive in 30–60% of cases.
+- **Bone aspirate or biopsy:** gold standard for pathogen identification.
+- **U&E and creatinine:** baseline before prolonged antibiotic therapy.
+
+### Imaging
+
+#### Plain X-ray
+- Often normal in early stages (<7 days).  
+- Later findings:
+  - Periosteal elevation  
+  - Lytic lesions  
+  - Sequestrum formation  
+
+#### Ultrasound
+- Useful in resource-limited settings.  
+- Detects:
+  - Subperiosteal collections  
+  - Adjacent soft tissue abscess  
+  - Joint effusions (septic arthritis)
+
+#### MRI (if available)
+- Most sensitive and specific modality.  
+- Detects early marrow oedema.  
+- Identifies complications (abscess, physis involvement).
+
+#### CT Scan
+- Helpful for detecting sequestrum in chronic osteomyelitis.
+
+### Ghana-Specific Considerations
+- MRI is often unavailable outside tertiary centres.  
+- Ultrasound is more readily available and should be used early.  
+- Plain X-rays may be delayed in very rural settings.
+
+## Diagnosis
+
+Diagnosis is based on:
+
+1. Clinical features (fever, severe localized bone pain)
+2. Elevated inflammatory markers
+3. Blood cultures
+4. Imaging findings
+
+In resource-limited settings, **clinical diagnosis + raised ESR/CRP** is often sufficient to begin treatment.
+
+## Management
+
+Management goals include eradication of infection, preventing complications, and preserving limb function.
+
+### Initial Steps
+
+- Assess for sepsis; stabilize ABCs.  
+- Begin **empiric IV antibiotics immediately** after obtaining cultures.  
+- Provide adequate analgesia.  
+- Immobilise affected limb with splinting.
+
+### Antibiotic Therapy
+
+#### Empiric Choices
+
+**Standard acute osteomyelitis**
+
+- **Cloxacillin IV** (or flucloxacillin)  
+- If MRSA suspected: **Vancomycin** or **Linezolid**
+
+**Sickle cell disease**
+
+- Add coverage for Salmonella:  
+  - **Ceftriaxone**  
+  - OR **Cefotaxime**
+
+**Neonates**
+
+- **Cloxacillin + Gentamicin**  
+- Consider cefotaxime for Gram-negative coverage.
+
+#### Directed Therapy
+Adjust based on culture and sensitivity results.
+
+#### Duration
+- Total of **4–6 weeks** of antibiotics.  
+- Typically IV for 1–2 weeks → switch to oral once improving.
+
+## Surgical Management
+
+Indications:
+
+- Lack of response to antibiotics after 48–72 hours  
+- Subperiosteal abscess  
+- Sequestrum (chronic cases)  
+- Draining sinus tract  
+- Joint involvement requiring drainage
+
+Procedures:
+
+- Incision and drainage  
+- Debridement  
+- Sequestrectomy  
+- Placement of antibiotic beads (where available)
+
+### Supportive Management
+- Adequate nutrition  
+- Analgesia  
+- Physiotherapy after acute phase  
+- Monitoring ESR/CRP weekly
+
+## Chronic Osteomyelitis
+
+Chronic cases present with:
+
+- Draining sinuses  
+- Sequestrum/involucrum  
+- Persistent pain
+
+Management requires:
+
+- Extended antibiotics (6–12 weeks)  
+- Surgical debridement and sequestrectomy  
+- Reconstruction of bone defects (rarely available outside tertiary centres)
+
+Challenges in Ghana include:
+
+- Late presentation  
+- Recurrent infections  
+- Antibiotic resistance  
+- Limited access to orthopaedic surgery in district facilities
+
+## Complications
+
+- Chronic osteomyelitis  
+- Pathological fractures  
+- Growth plate damage → limb length discrepancies or angular deformities  
+- Septic arthritis  
+- Sinus tract carcinoma (very rare; seen in long-standing disease)  
+- Sepsis
+
+## Prognosis
+
+- Good if diagnosis is early and antibiotics started promptly.  
+- Poorer outcomes associated with:
+  - Delayed presentation  
+  - Chronic osteomyelitis  
+  - Sickle cell disease  
+  - Neonatal infection  
+  - Lack of surgical intervention when indicated  
+
+## Special Considerations in Ghana
+
+- **Delayed care-seeking** is common; many patients first go to herbal centres.  
+- **Radiology access** is limited in rural districts; reliance on ultrasound is pragmatic.  
+- **Referral systems** sometimes lead to prolonged pre-hospital delays.  
+- **Sickle cell population** requires targeted awareness due to increased risk.  
+- **Antibiotic resistance patterns** vary; MRSA prevalence should be monitored.
+
+Strengthening primary care recognition and prompt referral can significantly improve outcomes.
+
+## Conclusion
+
+Osteomyelitis remains a significant cause of morbidity in Ghanaian children. Early recognition, appropriate antimicrobial therapy, and surgical intervention when necessary can prevent long-term disability. Resource limitations require clinicians to be pragmatic while adhering to fundamental principles of management. A high index of suspicion is crucial, especially in infants, children with sickle cell disease, and those presenting with persistent limb pain and fever.
+
+## Further Reading
+
+1. Nelson Textbook of Pediatrics, Latest Edition – Chapters on Bone and Joint Infections.  
+2. WHO Pocket Book of Hospital Care for Children.  
+3. Goldenberg DL, Durand ML. Osteomyelitis in children. N Engl J Med.  
+4. WACPEM Paediatric Handbook (Ghana Edition).  
+5. Lew DP, Waldvogel FA. Osteomyelitis. Lancet Review.  
