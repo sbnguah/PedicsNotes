@@ -1,4 +1,408 @@
 ---
 title: "Electrical Injuries"
-author: "Dr. Justice Sylverken"
+date: 2025-09-15
 ---
+
+## Introduction
+
+Electrical injuries are significant but often under-recognised causes of morbidity and mortality in
+children. They occur when electric current passes through the body, causing a spectrum of damage
+ranging from minor superficial burns to catastrophic multi-organ injury and death.
+Children—particularly toddlers and school-aged boys—are at higher risk due to exploratory behaviour,
+accidental contact with faulty wiring, and unsafe household electrical installations.
+
+In Ghana and many parts of sub-Saharan Africa, the risk of electrical injuries is heightened by
+several contextual realities: exposed electrical wires in homes, non-compliant installations, poorly
+maintained appliances, unprotected power outlets, illegal connections, and the proliferation of
+artisanal repair shops. Rural electrification projects and urban slum environments also contribute
+to unsafe electrical exposure. As a result, paediatric emergency units in districts, regional
+hospitals, and tertiary facilities regularly encounter children with electrical burns, arrhythmias,
+tetanic muscle contractions, and associated trauma.
+
+This chapter comprehensively reviews the mechanisms, pathophysiology, clinical patterns, management
+principles, complications, and prevention of electrical injuries in children, integrating
+Ghana-specific context for clinicians working in resource-variable environments.
+
+## Basic Electrical Concepts Relevant to Injury
+
+Understanding electrical principles helps clinicians anticipate the pattern and severity of injury.
+
+### Voltage
+
+-   **Low voltage**: \<1000 volts (typical household current: 110–240V)
+-   **High voltage**: ≥1000 volts (industrial lines, transformers)
+
+Low-voltage injuries are more common in homes, while high-voltage injuries, though less frequent,
+cause far more severe and deep tissue damage.
+
+### Current Type
+
+-   **Alternating Current (AC)**: Used in households; more dangerous because it causes tetanic
+    muscle contractions, which may “freeze” the child to the source.
+-   **Direct Current (DC)**: Causes a single muscular contraction that often throws the child away
+    from the source, sometimes resulting in secondary trauma.
+
+### Amperage
+
+The most important determinant of injury severity.\
+As little as **0.1–0.2 amperes** passing through the heart can cause ventricular fibrillation.
+
+### Resistance
+
+Body tissues vary in resistance:
+
+-   High resistance: skin, fat, bone\
+-   Low resistance: nerves, vessels, muscle, mucous membranes
+
+Wet skin dramatically lowers resistance, making children more vulnerable to severe injury during
+bathing, rainy conditions, or contact with wet surfaces.
+
+## Mechanisms of Injury
+
+Electrical injuries involve multiple simultaneous processes:
+
+### **Direct Electrical Damage**
+
+Electric current disrupts cell membranes and causes immediate necrosis of nerves, vessels, muscle,
+and organs.
+
+### **Thermal Injury**
+
+Conversion of electrical energy into heat can cause deep burns that extend beyond what is visible on
+the skin.
+
+### **Mechanical Injury**
+
+Tetanic muscle contractions may result in:
+
+-   Fractures\
+-   Dislocations\
+-   Falls from heights\
+-   Blunt trauma
+
+### **Cardiac Effects**
+
+Current passing through the thorax can cause:
+
+-   Ventricular fibrillation\
+-   Asystole\
+-   Conduction abnormalities
+
+### **Respiratory Arrest**
+
+From tetanic paralysis of respiratory muscles or central nervous system disruption.
+
+### **Myonecrosis and Rhabdomyolysis**
+
+High-voltage injuries can cause massive muscle breakdown leading to acute kidney injury (AKI).
+
+## Epidemiology and Local Context in Ghana
+
+Children aged **1–5 years** are most vulnerable due to curiosity and hand-to-mouth interactions.
+School-aged boys (6–12 years) are at higher risk of outdoor incidents, such as contact with fallen
+power lines or tampering with electrical equipment.
+
+**Key Ghana-specific risk factors include:**
+
+-   Exposed sockets and non-childproof outlets.
+-   Use of extension boards without protective covers.
+-   Faulty electrical wiring, common in low-income households.
+-   Overloaded sockets during power fluctuations or generator use.
+-   Illegal connections (“tapping light”) with poorly insulated wires.
+-   Contact with fallen power lines during heavy rains.
+-   Burns during attempted repairs by untrained individuals.
+
+The combination of inadequate regulation and widespread informal electrical work creates a unique
+risk environment for children.
+
+## Classification of Electrical Injuries
+
+Electrical injuries in children can be categorised as:
+
+1.  **Low-voltage household injuries**
+    -   Most common in toddlers.
+    -   Often involve oral commissure burns from chewing charger cables or cords.
+2.  **High-voltage industrial or outdoor injuries**
+    -   Cause deep tissue damage, rhabdomyolysis, limb ischemia.
+    -   Common in children playing near transformers or climbing trees near power lines.
+3.  **Lightning strikes**
+    -   Rare but deadly.
+    -   Often associated with mass casualties in rural communities.
+4.  **Flash burns (arc injuries)**
+    -   Occur without direct contact.
+    -   Caused by electrical arcs generating intense heat.
+
+## Pathophysiology
+
+The pattern of injury depends on voltage, resistance, current pathway, and duration of contact.
+
+### Current Pathway
+
+Determines the organs affected:
+
+-   **Hand-to-hand** or **hand-to-foot** pathways may cross the thorax → risk of arrhythmia.
+-   **Mouth-to-hand** injuries in toddlers → severe facial burns and feeding difficulties.
+-   **Head-to-foot** pathways → highest risk of brain and spinal cord injury.
+
+### Skin Burns Do Not Predict Severity
+
+Electrical burns often appear deceptively small. Deep muscle necrosis may exist beneath a tiny entry
+wound. For this reason, the clinical evaluation must not be guided solely by external findings.
+
+### Rhabdomyolysis
+
+High-voltage electrical injury leads to: - Muscle breakdown\
+- Release of myoglobin\
+- Renal tubular obstruction\
+- Acute kidney injury
+
+## Clinical Presentation
+
+Children present with a wide range of symptoms depending on the severity of injury.
+
+### General Symptoms
+
+-   Burns at entry and exit sites\
+-   Pain or numbness\
+-   Weakness\
+-   Arrhythmias\
+-   Loss of consciousness\
+-   Respiratory distress\
+-   Seizures\
+-   Myoglobinuria (dark urine)
+
+### Cardiac Manifestations
+
+-   Ventricular fibrillation\
+-   Tachyarrhythmias\
+-   AV block\
+-   Asystole
+
+Cardiac arrest at the scene is the most common cause of death.
+
+### Neurological Manifestations
+
+-   Confusion\
+-   Seizures\
+-   Peripheral neuropathy\
+-   Spinal cord injury\
+    Some children develop delayed neurological deficits days to weeks later.
+
+### Skin and Soft Tissue Injury
+
+-   Entry and exit wounds\
+-   Deep tissue necrosis\
+-   Compartment syndrome\
+-   Limb ischaemia
+
+### Oral Commissure Burns (Common in Toddlers)
+
+Caused by chewing electrical cords.\
+Complications: - Bleeding when eschar separates\
+- Microstomia\
+- Feeding difficulty\
+- Cosmetic deformity
+
+### Secondary Trauma
+
+Including fractures, head injury, and soft tissue damage due to falls.
+
+## Investigations
+
+Investigations are tailored to the severity of the injury.
+
+### Essential Tests
+
+-   **ECG** for all patients\
+-   **Urinalysis** for myoglobin\
+-   **Serum electrolytes and renal function**\
+-   **CK and myoglobin**
+
+### Additional Tests (as indicated)
+
+-   Full Blood Count\
+-   Chest X-ray (if inhalation injury or arrhythmia suspected)\
+-   Echocardiography (if chest pain or arrhythmia)\
+-   CT/MRI if neurological deficit\
+-   Doppler ultrasound for limb vascular compromise
+
+### Monitoring
+
+Children with moderate-to-severe injuries should be observed for: - Arrhythmias (continuous ECG
+monitoring)\
+- AKI (urine output, creatinine)\
+- Compartment syndrome
+
+## Management
+
+Management begins with immediate stabilisation, followed by detailed evaluation and treatment of
+burns, cardiac complications, and systemic injury.
+
+## Initial Stabilisation
+
+### **Ensure Scene Safety**
+
+Do not touch the child until the electrical source is deactivated.\
+High-voltage injuries require safety clearance from the electricity company.
+
+### **Airway, Breathing, Circulation (ABCs)**
+
+-   Give high-flow oxygen.\
+-   Secure airway if the child has inhalation injury, altered mental status, or respiratory
+    distress.\
+-   Provide fluid resuscitation according to burn protocols or rhabdomyolysis risk.
+
+## **Control Active Arrhythmias**
+
+-   Follow paediatric advanced life support protocols.\
+-   Defibrillate ventricular fibrillation promptly.
+
+## Specific Management
+
+### 1. **Burn Care**
+
+-   Clean wounds with saline.\
+-   Apply non-adherent dressings.\
+-   Elevate limbs to reduce swelling.\
+-   Provide analgesia (paracetamol, opioids if needed).\
+-   Avoid topical agents that interfere with wound assessment.
+
+#### Surgical referral is required for:
+
+-   Deep partial or full-thickness burns\
+-   Compartment syndrome\
+-   Limb ischemia requiring fasciotomy\
+-   Debridement of necrotic tissue
+
+### **Fluid Management**
+
+Children with high-voltage injuries or rhabdomyolysis need aggressive hydration: - Aim for urine
+output of **1–2 mL/kg/hour**.\
+- Use IV crystalloids.\
+- Consider sodium bicarbonate infusion if myoglobinuria is significant.
+
+### **Management of Oral Commissure Burns**
+
+-   Maintain oral hygiene.\
+-   Apply soft dressings.\
+-   Monitor for bleeding when eschar separates.\
+-   Speech and feeding support as needed.
+
+### **Pain Management**
+
+-   IV analgesics for severe burns.\
+-   Avoid NSAIDs in AKI or rhabdomyolysis.
+
+### **Antibiotics**
+
+Not routinely recommended unless: - Infection is present\
+- Open wounds with contamination\
+- Surgical debridement
+
+### **Tetanus Prophylaxis**
+
+Administer according to immunisation status.
+
+### **Management of Compartment Syndrome**
+
+High-voltage injuries may cause large amounts of muscle swelling.\
+Signs include:
+
+-   Pain out of proportion to injury\
+-   Palpable tenseness\
+-   Distal neurovascular compromise
+
+Immediate fasciotomy is required.
+
+### **Renal Protection**
+
+-   Maintain adequate hydration.\
+-   Monitor creatinine closely.\
+-   Treat rhabdomyolysis aggressively to prevent AKI.
+
+## Complications
+
+Electrical injuries can lead to severe, long-term complications.
+
+### Acute Complications
+
+-   Cardiac arrest\
+-   Respiratory arrest\
+-   Arrhythmias\
+-   Shock\
+-   Seizures\
+-   Rhabdomyolysis\
+-   AKI\
+-   Compartment syndrome\
+-   Limb ischaemia and need for amputation
+
+### Chronic Complications
+
+-   Peripheral neuropathy\
+-   Cognitive impairment\
+-   Chronic pain\
+-   Cataracts (weeks to years later, especially after high-voltage injury)\
+-   Scarring and contractures\
+-   Oral commissure deformities\
+-   Growth disturbances in injured limbs
+
+Children require long-term follow-up by a multidisciplinary team.
+
+## Prevention
+
+Preventive strategies are crucial to reducing the burden of electrical injuries.
+
+### Household Interventions
+
+-   Childproof outlets.\
+-   Keep cords out of reach.\
+-   Replace frayed wires.\
+-   Avoid using exposed extension boards.\
+-   Supervise toddlers, especially during rainy seasons.
+
+### Community and Policy Strategies
+
+-   Strengthen electrical installation regulations.\
+-   Public education via CHPS compounds and community durbars.\
+-   Enforcement against illegal connections.\
+-   Safe playground design.\
+-   School curricula incorporating electrical safety education.
+
+### Industry and Utility-Level Measures
+
+-   Regular maintenance of transformers and power lines.\
+-   Prompt removal of fallen electrical cables.\
+-   Rapid response during storms or power surges.
+
+## Prognosis
+
+Prognosis depends on voltage exposure, current pathway, duration of exposure, and timeliness of
+resuscitation.\
+Key prognostic indicators include:
+
+-   Presence of cardiac arrest at the scene\
+-   Deep tissue necrosis\
+-   Rhabdomyolysis and AKI\
+-   Neurological impairment\
+-   Extent of burns
+
+Children who survive the acute phase may still experience lifelong disability, psychosocial
+difficulties, cosmetic deformities, and chronic pain.
+
+## Key Points
+
+-   Electrical injuries in children range from minor burns to multi-organ failure.\
+-   Voltage, current pathway, and duration of contact determine severity.\
+-   Cardiac arrhythmias and respiratory arrest are leading causes of mortality.\
+-   High-voltage injuries require aggressive fluid management and assessment for compartment
+    syndrome.\
+-   Oral commissure burns are characteristic of toddlers chewing electrical cords.\
+-   Prevention is essential and must be community-driven, regulatory, and household-based.
+
+## Further Reading
+
+1.  Koumbourlis AC. Electrical injuries. *Crit Care Med.*\
+2.  Arnoldo BD, Purdue GF, Kowalske K. Electrical injuries in children. *J Craniofac Surg.*\
+3.  World Health Organization. **Child Injury Prevention Guidelines**.\
+4.  Paediatric Society of Ghana. **Paediatric Emergency Management Protocols**.\
+5.  American Burn Association. Guidelines for managing electrical burns.

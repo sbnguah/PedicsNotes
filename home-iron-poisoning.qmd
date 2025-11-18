@@ -1,4 +1,350 @@
 ---
 title: "Iron Poisoning"
-author: "Dr. Justice Sylverken"
+date: 2025-10-12
 ---
+
+## Introduction
+
+Iron poisoning is one of the most dangerous paediatric toxicological emergencies and remains an important cause of accidental ingestion among young children. Iron-containing preparations are commonly prescribed to pregnant women, infants, and children for prevention or treatment of anaemia, and they are readily available in many Ghanaian households. Because iron tablets resemble sweets, accidental ingestion—especially in children below 5 years—remains a significant public health concern.
+
+Iron toxicity results from the corrosive effects of iron on the gastrointestinal (GI) tract as well as its systemic effects on cellular metabolism. Excess free iron generates reactive oxygen species, disrupts oxidative phosphorylation, and leads to multi-organ failure if untreated. Iron poisoning can progress rapidly, and children may deteriorate within hours, making early recognition and prompt management essential.
+
+This chapter reviews the epidemiology, pathophysiology, clinical presentation, diagnosis, and management of iron poisoning in children, with particular emphasis on practical approaches suitable for Ghanaian healthcare settings.
+
+## Definitions
+
+**Iron poisoning:**
+
+Toxic effects resulting from ingestion of a supratherapeutic dose of iron, typically from medicinal formulations.
+
+**Potentially toxic dose:**  
+
+- **>20 mg/kg elemental iron** may produce symptoms.  
+- **>40 mg/kg elemental iron** usually produces moderate to severe toxicity.  
+- **>60 mg/kg elemental iron** is associated with significant risk of systemic toxicity and death.
+
+**Elemental iron:**  
+
+The actual amount of iron available for absorption—not the total tablet weight.  
+Common formulations:  
+
+- Ferrous sulfate: 20% elemental iron  
+- Ferrous fumarate: 33% elemental iron  
+- Ferrous gluconate: 12% elemental iron
+
+## Epidemiology
+
+- Most cases occur in **children aged 1–5 years**.
+- Accidental ingestion is the predominant mechanism.
+- Poisoning is more prevalent in households where:
+  - Maternal iron supplements are present.  
+  - Iron tablets are stored loosely or in non-childproof containers.  
+  - Iron syrups are accessible.
+- Although reliable national data is limited, anecdotal experience from Ghanaian emergency departments indicates iron poisoning is **not uncommon**, especially in urban and peri-urban areas.
+
+## Aetiology and Sources of Iron
+
+Sources of potentially toxic iron include:
+
+1. **Prenatal iron supplements**  
+   - Widely used in Ghanaian households with pregnant or postpartum women.
+
+2. **Paediatric iron preparations**  
+   - Iron syrups for anaemia correction.
+
+3. **Multivitamins containing iron**  
+   - Often perceived as harmless.
+
+4. **Iron in traditional herbal preparations**  
+   - Sometimes provided for “blood boosting.”
+
+5. **Industrial sources** (rare)
+   - Fertilisers and iron-containing chemicals.
+
+Accidental ingestion is most common, but intentional overdose may be seen in adolescents.
+
+## Pathophysiology
+
+Iron toxicity occurs via two main mechanisms:
+
+### **Direct GI Corrosive Injury**
+Free iron acts as a caustic agent causing:
+
+- Vomiting  
+- Haematemesis  
+- Diarrhoea  
+- GI bleeding  
+- Fluid loss and shock
+
+### **Systemic Iron Toxicity**
+Once absorbed, iron overwhelms transferrin-binding capacity, resulting in free circulating iron, which:
+
+- Generates **free radicals**  
+- Damages cell membranes  
+- Impairs mitochondrial function  
+- Interferes with oxidative phosphorylation  
+- Leads to metabolic acidosis, shock, and multi-organ failure.
+
+### Stages of Iron Toxicity
+
+Classically described in **five stages**, though not all children follow these patterns.
+
+#### **Stage I (0–6 hours) – GI toxicity**
+- Vomiting, abdominal pain, diarrhoea  
+- Haematemesis or bloody diarrhoea  
+- Dehydration, shock  
+
+This stage predicts severity.
+
+#### **Stage II (6–24 hours) – Latent phase**
+- Apparent improvement  
+- Ongoing metabolic derangements
+
+#### **Stage III (12–48 hours) – Systemic toxicity**
+- Shock  
+- Metabolic acidosis  
+- Altered consciousness  
+- Seizures  
+- Hypotension  
+- Coagulopathy  
+- Hepatic failure
+
+#### **Stage IV (2–5 days) – Hepatic failure**
+- Jaundice  
+- Elevated transaminases  
+- Coagulopathy  
+- Hypoglycaemia  
+- Encephalopathy
+
+#### **Stage V (2–6 weeks) – GI scarring**
+- Gastric outlet obstruction  
+- Pyloric/duodenal strictures
+
+## Clinical Features
+
+### Early Symptoms (0–6 hours)
+
+- Persistent vomiting (often the first sign)
+- Diarrhoea (can be bloody)
+- Abdominal pain
+- Lethargy
+- Tachycardia
+- Hypotension
+- Pallor or shock in severe cases
+
+### Intermediate Symptoms (6–24 hours)
+
+- Apparent improvement yet ongoing metabolic acidosis  
+- Tachypnoea  
+- Mild fever
+
+### Late Symptoms (12–48 hours)
+
+- Altered mental status  
+- Hypotension and shock  
+- Tachycardia  
+- Seizures  
+- Hepatic dysfunction  
+- Bleeding tendencies  
+- Metabolic acidosis  
+- Multi-organ dysfunction
+
+### Very Late Symptoms (weeks)
+
+- Vomiting after meals  
+- Gastric obstruction signs  
+- Weight loss
+
+## Differential Diagnosis
+
+- Acute gastroenteritis  
+- Sepsis  
+- Hypoglycaemia  
+- Other toxic ingestions (kerosene, corrosives, paracetamol)  
+- DKA  
+- Acute abdomen (intussusception, perforation)  
+
+## Investigations
+
+### Essential Investigations
+
+1. **Serum Iron Level**  
+   - Most useful within 4–6 hours of ingestion.  
+   - Levels >350–500 µg/dL indicate moderate to severe toxicity.
+
+2. **Serum electrolytes and renal function**  
+3. **Blood glucose** (risk of hypoglycaemia)  
+4. **Arterial/Venous Blood Gas** – metabolic acidosis  
+5. **Liver function tests**  
+6. **Coagulation profile**
+
+### Imaging
+
+**Abdominal X-ray:**
+- Iron tablets are radiopaque.  
+- Helps identify ingestion or confirm large pill burden.
+
+*Limitations:* Some formulations are not visible.  
+
+### Ghana-Specific Considerations
+
+- Serum iron testing may not be immediately available outside tertiary hospitals.  
+- Management decisions may rely on **clinical features and estimated ingested dose**.  
+- Abdominal X-ray availability varies widely.
+
+## Diagnosis
+
+Diagnosis is based on:
+
+1. History of iron ingestion  
+2. Clinical features  
+3. Radiographs (if tablets visible)  
+4. Serum iron concentration (when available)
+
+High suspicion is warranted when:
+
+- A child ingests maternal prenatal vitamins  
+- Iron tablets are unaccounted for  
+- A child presents with severe vomiting and diarrhoea plus shock
+
+## Management
+
+Iron poisoning is a medical emergency requiring rapid assessment, resuscitation, and early initiation of chelation when indicated.
+
+### Initial Stabilisation (A–B–C)
+
+- Establish airway and provide oxygen if necessary.  
+- Assess breathing; provide ventilatory support if needed.  
+- Restore circulation:
+  - IV access  
+  - Fluid resuscitation (10–20 mL/kg bolus of isotonic fluid)
+  - Treat shock aggressively.
+
+Monitor:
+
+- Heart rate  
+- Blood pressure  
+- Urine output  
+- Level of consciousness
+
+### Decontamination
+
+**Activated charcoal**  
+
+- Not effective for iron.
+
+**Gastric lavage**  
+
+- Consider only if:
+  - Child presents within 1 hour of massive ingestion  
+  - Airway protected  
+  - Experienced personnel available  
+- Rarely used in modern practice.
+
+**Whole bowel irrigation (WBI)**  
+
+- Indicated when abdominal X-ray shows many tablets.  
+- Use **polyethylene glycol solution**.  
+- Continue until rectal effluent is clear.  
+- Availability in Ghana is limited; consider at tertiary facilities.
+
+### Chelation Therapy – *Desferrioxamine*
+
+**Indications for Desferrioxamine (DFO):**
+
+1. Serum iron >500 µg/dL  
+2. Severe symptoms regardless of serum level:
+   - Shock  
+   - Metabolic acidosis  
+   - Altered mental state  
+   - Persistent vomiting  
+3. Inability to measure serum iron but clinical evidence of moderate–severe toxicity
+
+**Dose:**
+
+- IV infusion: **15 mg/kg/hr**  
+- Continue until:
+  - Child is clinically stable  
+  - Serum iron ≤350 µg/dL  
+  - Max duration generally 24 hours, but may extend if needed.
+
+**Side effects:**
+
+- Hypotension (give slowly)  
+- Yersinia sepsis (rare but important)  
+- Pulmonary toxicity with prolonged use  
+- Orange-red discoloration of urine (vin rose)
+
+### Supportive Therapy
+
+- Fluids and electrolytes  
+- Correction of metabolic acidosis  
+- Blood transfusion if GI bleeding  
+- Glucose infusion for hypoglycaemia  
+- Management of hepatic dysfunction  
+- Seizure control (benzodiazepines)
+
+## Monitoring
+
+- Vital signs hourly  
+- Strict fluid balance  
+- Repeat serum iron 6–12 hours after initial level (if available)  
+- Daily renal and liver function  
+- Blood gases as required  
+- Continuous assessment for encephalopathy or worsening shock
+
+## Complications
+
+- Severe dehydration and shock  
+- Metabolic acidosis  
+- Coagulopathy  
+- Hepatic failure  
+- Acute kidney injury  
+- Gastric outlet obstruction (late)  
+- Seizures  
+- Death
+
+Children who survive the acute phase generally recover well unless severe liver injury occurred.
+
+## Prognosis
+
+- Good with early recognition and treatment.  
+- Mortality decreases significantly with timely use of **Desferrioxamine**.  
+- Poor prognostic factors:
+  - Shock  
+  - Persistent acidosis  
+  - Delayed presentation  
+  - Massive ingestion (>60 mg/kg elemental iron)
+
+In Ghana, delayed arrival to hospital, misdiagnosis as gastroenteritis, and limited access to serum iron testing may worsen outcomes.
+
+## Special Considerations in Ghana
+
+- Most cases occur at home due to **poor storage of iron tablets**.
+- Initial misdiagnosis as gastroenteritis is common in primary-level facilities.
+- Serum iron testing is often unavailable; clinical diagnosis is key.
+- Desferrioxamine may not be stocked in some district hospitals.
+- Public health education on safe storage of medications is essential.
+- Adolescents with intentional ingestion require mental health assessment.
+
+For severe cases, timely referral to a facility with paediatric critical care capacity is vital.
+
+## Prevention
+
+- Educate parents to store iron supplements out of children’s reach.  
+- Use child-resistant containers when available.  
+- Pharmacists should counsel pregnant mothers on storage safety.  
+- Community health workers can reinforce messaging during postnatal visits.  
+- National campaigns on medication safety would be beneficial.
+
+## Conclusion
+
+Iron poisoning is a serious but preventable paediatric emergency. Understanding the clinical stages, recognising early signs, and initiating prompt treatment—especially chelation with Desferrioxamine—can significantly reduce morbidity and mortality. In resource-constrained settings such as Ghana, clinicians must rely on careful history-taking and clinical judgement, supported by available investigations. Preventive strategies, including safe medication storage, are essential components of community health.
+
+## Further Reading
+
+1. Nelson Textbook of Pediatrics – Chapter on Iron Poisoning.  
+2. WHO Poisoning Prevention and Management Guidelines.  
+3. American Academy of Pediatrics: Poisoning and Toxicology.  
+4. Koren G. Leibel’s Pediatric Clinical Toxicology.  
+5. WACPEM Paediatrics Handbook (Ghana Edition).  

@@ -1,4 +1,300 @@
 ---
-title: "Drowning"
-author: "Dr. Justice Sylverken"
+title: "Drowning and Submersion"
+date: 2025-11-18
 ---
+
+## Introduction
+
+Drowning remains a major but under-recognised cause of preventable death in children worldwide. The World Health Organization identifies drowning as one of the leading causes of unintentional injury-related deaths in children, particularly among those under five years. In sub-Saharan Africa, including Ghana, the burden is substantial, though frequently underreported due to inadequate surveillance, cultural factors, and misclassification of cases. Children are uniquely vulnerable because of their natural curiosity, limited motor coordination, inability to assess risk, and propensity for silent drowning without attracting attention.
+
+In Ghana, drowning occurs commonly in open water bodies such as rivers, streams, ponds, lakes, dugouts, and irrigation canals, which are common in both rural and peri-urban environments. Urban drowning often involves drains, household buckets, and uncovered water containers, especially in toddlers. Drowning can also occur in swimming pools, wells, flooded areas during the rainy season, and during community events near water bodies. Submersion injury refers to the entire spectrum of respiratory and systemic effects resulting from immersion or submersion in a liquid medium, with outcomes ranging from minor respiratory distress to severe hypoxic brain injury or death.
+
+This chapter provides an in-depth, practical, and Ghana-contextualised discussion on drowning and submersion injuries in children. It includes pathophysiology, clinical features, management, prognostic indicators, and preventive strategies to support clinicians, paediatric residents, and medical students.
+
+## Definitions
+
+### **Drowning**
+The process of experiencing respiratory impairment from submersion/immersion in liquid. Outcomes may be:
+
+- **Fatal drowning**
+- **Non-fatal drowning**, with or without morbidity
+
+### **Submersion**
+The airway is entirely below the surface of the liquid.
+
+### **Immersion**
+The airway is above the surface but splashing or exposure leads to respiratory compromise.
+
+### **Near-drowning (obsolete)**
+Previously used to describe survival for at least 24 hours after submersion, but now discouraged.
+
+### **Dry vs. wet drowning (obsolete)**
+Not recommended; most drowning involves pulmonary aspiration to some extent.
+
+## Epidemiology
+
+Drowning rates are highest in:
+
+- Children aged **1–4 years**, due to mobility without mature risk perception.
+- Boys more than girls.
+- Rural areas with open water sources.
+- Communities near rivers, dugouts, and irrigation facilities.
+
+In Ghana, common drowning contexts include:
+
+- Toddlers falling into **buckets, basins, and household water containers**.
+- Children playing near **streams, wells, and open drains**.
+- Adolescent drowning in **lakes, beaches, and rivers** during recreation.
+- Flood-related drownings during the rainy season.
+- Fishing communities with high water exposure.
+
+## Pathophysiology
+
+Drowning involves a sequence of events that culminate in respiratory failure and hypoxia:
+
+### **Submersion and panic**
+Water entering the mouth causes voluntary breath-holding.
+
+### **Aspiration**
+Eventually, CO₂ accumulation breaks breath-holding → gasping → aspiration of water.
+
+### **Laryngospasm**
+A protective but temporary reflex; resolves with continued hypoxia → aspiration increases.
+
+### **Pulmonary effects**
+- Surfactant washout  
+- Atelectasis  
+- Pulmonary edema  
+- Impaired gas exchange  
+- Acute lung injury / ARDS in severe cases
+
+The volume of water aspirated is usually small (<4 mL/kg), but the **physiological impact is profound**.
+
+### **Systemic hypoxia**
+Affects all vital organs:
+
+- **Brain** → hypoxic-ischemic encephalopathy (HIE)
+- **Heart** → arrhythmias (VF/VT/asystole)
+- **Kidneys** → acute kidney injury
+- **Metabolic** → acidosis
+
+### **Effects of water temperature**
+
+- **Cold water** can cause reflex arrhythmias.
+- **Diving reflex** in children may offer some protective effect by bradycardia and peripheral vasoconstriction, but this is inconsistent.
+
+## Clinical Features
+
+Features depend on duration of submersion, water type/temperature, and pre-hospital care.
+
+### **Respiratory**
+- Tachypnea or apnea
+- Increased work of breathing
+- Cough, wheezing, crackles
+- Hypoxia/cyanosis
+- Pulmonary edema (frothy sputum)
+
+### **Cardiovascular**
+- Tachycardia initially → bradycardia with worsening hypoxia
+- Hypotension/shock
+- Arrhythmias
+
+### **Neurologic**
+- Altered mental status (from irritability to coma)
+- Seizures
+- Reduced spontaneous breathing
+- Poor pupillary responses
+
+### **Other findings**
+- Hypothermia  
+- Vomiting (risk of aspiration)  
+- Skin pallor or bluish discoloration  
+
+## Prehospital and Emergency Management
+
+### **Principles**
+- *Immediate resuscitation dramatically affects outcomes.*
+- *Time submerged is the single most important determinant.*
+
+### **Rescue and First Aid**
+- Safe removal from water without endangering rescuers.
+- Begin **ventilations** as soon as possible—often more critical than compressions.
+- Check responsiveness, breathing, and pulse.
+- Provide **rescue breathing** even before chest compressions if trained.
+
+### **Transfer to health facility**
+- Lay patient in recovery position if breathing.
+- Keep warm.
+- Avoid unnecessary movement—especially in suspected trauma (e.g., diving injuries → possible C-spine injury).
+
+## Emergency Department Management
+
+### **Initial assessment (ABCDE)**
+
+#### **Airway**
+- Clear airway of debris and vomitus.
+- Suction as needed.
+- Consider early intubation if:
+  - GCS ≤ 8  
+  - Recurrent apnea  
+  - Severe respiratory distress  
+  - Pulmonary edema  
+
+#### **Breathing**
+- Provide oxygen.
+- Support ventilation with bag-mask ventilation or mechanical ventilation.
+- Treat bronchospasm with bronchodilators.
+- Avoid routine use of corticosteroids—they offer no benefit.
+
+#### **Circulation**
+- Establish IV/IO access.
+- Treat hypotension with isotonic fluids (10–20 mL/kg bolus).
+- Monitor ECG for arrhythmias.
+- Warm patient if hypothermic.
+
+#### **Disability / Neurologic**
+- GCS monitoring.
+- Correct hypoglycemia.
+- Treat seizures promptly with benzodiazepines.
+
+#### **Exposure**
+- Evaluate for trauma, especially cervical spine injury.
+- Maintain normothermia.
+
+## **Investigations**
+
+### **Essential**
+- Pulse oximetry  
+- Blood glucose  
+- Chest X-ray (delayed if stable; early if unstable)  
+
+### **Useful when available**
+- ABG (hypoxia, acidosis)
+- Electrolytes, urea, creatinine
+- Full blood count
+- ECG
+- CT scan head (if persistent coma or suspected trauma)
+
+### **Not routinely indicated**
+- Prophylactic antibiotics (unless septic from contaminated water)  
+- Excessive imaging
+
+## Management of Complications
+
+### **Acute Respiratory Distress Syndrome (ARDS)**
+- Mechanical ventilation using lung-protective strategies.
+- Consider PEEP.
+
+### **Secondary bacterial pneumonia**
+- Uncommon; treat only if clinical evidence.
+
+### **Hypoxic-Ischemic Encephalopathy**
+- Maintain adequate oxygenation and perfusion.
+- Control seizures.
+- Avoid hyperthermia.
+
+### **Electrolyte disturbances**
+- More common in fresh water drowning associated with aspiration.
+
+### **Hypothermia**
+- Rewarm gradually (warm blankets, warm IV fluids).
+
+## Observation and Disposition
+
+### **Criteria for observation (6–8 hours minimum)**
+- Any cough
+- Respiratory distress
+- Abnormal chest exam
+- Oxygen saturation < 95%
+- Altered mental status
+
+### **Criteria for discharge**
+- Normal exam
+- No respiratory distress
+- Oxygen saturation ≥ 95% on room air
+- Reliable caregiver
+
+### **Criteria for admission**
+- Prolonged submersion
+- Persistent hypoxia
+- Abnormal neurological status
+- Pulmonary edema
+- Requirement for oxygen or ventilation
+
+### **ICU admission**
+- Any child requiring intubation, significant hypoxia, unstable vitals, or significant HIE.
+
+## Prognostic Indicators
+
+### **Poor prognostic factors**
+- Submersion time > 10 minutes
+- Delay in initiation of CPR > 10 minutes
+- Persistent apnea or asystole on arrival
+- Severe acidosis (pH < 7.0)
+- GCS < 5 after resuscitation
+- Fixed dilated pupils
+- Water temperature (very cold or very warm)
+- Presence of trauma
+
+### **Better prognosis**
+- Immediate CPR by bystanders
+- Short submersion times
+- Younger age with rapid rescue
+- Normothermia or mild accidental hypothermia ("protective" in some cases)
+
+## Prevention
+
+Prevention is the most effective strategy for reducing drowning mortality.
+
+### **Household-level**
+- Always supervise children around water.
+- Empty buckets, basins, and baths immediately after use.
+- Cover wells and water tanks.
+- Use child-safe latrines (some drownings occur in pits/latrines).
+
+### **Community-level**
+- Fencing around wells and dugouts.
+- Life jackets for communities around water bodies.
+- Safe recreational swimming areas.
+- Community education on drowning risks.
+
+### **Policy-level**
+- Public health campaigns.
+- Swimming lessons integrated into school curricula.
+- Enforcement of safety regulations around dams and irrigation systems.
+
+### **Ghana-specific considerations**
+- Many drownings occur in **Galamsey pits**, abandoned construction sites, and open drains.
+- Children often accompany parents to farms or fishing areas—risk of unsupervised exposure.
+- Roadside gutters and storm drains pose risk during rains.
+
+## Special Scenarios
+
+### **Diving injuries**
+- High suspicion for cervical spine injury.
+- Immobilise spine.
+- Avoid hyperextension during intubation.
+
+### **Flood-related drowning**
+- Multifactorial (trauma, contamination, infections).
+- Consider leptospirosis, gastrointestinal infections.
+
+### **Seizure-related drowning**
+- Children with epilepsy are at high risk.
+- Emphasise supervised bathing.
+
+### **Intentional submersion**
+- Rare in children, but consider in maltreatment or neglect.
+- Multi-disciplinary safeguarding involvement required.
+
+## Conclusion
+
+Drowning and submersion injuries are a major but preventable cause of morbidity and mortality among children in Ghana and globally. Survival and neurological outcomes depend heavily on prompt rescue, early ventilation, and effective emergency management. Preventive strategies at household, community, and policy levels are critical to reducing the burden of drowning. Clinicians must be vigilant in managing respiratory compromise, hypoxia, hypothermia, and potential neurological injury. With improved awareness, training, and public health interventions, many drowning-related deaths can be prevented.
+
+## Further Reading
+
+1. World Health Organization. *Global Report on Drowning: Preventing a Leading Killer*. WHO, 2014.  
+2. Szpilman D et al. *Drowning—Definition, Epidemiology and Pathophysiology.* Resuscitation, 2012.  
+3. Azzopardi P, et al. *Pediatric Submersion Injuries.* NEJM.  
+4. American Heart Association. *Pediatric Advanced Life Support (PALS) Guidelines.*  
+5. Ghana Health Service Injury Surveillance Reports.  

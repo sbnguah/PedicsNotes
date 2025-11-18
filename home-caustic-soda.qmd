@@ -1,4 +1,330 @@
 ---
 title: "Caustic Soda Ingestion"
-author: "Dr. Justice Sylverken"
+date: 2024-09-12
 ---
+
+## Introduction
+
+Caustic soda (sodium hydroxide, NaOH) ingestion is one of the most severe and life-altering forms of poisoning in children. As a strong alkali, caustic soda causes liquefactive necrosis that penetrates deeply into tissues, potentially resulting in devastating injuries to the oral cavity, pharynx, oesophagus, and stomach. Globally, caustic ingestions remain a major cause of preventable morbidity, but the burden is particularly significant in low- and middle-income settings where industrial and household chemicals are widely available and often stored in unlabelled containers.
+
+In Ghana, caustic soda is commonly used in soap making and artisanal industries such as local black soap (“alata samina”) production. In many homes, caustic soda solutions may be stored in reused water bottles or soft drink containers, making them indistinguishable from potable liquids. Toddlers exploring their environment are at highest risk of accidental ingestion. The consequences may be lifelong, requiring prolonged medical care, repeated surgical procedures, and psychological support.
+
+This article provides a comprehensive review of caustic soda ingestion in children, including epidemiology, pathophysiology, clinical presentation, investigation, management, complications, and prevention, with contextual relevance to paediatric practice in Ghana and sub-Saharan Africa.
+
+## Chemistry and Properties of Caustic Soda
+
+Sodium hydroxide (NaOH) is a potent alkali with the following properties:
+
+- **Highly corrosive**, causing rapid tissue damage.
+- **Strong base** with high pH >12.
+- **Hygroscopic**, readily absorbing moisture from the air.
+- Dissolves in water with **exothermic reaction**, producing heat that compounds tissue injury.
+
+These characteristics make caustic soda extremely dangerous when ingested or when in contact with the skin, eyes, or respiratory tract.
+
+## Epidemiology and Local Context
+
+### Global Perspective
+Caustic ingestion accounts for a substantial proportion of paediatric toxic exposures worldwide. While prevalence has declined in high-income countries due to regulation, child-resistant packaging, and public health campaigns, the burden remains high in resource-limited settings.
+
+### Ghana and West Africa
+In Ghana, several contextual factors increase the risk of caustic soda ingestion:
+
+- **Use in local soap-making** (common among households and small-scale commercial producers).
+- **Storage in inappropriate containers**, especially recycled beverage bottles.
+- **Lack of consistent labelling** or safety warnings.
+- **Limited public awareness** of risks.
+- **Unsuitable storage environments**, with chemicals often kept within reach of toddlers.
+- **Traditional use for home remedies** in rare cases (e.g., mixing with herbs—dangerous and strongly discouraged).
+
+Children aged **1–3 years** constitute the majority of cases due to exploratory behaviour, oral curiosity, and limited ability to assess danger.
+
+## Mechanism of Injury: Liquefactive Necrosis
+
+Alkali ingestion results in **liquefactive necrosis**, which differs significantly from the coagulative necrosis caused by acids.
+
+#### Key features of alkali-induced liquefactive necrosis:
+- **Saponification of fats** in cell membranes.
+- **Protein dissolution** rather than coagulation.
+- **Deep tissue penetration**, as necrotic tissue does not form a protective barrier.
+- **Hydrolysis of cell structures**, leading to widespread destruction.
+
+The severity of injury depends on:
+
+1. **Concentration of the alkali**  
+2. **Volume ingested**  
+3. **Duration of contact** (e.g., if the child does not immediately spit out the substance)  
+4. **Physical form** (liquids cause deeper injury than solids)
+
+The oesophagus is at greatest risk due to prolonged contact time and limited protective mechanisms.
+
+## Pathophysiology and Stages of Injury
+
+Tissue damage progresses in predictable stages:
+
+### **Acute Phase (0–3 days)**
+- Liquefactive necrosis develops rapidly.
+- Severe oedema of lips, tongue, oropharynx, and larynx.
+- Perforation risk is highest in the first 72 hours.
+
+### **Ulceration and Granulation Phase (3–14 days)**
+- Sloughing of necrotic tissue.
+- Formation of ulceration and granulation tissues.
+- Oesophageal wall becomes weaker, increasing perforation risk during this window.
+
+### **Healing and Stricture Formation (2–6 weeks onward)**
+- Collagen deposition and fibrosis.
+- Progressive oesophageal stricture formation.
+- Long-term complications present in this phase.
+
+## Clinical Presentation
+
+Symptoms vary depending on the site and extent of injury.
+
+### **Oropharyngeal Symptoms**
+- Drooling
+- Oral burns or white plaques
+- Dysphagia
+- Hoarseness
+- Stridor (suggesting airway involvement)
+
+### **Gastrointestinal Symptoms**
+- Odynophagia
+- Vomiting (occasionally blood-stained)
+- Chest pain
+- Abdominal pain
+- Refusal to feed
+
+### **Airway Symptoms**
+- Stridor
+- Tachypnoea
+- Respiratory distress (from laryngeal oedema)
+
+### **Severe Complications**
+- Oesophageal perforation
+- Mediastinitis
+- Peritonitis
+- Shock
+
+The severity of oral burns does **not always correlate** with oesophageal injury. Children may have minimal external injury but severe internal damage.
+
+## Differential Diagnosis
+
+Conditions that may mimic or accompany caustic ingestion include:
+
+- Thermal burns from hot liquids
+- Acid ingestion
+- Infectious pharyngitis
+- Retropharyngeal abscess
+- Foreign body ingestion
+- Gastro-oesophageal reflux (in chronic stricture phase)
+
+A clear history of exposure is critical for accurate diagnosis.
+
+## Investigations
+
+Investigations aim to assess the severity of injury and identify complications.
+
+### **1. Endoscopy (gold standard)**  
+Performed **within 12–24 hours**.  
+Not recommended beyond 48 hours due to high perforation risk.
+
+Purpose:
+
+- Grade the severity of oesophageal and gastric injury.
+- Guide prognosis and management.
+
+Common grading system: **Zargar Classification**  
+
+- Grade 0: Normal  
+- Grade 1: Oedema and hyperaemia  
+- Grade 2a: Superficial ulcers, non-circumferential  
+- Grade 2b: Deep or circumferential ulcers  
+- Grade 3: Multiple deep ulcers with necrosis  
+
+Grade 2b and 3 injuries are associated with high stricture risk.
+
+### **Chest and Abdominal Radiographs**
+Indications:
+
+- Suspected perforation
+- Subcutaneous emphysema
+- Mediastinal air
+- Pneumoperitoneum
+
+### **Laboratory Tests**
+- Full blood count (leukocytosis in severe injury)
+- CRP (inflammatory marker)
+- Electrolytes and renal function (dehydration assessment)
+- Arterial blood gases in respiratory compromise
+
+### **CT Scan**
+Useful when perforation is suspected but endoscopy is contraindicated.
+
+## Management
+
+Management begins with stabilisation and avoidance of harmful interventions.
+
+### **Initial Stabilisation**
+- Assess airway and breathing.
+- Provide supplemental oxygen.
+- Prepare for intubation if there is significant airway oedema.
+
+**Avoid blind intubation**, which risks perforation.  
+Use a controlled approach (fibre-optic if available).
+
+### **Do NOT Induce Vomiting**
+Vomiting re-exposes mucosa to alkali and increases aspiration risk.
+
+### **Do NOT Use Activated Charcoal**
+It does not bind alkalis and obscures endoscopy.
+
+### **Do NOT Attempt Neutralisation**
+Acid–base reactions generate heat, increasing tissue injury.
+
+### **Dilution (Controversial)**
+If the child presents immediately (within minutes), giving small amounts of water or milk may dilute residual alkali.  
+However, **never force oral intake**, especially in a distressed or drooling child.
+
+### **Pain Control and Supportive Care**
+- Provide analgesia (avoid NSAIDs in severe mucosal injury).
+- Maintain hydration with IV fluids.
+- Begin proton pump inhibitors to reduce gastric acid reflux.
+
+## **Endoscopy**
+Essential for grading injury and determining risk of complications.
+
+Children with **Grade 2b or 3 injury** require:
+
+- Intensive monitoring
+- Broad-spectrum antibiotics (if perforation suspected)
+- Nutritional support (NG tube placement under endoscopic guidance only)
+
+### **Corticosteroids**
+Their use remains controversial. Evidence suggests:
+
+- No benefit in mild (Grade 1–2a) injuries.
+- Possible benefit in Grade 2b injuries to reduce stricture formation.
+- No benefit in Grade 3 injuries.
+
+Protocols vary, but dexamethasone or prednisolone may be used cautiously in selected cases.
+
+### **Antibiotics**
+Not routinely indicated unless:
+
+- There is evidence of infection.
+- High-grade injury with suspected perforation.
+
+### **Nutritional Support**
+Options include:
+
+- Nasogastric feeding tube placed during endoscopy
+- Parenteral nutrition in severe cases
+
+Avoid blind NG tube insertion due to perforation risk.
+
+### **Surgical Consultation**
+Indications:
+
+- Perforation
+- Mediastinitis
+- Peritonitis
+- Unstable patient
+
+Emergency oesophagectomy may be required in severe necrotic injury.
+
+## Long-Term Management and Complications
+
+Caustic soda ingestion carries significant long-term morbidity.
+
+### **Oesophageal Strictures**
+The most common long-term complication.
+
+Symptoms:
+
+- Progressive dysphagia
+- Drooling
+- Feeding refusal
+- Vomiting shortly after meals
+
+Strictures typically develop within **3–8 weeks**.
+
+#### Management:
+- Serial oesophageal dilatation (bougie or balloon)
+- Stenting in selected cases
+- Surgical reconstruction (e.g., gastric pull-up) for refractory strictures
+
+### **Chronic Gastroesophageal Reflux**
+Management includes PPIs and lifestyle modification.
+
+### **Nutritional Deficiency**
+Repeated hospital admissions and feeding difficulties may result in malnutrition.
+
+### **4. Increased Risk of Oesophageal Carcinoma**
+Children with severe caustic burns are at significantly increased risk of **squamous cell carcinoma** decades later.  
+Surveillance protocols vary but awareness is essential.
+
+### **5. Psychological Effects**
+Chronic illness, repeated procedures, and feeding difficulties require multidisciplinary support.
+
+## Prognosis
+
+Prognosis depends on:
+
+- Concentration and amount of alkali ingested
+- Promptness of medical intervention
+- Severity of injury (Zargar grade)
+
+Grade 1–2a injuries typically recover without long-term complications.  
+
+Grade 2b–3 injuries have high risk of strictures and may require prolonged care.
+
+Mortality is usually from:
+
+- Airway compromise
+- Mediastinitis
+- Perforation and sepsis
+
+## Prevention
+
+Prevention remains the cornerstone of reducing morbidity.
+
+### Key strategies in the Ghanaian context:
+
+1. **Safe Storage Practices**
+   - Store chemicals in original, labelled containers.
+   - Avoid using water or beverage bottles for caustic solutions.
+
+2. **Public Health Education**
+   - Community campaigns through CHPS compounds.
+   - Education of soap makers and small-scale industries.
+
+3. **Childproofing**
+   - Keep chemicals out of reach.
+   - Install locks or high shelves in homes.
+
+4. **Regulatory Measures**
+   - Advocacy for proper packaging and warning labels.
+   - Regulation of sale in markets and stores.
+
+5. **Community and School Outreach**
+   - Training caregivers and school teachers to recognise chemical hazards.
+
+## Key Points
+
+- Caustic soda ingestion is a major cause of severe chemical injury in children.
+- Alkalis cause liquefactive necrosis with deep tissue penetration.
+- Endoscopy within 12–24 hours is the gold standard for assessment.
+- Do NOT induce vomiting, neutralise the alkali, or use activated charcoal.
+- Management is primarily supportive with airway protection and early endoscopy.
+- Long-term complications include strictures, reflux, malnutrition, and increased cancer risk.
+- Prevention through safe storage and public education is vital.
+
+## Further Reading
+
+1. Zargar SA, Kochhar R, Nagi B, et al. Ingestion of corrosive substances: outcome of oesophageal injury. *Gastroenterology*.  
+2. World Health Organization. **Poisoning Prevention and Management Guidelines**. WHO Press.  
+3. Litovitz T et al. Alkali ingestions: clinical features and management. *Clin Toxicol*.  
+4. Paediatric Society of Ghana. **Guidelines on Common Paediatric Emergencies**.  
+5. Mamede RC, de Mello Filho FV. Treatment of oesophageal caustic injuries. *Acta Cir Bras.*  
+

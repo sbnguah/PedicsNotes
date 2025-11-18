@@ -1,6 +1,5 @@
 ---
-title: "Spectrum of Neurological Disorders in Children"
-author: xxx
+title: "Spectrum of Neurological Disorders"
 date: 2025-06-09
 ---
 

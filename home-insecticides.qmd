@@ -2,3 +2,305 @@
 title: "Insecticide Poisoning"
 author: "Dr. Justice Sylverken"
 ---
+
+## Introduction
+
+Insecticide poisoning remains a significant cause of childhood morbidity and mortality across many
+low- and middle-income countries. In Ghana and much of sub-Saharan Africa, the high burden of
+vector-borne diseases such as malaria, combined with widespread agricultural activity, has led to
+heavy reliance on insecticides in both domestic and farming environments. While these chemicals are
+essential for public health and crop protection, they pose substantial risks to children, who are
+naturally curious, physiologically vulnerable, and often exposed in poorly regulated environments.
+
+Children may encounter insecticides through ingestion, inhalation, dermal absorption, or accidental
+spills in the household. Toddlers exploring their surroundings are particularly at risk, especially
+in homes where insecticides are stored in accessible places or transferred into beverage bottles. In
+agricultural regions, children may also be exposed indirectly through contaminated clothing or via
+residues carried into the home.
+
+This chapter provides a comprehensive overview of insecticide poisoning in children, focusing on the
+insecticide types commonly used in Ghana, their mechanisms of toxicity, clinical features, and
+evidence-based management strategies adapted to resource-limited settings. The article-style
+narrative offers context relevant to paediatricians, residents, emergency clinicians, and general
+practitioners working in Ghana and similar environments.
+
+## Overview of Insecticide Use in Ghana and West Africa
+
+Insecticides are deeply embedded in everyday life in Ghana. Urban households frequently use
+pyrethroid-based sprays, mosquito coils, and treated nets for mosquito control. Rural communities
+rely heavily on organophosphate pesticides (e.g., chlorpyrifos, diazinon) to protect crops such as
+cocoa, vegetables, and grains. Despite government regulations, many potent agricultural insecticides
+remain readily accessible in shops, markets, and roadside stalls.
+
+Challenges contributing to paediatric exposure include:
+
+-   **Improper storage**: Chemicals kept within children’s reach or stored in food containers.
+-   **Limited public awareness**: Many caregivers underestimate the toxicity of insecticides.
+-   **Poor ventilation**: Spraying insecticides in closed rooms where children remain present.
+-   **Agricultural exposures**: Families living on or near farms may carry residues indoors.
+-   **Weak regulatory enforcement**: Persistent availability of highly hazardous pesticides.
+
+In Ghanaian tertiary hospitals, insecticides consistently appear among the leading agents implicated
+in paediatric poisoning cases. Mortality remains highest with organophosphate poisoning,
+particularly in late presenters and settings with limited intensive care facilities.
+
+## Classification of Insecticides Relevant to Childhood Poisoning
+
+A broad range of insecticides are implicated in paediatric exposures. The major classes encountered
+in Ghana and West Africa include:
+
+### Organophosphates (OPs)
+
+Examples: Chlorpyrifos, diazinon, malathion.\
+Commonly used in agriculture and occasionally for home pest control.
+
+### Carbamates
+
+Examples: Carbaryl, carbofuran.\
+Similar mechanism to organophosphates but reversible enzyme inhibition.
+
+### Pyrethroids
+
+Examples: Permethrin, deltamethrin, cypermethrin.\
+Common in household sprays, mosquito coils, and treated nets.
+
+### Organochlorines
+
+Examples: Lindane, endosulfan (now restricted but still encountered informally).\
+Persistent pollutants with potent CNS effects.
+
+### Miscellaneous household insecticides
+
+Including repellents (DEET), ant poisons, and mixed formulations containing solvents or
+hydrocarbons.
+
+Each class produces toxicity through distinct mechanisms, leading to characteristic clinical
+Syndromes.
+
+## Mechanisms of Toxicity
+
+### Organophosphates
+
+OPs irreversibly inhibit **acetylcholinesterase (AChE)**, resulting in excessive acetylcholine at
+synapses. Toxicity manifests through:
+
+-   **Muscarinic effects**: Bronchorrhoea, salivation, diarrhoea, vomiting, urination, bronchospasm.
+-   **Nicotinic effects**: Muscle fasciculations, weakness, tachycardia or bradycardia.
+-   **CNS effects**: Seizures, confusion, coma, respiratory failure.
+
+### Carbamates
+
+Carbamates inhibit AChE **reversibly**, often resulting in shorter and less severe toxicity than
+OPs. However, in children, presentations may still be severe.
+
+### Pyrethroids
+
+Pyrethroids prolong the opening of sodium channels, leading to neuronal hyperexcitability. Toxic
+effects include:
+
+-   Paraesthesias
+-   Tremors
+-   Irritability
+-   Hypersalivation
+-   Seizures (especially in infants)
+-   Respiratory irritation from aerosol inhalation
+
+### Organochlorines
+
+These agents disrupt **GABA-mediated inhibitory neurotransmission**, leading to:
+
+-   Tremors
+-   Hyperreflexia
+-   Seizures
+-   Status epilepticus
+
+Because organochlorines persist in the environment and accumulate in fat, toxicity may be prolonged.
+
+## Clinical Presentation
+
+The clinical presentation depends on the agent, route of exposure, and child’s age. Common features
+include:
+
+### Ingestion
+
+-   Vomiting
+-   Drooling
+-   Diarrhoea
+-   Abdominal pain
+-   Altered consciousness
+
+### Inhalation
+
+-   Coughing
+-   Wheezing
+-   Respiratory distress
+-   Headache or dizziness
+
+### Dermal exposure
+
+-   Erythema
+-   Tingling or burning sensation
+-   Absorption leading to systemic symptoms (especially with organophosphates)
+
+### Organophosphate and Carbamate Poisoning: Cholinergic Syndrome
+
+The hallmark of OP and carbamate poisoning is the **cholinergic toxidrome**, summarised by:
+
+**DUMBBELSS**
+
+-   **D**iarrhoea\
+-   **U**rination\
+-   **M**iosis\
+-   **B**ronchorrhoea\
+-   **B**radycardia\
+-   **E**mesis\
+-   **L**acrimation\
+-   **S**alivation\
+-   **S**weating
+
+Respiratory failure results from bronchorrhoea, bronchospasm, fatigue, and CNS depression.
+
+### Pyrethroid Poisoning
+
+Usually mild. Symptoms include:
+
+-   Paresthesias
+-   Headache
+-   Nausea
+-   Irritability
+-   Seizures at high doses
+-   Respiratory symptoms from aerosol inhalation
+
+### Organochlorine Poisoning
+
+Predominantly neurological:
+
+-   Tremors
+-   Agitation
+-   Seizures (often recurrent)
+-   Potential arrhythmias
+
+## Evaluation and Investigations
+
+Diagnosis is primarily **clinical**, especially in Ghana where laboratory confirmation may not be
+available.
+
+Key investigations include:
+
+-   **Blood glucose** (hypoglycaemia is common)
+-   **Electrolytes, urea, creatinine**
+-   **Full blood count**
+-   **Arterial or venous blood gas**
+-   **Chest X-ray** if aspiration is suspected
+-   **ECG** to detect arrhythmias
+-   **Serum cholinesterase levels**, if available (confirmatory for OP poisoning)
+
+Assess the airway, breathing, circulation, level of consciousness, and seizure activity on arrival.
+
+## Management
+
+Management of insecticide poisoning in children focuses on stabilisation, decontamination, antidote
+administration (where applicable), and supportive care.
+
+### Stabilisation
+
+-   **Airway**: Suction secretions, position airway, intubate if GCS \< 8 or severe respiratory
+    distress.
+-   **Breathing**: Give high-flow oxygen; ventilatory support if necessary.
+-   **Circulation**: IV access, fluids for hypotension.
+-   **Disability**: Control seizures with benzodiazepines.
+-   **Exposure**: Remove contaminated clothing and wash skin thoroughly.
+
+### Decontamination
+
+-   Remove and bag contaminated clothing.
+-   Wash affected skin with soap and water.
+-   Activated charcoal may be used if ingestion occurred within 1 hour and airway reflexes are
+    intact.
+
+### Antidotes for Organophosphate and Carbamate Poisoning
+
+#### **Atropine**
+
+Atropine is the cornerstone of treatment. The goal is to improve breathing and dry airway
+secretions.
+
+-   Initial dose: 0.02 mg/kg IV\
+-   Double the dose every 3–5 minutes until **atropinisation** (drying of secretions, improved air
+    entry).
+-   Continue with an infusion to maintain effect.
+
+#### **Pralidoxime (2-PAM)**
+
+Used in organophosphate poisoning to reactivate AChE before “aging” occurs.
+
+-   Dose: 20–50 mg/kg IV over 30 minutes\
+-   Followed by continuous infusion if necessary\
+-   Availability is inconsistent in Ghana; early use improves outcomes.
+
+### Management of Pyrethroid Poisoning
+
+-   Supportive care only
+-   Treat seizures with benzodiazepines
+-   Bronchodilators for wheezing
+-   Decontamination for dermal exposure
+
+### Management of Organochlorine Poisoning
+
+-   Aggressive seizure control
+-   Avoid phenytoin (may worsen dysrhythmias)
+-   Support ventilation
+-   Activated charcoal if early ingestion
+
+## Complications
+
+Complications vary by insecticide type.
+
+### Organophosphate Poisoning
+
+-   **Intermediate syndrome** (1–4 days post-exposure): proximal muscle weakness, respiratory
+    failure
+-   **Delayed neuropathy** (weeks later)
+-   **Aspiration pneumonia**
+-   **ARDS**
+-   **Hypoxic brain injury**
+
+### Pyrethroids
+
+-   Persistent paresthesias
+-   Rare seizures
+
+### Organochlorines
+
+-   Recurrent seizures
+-   Cardiac arrhythmias
+-   CNS depression
+
+## Prevention Strategies in Ghana
+
+Prevention is the most impactful intervention. Strategies include:
+
+-   Educating caregivers about safe storage and handling\
+-   Keeping chemicals in original containers\
+-   Avoiding spraying insecticides in rooms where children are present\
+-   Training farmers on proper use and protective equipment\
+-   Strengthening regulatory enforcement of pesticide sales\
+-   Establishing poison control centres\
+-   Counselling adolescents on mental health and suicide prevention
+
+## Conclusion
+
+Insecticide poisoning in children is both a medical emergency and a preventable public health issue
+in Ghana. The severity of toxicity varies widely across insecticide classes, with organophosphates
+remaining the most lethal. Early recognition, prompt resuscitation, and appropriate use of antidotes
+are key to improving outcomes. Paediatric clinicians must maintain a high index of suspicion,
+especially in agricultural regions. Ultimately, sustainable reduction in cases depends on improved
+public education, stronger regulation, and community-level safety practices.
+
+## Further Reading
+
+1.  World Health Organization. *Clinical Management of Acute Pesticide Intoxication*.\
+2.  Nelson Textbook of Pediatrics. Chapter on Poisonings.\
+3.  West African College of Physicians Paediatrics Residency Curriculum.\
+4.  Ghana Poison Information and Management Guidelines (where available).\
+5.  Roberts DM, Aaron CK. *Management of acute organophosphate poisoning*. BMJ.
