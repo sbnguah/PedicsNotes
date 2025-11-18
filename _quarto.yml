@@ -170,6 +170,12 @@ book:
         - para-overview.qmd
         - para-malaria.qmd
         - para-intestinal-helminthic.qmd
+        - para-schistosomiasis.qmd
+        - para-giardiasis.qmd
+        - para-amoebiasis.qmd
+        - para-hookworm.qmd
+        - para-taeniasis.qmd
+        - para-misc-parasitic.qmd
     - part: "<span style='font-weight:bold; color: black;'>General Pediatrics</span>"
       chapters: 
         - gen-therapeutics.qmd
