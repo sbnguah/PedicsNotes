@@ -1,0 +1,268 @@
+---
+title: "Acid-Base Disorders"
+date: 2025-06-06
+---
+
+## Introduction
+
+Acid-base balance is vital for normal cellular metabolism and physiological function. In children,
+acid-base disturbances can arise from a variety of causes and often signal serious underlying
+pathology. The developing physiology of infants and children also makes them particularly vulnerable
+to imbalances.
+
+This guide aims to provide medical students, particularly in Ghana, with a comprehensive
+understanding of acid-base disorders, their causes, clinical manifestations, diagnosis, and
+management, with a focus on conditions commonly encountered in paediatric practice in
+resource-limited settings.
+
+## Physiology of Acid-Base Balance
+
+### Normal pH and Buffer
+
+-   Normal arterial blood pH: **7.35 – 7.45**
+-   Key buffer systems:
+    -   **Bicarbonate buffer** (HCO₃⁻ / H₂CO₃)
+    -   **Phosphate buffer**
+    -   **Protein buffer (e.g., haemoglobin)**
+
+### Regulation Mechanisms
+
+1.  **Lungs**: Excrete CO₂ (volatile acid)
+2.  **Kidneys**: Reabsorb bicarbonate and excrete H⁺ (non-volatile acids)
+3.  **Buffers**: Immediate but temporary pH regulation
+
+## Classification of Acid-Base Disorders
+
+Acid-base disorders are classified as:
+
+1.  **Metabolic Acidosis**
+2.  **Metabolic Alkalosis**
+3.  **Respiratory Acidosis**
+4.  **Respiratory Alkalosis**
+
+Each has **compensatory mechanisms** that attempt to restore pH toward normal.
+
+## Metabolic Acidosis
+
+### Definition
+
+Characterized by **decreased pH and bicarbonate** (\< 22 mmol/L)
+
+### Causes
+
+**In Ghana and other resource-limited settings, common causes include:**
+
+|                                                   |                                       |
+|---------------------------------------------------|---------------------------------------|
+| **High Anion Gap**                                | **Normal Anion Gap (Hyperchloremic)** |
+| Diabetic ketoacidosis (DKA)                       | Diarrhea (bicarbonate loss)           |
+| Lactic acidosis (sepsis, hypoxia, severe anaemia) | Renal tubular acidosis (RTA)          |
+| Inborn errors of metabolism                       | Early renal failure                   |
+| Uraemia                                           | Use of carbonic anhydrase inhibitors  |
+
+**Anion Gap (AG) = Na⁺ – (Cl⁻ + HCO₃⁻)**\
+Normal AG: 8 – 12 mmol/L
+
+### Clinical Features
+
+-   Kussmaul breathing (deep, rapid)
+-   Lethargy, confusion
+-   Hypotension
+-   Signs of dehydration
+
+### Diagnosis
+
+-   Arterial blood gas (ABG): ↓pH, ↓HCO₃⁻
+-   Serum electrolytes
+-   Urine analysis (in RTA)
+-   Blood glucose and ketones (in DKA)
+
+### Management
+
+-   Treat the **underlying cause**
+-   Rehydration (e.g., with normal saline)
+-   **DKA**: Insulin therapy, fluids, potassium replacement
+-   **Severe acidosis (pH \< 7.1)**: Consider sodium bicarbonate cautiously
+-   Monitor electrolytes, especially **K⁺**
+
+## Metabolic Alkalosis
+
+### Definition
+
+Elevated pH and bicarbonate (\> 28 mmol/L)
+
+### Causes
+
+|                                 |                                |
+|---------------------------------|--------------------------------|
+| **Chloride-Responsive**         | **Chloride-Resistant**         |
+| Vomiting or nasogastric suction | Primary hyperaldosteronism     |
+| Diuretic therapy                | Congenital adrenal hyperplasia |
+| Volume depletion                | Severe hypokalemia             |
+
+### Clinical Features
+
+-   Muscle cramps, weakness
+-   Tetany (due to hypocalcemia)
+-   Hypoventilation (compensatory)
+-   Confusion, seizures (severe)
+
+### Diagnosis
+
+-   ABG: ↑pH, ↑HCO₃⁻
+-   Serum electrolytes: Look for **hypokalemia**, **hypochloremia**
+-   Urine chloride
+
+### Management
+
+-   Volume replacement with normal saline
+-   Potassium supplementation
+-   Correct underlying cause
+-   If resistant to saline: consider aldosterone antagonists (e.g., spironolactone)
+
+## Respiratory Acidosis
+
+### Definition
+
+↓pH and ↑pCO₂ (\> 45 mmHg)
+
+### Causes
+
+**Due to hypoventilation:**
+
+-   CNS depression (head injury, infections)
+-   Neuromuscular disorders (e.g., Guillain-Barré syndrome)
+-   Chest wall deformities
+-   Airway obstruction (e.g., asthma, foreign body)
+-   Respiratory muscle fatigue
+
+### Clinical Features
+
+-   Altered mental status
+-   Headache
+-   Tachycardia
+-   Cyanosis
+-   Papilledema (chronic)
+
+### Diagnosis
+
+-   ABG: ↓pH, ↑pCO₂
+
+-   Evaluate oxygenation (PaO₂)
+
+-   Chest X-ray, pulmonary function tests (if available)
+
+### Management
+
+-   Support ventilation (e.g., oxygen, non-invasive or mechanical ventilation)
+-   Treat the **underlying cause** (e.g., bronchodilators for asthma)
+-   Caution: Over-oxygenation can suppress respiratory drive in chronic cases
+
+## Respiratory Alkalosis
+
+### Definition
+
+-   ↑pH and ↓pCO₂ (\< 35 mmHg)
+
+### Causes
+
+-   Anxiety, pain (hyperventilation)
+-   Fever
+-   Sepsis
+-   Salicylate poisoning (early)
+-   Central causes (e.g., meningitis)
+-   High altitude (rare in Ghana)
+
+### Clinical Features
+
+-   Light-headedness, dizziness
+-   Perioral numbness
+-   Muscle cramps
+-   Tachypnoea
+
+### Diagnosis
+
+-   ABG: ↑pH, ↓pCO₂
+-   Serum calcium and phosphate (often decreased)
+
+### Management
+
+-   Address the underlying cause
+-   Calm the child (rebreathing bag if appropriate)
+-   Treat fever or infections
+-   Sedation may be necessary in extreme anxiety
+
+## Mixed Acid-Base Disorders
+
+Children can present with **more than one disorder** simultaneously, especially in critical illness.
+
+**Examples:**
+
+-   **DKA with vomiting** → Metabolic acidosis + metabolic alkalosis
+-   **Sepsis with respiratory failure** → Metabolic acidosis + respiratory acidosis
+
+**Clues to Mixed Disorders:**
+
+-   pH is normal, but CO₂ and HCO₃⁻ are abnormal
+-   Compensation appears inadequate or excessive
+
+Use **Winter’s formula** to assess expected respiratory compensation in metabolic acidosis:
+
+**Expected pCO₂ = (1.5 × HCO₃⁻) + 8 ± 2**
+
+## Pediatric Considerations
+
+-   **Neonates** have immature kidneys → limited ability to excrete acid
+-   **Dehydration** is a common cause of acid-base disturbances
+-   **Malaria, severe diarrhoea, and pneumonia** are leading paediatric conditions in Ghana that may
+    present with acid-base imbalance
+
+## Laboratory Evaluation
+
+Key investigations:
+
+1.  **ABG Analysis**
+2.  **Serum electrolytes** (Na⁺, K⁺, Cl⁻, HCO₃⁻)
+3.  **Anion gap calculation**
+4.  **Urine pH and electrolytes** (in RTA)
+5.  **Lactate**, **ketones**, **glucose**
+
+## Approach to a Child with Suspected Acid-Base Disorder
+
+1.  **Assess airway, breathing, and circulation (ABC)**
+2.  **Clinical history**
+    -   Diarrhoea, vomiting, fever, polyuria
+    -   Diabetes, drug use
+3.  **Examination**
+    -   Level of consciousness
+    -   Respiratory pattern (Kussmaul, hypoventilation)
+    -   Signs of dehydration or oedema
+4.  **ABG + Electrolytes**
+5.  **Determine primary disorder and compensation**
+6.  **Treat the cause and monitor**
+
+## Resource-Limited Considerations (Ghana Context)
+
+-   ABGs may not be widely available — rely on **clinical signs**, **serum bicarbonate**, **venous
+    blood gases**
+-   In emergencies, treat based on likely diagnosis (e.g., give fluids for suspected DKA even before
+    lab confirmation)
+-   **Point-of-care testing** (glucometers, lactate meters) can aid rapid decision-making
+
+## Summary Table
+
+|                       |        |           |                 |                       |
+|-----------------------|--------|-----------|-----------------|-----------------------|
+| **Disorder**          | **pH** | **HCO₃⁻** | **pCO₂**        | **Compensation**      |
+| Metabolic Acidosis    | ↓      | ↓         | ↓ (respiratory) | Hyperventilation      |
+| Metabolic Alkalosis   | ↑      | ↑         | ↑               | Hypoventilation       |
+| Respiratory Acidosis  | ↓      | ↑ (renal) | ↑               | Renal HCO₃⁻ retention |
+| Respiratory Alkalosis | ↑      | ↓ (renal) | ↓               | Renal HCO₃⁻ loss      |
+
+## Conclusion
+
+Understanding acid-base disorders in children is crucial for early recognition and effective
+treatment, particularly in acute settings like emergency departments and paediatric wards. In Ghana,
+common contributors include dehydration from diarrhoea, infections, and diabetic ketoacidosis (DKA).
+A systematic clinical and laboratory approach allows timely diagnosis and management, even in
+resource-constrained environments.

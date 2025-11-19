@@ -26,10 +26,11 @@ book:
   chapters:
     - index.qmd
     - contributors.qmd
-    - gen-child-hx-exam.qmd
-    - gen-growh-development.qmd
-    - gen-anthropometry.qmd
-    - gen-acid-base.qmd
+    - part: "<span style='font-weight:bold; color: black;'>Introduction</span>"
+      chapters: 
+        - gen-child-hx-exam.qmd
+        - gen-growh-development.qmd
+        - gen-anthropometry.qmd
     - part: "<span style='font-weight:bold; color: black;'>Neonatology</span>"
       chapters: 
         - neo-neonate-hx-exam.qmd
@@ -90,6 +91,7 @@ book:
         - nep-nephritic-syndrome.qmd
         - nep-kidney-failure.qmd
         - neph-obstructive-uropathy.qmd
+        - neph-acid-base.qmd
     - part: "<span style='font-weight:bold; color: black;'>Neurology</span>"
       chapters: 
         - neuro-spectrum.qmd
@@ -146,9 +148,18 @@ book:
         - home-drowning.qmd
     - part: "<span style='font-weight:bold; color: black;'>Animal Bites</span>"
       chapters: 
+        - bite-general-approach.qmd
         - bite-snake.qmd
         - bite-dog.qmd
         - bite-scorpion.qmd
+    - part: "<span style='font-weight:bold; color: black;'>Adolescent Health</span>"
+      chapters:
+        - adol-History-examination.qmd
+        - adol-growth-development.qmd
+        - adol-preventive-care.qmd
+        - adol-mental-health.qmd
+        - adol-sexual-reproductive.qmd
+        - adol-risky-behaviour.qmd
     - part: "<span style='font-weight:bold; color: black;'>Basic Critical Care</span>"
       chapters: 
         - cc-critical-care.qmd
