@@ -105,6 +105,7 @@ Pathogens cause tissue injury through:
 Common pathogens include RSV, influenza, rhinoviruses, *S. pneumoniae*, *H. influenzae*, and TB.
 
 **Pathological basis:**
+
 - Viral infections → necrosis of epithelium, mucus plugging, bronchiolitis
 - Bacterial pneumonia → alveolar exudates, consolidation
 - TB → granuloma formation, caseous necrosis, cavity formation
@@ -115,6 +116,7 @@ Infants are prone to severe bronchiolitis due to small airway calibre.
 Pathogens: rotavirus, norovirus, *Shigella*, *Salmonella*, enterotoxigenic *E. coli*, *Giardia*.
 
 **Pathology:**
+
 - Viruses → villous atrophy → malabsorption → diarrhoea
 - Invasive bacteria → mucosal ulceration, bloody diarrhoea
 - Toxin-mediated diarrhoea → water and electrolyte loss without mucosal injury
@@ -125,6 +127,7 @@ Malnutrition exacerbates enteropathy, leading to persistent diarrhoea.
 Meningitis and encephalitis commonly result from *S. pneumoniae*, *N. meningitidis*, viral agents.
 
 **Pathology:**
+
 - Purulent meningitis → neutrophilic exudate in subarachnoid space
 - Cerebral oedema → raised ICP
 - Vasculitis → infarctions
@@ -136,6 +139,7 @@ Delayed treatment results in long-term neurological sequelae (hearing loss, deve
 Sepsis is a dysregulated host response to infection leading to organ dysfunction.
 
 **Pathology:**
+
 - Widespread endothelial dysfunction
 - Capillary leak
 - Microthrombi (DIC)
@@ -147,6 +151,7 @@ Children progress from sepsis to shock rapidly due to limited physiological rese
 Pathogens: *Staph aureus*, *Strep pyogenes*, fungi.
 
 **Pathological features:**
+
 - Superficial infections (impetigo) → epidermal vesicles
 - Deep infections (cellulitis) → dermal inflammation
 - Necrotising fasciitis → fascial destruction, systemic toxicity
