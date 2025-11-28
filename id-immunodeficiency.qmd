@@ -1,0 +1,255 @@
+---
+title: "Immunodeficiency"
+date: 2024-09-22
+---
+
+## Introduction
+
+Immunodeficiency in children refers to a group of disorders in which components of the immune system
+are absent, defective, or functionally impaired, resulting in increased susceptibility to
+infections, poor response to treatment, unusual infection patterns, and immune dysregulation. These
+conditions may be **primary (genetic)** or **secondary (acquired)**. Early recognition is essential
+because timely diagnosis and treatment can prevent severe morbidity and mortality, especially in
+low- and middle-income settings such as Ghana and West Africa where infectious disease burden is
+already high.
+
+## Classification of Immunodeficiency
+
+Immunodeficiencies are broadly classified as:
+
+### Primary Immunodeficiency Disorders (PIDs)
+
+Genetically determined, usually presenting in infancy or early childhood. Over 450 PIDs have been
+described, grouped into: - **Combined immunodeficiencies**\
+(e.g., Severe Combined Immunodeficiency—SCID) - **Predominantly antibody deficiencies**\
+(e.g., X-linked agammaglobulinemia, CVID) - **Phagocytic defects**\
+(e.g., Chronic Granulomatous Disease) - **Complement deficiencies** - **Immune dysregulation
+disorders** - **Innate immune defects**
+
+### Secondary (Acquired) Immunodeficiency
+
+More common globally, especially in sub-Saharan Africa. Causes include:
+
+-   **HIV infection** (most common)
+-   **Severe malnutrition** (major contributor to immunosuppression in children)
+-   **Malignancy**
+-   **Immunosuppressive drugs**
+-   **Protein-losing enteropathy or nephrotic syndrome**
+-   **Chronic renal or liver disease**
+
+## Epidemiology
+
+True prevalence of PIDs in Ghana and West Africa is unknown due to:
+
+-   Limited diagnostic capacity (genetic testing, flow cytometry)
+-   Misdiagnosis as recurrent infections without further evaluation
+-   High competing burden of infectious diseases masking underlying immune defects
+
+However, increased awareness has led to rising recognition of conditions like SCID and
+agammaglobulinemia.
+
+Secondary immunodeficiencies are far more common, particularly due to:
+
+-   HIV
+-   Severe acute malnutrition
+-   Sickle cell disease
+-   Tuberculosis
+-   Chemotherapy-related immunosuppression
+
+## Normal Immune Development in Children
+
+Understanding immunodeficiency requires familiarity with the developing immune system:
+
+-   Newborns rely on **maternal IgG** transferred transplacentally.
+-   Endogenous IgG production rises after 3–6 months.
+-   IgA and IgM levels are low in infancy, predisposing young children to respiratory and
+    gastrointestinal infections.
+-   Complement system matures over the first few years of life.
+-   T-cell immunity is robust at birth but may be impaired by prematurity or congenital defects.
+
+This developmental process explains why certain age groups show characteristic vulnerability
+patterns.
+
+## Clinical Features of Immunodeficiency
+
+Children with immunodeficiency may present with varied symptoms, but several “warning signs” should
+raise suspicion.
+
+### Recurrent Infections
+
+-   ≥4 ear infections in one year
+-   ≥2 serious sinus infections in one year
+-   ≥2 pneumonias in one year
+-   Persistent diarrhoea
+-   Infections with unusual or opportunistic organisms (e.g., *Pneumocystis jirovecii*)
+
+### Severe, Persistent, or Unusual Presentations
+
+-   Severe sepsis or meningitis
+-   Failure to thrive
+-   Delayed wound healing
+-   Poor response to standard antibiotics
+-   Deep-seated infections (liver abscess, osteomyelitis)
+-   Persistent oral thrush or fungal skin infections
+
+### Non-infectious Manifestations
+
+-   Autoimmune cytopenias
+-   Eczema (e.g., Wiskott–Aldrich syndrome)
+-   Lymphoproliferation
+-   Chronic diarrhoea ± malabsorption
+
+## Common Primary Immunodeficiencies in Children
+
+### Severe Combined Immunodeficiency (SCID)
+
+-   Absence of T-cell immunity, with or without B/NK cell defects
+-   Presents in early infancy:
+    -   Recurrent or severe infections
+    -   Persistent diarrhoea
+    -   Failure to thrive
+-   Fatal without immune reconstitution (HSCT)
+
+### X-linked Agammaglobulinemia (XLA)
+
+-   Mutation in *BTK* gene → absent B cells
+-   Recurrent respiratory infections starting after 6 months
+-   Low IgG, IgA, and IgM
+
+### Common Variable Immune Deficiency (CVID)
+
+-   Later childhood onset
+-   Low IgG and IgA, recurrent sinopulmonary infections
+-   Risk of autoimmunity
+
+### Chronic Granulomatous Disease (CGD)
+
+-   Phagocytic defect due to NADPH oxidase deficiency
+-   Recurrent abscesses, lymphadenitis, osteomyelitis
+-   Catalase-positive organisms (e.g., *Staph aureus*)
+
+### Complement Deficiencies
+
+-   Recurrent meningococcal or pneumococcal infections
+-   Terminal complement defects → *Neisseria* infections
+
+## Secondary Immunodeficiency: Context of Ghana and West Africa
+
+### HIV Infection
+
+-   Most common cause of immunodeficiency in children
+-   Presents with:
+    -   Opportunistic infections
+    -   Failure to thrive
+    -   Lymphadenopathy
+    -   Chronic diarrhoea
+-   Diagnosis via PCR in infants and serology after 18 months
+
+### Severe Acute Malnutrition (SAM)
+
+-   Suppresses both innate and adaptive immunity
+-   Increased risk of pneumonia, sepsis, skin infections
+-   Restoring nutrition is essential for immune recovery
+
+### Sickle Cell Disease (SCD)
+
+-   Functional asplenia → susceptibility to encapsulated organisms (e.g., *Strep pneumoniae*, *H.
+    influenzae*)
+-   Need for routine prophylaxis
+
+### Tuberculosis and Chronic Diseases
+
+-   TB leads to chronic immune exhaustion
+-   Renal and liver failure also impact immunity
+
+## Investigations
+
+Evaluation depends on the suspected type of immunodeficiency.
+
+### First-line Tests (available in many Ghanaian hospitals)
+
+-   Complete blood count with differential
+-   ESR/CRP
+-   HIV test
+-   Blood film for parasites (if indicated)
+-   Chest X-ray
+-   Serum immunoglobulin levels (IgG, IgA, IgM)
+-   Culture studies for recurrent infections
+
+### Second-line Tests (limited availability)
+
+-   Lymphocyte subset analysis (CD3, CD4, CD8, CD19, NK cells)
+-   Specific antibody titers (response to vaccines)
+-   Complement levels (CH50, C3, C4)
+-   Neutrophil oxidative burst test (for CGD)
+-   Genetic testing (send-out)
+
+In many West African settings, diagnosis is often clinical plus basic laboratory support due to cost
+and availability constraints.
+
+## Management
+
+### Treat Acute Infections Promptly
+
+-   Early, aggressive antibiotics for bacterial infections
+-   Antifungals or antivirals as needed
+
+### Long-term Management Strategies
+
+-   **Immunoglobulin replacement therapy**\
+    For antibody deficiencies (XLA, CVID)
+
+-   **Prophylactic antibiotics**\
+    e.g., Cotrimoxazole prophylaxis for HIV-exposed/infected infants or SCID
+
+-   **Stem cell transplantation**\
+    Curative option for SCID and some PIDs (availability limited in West Africa)
+
+-   **Nutritional rehabilitation**\
+    Essential for children with SAM
+
+-   **Vaccination considerations**
+
+    -   Avoid live vaccines in severe T-cell immunodeficiency
+    -   Prioritize pneumococcal, Hib, and meningococcal vaccines
+    -   Ensure annual influenza vaccination where available
+
+### Family Screening
+
+-   Important for hereditary conditions
+-   Genetic counselling (where available)
+
+## Complications
+
+-   Recurrent lung infections → bronchiectasis
+-   Growth failure
+-   Chronic diarrhoea and malabsorption
+-   Autoimmune diseases
+-   Increased risk of lymphoma (e.g., CVID)
+
+## Prognosis
+
+Varies widely:
+
+-   Early diagnosis → excellent outcomes in many PIDs
+-   Delayed diagnosis → high morbidity, irreversible organ damage
+-   Secondary immunodeficiency often improves with treatment of underlying cause (e.g., nutritional
+    recovery, ART in HIV)
+
+Resource constraints in West Africa impact prognosis, making early suspicion vital.
+
+## Summary
+
+Immunodeficiency in children represents a spectrum of disorders that increase susceptibility to
+infections and immune dysregulation. Primary immunodeficiencies, though less common, are serious and
+often present early. Secondary causes, notably HIV and malnutrition, are far more prevalent in Ghana
+and West Africa. Early diagnosis through careful clinical assessment, basic laboratory tests, and
+timely management—including prompt treatment of infections, immunoglobulin replacement where
+indicated, and supportive care—is essential to improving outcomes.
+
+## Further Reading
+
+-   Nelson Textbook of Paediatrics – Immunodeficiency Chapters
+-   WHO Guidelines on HIV and Paediatric Care
+-   Jeffrey Modell Foundation: Warning Signs of Primary Immunodeficiency
+-   African Society for Immunodeficiencies (ASID) Resources

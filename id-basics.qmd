@@ -1,0 +1,237 @@
+---
+title: "ID Basics"
+date: 2025-09-09
+---
+
+
+## Introduction
+Infectious diseases remain a leading cause of morbidity and mortality among children in Ghana and across sub-Saharan Africa. Understanding the pathological basis of these infections is essential for accurate diagnosis, rational treatment, and prevention. The pathology of infectious diseases encompasses the mechanisms by which microorganisms invade, disseminate, cause tissue injury, and interact with the host’s immune system. Children, particularly infants, are uniquely susceptible due to immature immunity, high exposure, nutritional vulnerabilities, and environmental factors that enhance transmission.
+
+This chapter focuses on the fundamental pathological processes underlying infectious diseases in children, highlighting local epidemiology, pathogen–host interactions, immune responses, mechanisms of tissue injury, and the pathological features of major infectious syndromes encountered in West African paediatric practice.
+
+## Epidemiological Context in Ghana and West Africa
+Several factors influence infectious disease patterns in children in the subregion:
+
+- **High burden of communicable diseases** due to tropical climate, poor sanitation, and limited access to healthcare.
+- **Malnutrition**, especially protein–energy malnutrition, weakens immunity.
+- **Lower vaccination coverage** in rural areas.
+- **Prevalence of HIV**, tuberculosis, and endemic bacterial and parasitic infections.
+- **Exposure to contaminated water**, leading to gastrointestinal pathogens.
+- **Overcrowding and poor ventilation**, contributing to respiratory infections.
+
+These factors shape the pathological landscape of paediatric infectious diseases, often resulting in severe forms of otherwise mild illnesses.
+
+## Host–Pathogen Interactions
+The pathological basis of infections is rooted in the dynamic relationship between pathogens and the host.
+
+### Entry and Colonisation
+Pathogens enter the body through:
+
+- Respiratory tract (viruses, bacteria)
+- Gastrointestinal tract (enteric pathogens)
+- Skin (injuries, insect bites)
+- Mucous membranes
+- Transplacental (e.g., congenital infections)
+- Blood (transfusion-associated or vector-borne)
+
+Successful colonisation depends on:
+
+- Adhesins and surface molecules
+- Ability to evade mucosal defences
+- Overcoming gastric acidity (in GI infections)
+
+### Invasion and Spread
+Pathogens may:
+
+- Remain localised (e.g., streptococcal pharyngitis)
+- Spread via lymphatics (e.g., TB)
+- Disseminate haematogenously (sepsis, meningitis)
+- Spread along anatomical planes (e.g., necrotising fasciitis)
+
+### Evasion of Host Defences
+Microorganisms avoid immune elimination through:
+
+- Capsule formation (e.g., *S. pneumoniae*)
+- Antigenic variation
+- Inhibition of phagolysosome fusion (e.g., *Mycobacterium tuberculosis*)
+- Destruction of immune cells (HIV)
+- Formation of biofilms
+
+### Host Immune Response
+The immune response determines disease expression:
+
+#### Innate Immunity
+- First line of defence
+- Involves neutrophils, macrophages, NK cells, complement
+- Critical in infant immunity
+
+#### Adaptive Immunity
+- Humoral (B-cell mediated)
+- Cellular (T-cell mediated)
+
+Pathology occurs when:
+
+- The immune response is excessive (cytokine storm)
+- Host immunity is insufficient (malnutrition, HIV)
+- There is immune-mediated tissue destruction (post-infectious sequelae)
+
+## Mechanisms of Tissue Injury
+Pathogens cause tissue injury through:
+
+### Direct Mechanisms
+- **Toxin production**
+  - Exotoxins (e.g., *Corynebacterium diphtheriae*)
+  - Enterotoxins (e.g., cholera toxin)
+  - Neurotoxins (e.g., tetanus toxin)
+- **Direct cellular invasion and lysis**
+  - Viruses hijack host machinery, causing cytopathic effects
+- **Obstruction**
+  - Worm burden (e.g., intestinal obstruction by *Ascaris*)
+
+### Indirect Mechanisms
+- **Inflammation and immune-mediated damage**
+  - Immune complexes (e.g., post-streptococcal glomerulonephritis)
+  - Hypersensitivity reactions
+- **Septic shock**
+  - Endotoxins trigger cytokine storm → multi-organ failure
+- **Fibrosis and scarring**
+  - Chronic infections (e.g., TB)
+- **Nutritional derangements**
+  - Prolonged infection leads to wasting and malnutrition
+
+## Pathology of Major Infectious Syndromes
+
+### 1. Respiratory Tract Infections
+Common pathogens include RSV, influenza, rhinoviruses, *S. pneumoniae*, *H. influenzae*, and TB.
+
+**Pathological basis:**
+- Viral infections → necrosis of epithelium, mucus plugging, bronchiolitis
+- Bacterial pneumonia → alveolar exudates, consolidation
+- TB → granuloma formation, caseous necrosis, cavity formation
+
+Infants are prone to severe bronchiolitis due to small airway calibre.
+
+### 2. Gastrointestinal Infections
+Pathogens: rotavirus, norovirus, *Shigella*, *Salmonella*, enterotoxigenic *E. coli*, *Giardia*.
+
+**Pathology:**
+- Viruses → villous atrophy → malabsorption → diarrhoea
+- Invasive bacteria → mucosal ulceration, bloody diarrhoea
+- Toxin-mediated diarrhoea → water and electrolyte loss without mucosal injury
+
+Malnutrition exacerbates enteropathy, leading to persistent diarrhoea.
+
+### 3. Central Nervous System Infections
+Meningitis and encephalitis commonly result from *S. pneumoniae*, *N. meningitidis*, viral agents.
+
+**Pathology:**
+- Purulent meningitis → neutrophilic exudate in subarachnoid space
+- Cerebral oedema → raised ICP
+- Vasculitis → infarctions
+- Chronic infections (TB) → granulomas, basal exudates
+
+Delayed treatment results in long-term neurological sequelae (hearing loss, developmental delay).
+
+### 4. Sepsis and Septic Shock
+Sepsis is a dysregulated host response to infection leading to organ dysfunction.
+
+**Pathology:**
+- Widespread endothelial dysfunction
+- Capillary leak
+- Microthrombi (DIC)
+- Multi-organ failure
+
+Children progress from sepsis to shock rapidly due to limited physiological reserves.
+
+### 5. Skin and Soft Tissue Infections
+Pathogens: *Staph aureus*, *Strep pyogenes*, fungi.
+
+**Pathological features:**
+- Superficial infections (impetigo) → epidermal vesicles
+- Deep infections (cellulitis) → dermal inflammation
+- Necrotising fasciitis → fascial destruction, systemic toxicity
+
+In West Africa, poor hygiene and delayed presentation contribute to severe forms.
+
+### 6. Bone and Joint Infections
+Osteomyelitis and septic arthritis arise from:
+- Haematogenous spread (common in children)
+- Contiguous spread
+- Trauma
+
+**Pathology:**
+
+- Suppurative inflammation
+- Bone necrosis (sequestrum)
+- Periosteal elevation
+- Joint cartilage destruction (in septic arthritis)
+
+Sickle cell disease predisposes to *Salmonella* osteomyelitis.
+
+### 7. Congenital and Perinatal Infections
+TORCH infections cause:
+
+- Microcephaly
+- Hepatosplenomegaly
+- Jaundice
+- Chorioretinitis
+
+Pathology involves viral invasion of neural tissue, destructive brain lesions, and immune-mediated damage.
+
+## Influence of Immunodeficiency and Malnutrition
+Conditions common in Ghana modulate pathological responses:
+
+### HIV Infection
+- Chronic immune activation
+- Loss of CD4 cells
+- Susceptibility to opportunistic infections (PCP, CMV, TB)
+
+### Malnutrition
+- Thymic atrophy → impaired T-cell responses
+- Reduced complement activity
+- Poor mucosal immunity
+
+These factors lead to severe, atypical, or persistent infections.
+
+## Diagnostic Pathology in Resource-Limited Settings
+In Ghana, pathological diagnosis relies on:
+
+- Basic blood tests  
+- Microscopy and culture  
+- Chest and abdominal radiographs  
+- GeneXpert for TB  
+- Histopathology (available in teaching hospitals)  
+
+Limitations include:
+
+- Inadequate laboratory capacity in district hospitals
+- Delays in sample transport
+- Limited access to advanced diagnostics (PCR, immunohistochemistry)
+
+Despite this, clinical pathology remains essential for patient care.
+
+## Prevention and Control
+Understanding pathology informs prevention:
+
+- **Vaccination** (pneumococcal, Hib, measles, rotavirus)
+- **Improved sanitation and hygiene**
+- **Prompt treatment of infections**
+- **Nutritional rehabilitation**
+- **Early detection of immunodeficiency**
+- **Strengthening health systems** at community and district levels
+
+## Key Points
+- Infectious disease pathology in children is shaped by pathogen factors, host immunity, and environmental context.
+- Tissue injury may result from direct microbial effects or host immune responses.
+- Immature immunity and high exposure make infants highly vulnerable.
+- Common infectious syndromes have characteristic pathological features that guide clinical diagnosis.
+- Malnutrition and immunodeficiency significantly modify disease patterns and severity.
+- Understanding pathology is essential for rational diagnosis, treatment, and prevention strategies in Ghana and West Africa.
+
+## Further Reading
+- Nelson Textbook of Pediatrics – Infectious Diseases Section  
+- Kumar & Clark: Clinical Medicine (Pathology chapters)  
+- WHO Child Health Guidelines  
+- Ghana Standard Treatment Guidelines (latest edition)  
+- Global Infectious Diseases Pathology (Elsevier)
+

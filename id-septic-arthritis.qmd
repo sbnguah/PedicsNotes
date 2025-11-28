@@ -1,0 +1,175 @@
+---
+title: "Septic Arthritis"
+editor: visual
+---
+
+## Introduction
+Septic arthritis is an acute infection of the joint space, usually caused by bacteria, resulting in inflammation, joint destruction, and potential long-term disability if not promptly treated. It is a paediatric emergency, with younger children—especially infants and toddlers—being at the highest risk due to their unique vascular anatomy and developing immune systems.
+
+Septic arthritis may occur via haematogenous spread (most common), direct inoculation from trauma, or contiguous extension from adjacent infections such as osteomyelitis. Quick recognition and early treatment are crucial to prevent irreversible cartilage destruction.
+
+## Epidemiology
+Septic arthritis occurs worldwide but is especially important in low- and middle-income countries (LMICs) where delays in diagnosis and limited access to advanced diagnostics may worsen outcomes. In Ghana and West Africa, it remains a significant cause of morbidity among children due to late presentation, limited imaging availability in some settings, and high burden of invasive bacterial diseases.
+
+Peak incidence:
+
+- Neonates and infants
+- Children <5 years
+- Teenagers with high-risk behaviours or sports-related injuries
+
+## Aetiology
+### Common Pathogens
+The causative organisms vary by age group:
+
+- **Neonates**
+  - *Staphylococcus aureus*
+  - Group B Streptococcus (*Streptococcus agalactiae*)
+  - Gram-negative bacilli (e.g., *E. coli*, *Klebsiella*)
+
+- **Infants and Young Children**
+  - *Staphylococcus aureus* (most common overall)
+  - *Streptococcus pyogenes*
+  - *Streptococcus pneumoniae*
+  - *Kingella kingae* (increasingly recognised, but less frequently detected in West Africa due to limited PCR use)
+
+- **Adolescents**
+  - *Staphylococcus aureus*
+  - *Neisseria gonorrhoeae* (sexually active teenagers)
+
+### Risk Factors
+- Haematogenous spread from distant infection (URTI, skin infection, pneumonia)
+- Immunosuppression (malnutrition, HIV, long-term steroids)
+- Sickle cell disease (may predispose to *Salmonella*)
+- Trauma or intra-articular injections
+- Neonatal risk factors (prematurity, invasive procedures)
+
+## Pathophysiology
+Septic arthritis begins when bacteria seed the synovial membrane. The joint is particularly vulnerable because:
+
+- Synovial tissue lacks a basement membrane → bacteria easily invade the joint space.
+- Rapid inflammatory response leads to:
+  - Purulent effusion
+  - Increased intra-articular pressure → impaired cartilage perfusion
+  - Chondrocyte death within hours to days
+
+In young children, blood vessels penetrate the metaphysis and epiphysis, facilitating spread between joint and adjacent bone, hence frequent coexistence of osteomyelitis.
+
+## Clinical Features
+Septic arthritis typically presents acutely, with symptoms varying by age.
+
+### General Symptoms
+- Acute onset fever (often >38.5°C)
+- Severe joint pain (non–weight-bearing is a strong predictor)
+- Swelling, warmth, and erythema over the joint
+- Limited range of motion (PROM > AROM due to pain)
+- Irritability in infants
+
+### Joint-specific Findings
+- **Hip and knee** are the most commonly affected joints.
+- **Infants** may present subtly:
+  - Pseudoparalysis (not moving limb)
+  - Feeding difficulties
+  - Fever may be absent
+- **Shoulder involvement** seen in neonates and may be associated with obstetric trauma or sepsis.
+
+### Red Flags (Emergency Indicators)
+- Child refusing to bear weight
+- High-grade fever + acute joint swelling
+- Severe pain with any movement
+- Toxic appearance
+
+## Differential Diagnosis
+- Transient synovitis
+- Osteomyelitis
+- Juvenile idiopathic arthritis
+- Trauma/haemarthrosis
+- Sickle cell bone crisis
+- Reactive arthritis
+- Lyme arthritis (not endemic in West Africa)
+
+## Investigations
+Diagnosis is clinical, supported by laboratory and imaging studies. Urgent arthrocentesis is often necessary.
+
+### Laboratory Tests
+- Full blood count (elevated WBC)
+- ESR, CRP markedly elevated (CRP >20 mg/L supports diagnosis)
+- Blood cultures (positive in 30–50%)
+
+### Synovial Fluid Analysis (gold standard)
+Obtain via urgent arthrocentesis **before antibiotics**, if possible.
+
+- Gross appearance: turbid, purulent
+- WBC: usually >50,000/mm³, with >75% neutrophils
+- Gram stain and culture
+- PCR for *Kingella* where available (rare in West Africa)
+
+### Imaging
+- **Ultrasound**: detect effusion, especially in the hip
+- **X-ray**: rule out trauma; late changes only
+- **MRI**: detects adjacent osteomyelitis when accessible
+
+## Management
+Septic arthritis is a **medical and surgical emergency** requiring early antibiotics and joint drainage.
+
+### 1. Empiric Antibiotic Therapy
+Initiate immediately after cultures are taken.
+
+- **Neonates**
+  - IV cloxacillin + gentamicin  
+  - Consider cefotaxime if gram-negative concern
+
+- **Infants/children**
+  - IV cloxacillin (or cefazolin)  
+  - Add ceftriaxone/cefotaxime if GNB suspected
+
+- **MRSA-prevalent areas**
+  - Use vancomycin or clindamycin (if local susceptibility permits)
+
+- **Sickle cell disease**
+  - Cover *Salmonella* (ceftriaxone)
+
+Duration:  
+- IV for 1–2 weeks → Oral to complete 3–4 weeks, depending on organism and clinical response.
+
+### 2. Joint Drainage
+Drainage reduces intra-articular pressure and prevents cartilage necrosis.
+
+Options:
+
+- Needle aspiration (often adequate for superficial joints)
+- Arthroscopic drainage
+- Open surgical drainage (hip, shoulder, delayed cases)
+
+### 3. Supportive Care
+- Analgesia
+- Immobilization initially, then early mobilization after 48–72 hours of improvement
+- Treatment of underlying sepsis
+
+### 4. Monitor Response
+- Clinical improvement (fever resolution, reduced pain)
+- Trend CRP every 48–72 hours
+- Repeat ultrasound if effusion persists
+
+## Complications
+Delayed or inadequate treatment may lead to:
+
+- Joint destruction
+- Growth plate damage → limb length discrepancy
+- Pathological dislocations (especially hip)
+- Chronic osteomyelitis
+- Persistent functional disability
+
+Early detection significantly improves outcomes.
+
+## Prognosis
+With prompt diagnosis and appropriate therapy, most children recover fully. However, hip involvement, neonates, and delayed presentation (>4 days) are associated with worse outcomes.
+
+## Summary
+Septic arthritis is a paediatric emergency requiring high clinical suspicion and prompt treatment. Haematogenous spread is the primary route, with *Staphylococcus aureus* the most common pathogen across all age groups. Early joint drainage and timely antibiotic therapy are essential to prevent long-term morbidity. Children in Ghana and West Africa may face unique challenges due to late presentation and limited imaging resources, making clinical acumen especially important.
+
+## Further Reading
+- Nelson Textbook of Pediatrics – Chapter on Septic Arthritis  
+- WHO Guidelines on Management of Childhood Infections  
+- British Society for Paediatric and Adolescent Rheumatology (BSPAR) Guidelines  
+- Paediatric Infectious Diseases Society (PIDS) recommendations  
+

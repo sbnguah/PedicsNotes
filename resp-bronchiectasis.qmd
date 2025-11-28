@@ -147,7 +147,7 @@ Symptoms often begin after a severe pneumonia or gradually over months to years.
 -   Full blood count (leucocytosis in infections)
 -   Sputum culture (including TB workup)
 -   HIV testing where indicated
--   Immunoglobulin levels if immunodeficiency suspected
+-   Immunoglobulin levels if immunodeficiency is suspected
 
 ### Other Tests
 
@@ -171,7 +171,7 @@ Management goals:
 1.  Reduce symptoms
 2.  Prevent exacerbations
 3.  Improve lung function
-4.  Prevent further lung damage
+4.  Prevent further lung damage.
 
 ### Airway Clearance Techniques (Core Treatment)
 
@@ -197,7 +197,7 @@ Parents should be trained to perform airway clearance at home.
 ### Bronchodilators
 
 -   Useful in children with coexisting wheeze
--   Consider salbutamol trial
+-   Consider a salbutamol trial.
 
 ### Anti-inflammatory Therapy
 
@@ -207,13 +207,13 @@ Parents should be trained to perform airway clearance at home.
 
 -   Remove foreign body
 -   Treat TB
--   Manage GERD and aspiration
+-   Manage GERD and aspiration.
 -   Treat immunodeficiency
 
 ### Vaccinations
 
 -   Ensure full immunisation
--   Annual influenza vaccination where available
+-   Annual influenza vaccination, where available
 -   Pneumococcal vaccine
 
 ### Nutritional Support
@@ -245,7 +245,7 @@ Parents should be trained to perform airway clearance at home.
     -   Delayed diagnosis
     -   Severe post-infectious disease
     -   Associated immunodeficiency
--   Lifelong follow-up may be needed
+-   Lifelong follow-up may be needed.
 
 ## Prevention
 
@@ -258,11 +258,12 @@ Parents should be trained to perform airway clearance at home.
 
 ## Key Points
 
--   Bronchiectasis is underdiagnosed in Ghana due to limited imaging access.
--   Chronic productive cough should prompt evaluation for bronchiectasis.
+-   Bronchiectasis is underdiagnosed in Ghana due to limited access to imaging.
+-   A chronic productive cough should prompt evaluation for bronchiectasis.
 -   Airway clearance is the cornerstone of therapy.
--   Antibiotics are essential for exacerbations and chronic infection control.
--   Preventive strategies—especially vaccination and pneumonia control—are critical.
+-   Antibiotics are essential for the treatment of exacerbations and for controlling chronic
+    infections.
+-   Preventive strategies—especially vaccination and pneumonia control are critical.
 
 ## Further Reading
 

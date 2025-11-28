@@ -1,79 +1,101 @@
 ---
 title: "Dog Bites"
-author: "Dr. Justice Sylverken"
+date: 2025-09-12
 ---
 
 ## Introduction
 
-Dog bites represent one of the most common animal-related injuries among children in Ghana and across West Africa. Children are particularly vulnerable due to their natural curiosity, lower height (which predisposes them to facial bites), and frequent interaction with domestic and stray dogs in many communities. Beyond the mechanical trauma, dog bites pose a significant risk for **rabies**, a nearly 100% fatal viral disease once clinical symptoms appear.
+Dog bites represent one of the most common animal-related injuries among children in Ghana and
+across West Africa. Children are particularly vulnerable due to their natural curiosity, lower
+height (which predisposes them to facial bites), and frequent interaction with domestic and stray
+dogs in many communities. Beyond the mechanical trauma, dog bites pose a significant risk for
+**rabies**, a nearly 100% fatal viral disease once clinical symptoms appear.
 
-This chapter provides a comprehensive and practical approach for medical students and paediatric residents, focusing on the epidemiology, clinical features, risk assessment, management strategies, and prevention of dog bites and associated rabies risk in the Ghanaian and West African context.
+This chapter provides a comprehensive and practical approach for medical students and paediatric
+residents, focusing on the epidemiology, clinical features, risk assessment, management strategies,
+and prevention of dog bites and associated rabies risk in the Ghanaian and West African context.
 
 ## Epidemiology of Dog Bites in Ghana and West Africa
 
-- Dog bites account for a large proportion of animal bite injuries treated in primary and secondary healthcare facilities.
-- Children under 15 years are disproportionately affected.
-- High incidence of **stray or unvaccinated dogs**, especially in peri-urban and rural communities.
-- Rabies remains endemic in Ghana, Nigeria, Sierra Leone, Liberia, and other parts of West Africa.
-- Seasonal peaks of dog bites occur during festive periods, market days, or community gatherings where dogs mix freely with humans.
+-   Dog bites account for a large proportion of animal bite injuries treated in primary and
+    secondary healthcare facilities.
+-   Children under 15 years are disproportionately affected.
+-   High incidence of **stray or unvaccinated dogs**, especially in peri-urban and rural
+    communities.
+-   Rabies remains endemic in Ghana, Nigeria, Sierra Leone, Liberia, and other parts of West Africa.
+-   Seasonal peaks of dog bites occur during festive periods, market days, or community gatherings
+    where dogs mix freely with humans.
 
-The majority of bites occur at home or within the neighbourhood, often from familiar dogs rather than wild or unknown animals.
+The majority of bites occur at home or within the neighbourhood, often from familiar dogs rather
+than wild or unknown animals.
 
 ## Pathophysiology
 
 Dog bites cause two broad types of harm:
 
 ### Mechanical Injury
-- Puncture wounds, lacerations, crush injuries, and avulsions.
-- Facial bites are common in children due to their height.
-- Deep tissue injury may involve muscles, blood vessels, and nerves.
-- Risk of secondary infection due to oral bacteria.
+
+-   Puncture wounds, lacerations, crush injuries, and avulsions.
+-   Facial bites are common in children due to their height.
+-   Deep tissue injury may involve muscles, blood vessels, and nerves.
+-   Risk of secondary infection due to oral bacteria.
 
 ### Infectious Risks
-#### Bacterial Infections
-Polymicrobial flora including:
 
-- *Pasteurella multocida*
-- *Capnocytophaga canimorsus*
-- *Staphylococcus aureus*
-- *Streptococcus* species
-- Anaerobes
+#### Bacterial Infections
+
+Polymicrobial flora, including:
+
+-   *Pasteurella multocida*
+-   *Capnocytophaga canimorsus*
+-   *Staphylococcus aureus*
+-   *Streptococcus* species
+-   Anaerobes
 
 #### Rabies Virus
-Rabies is transmitted via saliva from an infected dog’s bite, scratch, or lick on broken skin or mucous membranes. Once symptoms develop, rabies is universally fatal.
+
+Rabies is transmitted via saliva from an infected dog’s bite, scratch, or lick on broken skin or
+mucous membranes. Once symptoms develop, rabies is universally fatal.
 
 ## Clinical Assessment
 
 A structured assessment is essential for optimal care.
 
 ### History Taking
-- Time and location of bite.
-- Dog characteristics: owned, stray, vaccinated, unprovoked attack.
-- First aid applied before presentation.
-- Associated symptoms: fever, pain, swelling, excessive bleeding.
-- Child’s **tetanus immunization status**.
-- Any underlying comorbidities: diabetes, immunosuppression.
+
+-   Time and location of bite.
+-   Dog characteristics: owned, stray, vaccinated, unprovoked attack.
+-   First aid applied before presentation.
+-   Associated symptoms: fever, pain, swelling, excessive bleeding.
+-   Child’s **tetanus immunisation status**.
+-   Any underlying comorbidities: diabetes, immunosuppression.
 
 ### Physical Examination
-- ABC stabilisation for severe injuries.
-- Examine the bite site:
-  - Depth, size, location.
-  - Signs of infection: erythema, pus, swelling.
-  - Devitalised tissue or exposed structures.
-- Assess neurovascular status of the affected limb.
-- Look for multiple bite wounds.
+
+-   ABC stabilisation for severe injuries.
+-   Examine the bite site:
+    -   Depth, size, location.
+    -   Signs of infection: erythema, pus, swelling.
+    -   Devitalised tissue or exposed structures.
+-   Assess the neurovascular status of the affected limb.
+-   Look for multiple bite wounds.
 
 ## Classification of Dog Bites
 
 ### Severity Levels
-- **Minor:** superficial scratches, small punctures.
-- **Moderate:** deeper lacerations without neurovascular involvement.
-- **Severe:** extensive tissue damage, facial bites, deep punctures, exposed bone/muscle, neurovascular injury.
+
+-   **Minor:** superficial scratches, small punctures.
+-   **Moderate:** deeper lacerations without neurovascular involvement.
+-   **Severe:** extensive tissue damage, facial bites, deep punctures, exposed bone/muscle,
+    neurovascular injury.
 
 ### WHO Rabies Exposure Categories
-- **Category I:** Touching or feeding dog; licks on intact skin. → *No PEP required.*
-- **Category II:** Nibbling of uncovered skin, minor scratches without bleeding. → *Vaccine required.*
-- **Category III:** Single or multiple transdermal bites/scratches, saliva on mucosa, or bat exposure. → *Vaccine + Rabies Immunoglobulin (RIG) required.*
+
+-   **Category I:** Touching or feeding dog; licks on intact skin. → *No PEP required.*
+-   **Category II:** Nibbling of uncovered skin, minor scratches without bleeding. → *Vaccine
+    required.*
+-   **Category III:** Single or multiple transdermal bites/scratches, saliva on mucosa, or bat
+    exposure. → *Vaccine + Rabies Immunoglobulin (RIG) required.*
 
 In practice, most dog bites in children in Ghana are **Category III**.
 
@@ -81,113 +103,126 @@ In practice, most dog bites in children in Ghana are **Category III**.
 
 Most cases are clinical; however, investigations may include:
 
-- Wound swab (if purulent discharge)
-- Full blood count (if infection suspected)
-- X-ray (for foreign bodies, fractures, or gas in soft tissues)
-- Blood glucose (in severe infections or diabetic children)
+-   Wound swab (if purulent discharge)
+-   Full blood count (if infection suspected)
+-   X-ray (for foreign bodies, fractures, or gas in soft tissues)
+-   Blood glucose (in severe infections or diabetic children)
 
 ## Management
 
 ### Immediate Wound Care
+
 This is the most important step in preventing infection and rabies.
 
-- Wash the wound thoroughly with **soap under running water for at least 15 minutes**.
-- Irrigate with large volumes of normal saline.
-- Avoid aggressive scrubbing of deep wounds.
-- Do **not** suture most bite wounds primarily because of infection risk.
-  - Exceptions: facial wounds (better blood supply) may be sutured after careful cleaning.
+-   Wash the wound thoroughly with **soap under running water for at least 15 minutes**.
+-   Irrigate with large volumes of normal saline.
+-   Avoid aggressive scrubbing of deep wounds.
+-   Do **not** suture most bite wounds primarily because of infection risk.
+    -   Exceptions: facial wounds (better blood supply) may be sutured after careful cleaning.
 
 ### Tetanus Prophylaxis
+
 Follow national guidelines:
 
-- Give tetanus toxoid booster if last dose >5 years.
-- Tetanus immunoglobulin for unimmunised or unknown status.
+-   Give tetanus toxoid booster if last dose \>5 years.
+-   Tetanus immunoglobulin for unimmunised or unknown status.
 
 ### Antibiotic Therapy
+
 #### Indications
-- Moderate and severe bites
-- Deep punctures
-- Bites to hands, face, or genital region
-- Immunosuppressed children
-- Presence of signs of infection
+
+-   Moderate and severe bites
+-   Deep punctures
+-   Bites to hands, face, or genital region
+-   Immunosuppressed children
+-   Presence of signs of infection
 
 #### Recommended Antibiotics
-- **Amoxicillin–clavulanate** (first line)
-- Alternatives:
-  - Doxycycline + metronidazole (≥8 years)
-  - Cotrimoxazole + clindamycin
+
+-   **Amoxicillin–clavulanate** (first line)
+-   Alternatives:
+    -   Doxycycline + metronidazole (≥8 years)
+    -   Cotrimoxazole + clindamycin
 
 Duration: 3–5 days for prophylaxis; 7–14 days for established infection.
 
 ### Rabies Post-Exposure Prophylaxis (PEP)
 
 #### Vaccine
-- WHO-approved cell-culture vaccines preferred.
-- Regimens:
-  - **IM schedule:** Days 0, 3, 7, 14, and 28.
-  - **ID schedule:** 2-site ID regimen on days 0, 3, 7, and 28 (if available).
+
+-   WHO-approved cell-culture vaccines preferred.
+-   Regimens:
+    -   **IM schedule:** Days 0, 3, 7, 14, and 28.
+    -   **ID schedule:** 2-site ID regimen on days 0, 3, 7, and 28 (if available).
 
 #### Rabies Immunoglobulin (RIG)
+
 Indicated for **all Category III exposures**.
 
-- Infiltrate as much as possible into and around the wound.
-- Remaining volume administered intramuscularly at a site distant from the vaccine.
+-   Infiltrate as much as possible into and around the wound.
+-   The remaining volume is administered intramuscularly at a site distant from the vaccine.
 
-*Note:* RIG availability in Ghana may be limited. In its absence, proceed with wound cleaning and vaccination.
+*Note:* RIG availability in Ghana may be limited. In its absence, proceed with wound cleaning and
+vaccination.
 
 ### Pain Management
-- Paracetamol or ibuprofen.
-- Opiates for severe injuries.
+
+-   Paracetamol or Ibuprofen.
+-   Opiates for severe injuries.
 
 ### Surgical Intervention
+
 Indicated for:
 
-- Large tissue loss
-- Facial injuries for cosmetic repair
-- Neurovascular injury
-- Infected wounds needing debridement
+-   Large tissue loss
+-   Facial injuries for cosmetic repair
+-   Neurovascular injury
+-   Infected wounds needing debridement
 
 ## Complications
 
-- Secondary bacterial infection
-- Cellulitis and abscesses
-- Necrotising fasciitis (rare)
-- Osteomyelitis (late complication)
-- Scarring or disfigurement (especially facial)
-- Rabies infection – *fatal once symptomatic*
-- Psychological trauma (fear, anxiety)
+-   Secondary bacterial infection
+-   Cellulitis and abscesses
+-   Necrotising fasciitis (rare)
+-   Osteomyelitis (late complication)
+-   Scarring or disfigurement (especially facial)
+-   Rabies infection – *fatal once symptomatic*
+-   Psychological trauma (fear, anxiety)
 
 ## Prevention and Public Health Strategies
 
 ### Community Measures
-- Strengthening mass dog vaccination campaigns.
-- Reducing stray dog populations through humane management.
-- Enforcement of responsible pet ownership laws.
+
+-   Strengthening mass dog vaccination campaigns.
+-   Reducing stray dog populations through humane management.
+-   Enforcement of responsible pet ownership laws.
 
 ### Household Level
-- Keep dogs vaccinated and restrained.
-- Educate children on safe behaviour:
-  - Do not disturb dogs while eating or sleeping.
-  - Avoid provoking or teasing animals.
+
+-   Keep dogs vaccinated and restrained.
+-   Educate children on safe behaviour:
+    -   Do not disturb dogs while eating or sleeping.
+    -   Avoid provoking or teasing animals.
 
 ### Healthcare System
-- Training frontline healthcare workers to recognise and manage rabies exposures.
-- Ensuring availability of vaccines and immunoglobulin.
+
+-   Training frontline healthcare workers to recognise and manage rabies exposures.
+-   Ensuring availability of vaccines and immunoglobulin.
 
 ## Key Points for Medical Students and Residents
 
-- Treat *every dog bite* as potentially rabies-exposing until proven otherwise.
-- Thorough wound cleaning is the most effective infection-preventive step.
-- Avoid primary closure unless cosmetic need outweighs infection risk.
-- Always assess WHO rabies exposure category.
-- Start rabies PEP promptly—delay can be fatal.
-- Provide clear discharge advice and ensure follow-up for vaccine schedules.
+-   Treat *every dog bite* as potentially rabies-exposing until proven otherwise.
+-   Thorough wound cleaning is the most effective step in preventing infection.
+-   Avoid primary closure unless the cosmetic need outweighs the infection risk.
+-   Always assess the WHO rabies exposure category.
+-   Start rabies PEP promptly—delay can be fatal.
+-   Provide clear discharge advice and ensure follow-up for vaccine schedules.
 
 ## Further Reading
 
-1. World Health Organization. Rabies: Epidemiology and guidelines for post-exposure prophylaxis.
-2. Ministry of Health Ghana. Standard Treatment Guidelines.
-3. Manning SE et al. Human Rabies Prevention — Recommendations of the Advisory Committee on Immunization Practices.
-4. Warrell MJ, Warrell DA. Rabies and other lyssavirus diseases. *Manson's Tropical Diseases*.
-5. CDC Rabies Resources for Healthcare Professionals.
-
+1.  World Health Organization. Rabies: Epidemiology and guidelines for post-exposure prophylaxis.
+2.  Ministry of Health Ghana. Standard Treatment Guidelines.
+3.  Manning SE et al. Human Rabies Prevention — Recommendations of the Advisory Committee on
+    Immunization Practices.
+4.  Warrell MJ, Warrell DA. Rabies and other lyssavirus diseases. *Manson's Tropical Diseases*.
+5.  CDC Rabies Resources for Healthcare Professionals.
