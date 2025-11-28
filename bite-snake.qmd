@@ -48,7 +48,6 @@ anxiety and medical attention.
 
 1.  **Neurotoxic Venom (e.g., mambas, cobras):**
     -   Acts on neuromuscular junctions
-
     -   Leads to paralysis and respiratory arrest
 2.  **Cytotoxic Venom (e.g., puff adder):**
     -   Causes tissue destruction and necrosis
@@ -178,15 +177,10 @@ Laboratory Investigations**:**
 ## Complications
 
 -   **Acute Kidney Injury (AKI):** Hemoglobinuria or hypotension may lead to renal damage
-
 -   **Compartment Syndrome:** Due to excessive swelling; requires surgical fasciotomy
-
 -   **Limb Loss:** From severe necrosis or gangrene
-
 -   **Shock:** From venom or sepsis
-
 -   **Chronic Sequelae:**
-
     -   Disfigurement
     -   Reduced limb function
     -   Psychosocial issues
@@ -221,9 +215,9 @@ Laboratory Investigations**:**
 
 ## Special Considerations in Ghana
 
--   Traditional beliefs often delay hospital treatment
+-   Traditional beliefs often delay hospital treatment.
 -   Transportation difficulties in rural areas
--   Cost of antivenom, though often subsidized, remains a barrier
+-   Cost of antivenom, though often subsidised, remains a barrier.
 -   Lack of access to ventilators in some facilities hinders care for neurotoxic bites
 
 ## Case Study (Example)

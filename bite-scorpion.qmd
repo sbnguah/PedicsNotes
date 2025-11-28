@@ -1,4 +1,192 @@
 ---
 title: "Scorpion Stings"
-author: "Dr. Justice Sylverken"
+date: 2025-11-07
 ---
+## Introduction
+
+Scorpion stings are an important but often under-recognised cause of acute paediatric morbidity in many parts of West Africa, including northern Ghana. While most scorpion stings cause only local pain and swelling, some species—particularly those belonging to the *Buthidae* family—can cause severe systemic envenomation. Children are disproportionately affected due to their smaller body mass and increased vulnerability to venom toxicity.
+
+This chapter provides an evidence-based and contextually appropriate guide for medical students and paediatric residents on the clinical features, diagnosis, and management of scorpion stings, with emphasis on species found in Ghana and neighbouring West African countries.
+
+## Epidemiology
+
+- Scorpions are common in **Northern Ghana**, arid areas of the Upper East and Upper West Regions, and throughout Sahelian West Africa.
+- Stings occur mostly during the **dry season** when scorpions enter homes, firewood piles, shoes, and bedding.
+- Children under 12 years have a higher risk of severe systemic effects.
+- Mortality from severe stings across Africa is highest in infants and young children.
+
+Common medically important scorpion families in West Africa:
+
+- **Buthidae** (most dangerous)
+- **Scorpionidae** (less toxic but painful)
+
+## Pathophysiology
+
+Scorpion venom is a complex mixture of neurotoxins, cardiotoxins, and inflammatory mediators. The predominant mechanism is overstimulation of the **autonomic nervous system**.
+
+### Neurotoxic Effects
+- Alpha- and beta-toxins affect sodium and potassium channels.
+- Results in massive catecholamine release (epinephrine, norepinephrine).
+- Leads to sympathetic overactivity.
+
+### Parasympathetic Effects
+- Salivation, sweating, vomiting, bronchorrhoea.
+
+### Cardiovascular Effects
+- Myocarditis, arrhythmias, and cardiogenic pulmonary oedema may occur.
+
+### Local Effects
+- Intense pain
+- Erythema and swelling
+- Secondary infection is rare
+
+## Clinical Features
+
+Severity varies from mild local reactions to life-threatening systemic involvement.
+
+### Local Features
+- Immediate, intense pain  
+- Burning, tingling  
+- Minimal swelling or erythema  
+- Pain out of proportion to visible injury  
+
+### Systemic Features
+
+Systemic envenomation is more common in children.
+
+#### Autonomic Storm
+- Profuse sweating  
+- Salivation and lacrimation  
+- Vomiting  
+- Priapism in boys  
+
+#### Cardiovascular
+- Tachycardia or bradycardia  
+- Hypertension (early)  
+- Hypotension (late/severe)  
+- Arrhythmias  
+- Shock  
+
+#### Respiratory
+- Tachypnoea  
+- Wheezing  
+- Pulmonary oedema  
+- Respiratory failure  
+
+#### Neurological
+- Agitation  
+- Muscle twitching  
+- Ataxia  
+- Seizures (rare)  
+
+### Grading Severity
+- **Mild:** Local symptoms only  
+- **Moderate:** Local + mild systemic features  
+- **Severe:** Autonomic storm, shock, respiratory distress  
+
+## Investigations
+
+Diagnosis is mainly clinical. Useful tests include:
+
+- Regular monitoring of vitals  
+- Serum electrolytes and glucose  
+- ECG for arrhythmias  
+- Chest X-ray if pulmonary oedema suspected  
+- Echocardiography in severe cases  
+
+Do not delay treatment for investigations.
+
+## Management
+
+### First Aid at Community Level
+Caregivers should:
+- Keep the child calm and still  
+- Wash the site with soap and water  
+- Avoid incisions, suction, herbs, or tight tourniquets  
+- Avoid direct ice application  
+
+### Analgesia
+- **Paracetamol** or **ibuprofen** for mild pain  
+- **Morphine** for severe pain (avoid pethidine)  
+
+### Local Care
+- Clean with antiseptic  
+- Cold compress (not direct ice)  
+- Tetanus prophylaxis  
+
+### Management of Systemic Envenomation
+
+#### Supportive Care (Mainstay in Ghana)
+- Oxygen as needed  
+- Establish IV access  
+- Continuous monitoring  
+- Benzodiazepines for agitation  
+
+#### Cardiovascular Support
+- Treat severe hypertension with hydralazine  
+- Use cautious IV fluids for hypotension  
+- Consider inotropes for persistent shock  
+- Use diuretics for pulmonary oedema  
+
+#### Neurological Care
+- Benzodiazepines for seizures  
+- Correct hypoxia and metabolic abnormalities  
+
+### Antivenom
+- Highly effective but **rarely available** in Ghana  
+- Use in moderate to severe cases where available  
+- Monitor closely for anaphylaxis  
+
+### Antibiotics
+Not routinely required; consider only if:
+
+- Cellulitis  
+- Immunosuppression  
+- Secondary bacterial infection suspected  
+
+## Complications
+
+- Cardiogenic pulmonary oedema  
+- Shock  
+- Arrhythmias  
+- Myocarditis  
+- Acidosis  
+- Multiorgan dysfunction (rare)  
+- Death  
+
+## Prognosis
+
+- Most children recover completely with timely supportive care.  
+- Severe stings can be fatal without quick intervention.  
+- Early recognition and good supportive care improve outcomes significantly.
+
+## Prevention
+
+### Community-Level
+- Clear debris and firewood around homes  
+- Shake out clothing and shoes  
+- Use bed nets  
+- Improve household lighting  
+- Public education campaigns  
+
+### Health System-Level
+- Improve emergency care capacity  
+- Advocate for availability of antivenoms  
+- Strengthen referral systems  
+
+## Key Points
+
+- Scorpion stings are an important cause of paediatric emergencies in northern Ghana.  
+- Autonomic storm is characteristic of severe envenomation.  
+- Supportive care is the main treatment due to limited antivenom availability.  
+- Children can deteriorate quickly—continuous monitoring is critical.  
+- Prevention strategies reduce incidence substantially.  
+
+## Further Reading
+
+1. Chippaux JP. Emerging options for the treatment of scorpion stings. *Toxicon*.  
+2. Ministry of Health Ghana. **Standard Treatment Guidelines**.  
+3. WHO. *Scorpion Sting: Treatment and Prevention Manual*.  
+4. Ismail M. The scorpion envenoming syndrome. *Toxicon*.  
+5. Boyer LV. Management of scorpion stings in children. *Pediatric Emergency Care*.  
+

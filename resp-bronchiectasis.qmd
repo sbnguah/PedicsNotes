@@ -1,0 +1,273 @@
+---
+title: "Bronchiectasis"
+date: 2025-09-20
+---
+
+## Introduction
+
+Bronchiectasis is a chronic pulmonary disorder characterised by irreversible dilatation and
+distortion of the bronchi, associated with chronic inflammation, impaired mucociliary clearance, and
+recurrent respiratory infections. Although once thought to be rare, bronchiectasis remains a
+significant cause of childhood morbidity in many low- and middle-income countries, including Ghana.
+
+In West Africa, persistent respiratory infections, tuberculosis, post-measles complications, and
+poorly treated severe pneumonias contribute substantially to the burden of disease. For clinicians,
+early recognition is crucial because timely treatment improves quality of life and reduces long-term
+lung damage.
+
+This chapter provides a comprehensive overview of bronchiectasis in children, tailored to the
+realities of clinical practice in Ghana and neighbouring countries.
+
+## Epidemiology
+
+-   Bronchiectasis prevalence is under-reported in Africa due to limited diagnostic capacity,
+    especially the low availability of CT scans.
+-   Higher prevalence occurs in areas with:
+    -   High rates of **severe pneumonia**, **tuberculosis**, and **HIV**.
+    -   Delayed access to quality healthcare.
+    -   Malnutrition and environmental exposures such as indoor air pollution.
+-   In Ghana, common antecedents include:
+    -   Recurrent pneumonia
+    -   Post-TB lung disease
+    -   Severe measles
+    -   Foreign body aspiration
+    -   Chronic aspiration from neurological impairment
+
+Worldwide, non–cystic fibrosis (non-CF) bronchiectasis is more common in LMICs than CF-related
+bronchiectasis.
+
+## Pathophysiology
+
+Bronchiectasis develops through a “vicious cycle” (or “vicious vortex”) of:
+
+### Infection
+
+Recurrent or severe infections initiate inflammation and disrupt mucociliary clearance.
+
+### Inflammation
+
+Neutrophil-dominated inflammation leads to the release of proteases and oxidative stress, damaging
+bronchial walls.
+
+### Impaired Mucociliary Clearance
+
+Damaged cilia and thick mucus impair clearance, predisposing to persistent infection.
+
+### Structural Damage
+
+Bronchial dilatation becomes irreversible, leading to airflow obstruction, mucus plugging, and
+parenchymal destruction.
+
+Factors contributing in Ghana include:
+
+-   Delayed treatment of pneumonia and TB
+-   Inadequate immunisation (especially measles)
+-   Chronic aspiration from gastro-oesophageal reflux
+
+## Aetiology
+
+Common causes in children:
+
+### Post-Infectious (Most Common in Ghana)
+
+-   **Severe bacterial pneumonia**
+-   **Tuberculosis**
+-   **Post-viral infections**: measles, pertussis, adenovirus
+
+### Congenital and Genetic
+
+-   Cystic fibrosis (rare in West Africa)
+-   Primary ciliary dyskinesia
+-   Primary immunodeficiency
+
+### Obstruction
+
+-   Retained foreign body
+-   Tumours (rare)
+
+### Aspiration-Related
+
+-   Neuromuscular disorders
+-   Severe GERD
+-   Recurrent aspiration syndromes
+
+### Immunodeficiency
+
+-   HIV
+-   Antibody deficiency (e.g., IgG subclass deficiency)
+
+## Clinical Features
+
+Symptoms often begin after a severe pneumonia or gradually over months to years.
+
+### Respiratory Symptoms
+
+-   Chronic wet or productive cough (hallmark)
+-   Sputum that is:
+    -   Mucoid or purulent
+    -   Persistent despite antibiotic use
+-   Recurrent or persistent pneumonia
+-   Wheezing or breathlessness
+-   Exercise intolerance
+
+### Systemic Features
+
+-   Failure to thrive
+-   Fatigue
+-   Digital clubbing in advanced disease
+
+### Physical Examination
+
+-   Crackles (coarse, persistent)
+-   Wheezing
+-   Signs of hyperinflation
+-   Chest deformities (in chronic severe disease)
+
+## Investigations
+
+### Imaging
+
+**Chest X-ray (CXR)**
+
+-   May show:
+    -   Tram-track lines
+    -   Peribronchial thickening
+    -   Atelectasis
+    -   Hyperinflation
+-   Limited sensitivity; a normal CXR does not exclude disease.
+
+**High-Resolution CT Scan (Gold Standard)**
+
+-   Confirms diagnosis
+-   Shows bronchial dilatation (broncho-arterial ratio \>1), lack of tapering, signet-ring sign
+-   Not always accessible in rural Ghana.
+
+### Laboratory Tests
+
+-   Full blood count (leucocytosis in infections)
+-   Sputum culture (including TB workup)
+-   HIV testing where indicated
+-   Immunoglobulin levels if immunodeficiency suspected
+
+### Other Tests
+
+-   Spirometry (for children ≥5 years): obstructive pattern
+-   Bronchoscopy:
+    -   Suspected foreign body
+    -   Localised bronchiectasis
+
+## Differential Diagnosis
+
+-   Uncontrolled asthma
+-   Recurrent pneumonia due to underlying immunodeficiency
+-   Cystic fibrosis (rare locally, but consider in persistent cases)
+-   Post-TB lung disease
+-   Chronic aspiration syndromes
+
+## Management
+
+Management goals:
+
+1.  Reduce symptoms
+2.  Prevent exacerbations
+3.  Improve lung function
+4.  Prevent further lung damage
+
+### Airway Clearance Techniques (Core Treatment)
+
+-   Chest physiotherapy
+-   Postural drainage
+-   Percussion and vibration
+-   Oscillatory PEP devices (e.g., Flutter valve) if available
+
+Parents should be trained to perform airway clearance at home.
+
+### Antibiotics
+
+#### Acute Exacerbations
+
+-   Amoxicillin–clavulanate (first-line)
+-   Alternatives: cefuroxime, macrolides (if atypical pathogens suspected)
+-   Duration: **10–14 days**
+
+#### Chronic Colonisation
+
+-   Long-term macrolide therapy can reduce exacerbations, but requires specialist oversight.
+
+### Bronchodilators
+
+-   Useful in children with coexisting wheeze
+-   Consider salbutamol trial
+
+### Anti-inflammatory Therapy
+
+-   Inhaled corticosteroids are *not routinely indicated* unless asthma overlaps.
+
+### Management of Underlying Causes
+
+-   Remove foreign body
+-   Treat TB
+-   Manage GERD and aspiration
+-   Treat immunodeficiency
+
+### Vaccinations
+
+-   Ensure full immunisation
+-   Annual influenza vaccination where available
+-   Pneumococcal vaccine
+
+### Nutritional Support
+
+-   High-calorie diet for children with chronic disease
+-   Treat malnutrition aggressively
+
+### Surgical Intervention
+
+-   Consider **lobectomy** in children with:
+    -   Localised bronchiectasis
+    -   Recurrent severe infections
+    -   Failure to respond to medical therapy
+-   Only after thorough evaluation
+
+## Complications
+
+-   Recurrent pneumonia
+-   Haemoptysis
+-   Lung abscess
+-   Respiratory failure
+-   Pulmonary hypertension (rare but serious)
+-   Reduced quality of life and growth failure
+
+## Prognosis
+
+-   Good if diagnosed early and managed appropriately
+-   Poorer outcomes in:
+    -   Delayed diagnosis
+    -   Severe post-infectious disease
+    -   Associated immunodeficiency
+-   Lifelong follow-up may be needed
+
+## Prevention
+
+-   Early and adequate treatment of pneumonia
+-   Prevention and early treatment of TB
+-   Prompt immunisation (especially measles, pertussis)
+-   Reduce indoor air pollution (charcoal and biomass exposure)
+-   Train caregivers in early recognition of respiratory symptoms
+-   Improve access to child health services
+
+## Key Points
+
+-   Bronchiectasis is underdiagnosed in Ghana due to limited imaging access.
+-   Chronic productive cough should prompt evaluation for bronchiectasis.
+-   Airway clearance is the cornerstone of therapy.
+-   Antibiotics are essential for exacerbations and chronic infection control.
+-   Preventive strategies—especially vaccination and pneumonia control—are critical.
+
+## Further Reading
+
+1.  Chang AB, Bush A. *Paediatric bronchiectasis: modern management.*
+2.  Ghana Health Service. **Standard Treatment Guidelines**.
+3.  WHO. *Pocket Book of Hospital Care for Children.*
+4.  Singleton RJ et al. *Bronchiectasis in childhood.* Lancet.
+5.  Al-Saleh S, et al. *Non-CF bronchiectasis in Africa and LMICs.*

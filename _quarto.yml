@@ -49,6 +49,7 @@ book:
         - resp-croup.qmd
         - resp-pneumonia.qmd
         - resp-broncho-dysp.qmd
+        - resp-bronchiectasis.qmd
     - part: "<span style='font-weight:bold; color: black;'>Cardiology</span>"
       chapters: 
         - cvs-intro.qmd

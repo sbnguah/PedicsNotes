@@ -2,3 +2,185 @@
 title: "General Approach"
 editor: visual
 ---
+
+## Introduction
+
+Animal bites and stings constitute a significant cause of paediatric morbidity in Ghana and across West Africa. Children are particularly vulnerable due to their curiosity, small body size, and increased likelihood of outdoor play in environments shared with domestic animals, insects, spiders, snakes, and other wildlife. Although many bites and stings result only in minor injuries, some can lead to severe envenomation, anaphylaxis, infections, or long-term disability if not evaluated and managed appropriately.
+
+This chapter provides a structured and practical guide for medical students and resident doctors, with emphasis on clinical decision-making in resource-limited settings typical of Ghana and neighbouring countries.
+
+## Epidemiology and Relevant Species in Ghana and West Africa
+
+- **High-risk regions** include rural farming communities, savannah areas, forest zones, and peri-urban settlements with poor waste management.
+- **Common offending animals**:
+  - *Snakes:* carpet viper (Echis ocellatus), puff adder, cobras, mambas.
+  - *Insects:* bees, wasps, hornets, ants.
+  - *Arachnids:* scorpions, spiders.
+  - *Mammals:* dogs (responsible for most rabies exposures), rodents, monkeys.
+  - *Marine creatures:* jellyfish and venomous fish (less common but present along the coast).
+
+The epidemiology is influenced by seasonal patterns (e.g., increased snakebites during farming season), rainfall, and human–animal interactions.
+
+## Pathophysiology Overview
+
+The pathological consequences of bites and stings depend on the offending organism:
+
+### Venomous Bites or Stings
+Venoms may contain:
+
+- **Neurotoxins** → paralysis, respiratory failure.
+- **Haemotoxins** → coagulopathy, DIC, bleeding.
+- **Cytotoxins** → tissue necrosis, compartment syndrome.
+- **Cardiotoxins** → arrhythmias, cardiovascular collapse.
+
+### Non-venomous Bites
+- Primarily cause **mechanical injury** and **bacterial contamination** (dogs, rodents, monkeys).
+- Polymicrobial infections: *Pasteurella*, *Staphylococcus*, *Streptococcus*, anaerobes, and in Ghana **Capnocytophaga** from dog bites.
+- Rabies virus transmission remains a critical concern in dog and wildlife bites.
+
+### Allergic and Anaphylactic Reactions
+Hymenoptera stings (bees, wasps, ants) can induce:
+
+- Local inflammatory reactions.
+- IgE-mediated anaphylaxis → airway compromise, shock.
+
+## Clinical Assessment
+
+### Initial Approach (ABCDE)
+1. **Airway**: Assess swelling, stridor, drooling—especially after bee/wasp stings and snakebite to the face or neck.
+2. **Breathing**: Evaluate respiratory distress, wheeze, apnoea (neurotoxic snake venom).
+3. **Circulation**: Check pulse, BP, perfusion; look for shock.
+4. **Disability**: Assess consciousness (AVPU/GCS), seizures, focal deficits.
+5. **Exposure**: Full examination to identify additional wounds or stings.
+
+### Key History
+- Time and place of bite/sting.
+- Type of animal (if known).
+- Number of stings/bites.
+- First aid provided (tourniquets, incision, suction—often harmful).
+- Symptoms: swelling, bleeding, dizziness, vomiting, paralysis, dark urine, difficulty breathing.
+- Vaccination status: **tetanus**.
+- Rabies exposure risk assessment.
+
+### Examination
+- Inspect the bite/sting site: puncture marks, necrosis, bleeding, swelling, blistering.
+- Measure limb circumference for progressive swelling.
+- Check for lymphadenopathy or lymphangitis.
+- Assess for systemic signs: ptosis, salivation, hypotension, hematuria.
+
+## Investigations
+
+Investigations depend on clinical severity and available resources.
+
+### Basic Tests
+- Full blood count (FBC)
+- Coagulation profile (PT/INR, APTT)
+- Serum electrolytes, urea, creatinine
+- Random blood glucose
+- Urinalysis (especially for haematuria, myoglobinuria)
+
+### Additional Tests (where available)
+- Creatine kinase (CK)
+- ECG (for severe envenomation, anaphylaxis)
+- Ultrasound of affected limb (if compartment syndrome suspected)
+
+Note: Diagnosis is primarily clinical in many Ghanaian facilities.
+
+## Principles of Management
+
+### First Aid (What to Do)
+- Keep the child calm and still.
+- Immobilise the affected part (splint for suspected snakebite).
+- Remove tight clothing or jewellery.
+- For bee stings: quickly scrape off the stinger.
+- For marine stings: rinse with seawater (not fresh water).
+- Transport promptly to a health facility.
+
+### First Aid (What *Not* to Do)
+- No incision or suction.
+- No application of black-stone, herbs, or chemicals.
+- No tourniquets (risk of ischemia and reperfusion injury).
+- No ice for snakebites (worsens tissue damage).
+
+##  Acute Hospital Management
+### Local Wound Care
+- Clean thoroughly with saline.
+- Debride devitalised tissue when indicated.
+- Avoid primary wound closure for dog or wild animal bites.
+
+### Analgesia
+- Paracetamol or ibuprofen for mild pain.
+- Opiates (morphine) for severe envenomation-related pain.
+
+### Treatment of Anaphylaxis
+- **Adrenaline IM (0.01 mg/kg of 1:1000)** into the anterolateral thigh.
+- Repeat every 5–10 minutes as needed.
+- Airway support, oxygen, IV fluids.
+- Antihistamines and steroids as adjuncts.
+
+### Antibiotics (When Indicated)
+- For infected wounds or high-risk bites (dog, monkey, deep puncture wounds).
+- Recommended: **Amoxicillin-clavulanate**.
+- Alternatives: doxycycline + metronidazole (≥8 years); clindamycin + cotrimoxazole.
+
+### Tetanus Prophylaxis
+- TT/Td booster if >5 years since last dose.
+- Tetanus immune globulin for non-immunised or uncertain history.
+
+### Rabies Post-Exposure Prophylaxis (PEP)
+Follow WHO exposure categories:
+- Category II: wound care + anti-rabies vaccine.
+- Category III: wound care + vaccine + rabies immunoglobulin (RIG).
+
+In Ghana, cell-culture vaccines are preferred; RIG may be limited.
+
+### Management of Venomous Bites or Stings
+- Administer **antivenom** when indicated:
+  - Coagulopathy
+  - Neuroparalysis
+  - Severe local swelling or necrosis
+- Supportive therapy: IV fluids, maintain airway, manage shock.
+
+### Monitoring
+- Hourly vitals initially.
+- Observe for progression of swelling.
+- Watch for nephrotoxicity, rhabdomyolysis, DIC.
+
+## Complications
+
+- Local infection or abscess
+- Cellulitis or necrotising fasciitis
+- Osteomyelitis (delayed presentation)
+- Anaphylaxis
+- Coagulopathy and internal bleeding
+- Acute kidney injury
+- Compartment syndrome
+- Rabies (100% fatal once symptoms start)
+- Chronic pain or psychological distress
+
+## Prevention Strategies in Ghana and West Africa
+
+- Use of protective clothing in farming and rural areas.
+- Education on safe handling of dogs and livestock.
+- Community-level dog vaccination programs to reduce rabies.
+- Safe storage of food and waste to reduce rodent populations.
+- Public education on avoiding barefoot walking in bushy areas.
+- School health programs teaching children basic safety around animals.
+
+## Key Points for Students and Residents
+
+- Always stabilise the child before focusing on the bite/sting.
+- Assume venomous injury if the offending animal is unknown and symptoms progress.
+- Rabies risk assessment is mandatory for all mammalian bites.
+- Avoid harmful traditional remedies.
+- Early antivenom, rabies PEP, and adrenaline for anaphylaxis save lives.
+- Clinical judgment is crucial in resource-limited environments.
+
+## Further Reading
+
+1. World Health Organization. Guidelines for management of snakebites in Africa.
+2. Ministry of Health, Ghana. Standard Treatment Guidelines.
+3. Warrell DA. Venomous bites, stings, and poisoning. In: Manson’s Tropical Diseases.
+4. CDC Rabies Post-Exposure Prophylaxis Guidelines.
+5. Brown SG. Anaphylaxis: Clinical concepts and management.
+
