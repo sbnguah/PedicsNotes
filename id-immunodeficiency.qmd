@@ -10,7 +10,7 @@ are absent, defective, or functionally impaired, resulting in increased suscepti
 infections, poor response to treatment, unusual infection patterns, and immune dysregulation. These
 conditions may be **primary (genetic)** or **secondary (acquired)**. Early recognition is essential
 because timely diagnosis and treatment can prevent severe morbidity and mortality, especially in
-low- and middle-income settings such as Ghana and West Africa where infectious disease burden is
+low- and middle-income settings such as Ghana and West Africa, where infectious disease burden is
 already high.
 
 ## Classification of Immunodeficiency

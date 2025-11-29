@@ -139,7 +139,6 @@ book:
         - derm-fungal.qmd
         - derm-alopecia.qmd
         - derm-eczema.qmd
-        - derm-dermatitis.qmd
         - derm-scabies.qmd
     - part: "<span style='font-weight:bold; color: black;'>Home Accidents</span>"
       chapters: 

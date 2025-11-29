@@ -1,4 +1,244 @@
 ---
 title: "Fungal Skin Infections"
-author: "Dr Akua Yeboah Senyah"
+date: 2025-10-21
 ---
+
+## Introduction
+Fungal skin infections (superficial mycoses) are common in children and represent an important cause of dermatological consultations in Ghana and across West Africa. They are caused primarily by dermatophytes, yeasts, and non-dermatophyte moulds. These infections typically involve keratinised tissues—skin, hair, and nails—and thrive in warm, humid climates such as those in the sub-region. 
+
+Although superficial fungal infections are rarely life-threatening, they contribute significantly to morbidity through itching, discomfort, school absenteeism, disfigurement, and social stigma. In some cases, secondary bacterial infection may occur, especially in resource-limited settings where delayed treatment is common. Understanding the pathology, clinical features, diagnostic approaches, and management of these infections is essential for paediatric trainees and frontline practitioners.
+
+## Epidemiology
+Fungal skin infections remain highly prevalent among Ghanaian children, especially in rural and peri-urban communities. Factors influencing prevalence include:
+
+- **Hot, humid climate** promoting fungal proliferation  
+- **Overcrowding** in homes and schools  
+- **Close contact** during play, school activities, or shared sleeping spaces  
+- **Poor hygiene and limited access to clean water**  
+- **Use of shared items** (combs, towels, hats)  
+- **Higher exposure in children aged 3–14 years**  
+- **Higher incidence in boys** for tinea capitis  
+- **Increased susceptibility in malnourished or immunocompromised children**  
+
+Tinea capitis (fungal infection of the scalp) is the commonest fungal infection seen in African children, often caused by *Trichophyton* and *Microsporum* species.
+
+## Aetiology and Classification
+Fungal skin infections can be categorised based on the causative organism or the anatomical region affected.
+
+### Dermatophytes
+Dermatophytes are the most common cause of superficial fungal infections in children. They include:
+
+- **Trichophyton** spp  
+- **Microsporum** spp  
+- **Epidermophyton** spp  
+
+Dermatophytes digest keratin, leading to infection of skin, hair, and nails (tinea infections).
+
+### Yeasts
+Yeast infections include:
+
+- **Candida albicans** – diaper dermatitis, intertrigo  
+- **Malassezia furfur** – pityriasis (tinea) versicolor  
+
+### Moulds
+Non-dermatophyte moulds such as *Aspergillus* and *Scopulariopsis* cause less common infections, usually in nails.
+
+### Common Types of Fungal Skin Infections
+- **Tinea capitis** – scalp  
+- **Tinea corporis** – trunk and limbs  
+- **Tinea faciei** – face  
+- **Tinea pedis** – feet  
+- **Tinea cruris** – groin  
+- **Tinea unguium** (onychomycosis) – nails  
+- **Pityriasis versicolor**  
+- **Cutaneous candidiasis**  
+
+## Pathophysiology
+The pathogenesis of fungal skin infections involves colonisation, invasion, and persistence of fungi on keratinised tissues.
+
+### Key Mechanisms
+1. **Adherence to keratinised surfaces** using enzymes and adhesion proteins  
+2. **Keratinase production**, allowing dermatophytes to digest keratin  
+3. **Immune evasion**, especially in hair shaft infections  
+4. **Invasion of the stratum corneum**, hair follicles, or nails  
+5. **Local inflammatory response**, producing characteristic lesions  
+
+### Host Factors
+- **Immature immunity in young children**  
+- **Malnutrition** weakening cutaneous defences  
+- **Eczema** predisposing to fungal colonisation  
+- **HIV infection**, increasing susceptibility to candidiasis  
+
+## Clinical Features
+
+### Tinea Capitis
+Most common in Ghanaian children.
+
+#### Clinical presentation:
+- Scalp scaling  
+- Hair loss (patchy or diffuse)  
+- Broken hairs (“black dot” sign)  
+- Occipital lymphadenopathy  
+- Kerion (boggy inflammatory mass) in severe inflammatory cases  
+- Post-inflammatory pigmentary changes  
+
+### Tinea Corporis (Ringworm)
+- Circular or annular lesions  
+- Raised, scaly borders with central clearing  
+- Occur on trunk, limbs, or face  
+
+### Tinea Pedis
+Less common in young children; more common in adolescents.
+
+- Interdigital maceration  
+- Peeling skin  
+- Itching and fissures  
+
+### Tinea Cruris
+- Occurs in adolescents  
+- Itchy erythematous lesions on groin and inner thighs  
+
+### Onychomycosis
+- Thickened, discoloured nails  
+- Nail plate distortion  
+- Often chronic and difficult to treat  
+
+### Pityriasis Versicolor
+- Fine scaling patches  
+- Hypopigmented or hyperpigmented lesions  
+- More common on upper trunk and neck  
+- Often recurrent in hot climates  
+
+### Cutaneous Candidiasis
+Common types:
+
+- **Diaper dermatitis** with satellite lesions  
+- **Oral thrush**  
+- **Intertrigo** in chubby infants  
+
+## Differential Diagnosis
+- Atopic dermatitis  
+- Seborrheic dermatitis  
+- Psoriasis  
+- Bacterial skin infections (impetigo)  
+- Vitiligo (for hypopigmented lesions)  
+- Alopecia areata (vs tinea capitis hair loss)  
+
+In resource-limited areas, tinea capitis is frequently misdiagnosed as dandruff or eczema.
+
+## Investigations
+Diagnosis is often clinical, but laboratory confirmation may be needed in:
+
+- Atypical presentations  
+- Recurrent infections  
+- Severe inflammatory forms  
+- Treatment failures  
+
+### Diagnostic Tools
+- **KOH preparation** – detects fungal hyphae  
+- **Fungal culture** – identifies organism (limited availability in Ghana)  
+- **Wood’s lamp** – some *Microsporum* species fluoresce  
+- **Dermatoscopy** – helps assess hair involvement  
+- **Skin scraping or nail clipping** for microscopy  
+
+When available, fungal culture guides long-term management, especially for onychomycosis.
+
+## Management
+
+### General Principles
+- Accurate diagnosis  
+- Appropriate topical or systemic antifungal therapy  
+- Treatment of secondary bacterial infection  
+- Addressing predisposing factors (hygiene, overcrowding)  
+- Education of caregivers  
+
+### Topical Antifungals
+Used for most superficial infections except tinea capitis and onychomycosis.
+
+- Clotrimazole  
+- Miconazole  
+- Ketoconazole  
+- Terbinafine  
+- Whitfield ointment (benzoic + salicylic acid)  
+- Selenium sulfide shampoo (for pityriasis versicolor)  
+
+### Systemic Antifungals
+Indicated for:
+
+- Tinea capitis  
+- Severe tinea corporis  
+- Onychomycosis  
+- Extensive candidiasis  
+
+Common agents:
+
+- Griseofulvin (first-line for tinea capitis)  
+- Terbinafine  
+- Itraconazole  
+- Fluconazole for candidiasis  
+
+### Management by Infection Type
+
+#### Tinea Capitis
+- **Griseofulvin** for 6–8 weeks (first-line)  
+- **Terbinafine** for *Trichophyton* infections  
+- Add **selenium sulfide** or **ketoconazole shampoo** to reduce transmission  
+- Treat kerion with steroids only if severe inflammation threatens scarring  
+
+#### Tinea Corporis / Faciei
+- Topical antifungals for 2–4 weeks  
+- Oral therapy if extensive  
+
+#### Pityriasis Versicolor
+- Selenium sulfide or ketoconazole shampoo  
+- Topical antifungal creams  
+- Recurrence is common in hot climates  
+
+#### Cutaneous Candidiasis
+- Topical nystatin or clotrimazole  
+- Treat underlying diaper dermatitis  
+- Keep area dry  
+
+## Prevention
+Prevention strategies are essential, especially in high-prevalence communities.
+
+### Individual-Level Measures
+- Good personal hygiene  
+- Avoid sharing combs, towels, hats  
+- Regular hair washing  
+- Proper diaper care  
+- Keeping skin dry  
+
+### Community-Level Measures
+- Health education in schools  
+- Screening of classmates in tinea capitis outbreaks  
+- Reducing overcrowding  
+- Improving access to water and sanitation  
+
+### Household Measures
+- Treat symptomatic family members  
+- Regular washing of clothing and bedding  
+- Avoid occlusive hairstyles that trap moisture  
+
+## Complications
+Although often benign, fungal skin infections may lead to:
+
+- **Secondary bacterial infection** (impetigo, cellulitis)  
+- **Permanent scarring or alopecia** (from untreated kerion)  
+- **Nail deformities**  
+- **Recurrent infections** in warm climates  
+- **Psychosocial impact** from visible lesions  
+
+## Key Points
+- Fungal skin infections are highly prevalent among Ghanaian children.  
+- Tinea capitis is the most common presentation, especially in school-aged children.  
+- Diagnosis is largely clinical, but microscopy may be useful in atypical cases.  
+- Topical antifungals treat most superficial infections; tinea capitis requires systemic therapy.  
+- Good hygiene, reduced overcrowding, and health education are essential preventive strategies.  
+
+## Further Reading
+- Nelson Textbook of Pediatrics – Dermatology and Infectious Diseases sections  
+- British Association of Dermatologists Guidelines  
+- WHO Dermatological Disease Guidelines  
+- Ghana Standard Treatment Guidelines (latest edition)  
+

@@ -1,4 +1,198 @@
 ---
 title: "Eczema"
-author: "Dr Akua Yeboah Senyah"
+date: 2024-06-20
 ---
+
+## Introduction
+Eczema, also known as dermatitis, refers to a group of inflammatory skin conditions characterized by pruritus, erythema, and varying degrees of dryness, scaling, and lichenification. In children, **atopic dermatitis (AD)** is the most common form, accounting for the majority of chronic paediatric skin consultations globally and in Ghana. Eczema significantly affects quality of life due to chronic itching, sleep disturbances, and recurrent infections. Families often seek care from multiple sources, including herbalists, pharmacies, and informal drug vendors, resulting in delays in appropriate treatment.
+
+In Ghana and West Africa, environmental triggers such as high humidity, dust exposure, poor sanitation, harsh detergents, and the widespread use of potent topical corticosteroids purchased over-the-counter all influence the profile and severity of paediatric eczema. Understanding local contributors, appropriate diagnosis, and rational therapy is essential for effective management.
+
+## Epidemiology
+- Atopic dermatitis affects **15–20% of children globally**, with increasing prevalence in urban African settings.
+- Ghanaian studies show rising incidence in infants and young children, especially in urban areas such as Accra, Kumasi, and Sekondi-Takoradi.
+- Onset is typically within the first 5 years of life; about 60% present before age 1.
+- Family history of atopy (asthma, allergic rhinitis, eczema) is common.
+- Flares often correspond with:
+  - Harmattan season (dry air, dust)
+  - Poor bathing practices
+  - Harsh skin products
+  - Socioeconomic stressors
+
+## Aetiology and Pathophysiology
+Eczema results from the interaction of **genetic**, **immunologic**, and **environmental** factors:
+
+### Genetic Factors
+- Filaggrin gene mutations lead to impaired skin barrier function, facilitating water loss and penetration of irritants and allergens.
+- Strong familial association with atopic diseases.
+
+### Immune Dysregulation
+- Skewing toward **Th2-mediated inflammation**, leading to excess IgE production and chronic hypersensitivity.
+- Increased susceptibility to Staphylococcus aureus colonisation and secondary infection.
+
+### Environmental Triggers
+Common Ghanaian triggers include:
+
+- Soaps with high pH, bleaching creams, and potent steroid-containing cosmetics.
+- Sweating, heat, and humidity.
+- Dust exposure during harmattan.
+- Harsh detergents used for washing clothes.
+- Certain topical herbal preparations.
+
+### Skin Barrier Dysfunction
+Leads to dryness, increased transepidermal water loss, and heightened sensitivity to irritants.
+
+## Clinical Features
+Eczema presents differently based on age:
+
+### Infantile Phase (0–2 years)
+- Cheeks, scalp, and extensor surfaces.
+- Vesicles, weeping, crusting.
+- Marked itching leading to sleep disruption.
+
+### Childhood Phase (2–12 years)
+- Flexural surfaces: elbows, knees, neck.
+- Lichenification due to chronic scratching.
+- Xerosis (dry skin) common.
+
+### Adolescent Phase
+- Flexural involvement persists.
+- Hand and foot dermatitis may appear.
+- Psychological impact increases.
+
+### General Features
+- Intense pruritus (hallmark symptom)
+- Erythema and scaling
+- Excoriations
+- Hyper- or hypopigmentation (post-inflammatory changes)
+- Secondary bacterial infection (pustules, honey-coloured crusts)
+
+### Complications
+- Impetigo due to Staphylococcus aureus
+- Viral infections such as eczema herpeticum
+- Sleep disturbance and behavioural issues
+- Growth impairment in severe cases (rare)
+
+## Differential Diagnosis
+- Seborrhoeic dermatitis  
+- Psoriasis  
+- Tinea corporis (ringworm)  
+- Scabies  
+- Contact dermatitis (irritant or allergic)  
+- Ichthyosis vulgaris  
+- Langerhans cell histiocytosis (rare)  
+
+## Investigations
+Eczema is largely a **clinical diagnosis**. Investigations are done selectively.
+
+### Optional Tests
+- **Skin swab** for suspected bacterial infection  
+- **KOH test** for fungal infections when ringworm is suspected  
+- **Full blood count** (eosinophilia may be present)  
+- **Serum IgE** levels (not routinely necessary)  
+- **Allergy testing** where available, for severe or atypical disease  
+
+Investigations should be targeted, especially in resource-limited settings.
+
+## Management
+Management involves addressing the **skin barrier**, **inflammation**, **infection**, and **triggers**.
+
+### 1. Parent and Caregiver Education
+Essential components:
+
+- Chronic nature of eczema  
+- Importance of daily skincare  
+- Avoidance of harsh products  
+- Early recognition of flares  
+- Misuse of topical steroids to be discouraged  
+
+### 2. Skin Barrier Repair
+#### Emollient Therapy
+First-line treatment for all patients:
+
+- Apply 2–4 times daily, especially after bathing.
+- Options include petroleum jelly, shea butter (unrefined), glycerin-based products.
+- Avoid perfumed lotions and creams.
+
+#### Bathing Practices
+- Short baths with lukewarm water.
+- Use mild, fragrance-free soaps.
+- Apply emollient within 3 minutes of drying (“soak and seal”).
+
+### 3. Control of Inflammation
+#### Topical Corticosteroids (TCS)
+- Mainstay of therapy for flares.
+- Potency selection:
+  - **Mild (e.g., hydrocortisone 1%)** for face and infants.
+  - **Moderate potency (e.g., betamethasone valerate 0.1%)** for trunk and limbs.
+- Apply thinly 1–2 times daily for 5–7 days, then taper.
+- Educate against chronic unsupervised use and use of potent OTC steroids mixed with bleaching creams.
+
+#### Topical Calcineurin Inhibitors
+- Tacrolimus or pimecrolimus (where available)
+- For steroid-sensitive areas (face, eyelids)
+
+### 4. Treatment of Infection
+Signs: oozing, crusting, pustules.
+- **Oral flucloxacillin** or **cephalexin** for bacterial infection.
+- **Acyclovir** for eczema herpeticum.
+- Avoid topical antibiotic overuse.
+
+### 5. Management of Itching
+- Oral antihistamines (e.g., chlorphenamine, cetirizine) to reduce itch and improve sleep.
+- Keep nails trimmed.
+
+### 6. Trigger Control
+- Avoid hot weather and sweating when possible.
+- Rinse clothes well after washing.
+- Avoid direct dust exposure, especially during harmattan.
+- Identify and eliminate irritants in hair products used by mothers on infants.
+
+### 7. Severe or Refractory Eczema
+Referral to specialist if:
+
+- Poor response to standard therapy  
+- Recurrent infections  
+- Diagnostic uncertainty  
+- Possible food allergies  
+- Severe lichenification  
+
+Systemic treatments (rarely used in Ghana):
+
+- Oral corticosteroids (short courses)
+- Cyclosporine  
+- Methotrexate  
+- Biologics (e.g., dupilumab)—generally unavailable/expensive  
+
+## Complications
+- Secondary bacterial infection  
+- Eczema herpeticum  
+- Sleep disturbance  
+- School absenteeism  
+- Psychosocial issues  
+- Growth concerns with chronic severe disease  
+- Skin discolouration causing social stigma  
+
+## Prevention
+- Exclusive breastfeeding for first 6 months  
+- Avoid strong detergents and perfumed soaps  
+- Early and consistent use of emollients  
+- Gentle bathing routines  
+- Avoidance of potent OTC steroid creams  
+- Education of caregivers on safe hairstyling and skin practices  
+
+## Key Points
+- Eczema is one of the most common chronic skin disorders in Ghanaian children.  
+- Skin barrier dysfunction and environmental triggers play major roles.  
+- Emollients are the foundation of therapy.  
+- Topical steroids are effective and safe when used correctly.  
+- Infections and irritants frequently worsen symptoms.  
+- Education is essential for long-term control.  
+
+## Further Reading
+1. Williams HC, et al. Atopic dermatitis. *Lancet.*  
+2. National Eczema Association Guidelines.  
+3. Agyepong T, et al. Paediatric dermatology patterns in Ghana.  
+4. Odhiambo JA, et al. Atopic eczema in Africa. *J Allergy Clin Immunol.*  
+5. Ghana Health Service Paediatric Dermatology Recommendations.
+

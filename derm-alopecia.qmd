@@ -1,4 +1,162 @@
 ---
 title: "Alopecia"
-author: "Dr Akua Yeboah Senyah"
+date: 2025-09-25
 ---
+
+## Introduction
+Alopecia refers to hair loss occurring in areas where hair is normally present. In children, alopecia can cause significant psychosocial distress to both the child and caregivers, especially in settings where cultural perceptions link hair with health, beauty, or spiritual meanings. In Ghana and West Africa, common causes of alopecia include tinea capitis, traction alopecia, and alopecia areata, but nutritional deficiencies, chronic illnesses, and harmful hair practices also contribute. Early recognition and appropriate management are essential to prevent permanent hair loss and improve quality of life.
+
+This chapter reviews the etiologies, clinical evaluation, differential diagnosis, and management of alopecia in children, incorporating local epidemiology and resource-sensitive approaches suitable for clinical practice in Ghana and the subregion.
+
+## Epidemiology
+Alopecia is relatively common in childhood, though prevalence estimates vary depending on population characteristics.
+
+- **Tinea capitis** is the most common cause of alopecia in school-aged children in Ghana and West Africa. Trichophyton soudanense and Microsporum audouinii predominate.
+- **Traction alopecia** is highly prevalent due to common hairstyling practices such as tight braiding, weaving, and repeated use of hair extensions.
+- **Alopecia areata** affects approximately 1–2% of children globally, with cases reported across West Africa.
+- **Nutritional alopecia** is associated with iron deficiency, kwashiorkor, and other micronutrient deficiencies, particularly in rural or food-insecure communities.
+- **Telogen effluvium** is often under-recognized but can occur after severe illness, malaria, surgery, emotional stress, or protein-energy malnutrition.
+
+## Classification of Alopecia
+Alopecia in children can be classified into:
+
+### Non-scarring Alopecia
+Hair follicles remain intact and regrowth is possible.
+
+- Tinea capitis  
+- Alopecia areata  
+- Telogen effluvium  
+- Traction alopecia (early stage)  
+- Nutritional deficiencies  
+- Endocrine causes (e.g., hypothyroidism)  
+
+### Scarring Alopecia
+Hair follicles are permanently destroyed.
+
+- Chronic untreated tinea capitis (kerion, favus)  
+- Late traction alopecia  
+- Lichen planopilaris  
+- Discoid lupus erythematosus  
+- Severe bacterial scalp infections  
+
+## Aetiology and Pathophysiology
+### Tinea Capitis
+Dermatophyte infection of the scalp leads to superficial fungal invasion of the hair shaft, inflammation, and patchy alopecia. Inflammatory types (kerion) may result in scarring if not treated early.
+
+### Alopecia Areata
+An autoimmune condition targeting the hair follicle bulb, leading to non-scarring hair loss. Trigger factors include genetics, stress, and associations with atopy or thyroid disease.
+
+### Traction Alopecia
+Prolongged tension from hairstyles commonly seen in young African girls leads to perifollicular inflammation and eventual follicular damage.
+
+### Telogen Effluvium
+Stressors cause premature shift of hair follicles from anagen (growth phase) into telogen (resting phase), resulting in diffuse shedding typically 2–3 months after the trigger.
+
+### Nutritional Deficiencies
+Iron deficiency, zinc deficiency, biotin deficiency, and protein-energy malnutrition impair hair growth and structure, resulting in brittle hair and shedding.
+
+### Endocrine Causes
+Hypothyroidism and hyperthyroidism can cause diffuse hair thinning due to alterations in hair cycle regulation.
+
+## Clinical Features
+- Diffuse thinning of hair  
+- Patchy hair loss  
+- Broken hairs and "black dots"  
+- Scaling of the scalp  
+- Pustules or crusting  
+- Smooth, circular bald patches (alopecia areata)  
+- Pain or tenderness (kerion)  
+- History of stressful events (telogen effluvium)  
+- Frontal hairline recession (traction alopecia)  
+- Associated dermatological signs (e.g., nail pitting)  
+- Signs of systemic illness (e.g., edema in kwashiorkor)  
+
+## Differential Diagnosis
+- Tinea capitis  
+- Alopecia areata  
+- Traction alopecia  
+- Telogen effluvium  
+- Trichotillomania  
+- Bacterial folliculitis  
+- Seborrhoeic dermatitis  
+- Psoriasis  
+- Discoid lupus erythematosus  
+- Lichen planopilaris  
+
+## Investigations
+### Basic Investigations
+- **KOH microscopy**  
+- **Fungal culture**  
+- **Full blood count**  
+- **Serum ferritin**  
+- **Thyroid function tests**  
+
+### Additional Investigations
+- Dermatoscopy  
+- Scalp biopsy (rare)  
+- Zinc levels (where available)
+
+## Management
+### Tinea Capitis
+- **Systemic antifungals:**  
+  - Griseofulvin (first-line where available)  
+  - Terbinafine (effective for Trichophyton species)  
+- **Adjunctive shampoos:** ketoconazole or selenium sulfide  
+- Treat household contacts and reinforce hygiene.
+
+### Alopecia Areata
+- Topical corticosteroids  
+- Topical minoxidil  
+- Intralesional steroids (specialist level)  
+- Systemic therapy only for severe disease  
+- Provide psychological support  
+
+### Traction Alopecia
+- Modify hairstyling practices  
+- Topical antibiotics for secondary infection  
+- Early intervention prevents permanent scarring  
+
+### Telogen Effluvium
+- Remove underlying triggers  
+- Nutritional support  
+- Gentle hair care  
+- Reassurance  
+
+### Nutritional Alopecia
+- Iron, zinc, biotin supplementation  
+- Management of protein-energy malnutrition  
+- Nutrition counselling  
+
+### Endocrine Causes
+- Treat underlying thyroid disease  
+- Monitor regrowth  
+
+## Complications
+- Permanent scarring alopecia  
+- Secondary bacterial infections  
+- Psychological distress and reduced self-esteem  
+- Social stigma  
+- Delay in underlying disease diagnosis  
+
+## Prevention
+- Promote safe hairstyling practices  
+- Improve hygiene to reduce tinea transmission  
+- Screen at-risk children for nutrient deficiencies  
+- Encourage early health-seeking behaviour  
+- Community education to dispel myths  
+
+## Key Points
+- Alopecia in children is common and often treatable.  
+- Tinea capitis is the leading cause in Ghana and West Africa.  
+- Early traction alopecia is reversible; late disease causes scarring.  
+- Alopecia areata may resolve spontaneously.  
+- Proper evaluation ensures targeted management.  
+- Psychosocial support is essential.  
+
+## Further Reading
+1. Hay RJ, et al. *Curr Opin Infect Dis.*  
+2. Olsen EA. Hair disorders in children. *Pediatr Clin North Am.*  
+3. Ogunbiyi A. Traction alopecia in African children. *Int J Dermatol.*  
+4. Messenger AG, Sinclair R. *Br J Dermatol.*  
+5. Ghana Health Service. Dermatological care guidelines.
+
