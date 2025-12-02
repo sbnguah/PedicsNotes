@@ -2,3 +2,131 @@
 title: "History & Examination"
 editor: visual
 ---
+## Introduction
+The clinical assessment of adolescents requires a unique blend of medical knowledge, interpersonal skill, and sensitivity to the developmental transitions that characterize this age group. Unlike younger children—whose history is often obtained entirely from caregivers—adolescents have evolving autonomy, privacy needs, and health concerns that must be respected.
+
+A comprehensive adolescent history and examination, therefore, goes beyond physical findings. It integrates psychosocial assessment, risk behaviour screening, and evaluation of growth and development. This chapter outlines a practical, culturally relevant approach suitable for Ghana and West Africa.
+
+## Principles of Adolescent-Friendly Care
+Before taking any history or performing an examination, clinicians should:
+
+- Ensure **privacy and confidentiality**, explaining its limits (e.g., risk of harm).
+- Adopt a **non-judgmental, respectful tone**.
+- Involve caregivers appropriately while ensuring adolescent autonomy.
+- Use clear, age-appropriate language.
+- Encourage open communication and normalize sensitive questions.
+
+These principles build trust and greatly improve the accuracy of information shared.
+
+## Structure of the Adolescent History
+A typical adolescent consultation has three phases:
+
+1. **Joint session** with caregiver and adolescent  
+2. **Private interview** with the adolescent alone  
+3. **Summary and plan** shared with both parties  
+
+The adolescent-only portion is crucial for discussing sensitive issues like sexuality, substance use, and mental health.
+
+### Medical History
+A focused but comprehensive medical history should cover:
+
+- Presenting complaints  
+- Past medical/surgical history  
+- Chronic diseases such as asthma, sickle cell disease, diabetes  
+- Medication use (including supplements and traditional remedies)  
+- Allergies  
+- Immunisation status  
+- Menstrual history for females (menarche, cycle pattern, dysmenorrhoea)
+
+### HEADSSS Psychosocial Assessment
+The **HEADSSS** framework remains the gold standard:
+
+- **H – Home:** Family structure, relationships, safety  
+- **E – Education/Employment:** School performance, future goals, absenteeism  
+- **A – Activities:** Hobbies, sports, peer interactions  
+- **D – Drugs:** Tobacco, alcohol, cannabis, solvents, other substances  
+- **S – Sexuality:** Sexual activity, orientation, contraception, STI knowledge  
+- **S – Safety:** Violence, bullying, digital safety, road safety  
+- **S – Self-harm/Mental Health:** Mood, stress, sleep, coping mechanisms  
+
+Although sensitive, these areas are essential for identifying hidden health risks.
+
+### Nutrition and Lifestyle
+Assess:
+
+- Eating patterns, skipping meals, fast-food consumption  
+- Physical activity levels  
+- Screen time  
+- Body image concerns  
+
+These factors are central to emerging NCD risks in West African adolescents.
+
+### Confidentiality Statement
+A standard, reassuring explanation is helpful:
+> “What you tell me stays private unless I am worried about your safety or someone else’s. If that happens, we will talk about what to do together.”
+
+## Conducting the Physical Examination
+An adolescent examination should be respectful, well explained, and focused on concerns arising from the history.
+
+### General Principles
+- Ensure a **chaperone** where appropriate.  
+- Provide **privacy** for undressing and use drapes where possible.  
+- Invite questions throughout the process.  
+- Examine systematically while prioritising identified problems.
+
+### Key Components of the Physical Examination
+1. **General appearance:** Nutrition, grooming, acne, signs of substance use  
+2. **Vital signs:** Blood pressure (adult cuff if appropriate), pulse, temperature  
+3. **Growth assessment:**  
+   - Height, weight, BMI plotted on WHO charts  
+   - Look for growth faltering, obesity, or delayed growth  
+3. **Pubertal staging (Tanner staging):**  
+   - Breast/genital development  
+   - Pubic hair staging  
+   - Explain each step before proceeding  
+4. **Skin examination:**  
+   - Acne, eczema, fungal infections, scars, cutting marks, tattoos  
+5. **HEENT, cardiovascular, respiratory, abdominal exams:**  
+   - As indicated; note murmurs, wheeze, organomegaly  
+6. **Musculoskeletal assessment:**  
+   - Scoliosis screening  
+   - Joint mobility issues  
+7. **Mental state exam:**  
+   - Affect, eye contact, speech patterns, psychomotor activity  
+
+### Sensitive Examinations
+- Should be done **only when medically indicated**.  
+- Provide clear explanations and obtain assent.  
+- Respect cultural norms and adolescent discomfort.
+
+## Common Red Flags in the Adolescent Assessment
+- Rapid weight loss or weight gain  
+- Severe mood changes, hopelessness, or concerning behaviour  
+- Evidence of abuse (physical, emotional, or sexual)  
+- Signs of eating disorders  
+- High-risk sexual activity  
+- Substance dependence  
+- School dropout or sudden academic decline  
+- Recurrent injuries or trauma marks  
+
+Identifying red flags early enables timely intervention and safeguards health.
+
+## Clinical Pearls for Busy Settings
+- Adolescents talk more when clinicians talk less—**active listening** is key.
+- Normalize sensitive topics; avoid moralising.
+- Always ask about sleep—it is a window into physical and mental health.
+- Document carefully; clarity protects both patient and clinician.
+- When unsure, schedule short follow-up visits to build rapport.
+
+## Key Takeaways
+- The adolescent history and examination demand sensitivity, structure, and a developmental lens.  
+- Confidentiality, rapport, and respectful communication are essential.  
+- HEADSSS provides a reliable framework for uncovering psychosocial issues.  
+- Physical exams should be holistic, with special attention to growth and puberty.  
+- Early identification of red flags can prevent long-term health and psychosocial consequences.
+
+## Further Reading
+- Klein DA et al. *Adolescent Health Care: A Practical Guide.*  
+- WHO. *Adolescent-Friendly Health Services: An Agenda for Change.*  
+- Ghana Health Service. *National Adolescent Health Service Policy.*  
+- Goldenring JM, Rosen DS. “Getting into Adolescent Heads: The HEADSSS Assessment.”  

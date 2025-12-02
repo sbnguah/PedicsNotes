@@ -2,3 +2,246 @@
 title: "Sexual and Reproductive Health"
 editor: visual
 ---
+
+# Sexual and Reproductive Health in Adolescents
+
+## Introduction
+Sexual and reproductive health (SRH) is a critical component of adolescent wellbeing, encompassing physical, emotional, and social dimensions. During adolescence, young people experience rapid biological maturation, increasing autonomy, and evolving social relationships—all of which influence their sexual development and reproductive health choices. In Ghana and West Africa, cultural norms, religious beliefs, gender expectations, and socioeconomic realities strongly shape adolescents’ experiences and access to SRH services.
+
+Despite global progress, adolescents in many low- and middle-income countries continue to face substantial SRH challenges, including early sexual debut, unprotected sexual activity, teenage pregnancy, sexually transmitted infections (STIs), harmful traditional practices, and inadequate access to youth-friendly services. A comprehensive understanding of SRH within the local sociocultural landscape is fundamental for clinicians caring for this vulnerable age group.
+
+## Understanding Adolescent Sexual Development
+Adolescent sexual development evolves across biological, cognitive, and psychosocial dimensions.
+
+### Biological Changes
+Puberty brings sexual maturity, the development of secondary sexual characteristics, and reproductive capability. Hormonal changes influence libido, emotional reactivity, and curiosity about sexuality.
+
+### Cognitive and Psychosocial Changes
+As adolescents develop abstract thinking, identity formation, and autonomy, they may explore romantic relationships, peer expectations, and social norms. Impulsivity and risk-taking behaviors—driven by a relatively immature prefrontal cortex—can predispose adolescents to unsafe sexual practices.
+
+### Cultural Context
+In Ghana and West Africa:
+
+- Discussions around sexuality are often limited due to cultural taboos.
+- Parents may avoid providing comprehensive sexuality education.
+- Schools and faith-based groups may promote abstinence-only messages.
+- Gender norms influence sexual decision-making, particularly among girls.
+
+These realities shape adolescents’ understanding of sexual health and influence their risk profiles.
+
+## Key Sexual and Reproductive Health Issues
+
+## 1. Early Sexual Debut
+Many Ghanaian adolescents initiate sexual activity before age 18. Early sexual debut is associated with:
+
+- Higher risk of STIs  
+- Teenage pregnancy  
+- Coercive or forced sexual encounters  
+- Limited negotiation skills for safer sex  
+
+Peer pressure, transactional relationships, and misinformation often contribute.
+
+## 2. Teenage Pregnancy
+Teen pregnancy remains a major public health concern in Ghana, with regional variation and higher prevalence in rural and northern regions.
+
+### Contributing Factors
+- Limited access to contraception  
+- Low SRH literacy  
+- Gender inequality and economic vulnerability  
+- Child marriage in some communities  
+
+### Consequences
+- School dropout  
+- Increased risk of obstetric complications (e.g., preeclampsia, obstructed labor)  
+- Neonatal complications  
+- Psychosocial stress and stigma  
+
+Healthcare workers play a critical role in providing nonjudgmental antenatal care, counselling, and postpartum contraceptive planning.
+
+## 3. Contraception and Family Planning
+Many adolescents lack adequate knowledge of contraception or face barriers to accessing services.
+
+### Common Barriers
+- Fear of stigma from healthcare providers  
+- Misinformation about side effects  
+- Cultural opposition or parental disapproval  
+- Limited adolescent-friendly services  
+
+### Contraceptive Options for Adolescents
+- **Barrier methods:** Condoms (male and female)  
+- **Hormonal methods:** Oral contraceptives, injectables, implants  
+- **Emergency contraception:** Levonorgestrel  
+- **Long-acting reversible contraception (LARC):** Implants, IUDs (appropriate with counselling)
+
+Confidentiality and respectful communication are essential when providing SRH counselling.
+
+## 4. Sexually Transmitted Infections (STIs)
+Adolescents face increasing risk of STIs due to:
+
+- Inconsistent condom use  
+- Multiple partners  
+- Limited knowledge  
+- Biological susceptibility among adolescent girls  
+
+### Common STIs in Ghanaian adolescents
+- Chlamydia  
+- Gonorrhoea  
+- Syphilis  
+- HIV  
+- HPV infections  
+
+Screening should be integrated into routine adolescent visits when indicated.
+
+## 5. HIV and Adolescents
+Ghana has a significant number of adolescents living with HIV, many from perinatal infection and others newly infected through sexual transmission.
+
+### Challenges
+- Stigma and disclosure issues  
+- Difficulty with adherence  
+- Transition to adult care  
+- Psychosocial stress  
+
+Clinicians must support treatment adherence, provide age-appropriate counselling, and collaborate with caregivers.
+
+## 6. Sexual Violence and Coercion
+Sexual violence remains a major challenge in West Africa, affecting both boys and girls.
+
+### Risk factors include:
+- Power differentials in relationships  
+- Poverty and transactional sex  
+- Unsafe school or home environments  
+- Cultural silence around sexual abuse  
+
+### Clinical Responsibilities
+- Provide confidential, trauma-informed care  
+- Manage physical injuries and STIs  
+- Offer emergency contraception and HIV post-exposure prophylaxis (PEP) as indicated  
+- Refer to social welfare and relevant law enforcement  
+- Ensure psychological support  
+
+## 7. Gender-Based Violence and Harmful Traditional Practices
+Practices such as child marriage, trokosi, and FGM (in neighbouring regions) have lasting reproductive and psychological consequences. Clinicians should recognise complications and provide appropriate care and counselling while advocating for prevention.
+
+## 8. Menstrual Health and Disorders
+Menstrual issues can dramatically affect education, social participation, and wellbeing.
+
+### Common concerns:
+- Dysmenorrhoea  
+- Menorrhagia (often due to anovulatory cycles)  
+- Irregular menses in early adolescence  
+- Myths and misconceptions about menstruation  
+
+Improving menstrual hygiene management and education can reduce school absenteeism and stigma.
+
+## 9. Fertility Concerns
+While often overlooked, adolescents may experience fertility-impacting conditions such as:
+
+- Pelvic inflammatory disease  
+- Untreated STIs  
+- Endocrine disorders  
+- Congenital anomalies  
+
+Early counselling and treatment can protect long-term reproductive health.
+
+## Components of Adolescent-Friendly SRH Care
+
+### 1. Accessibility
+Care must be easy to access, with convenient hours, low cost, and minimal barriers. Integrating SRH services into school outreach programmes and community clinics improves coverage.
+
+### 2. Confidentiality and Privacy
+Adolescents are more likely to seek care when assured of confidentiality. Providers should clearly discuss confidentiality boundaries during consultations.
+
+### 3. Nonjudgmental Attitude
+Healthcare workers must avoid moralising behaviour. Respectful, impartial communication reassures adolescents.
+
+### 4. Comprehensive Services
+Include:
+
+- Counselling  
+- Contraceptive provision  
+- STI screening and treatment  
+- Pregnancy testing  
+- Post-sexual assault care  
+- Menstrual health support  
+
+### 5. Culturally Sensitive Education
+SRH education should be aligned with cultural contexts while maintaining scientific accuracy.
+
+## Clinical Evaluation of SRH Problems
+
+### 1. History Taking
+Using the **HEEADSSS** framework helps uncover sensitive issues:
+
+- Home environment  
+- Education and employment  
+- Eating behaviours  
+- Activities  
+- Drugs  
+- Sexuality  
+- Suicide/depression  
+- Safety issues  
+
+### 2. Physical Examination
+Conduct respectfully, with privacy and informed consent. Pelvic examinations may only be indicated in select cases.
+
+### 3. Investigations
+Depending on the presenting issue:
+
+- Pregnancy test  
+- Urinalysis  
+- STI screening  
+- HIV test  
+- Ultrasound (pelvic pathology)  
+
+## Management Strategies
+
+### Counselling and Education
+Effective SRH counselling should:
+
+- Address myths and misconceptions  
+- Promote safe sexual practices  
+- Encourage delay of sexual debut when appropriate  
+- Emphasise respect, consent, and healthy relationships  
+
+### Contraceptive Services
+Offer method choice, detailed explanation, and follow-up. LARC methods are suitable for many adolescents with proper guidance.
+
+### STI Management
+Use syndromic management when necessary, but laboratory confirmation is preferred. Provide partner notification and treatment where possible.
+
+### Pregnancy-Related Care
+- Provide antenatal care without stigma  
+- Screen for anaemia, STIs, and hypertensive disorders  
+- Offer psychosocial support  
+- Discuss postpartum contraception  
+
+### Post-Sexual Assault Care
+Prioritise:
+
+- Emotional support  
+- Prevention of STIs and HIV  
+- Emergency contraception  
+- Documentation for legal processes  
+
+## Societal and Systemic Interventions
+- Strengthen adolescent health policies  
+- Improve school-based sexuality education  
+- Increase community awareness  
+- Expand access to youth-friendly services  
+- Collaborate with NGOs and faith-based groups  
+- Equip healthcare workers with specialised training  
+
+## Key Points
+- Adolescents face unique SRH challenges shaped by biological, psychosocial, and cultural factors.  
+- Early sexual debut, STIs, teenage pregnancy, and gender-based violence remain major concerns.  
+- Confidential, respectful, adolescent-friendly services are essential for effective care.  
+- Healthcare providers must balance scientific guidance with cultural sensitivity.  
+- Integrating SRH care into routine adolescent health services improves outcomes.
+
+## Further Reading
+1. Ghana Health Service. *Adolescent Health Strategy (2021–2025).*  
+2. WHO. *Global Standards for Quality Health-Care Services for Adolescents.*  
+3. UNICEF. *Adolescent Sexual and Reproductive Health in West Africa.*  
+4. Bearinger LH, Sieving RE, Ferguson J. Global perspectives on the sexual and reproductive health of adolescents. *Lancet.*  
+5. Guttmacher Institute. *Adolescent Sexual Health and Rights in Sub-Saharan Africa.*
+

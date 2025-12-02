@@ -2,3 +2,89 @@
 title: "Risk Behaviours and Chronic Conditions"
 editor: visual
 ---
+
+## Introduction
+Adolescence is a period marked by increasing autonomy, experimentation, and social influence. These developmental transitions predispose young people to various risk behaviours that may lead to acute harm or lay the foundation for chronic diseases in adulthood. For clinicians working in Ghana and West Africa, understanding the local patterns of adolescent risk behaviours—along with their medical, psychosocial, and cultural determinants—is essential for effective prevention and management.
+
+This chapter explores the major risk behaviours among adolescents, their links with chronic health conditions, and practical strategies for assessment, counselling, and intervention in clinical settings.
+
+## Epidemiology of Risk Behaviours
+- **Global and Regional Context:** Risk behaviours account for a significant proportion of morbidity and mortality in adolescents worldwide. In sub-Saharan Africa, infectious diseases remain important, but non-communicable disease (NCD) risk factors are increasingly prevalent.  
+- **National Patterns:** Data from Ghana indicate rising trends in physical inactivity, substance use experimentation, poor diet quality, and early sexual debut among adolescents. Many behaviours emerge in early adolescence, emphasising the importance of early preventive care.  
+
+## Substance Use and Misuse
+Substance use—including alcohol, tobacco, cannabis, and newer substances—often begins during adolescence.  
+Key points include:
+
+- **Determinants:** Peer influence, family conflict, community exposure, and stress.  
+- **Clinical Concerns:** Impaired judgment, accidents, school difficulties, and progression to dependence.  
+- **Assessment:** Non-judgmental, confidential interviewing using motivational interviewing techniques.  
+- **Management:** Brief interventions, family counselling, and referral for specialised care when necessary.
+
+## Sexual Risk Behaviours
+Sexual exploration is normal in adolescence, but unsafe sexual practices may lead to STIs, unintended pregnancy, and psychological distress.  
+Important considerations:
+
+- **Drivers:** Curiosity, peer pressure, misinformation, lack of access to contraception.  
+- **Clinical Role:** Provide age-appropriate counselling, STI screening, and access to reliable contraceptive methods. Confidentiality must be maintained while respecting legal frameworks.  
+- **Education:** Encourage open discussions, correct myths, and promote responsible decision-making.
+
+## Dietary Habits and Physical Inactivity
+Lifestyle patterns established in adolescence have long-term health implications.
+
+- **Diet:** High intake of sugary drinks, processed foods, and fast-food culture is increasingly common among Ghanaian adolescents.
+- **Physical Activity:** Declines with age, especially among girls, due to social norms, school workload, and safety concerns.
+- **Health Consequences:** Overweight/obesity, prediabetes, early-onset hypertension, and metabolic syndrome.
+- **Clinical Strategies:** Nutritional counselling, structured physical activity plans, and involving family and school systems.
+
+## Digital Media Use and Related Behaviours
+Increasing digital access has transformed adolescent life.
+
+- **Risks:** Sedentary behaviour, cyberbullying, sleep disturbance, academic decline, online sexual exploitation.
+- **Clinical Approach:** Screen for excessive use and discuss healthy digital habits; guide families toward balanced media use.
+
+## Violence, Injury, and Risk-Taking
+Adolescents are more prone to:
+
+- **Road traffic injuries** (especially as pedestrians or on motorbikes).  
+- **Interpersonal violence**, bullying, and gang-related activities.  
+- **High-risk behaviours** such as unsafe driving, dare-based activities, and impulsive decision making.
+
+Clinicians should assess for exposure, provide anticipatory guidance, and collaborate with community structures for prevention.
+
+## Chronic Health Conditions Emerging in Adolescence
+Several chronic diseases have their behavioural origins in adolescence:
+
+- **Obesity and Metabolic Syndrome** – often linked to diet, inactivity, and family history.
+- **Early-Onset Type 2 Diabetes** – increasingly reported in West African youth.
+- **Hypertension in Adolescents** – related to obesity, high salt intake, family predisposition.
+- **Chronic Respiratory Conditions** – exacerbated by smoking/vaping exposure and air pollution.
+- **Mental Health Disorders** – including depression and anxiety, often co-existing with risk behaviours.
+
+Early identification and intervention can significantly alter life-course outcomes.
+
+## Clinical Assessment of Adolescent Risk Behaviours
+A practical approach includes:
+
+- Building rapport and ensuring confidentiality.
+- Using structured tools (e.g., HEADSS assessment).
+- Identifying co-existing mental health or psychosocial issues.
+- Establishing realistic goals with the adolescent.
+
+## Prevention and Intervention Strategies
+- **Health Education:** School-based and community-led interventions.
+- **Counselling:** Individual and family-based counselling, motivational interviewing.
+- **Policy and Public Health Measures:** Regulation of alcohol/tobacco access, road safety laws, and school meal reforms.
+- **Multidisciplinary Collaboration:** Engage teachers, psychologists, social workers, and youth organisations.
+
+## Key Points
+- Adolescent risk behaviours are influenced by biological, social, and cultural factors.
+- Early identification and targeted counselling are essential to prevent long-term chronic diseases.
+- Clinicians should adopt a non-judgmental, adolescent-friendly approach.
+- Promoting healthy behaviours during adolescence offers powerful long-term public health benefits.
+
+## Further Reading
+- WHO. *Adolescent Health: The Missing Millennium Development Goal.*  
+- Ghana Health Service. *Adolescent Health Service Policy and Strategy (2020–2030).*  
+- Sawyer SM et al. “Adolescence: A Foundation for Future Health.” *Lancet*.  
+- Patton GC et al. “Global Patterns of Health Risk Behaviours in Adolescents.” *Lancet Child & Adolescent Health*.  

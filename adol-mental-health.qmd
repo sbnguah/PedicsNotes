@@ -2,3 +2,237 @@
 title: "Mental Health and Behavioral Issues"
 editor: visual
 ---
+
+## Introduction
+Adolescence marks a period of profound developmental transitions—biological, cognitive, and psychosocial. While it is often viewed as a healthy phase of life, it is also the time when many mental health disorders first emerge. Globally, mental health conditions account for a significant portion of the disease burden among adolescents, and the situation in Ghana and West Africa is no exception. Yet, these conditions frequently go unrecognised due to stigma, limited mental health literacy, poor access to specialised services, and the cultural tendency to interpret emotional distress as misbehaviour or spiritual affliction.
+
+This chapter explores the key mental health and behavioural issues in adolescents, integrating biological, psychosocial, and environmental influences. It provides practical guidance on assessment, early identification, and clinical management suitable for resident doctors and medical students working in Ghana and similar settings.
+
+## Overview of Adolescent Mental Health
+Mental health in adolescence is shaped by the interaction of genetic predisposition, developmental vulnerabilities, family dynamics, peer influences, community safety, and sociocultural norms. Experiences such as academic pressure, social media exposure, and transitioning roles within the family may contribute to psychological stress.
+
+In Ghana, additional influences include:
+
+- Boarding school pressures  
+- Socioeconomic constraints  
+- Religious expectations  
+- Early responsibility within households  
+- Exposure to domestic or community violence  
+- Limited availability of adolescent-friendly mental health services  
+
+Mental health disorders in adolescents can significantly undermine academic performance, relationships, physical health, and long-term wellbeing. Early detection is essential.
+
+## Common Mental Health and Behavioral Conditions
+
+### Depression
+Depression often presents differently in adolescents than in adults. Irritability, behavioural problems, academic decline, and somatic complaints may be prominent.
+  
+**Features may include:**
+- Persistent sadness or irritability  
+- Loss of interest in usual activities  
+- Poor sleep or oversleeping  
+- Changes in appetite or weight  
+- Fatigue  
+- Poor concentration  
+- Feelings of hopelessness or worthlessness
+
+In Ghanaian adolescents, depression may manifest as frequent unexplained headaches, school refusal, social withdrawal, or behavioural outbursts.
+
+### Anxiety Disorders
+Anxiety may present as generalised anxiety, social anxiety, panic disorder, or school-related anxiety.
+
+**Presentations include:**
+
+- Excessive worry  
+- Avoidance of social interactions  
+- Palpitations, chest discomfort, tingling, or shortness of breath  
+- Perfectionism and academic fear  
+
+Excessive religious fear, fear of witchcraft or spiritual harm, and performance anxiety during major national examinations (e.g., BECE, WASSCE) are culturally relevant manifestations.
+
+### Behavioral Disorders
+Behavioral issues often cause significant family and school conflict.
+
+**Oppositional Defiant Disorder (ODD):**
+
+- Frequent arguing  
+- Defiance of authority  
+- Irritable mood  
+
+**Conduct Disorder (CD):**
+
+- Truancy  
+- Fighting or bullying  
+- Stealing  
+- Property destruction  
+- Risk of substance misuse  
+
+Urbanisation, overcrowded schools, and peer gang influence contribute to rising behavioural problems in some regions.
+
+### Attention-Deficit/Hyperactivity Disorder (ADHD)
+Often underdiagnosed in West Africa, ADHD presents as:
+
+- Inattention  
+- Hyperactivity  
+- Impulsivity  
+- Academic challenges  
+
+Teachers may describe such adolescents as “restless” or “not serious,” leading to punitive responses rather than support.
+
+### Substance Use Problems
+Substance use is increasing among adolescents in Ghana, particularly:
+
+- Alcohol  
+- Cannabis  
+- Tobacco and shisha  
+- Tramadol and other opioids  
+- Misuse of cough syrups or energy drinks  
+
+Risky use is often linked to peer influence, social media trends, stress, and curiosity.
+
+### Eating Disorders
+While less commonly diagnosed in West Africa, eating disorders are emerging with globalisation and social media influence.
+
+They include:
+
+- Anorexia nervosa  
+- Bulimia nervosa  
+- Binge-eating disorder  
+
+Body image dissatisfaction is increasingly seen among urban adolescents.
+
+### 7. Self-Harm and Suicide Risk
+Self-harm behaviours—such as cutting or intentional poisoning—may emerge from emotional distress, relationship problems, or feelings of hopelessness.
+
+Clinicians should sensitively ask about:
+
+- Thoughts of self-harm  
+- Feelings of hopelessness  
+- Exposure to peers who self-harm  
+- Access to means  
+
+Any self-harm behaviour requires urgent, supportive, nonjudgmental intervention.
+
+## Contributing Factors to Adolescent Mental Health Challenges
+
+### Biological Factors
+- Hormonal changes  
+- Genetic predisposition  
+- Chronic illnesses such as epilepsy or diabetes  
+
+### Psychosocial Factors
+- Family conflict or dysfunction  
+- Peer pressure  
+- Bullying (especially cyberbullying)  
+- Romantic relationship stress  
+
+### Environmental Factors
+- Poverty  
+- Unsafe neighbourhoods  
+- Academic pressure  
+- Social media influence  
+- Stigma around mental illness  
+
+### Cultural and Religious Influences
+- Misinterpretation of mental illness as spiritual weakness  
+- Fear of stigma delaying help-seeking  
+- Strong family and community structures may serve as protective factors  
+
+## Assessment of Mental Health in Adolescents
+
+### Approach to Assessment
+The clinician must establish rapport, maintain confidentiality, and assure the adolescent that their concerns will be taken seriously.
+
+Use structured approaches such as:
+
+- **HEEADSSS interview**  
+- **HEADS-ED** for acute assessments  
+
+### Screening Tools
+Use simple, validated tools when available:
+
+- PHQ-9 for depression  
+- GAD-7 for anxiety  
+- CRAFFT for substance use  
+
+### Collateral Information
+With adolescent consent, input from parents and teachers may provide essential context to behavioural or academic concerns.
+
+### Risk Assessment
+Always assess for:
+
+- Suicidal thoughts  
+- Self-harm behaviours  
+- Substance misuse  
+- Violence exposure  
+
+Urgent psychiatric evaluation is needed when safety is compromised.
+
+## Management Principles
+
+### Psychoeducation
+Explain the condition in simple, culturally respectful terms. Correct common myths—for example, that depression is a moral weakness or that ADHD is simply stubbornness.
+
+### Psychosocial Interventions
+These form the foundation of adolescent mental healthcare.
+
+- Cognitive behavioural therapy (CBT)  
+- Supportive counselling  
+- Family therapy  
+- Behavioural interventions for ADHD  
+- School-based accommodations  
+
+### Pharmacotherapy
+Medication should be used when indicated and with caution.
+
+- SSRIs for moderate to severe depression or anxiety  
+- Stimulant or non-stimulant medications for ADHD  
+- Antipsychotics for severe behavioural disorders  
+
+Regular monitoring is essential.
+
+### Addressing Social Determinants
+- Strengthen family relationships  
+- school reintegration support  
+- Address bullying  
+- Link adolescents to community support systems  
+
+### Referral
+Referral to mental health specialists (psychiatrists, psychologists) should be arranged when:
+
+- Symptoms are severe or persistent  
+- Suicide risk is high  
+- There is suspected psychosis  
+- Complex family or behavioural dynamics exist  
+
+In Ghana, referral pathways may include teaching hospitals, district hospitals with mental health units, or community mental health officers.
+
+## Preventive Strategies
+- Promote resilience and life skills in adolescents  
+- Strengthen school health programmes  
+- Provide adolescent-friendly services  
+- Improve public awareness to reduce stigma  
+- Promote responsible media portrayals of mental health  
+
+## Ghana and West Africa–Specific Considerations
+- Limited mental health infrastructure  
+- High stigma associated with mental illness  
+- Increased exposure to academic and economic pressures  
+- Growing concerns about substance misuse, particularly tramadol  
+- Boarding school systems may mask or worsen mental health problems  
+- Strong family systems can either protect or exacerbate stress  
+
+## Key Points
+- Mental health issues are common but often overlooked in adolescents.  
+- Presentations may be atypical, especially in cultural contexts where emotional expression is constrained.  
+- Early detection requires sensitive, confidential, developmentally appropriate care.  
+- Psychosocial interventions remain the cornerstone of management.  
+- Safety assessment is essential, especially for self-harm or suicide risk.
+
+## Further Reading
+1. World Health Organization. *Adolescent Mental Health: Key Facts*.  
+2. Ghana Health Service. *Adolescent Health Strategy (2021–2025)*.  
+3. Patel V et al. Adolescent mental health: a global priority. *Lancet Psychiatry*.  
+4. Kieling C et al. Child and adolescent mental health worldwide. *Lancet*.  
+5. UNICEF. *The State of the World’s Children: Mental Health*.
+
