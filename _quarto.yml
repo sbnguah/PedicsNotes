@@ -163,6 +163,19 @@ book:
         - adol-mental-health.qmd
         - adol-sexual-reproductive.qmd
         - adol-risky-behaviour.qmd
+    - part: "<span style='font-weight:bold; color: black;'>Social Paediatrics</span>"
+      chapters: 
+        - soc-introduction.qmd
+        - soc-disability.qmd
+        - soc-family.qmd    
+        - soc-harmful-culture.qmd
+        - soc-health-policy.qmd
+        - soc-nutrition.qmd
+        - soc-poverty.qmd
+        - soc-protection.qmd
+        - soc-school-health.qmd
+        - soc-social-workers.qmd
+        - soc-violence.qmd  
     - part: "<span style='font-weight:bold; color: black;'>Basic Critical Care</span>"
       chapters: 
         - cc-critical-care.qmd
